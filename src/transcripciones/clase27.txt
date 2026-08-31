@@ -1,0 +1,312 @@
+# 27 080720.mp4
+# duration: 2057.5608125
+
+[00044.46 --> 00049.46] buenas, como les van, espero que estén todos bien.
+[00051.46 --> 00054.46] Bueno, tengo buenas noticias.
+[00055.46 --> 00058.46] Lo hará hacer andar el tema del Injardable,
+[00060.46 --> 00062.46] del mensaje.
+[00062.46 --> 00065.46] La ventablemente hay que trabajar lo consiste en día,
+[00065.46 --> 00070.46] que salió con luego, así que siquiera le salió en la pequeña introducción,
+[00070.46 --> 00072.46] que se sobre el tema.
+[00072.46 --> 00076.46] Y acabo de subir los dos archivos que me habían quedado,
+[00077.46 --> 00081.46] digamos, con colgados que dije que le iba a subir,
+[00081.46 --> 00089.46] los estoy poniendo dentro de el campus,
+[00089.46 --> 00097.70] más campus, hay salzubilo dos archivos anteriores,
+[00097.70 --> 00099.70] y ahora voy a subir.
+[00100.70 --> 00102.70] Hay como unificado,
+[00102.70 --> 00106.30] la parte de los scripts.
+[00112.57 --> 00117.39] Vamos a subirle solo una parte,
+[00117.39 --> 00120.39] que ahora les tenés también doy pantalla.
+[00121.39 --> 00123.39] Voy a estar copiar,
+[00123.39 --> 00151.31] luego luego, así que salió su ojo con los otros.
+[00152.31 --> 00178.66] Bueno,
+[00180.66 --> 00186.81] ahí,
+[00186.81 --> 00190.81] ya debería estar jugabando el contenido.
+[00195.39 --> 00197.39] Ahí tienen toda la información,
+[00197.39 --> 00200.39] después las podes bajar tranquilamente.
+[00200.39 --> 00202.39] Vamos a ver,
+[00202.39 --> 00207.39] ¿cómo es el tema de El Shaddown,
+[00207.39 --> 00211.39] que era algo que nos quedó inconfluso?
+[00212.39 --> 00215.39] A diferencia de las versiones anteriores,
+[00215.39 --> 00218.39] de 14,04 y del 1,14,
+[00218.39 --> 00220.39] y a anterior,
+[00220.39 --> 00223.39] el 1,16,04,
+[00223.39 --> 00225.39] hace uso del Sistendin,
+[00225.39 --> 00227.39] igual que el 18,04,
+[00227.39 --> 00228.39] el 20,04,
+[00228.39 --> 00232.39] las distribuciones de años pares,
+[00232.39 --> 00234.39] con 0,4,
+[00234.39 --> 00236.39] sale una versión que se llama LTS,
+[00236.39 --> 00238.39] como les también daí en la pantalla.
+[00238.39 --> 00242.39] La versión de las versiones,
+[00242.39 --> 00245.39] las versiones LTS son la un lotado de su port.
+[00245.39 --> 00250.39] Esas se soportan por 4 años al menos.
+[00250.39 --> 00252.39] Eso significa que,
+[00252.39 --> 00255.39] si saliendo los paquetes hasta 4 años después,
+[00255.39 --> 00256.39] o sea, que hasta el 20,
+[00256.39 --> 00257.39] 20, 20,
+[00257.39 --> 00258.39] 0,4,
+[00258.39 --> 00260.39] se podía usar bien el 16,
+[00260.39 --> 00261.39] el 4.
+[00261.39 --> 00265.39] Hay muchos que estaban trabajando con el 20,
+[00265.39 --> 00266.39] y el 20,
+[00266.39 --> 00268.39] 0,4 está muy reciente.
+[00268.39 --> 00271.39] Yo creo que hay que darle un tiempo de maduración
+[00271.39 --> 00273.39] al sistema operativos,
+[00273.39 --> 00276.39] así que pueden estar un año más trabajando
+[00276.39 --> 00277.39] con el 16,
+[00277.39 --> 00279.39] y el 4, sin problemas.
+[00279.39 --> 00281.39] Después hay que ver hacia donde se migra,
+[00281.39 --> 00282.39] si el 18,
+[00282.39 --> 00283.39] el 40 o el 20,
+[00283.39 --> 00284.39] es el 4.
+[00284.39 --> 00286.39] Eso es todo hay que estar estudiando
+[00286.39 --> 00288.39] a ver cómo evoluciona.
+[00290.39 --> 00292.39] Si, en los puse,
+[00292.39 --> 00293.39] hoy,
+[00295.39 --> 00297.39] hay tres archivos.
+[00297.39 --> 00300.39] Una medida que no lo pueden ver,
+[00300.39 --> 00302.39] Guillermo,
+[00302.39 --> 00304.39] tiene que aparecer tres archivos.
+[00304.39 --> 00305.39] Hay,
+[00305.39 --> 00306.39] sino,
+[00306.39 --> 00307.39] cambio,
+[00307.39 --> 00314.61] el recurso.
+[00314.61 --> 00315.61] Entonces,
+[00315.61 --> 00318.61] espero que ya los cambios.
+[00318.61 --> 00320.61] Gracias por el tip,
+[00320.61 --> 00321.61] pensé que le había parecido
+[00321.61 --> 00323.61] más este anterior también.
+[00323.61 --> 00326.61] Era un archivo.
+[00326.61 --> 00327.61] Entonces,
+[00327.61 --> 00328.61] le deberíamos cambiarlo.
+[00329.61 --> 00332.61] Si tengo alguna forma de cambiar sobre el mismo recurso,
+[00332.61 --> 00336.01] también,
+[00336.01 --> 00341.12] la atrastienda de que permite a heridar.
+[00344.78 --> 00346.78] Que es la apariencia,
+[00346.78 --> 00347.78] a ver.
+[00351.47 --> 00352.47] Entonces,
+[00352.47 --> 00365.16] si tiene algo archivo,
+[00365.16 --> 00376.66] se le exige a ver esto.
+[00376.66 --> 00382.91] Gracias,
+[00382.91 --> 00383.91] gracias y gracias,
+[00383.91 --> 00387.57] así.
+[00387.57 --> 00388.57] No solo uno.
+[00388.57 --> 00389.57] Ok,
+[00389.57 --> 00390.57] bueno,
+[00390.57 --> 00392.57] vamos a ver si puedo
+[00392.57 --> 00394.57] hacer un directorio.
+[00395.57 --> 00396.89] Y nos llevamos esto para
+[00396.89 --> 00397.57] allá.
+[00397.57 --> 00407.31] Vamos a escargarlo y volvemos sueta.
+[00407.31 --> 00417.30] Entonces,
+[00417.30 --> 00423.66] vamos acá y
+[00423.66 --> 00430.88] vamos a añadir en vez de ser un archivo,
+[00430.88 --> 00432.88] vamos a poder un directorio.
+[00432.88 --> 00435.61] A ver.
+[00435.61 --> 00442.74] Vamos a ponerle
+[00442.74 --> 00446.50] archivos
+[00446.50 --> 00447.50] de MP,
+[00447.50 --> 00449.50] gracias.
+[00449.50 --> 00451.50] Gracias.
+[00451.50 --> 00452.50] Gracias.
+[00452.50 --> 00453.50] Gracias.
+[00453.50 --> 00454.50] Gracias.
+[00454.50 --> 00464.78] No lo de nuevo.
+[00466.92 --> 00468.28] Café processesского,
+[00468.28 --> 00469.28] secuén Mendemio,
+[00469.28 --> 00470.28] benvenido.
+[00470.28 --> 00482.35] Estos tres.
+[00482.35 --> 00483.35] Y vamos a poder
+[00483.35 --> 00484.35] los otros dos,
+[00484.35 --> 00485.35] que están en los.
+[00485.35 --> 00486.35] Creo que.
+[00486.35 --> 00490.74] Me voy a los tracer.
+[00490.74 --> 00517.96] A abajo,
+[00517.96 --> 00526.14] yo mostraron aspects.
+[00526.14 --> 00528.14] Voy a hacer something
+[00528.14 --> 00538.01] 마quez meto meto...
+[00538.01 --> 00539.01] Es 나�ente.
+[00539.01 --> 00546.42] Cada vez que uno aquí
+[00546.42 --> 00549.42] spouses quedó en jungles
+[00549.42 --> 00550.42] möglichst altos.
+[00550.42 --> 00551.42] Quedan los extras,
+[00551.42 --> 00552.42] en el momento.
+[00552.42 --> 00554.42] Enfonds nuestra primera cocesa,
+[00554.42 --> 00565.99] listo, ordemos el relezado, así no tengo que tocar esa clase, entonces ahora el 24 de 6 va a
+[00565.99 --> 00581.88] carrer la aplicación perfecto y en este, a todo el otro viene de de de de de de
+[00581.88 --> 00594.86] la carpeta listo listo, otra de la guarda es que me releza la cosa, este lo vamos a
+[00594.86 --> 00611.46] ver, ahí tendría de un todo los archivos, les aplico en probabilidad de punto
+[00611.46 --> 00618.54] será el mismo que le atendíamos de la clase de el de junio, del 24 de 6, el relezado
+[00618.54 --> 00626.94] relezado es como hacer un procedimiento con en funciones, right y right, right, sí, que
+[00626.94 --> 00638.38] usa esas dos funciones, right para el un archivo en barraproc, que con eso les hay
+[00638.38 --> 00644.94] cansa ría para modificar el probabilidad muy un bajo de para que funcionen, el
+[00644.94 --> 00655.50] sencuencias Files es un texto, es un archivo de texto que adentro tiene la información general
+[00655.50 --> 00664.50] del kernel de Linux trabajando sobre archivos secuenciales, los archivos secuenciales son los
+[00664.50 --> 00672.30] archivos que ustedes crean en el barraproc, entonces eso es teoría, así que si quieren ver un
+[00672.30 --> 00678.94] poquito más de profundidad como trabaja el right, pro, que el red pro, lo puedes estar
+[00678.94 --> 00684.30] viendo ahí, e inclusive hay otra forma más para poder leer los archivos que te van a
+[00684.30 --> 00691.70] tener también estás clicando ahí, y por último el tpc socialdown, lo que va, lo que hace
+[00691.70 --> 00705.94] es el tpc de cómo se hace el sentado, entonces acá están con comandos, se ha directamente
+[00705.94 --> 00712.58] esto, este nombre que está acá es el mismo nombre que se va a ejecutar cuando se hace el
+[00712.58 --> 00721.90] stop, bien, entonces qué es lo que tenemos escrito o cómo son los modulos, las modulos
+[00721.90 --> 00728.66] básicamente ustedes tienen que crear un archivo en algún lugar donde lo puedan crear,
+[00728.66 --> 00736.70] que es el archivo que se va a ejecutar, en nuestro caso el archivo que se va a ejecutar es este
+[00736.70 --> 00744.50] que está acá, es están las raíz, se llama punto, si quieren lo va a poder ejecutar para
+[00744.50 --> 00753.90] ejecutar, y adentro tiene todo este escrito, que el único que hace es poner un archivo
+[00753.90 --> 00761.18] en el barra root que dice esto está, para que veamos que es ejecutar, es ejecutar,
+[00761.18 --> 00767.94] sí, tiene que crear un permiso de ejecutar, o sea que lo que tendré en que hacerle, que
+[00767.94 --> 00775.94] no mismo lugar donde se encuentra, sí, en el nuevo carele o sea que hemos 1777 o
+[00775.94 --> 00785.10] vamos a decir que es 5-5, para que es rey de ese que, entonces tiene todo el permiso
+[00785.10 --> 00793.02] para el root, permiso de ejecutar la lectura para el grupo de root y para todas las demás,
+[00793.10 --> 00800.02] y le pone de a barra root, para así lo echamos, así que le gusta,
+[00800.02 --> 00807.07] al permitirle eso, te lo pueden llamar cuando quieran, sí, no lo haga porque les va a
+[00807.07 --> 00813.07] crear el archivo y nos va a pasar como la última vez que estuvimos probando, la clase pasada,
+[00814.07 --> 00820.07] ese es el archivo que se va ejecutar, ahora le tenemos que decir que es ejecuter, entonces ahí
+[00821.07 --> 00829.07] tiene que generar en el TC, y están bien, sí, están un archivo, sí que tienen que ser
+[00829.07 --> 00836.07] punto service, es archivo punto service lo que a dentro tiene que tener es la unidad
+[00836.07 --> 00849.07] acá, ya lo que os ha quedado un lado, como poderle acá, ejecutarse al final, el servicio es
+[00849.07 --> 00856.07] de tipo 1 al chado, se ejecuta una sola vez, no es que es recurrente, eso es lo que
+[00856.07 --> 00862.07] se tiene que estar describiendo de cómo va a trabajar el servicio o lo que yo quiero ejecutar,
+[00862.07 --> 00870.07] bueno, se ejecuta una sola vez y si no tengo la posibilidad de que sea respawn que es ejecute siempre,
+[00870.07 --> 00877.07] si alguien me lo va a dar, se vuelve a ejecutar,
+[00879.07 --> 00886.07] remina hasta el escit, hay que ponerle que sea prove porque si yo no le pongo false,
+[00887.07 --> 00893.07] se ejecuta el start y se muere, no sé, es que es una que queda funcionando,
+[00893.07 --> 00901.07] termino, entonces yo lo que quiero es que ejecute el código al inicio y que quiere ejecutarlo
+[00902.07 --> 00908.07] hasta que alguien ejecute el stop, entonces para que eso suceda y que de siempre
+[00909.07 --> 00916.67] la misma hora funcionando, todo el servicio se le pone un tru, el exact start
+[00916.67 --> 00923.67] a cada apenas va a comenzar el servicio, se le ejecuta un comando, ese comando
+[00924.67 --> 00929.67] es tru, tru, hace nada, sí, de vuelve siempre uno uno, es lo que tiene que ahora,
+[00929.67 --> 00935.67] el cero se cancela la ejecución, entonces lo único que hace es ejecutar uno y nada,
+[00936.67 --> 00943.67] el servicio queda trabajando porque ejecuta un y termina, de vuelve uno uno, el tru y
+[00943.67 --> 00947.67] lo que es la primera, pero como dice Remina, esto es decir, se va a quedar trabajando
+[00948.67 --> 00957.67] el servicio como que está activo, hasta que alguien en algún momento hace ejecutar
+[00958.67 --> 00966.67] cuando le llegue a hacer el servicio para ti, ejecuta el ejecuto y eso lo que
+[00966.67 --> 00974.67] hace es ejecutar este comando que habíamos dicho, así que le vamos a copiar este comando
+[00975.67 --> 00984.70] entonces va ejecutar el comando que nosotros vemos escrito, o que es esto que escribe
+[00985.70 --> 00991.70] la fecha, sí, en un archivito que está en route que se llama stop time, entonces ahí va a
+[00991.70 --> 00998.70] parar, si ustedes ponen el wanty buy, el wanty buy es que para
+[01001.70 --> 01007.70] este modo uno es pesadrificio, sí necesita que esté cargado el multi el multi use
+[01008.70 --> 01014.70] el parse, que es todo esto, bueno, ahora les voy a dar un maleve introducción a lo que es
+[01014.70 --> 01020.70] si está en día, si está en día básicamente se trata de algo muy similar a lo que
+[01021.70 --> 01026.70] debemos de la línea que significa esto, se va a ejecutar comandos, sí, la diferencia
+[01027.70 --> 01033.70] de tiene es que acá se ejecutan comandos, sí, cuando sucede en eventos, sí,
+[01034.70 --> 01041.70] los eventos se pueden estar marcando, sí, como tarjetes, entonces ustedes cuando,
+[01041.70 --> 01046.70] por ejemplo, antes teníamos en nivel 1, nivel 2, nivel 3, el nivel 3 que era el
+[01047.70 --> 01053.70] rc3.b, ahí se ejecutaba lo que era necesario para estar en multi usuario, bueno,
+[01054.70 --> 01059.70] acá si uno quiere que algo se ejecuta cuando está mucho usuario, se pone que se me
+[01060.70 --> 01064.70] se sita, wanty buy, sí, multidosortarse, entonces que significa cuando
+[01064.70 --> 01071.70] usted se entra en el trigger, digamos, sería en el evento, que estoy en un
+[01072.70 --> 01078.70] multi usuario, se va a ejecutar este servicio, entonces se ejecuta este servicio y
+[01079.70 --> 01085.70] a ejecutarse, queda funcionando, cuando se sale del multi usuario, sí, se ejecuta
+[01086.70 --> 01093.70] el ese que stop, entonces ahí se va a ejecutar un nuestro comando, sí, y a
+[01094.70 --> 01100.70] nuestro comando va a pasar lo que comentamos antes, que escribe la fecha en el
+[01101.70 --> 01107.70] archíbito de ser en el barra ruta. Ahora bien, como yo he escribido
+[01108.70 --> 01115.70] archíos, pero nunca los enlace, sí, están los archíos, que es el service, sí, y el
+[01116.70 --> 01123.70] service llama a ejecutar, sí, básicamente eso lo que hicimos hasta ahí, lo que
+[01124.70 --> 01133.70] que hacer después es habilitarlo, sí, es como que se habilita el servicio, sí, y eso
+[01134.70 --> 01139.70] se hace con este comando, sí, se habilita el servicio al final, sí, al final
+[01140.70 --> 01146.70] punto service, esto lo que le dice es ahora al final, lo vas a tener en cuenta,
+[01146.70 --> 01156.70] entonces cuando se prende la máquina, se llega al multi-user-tarset, se ejecuta al final
+[01157.70 --> 01164.70] service, que como start tiene barravin barra tru, entonces lo que hace es ejecutar un
+[01165.70 --> 01170.70] otro, que es de vuelo uno y no hace nada más, y se queda ahí, ahora bien, cuando
+[01170.70 --> 01179.70] se sale del modo multi-user, sí, se saca y se ejecuta el ejecuto, que es otra
+[01180.70 --> 01186.70] instrucción, entonces en el ejecuto se ejecuta cuando uno sale del nivel 3,
+[01187.70 --> 01191.70] muy usuario, el nivel 3 anterior, entonces eso pasa cuando uno se unya
+[01191.70 --> 01201.70] don, sale el nivel 3, cuando se sale el nivel 3 se apara, entonces hasta acá es lo
+[01202.70 --> 01209.70] necesario para que funcionen, pero esto recibe a tomar, va a tomar efecto cuando yo
+[01210.70 --> 01214.70] reinici la máquina, si yo no quieres esperar, reiniciar la máquina, puedo ejecutar
+[01214.70 --> 01221.70] el último programa, que lo que hace es lanzar el servicio, entonces como se lanzan
+[01222.70 --> 01227.70] servicio, es como si ustedes recién prendieron, y lo que va a hacer es ejecutar el
+[01228.70 --> 01232.70] ejecutar, es que es tanto, que va a hacer el barravin barra tru, entonces quedas ejecutando el servicio
+[01233.70 --> 01240.70] barravin barra tru, que cuando tienes después, manda en apagar la máquina, va a ejecutar el ejecutar
+[01240.70 --> 01247.70] ese stop cuando sale de el multi user, con eso van a poder ejecutar este comando cuando
+[01248.70 --> 01267.29] ustedes apaguen la máquina, bueno, sí, sí, y se lo hagas así en que te traen
+[01268.29 --> 01283.54] todo el tema, bueno, y si lo puedo en bajar, bueno entonces ahí también van a tener
+[01284.54 --> 01292.01] este de el module, bien, entonces, en el mismo tiempo del modo,
+[01293.01 --> 01303.78] se ha dado un nuevo un lugar que me da un nuevo nuevo de aplicar,
+[01304.78 --> 01306.78] así que si te podes saber ahora, cuando,
+[01307.78 --> 01312.78] viste que boten ese crear un archivo que ejecute cuando se prenda la máquina
+[01314.78 --> 01320.78] y a otro que ejecute cuando se termina, entonces antes voy a ponías
+[01320.78 --> 01336.10] como ese en el IND o en el RC3 y un C cuando salías de la receta. Eso era lo que pasaba
+[01336.10 --> 01348.02] con el IND, el IND. Ahora con como se cambió y no son cosas separadas, sino lo que se piensa
+[01348.02 --> 01356.34] directamente en tengo un servicio que cuando entra en algún tarset ejecutan servicios y que cuando
+[01356.34 --> 01361.36] salga ese tarset se ejecuta el stop, entonces tengo dos opciones, el estar por un lado y el
+[01361.36 --> 01368.78] stop por el otro. Entonces lo que yo hago es hago un único servicio que cuando se entra en multisoario
+[01368.78 --> 01376.14] haga el start y que cuando salga un multisoario haga el stop, o sea que el ejercicio en el
+[01376.14 --> 01382.90] TPD, cuando se prenda la máquina ejecuta el SID o el Amundo y cuando se va a echa un mundo,
+[01382.90 --> 01390.34] podemos hacer todo con un solo servicio, se envió en un solo y unit que definimos y dos archivos.
+[01390.34 --> 01401.10] Eso sería acá el lugar de poner vintro, pondría el que se prende, que decía o el Amundo
+[01401.10 --> 01410.86] y el EXE de stop el chabundo. Entonces con eso, resolvo los dos ejercicios con un solo
+[01410.86 --> 01420.02] servicio. Por supuesto tengo que escribir el otro que se ejecuta, que sería el que se ejecuta cuando
+[01420.02 --> 01426.94] entra, cuando prenda la máquina. Entonces si lo trabajamos como servicio que es la nueva modalidad,
+[01426.94 --> 01433.94] deber todo en un punto, o a el Lino que se han sido, que es cuando he sido en D.
+[01433.94 --> 01441.40] Tennis, el start por un lado y el stop del servicio por otro. Entonces, resolvo ellos no
+[01441.40 --> 01449.18] se ejercicio con un solo y unit, vamos a usar los servicios. Si el anteleno lo puede
+[01449.18 --> 01454.70] ser así, si no dejélo como estaba antes, dejélo que siga y ya está, no modifican las
+[01454.70 --> 01464.41] cosas. El tema es que ya se ha entendido y que se han practicado el T.P. Bueno, no sé
+[01464.41 --> 01476.95] si pudieron terminar con el modulo, con el modulo de probabilidad, si lo harán terminar
+[01476.95 --> 01492.27] el modulo de probabilidad, se estábamos, o sea, se lo pueden estar entregando. Bueno,
+[01492.27 --> 01499.51] es un otro consulta, yo creo que con esto, ya terminamos el tema del sandado y les queda
+[01499.51 --> 01508.43] auteles, modificar el modulo para que utilice las nuevas funciones de creación de archivos
+[01508.43 --> 01516.47] en el barra proco. Sí, con eso se atermina en el trabajo práctico, lo puedes entregar,
+[01516.47 --> 01530.18] y recuerden que tienen tiempo para entregarlo antes de rendir el final. Bueno, hicimos,
+[01530.18 --> 01536.74] hay que ir cosa a Manuel Meill, si se trabaja en algún otro lado y vemos si os algo con
+[01536.74 --> 01545.62] el... así en mi vida con farencia y comparto mi máquina y lo terminamos lo sobre. Así que
+[01545.62 --> 01551.58] bueno, recuerden mandarme Meill, a los dos Meill que ustedes conoce porque hay veces que
+[01551.58 --> 01556.86] el de un sand lo leo todas las días, entonces se me pasa, si es algo muy importante que
+[01556.86 --> 01563.58] es porque en tema de Meill a los dos, al de conéas siempre leo en todas las días porque
+[01563.58 --> 01569.86] estoy trabajando, leo un sand, leo más esporadicamente los lunes y los míares con las
+[01569.86 --> 01587.57] nuevas. Bueno, si tiene, si tiene alguna otra consulta, estoy acá para resolverlo y si no,
+[01587.57 --> 01599.19] vamos por cerrar la clase de ahí. Ah, les mostré ustedes cómo subían y bajaban los modos,
+[01601.19 --> 01630.10] sí, lo que se la mostré la clase pasa, no, sí, no me equivoco. Bueno, como en el, si no hay más consulta,
+[01630.10 --> 01637.26] vamos por cerrado, lejo el comento, no sé si alguien se ha secretido para el final, el final
+[01637.26 --> 01646.02] es este, este lunes, el final va a tener una parte, piorica, no sé, a que piorica, es que
+[01646.02 --> 01655.26] y también os ha dicho que es un tema conceptuales a desarrollar, una vez que terminan eso, se le
+[01655.26 --> 01661.18] da un tiempo hasta las siete inmunedas, sí, de la tarde empezando a partir de la cinco,
+[01661.18 --> 01674.38] después de ese, de ese tiempo para resolver los ejercicios se pasa a, a las 8, a un,
+[01674.38 --> 01682.78] un par de preguntas en moral, las cuales se necesita tener camarita y salir, así que, como es solo
+[01682.78 --> 01688.18] el oral, no tienen que estar escribiendo nada, ni modificando nada, lo pueden hacer hasta por
+[01688.18 --> 01696.82] el celular, con el mit de celular, así que una saficanza con verle la cara y echarle
+[01696.82 --> 01705.58] un par de preguntas, una charla, básicamente, para verificar que sean los que rendieron el escrito,
+[01705.58 --> 01711.86] porque va a ser preguntas sobre el escrito y un par de preguntas que no estaban en el escrito
+[01711.86 --> 01719.98] como para poder sacar, más o menos el oral son 10, 15 minutos, así que en eso 10 minutos,
+[01719.98 --> 01726.66] tenemos tiempo para hacer una vuelta de preguntas, así es como se toma el oral, el, el,
+[01726.66 --> 01732.54] el, el, el, el final es en forma presencial, lo mismo lo vamos a hacer en forma virtual,
+[01732.62 --> 01740.66] así, 5 preguntas, 4, 5 preguntas que desarrollen, tienen un tiempo para el desarrollarlo y después
+[01740.66 --> 01748.26] terminamos de chequearlo en, en el oral, así, a, o sea, mientras voy, pues voy a charlarlo
+[01748.26 --> 01754.74] con ustedes a ver algo y viendo lo que escribieran en el, en el, en el escrito, que a partir
+[01754.74 --> 01761.14] de cosas que aparezcan ahí, bueno, vamos viendo como queda la, cuál queda la nota,
+[01761.94 --> 01769.74] un tema, normalmente cuando se rinde los, en el final es en presencial, lo que yo soy las seres,
+[01773.46 --> 01782.38] sí, sí, a, es el 13 y el 27, lo que yo soy la sé cuando tomo presencial es, les doy 15, 20 minutos
+[01782.38 --> 01788.38] para que vean el tema de las preguntas que les tocque que te tocaron ese parcial en ese final,
+[01788.38 --> 01798.70] de, si, si son pocos, sí, automáticamente, digamos, no, no, no, termina de responder las preguntas y no
+[01798.70 --> 01805.22] te empezamos a las 8, más o menos, empezamos a hacer las preguntas, las charlas, así, el personal
+[01805.22 --> 01811.86] es para terminar de poner la nota, en este caso, tienen que hacer el trabajo práctico de
+[01811.86 --> 01816.46] la, de, hace, para hacer el questionario de la misma manera, como hicimos en los ejercicios,
+[01816.46 --> 01826.14] en el parcial, digamos, tienen que hacer responder esas, esas consultas, esas tres o cuatro preguntas,
+[01826.14 --> 01833.50] depende de lo que sea y después de ese tiempo, que ahora esas talas siete de la tarde, nos
+[01833.50 --> 01841.06] sentamos a las 8 a, cerlar, punto a punto, bien, o sea, estoy en verdad, no implementarlo mismo que hacemos
+[01841.06 --> 01847.70] en, en presencial y como decía, en presencial les daba la posibilidad de irse, como una usente,
+[01847.70 --> 01855.94] al nuevo de leer las preguntas, acá, sucede el mismo, le voy a dar un tiempo para que le quede
+[01855.94 --> 01862.86] un sente, por más que se se han presentado, entonces si ustedes entrengan la parte escrita sigue
+[01862.86 --> 01874.02] el parcial, si no la entrengan, le pongo a un sente, entonces tienen la posibilidad de ver si
+[01874.02 --> 01882.46] están preparados para rendir un al final, si ven que no, se contacta conmigo, como hicimos
+[01882.46 --> 01887.22] en el parcial, voy a apostar a online, se contacta conmigo, me similar a la, no, no, no,
+[01887.22 --> 01892.88] me voy a seguir rendiendo, muchas gracias por todo, damos de baja el posiciona a ese,
+[01892.88 --> 01902.18] para ustedes y le pongo a un sente, y a los que sí, entregan, a le entregar, le pongo
+[01902.18 --> 01908.46] ya una nota, entonces después para verificar lo que ustedes son las personas que hicieron
+[01908.46 --> 01916.30] el parcial, va a el hí de vuelta en preguntas y quizás se extirgan los solos del tema del parcial,
+[01916.30 --> 01921.46] los ejercicio del parcial, sino que es extienda a otros que no hagan entrado, que no se
+[01921.46 --> 01931.60] se ha respondido, y bueno, ahí vemos el valor que quede, como nota, para el 13, tengo
+[01931.60 --> 01941.16] tres personas y para el 27 tengo seis personas, así que las del 27, a partir de las
+[01941.16 --> 01949.00] sohachos, si son 10 minutos, o 15 minutos, en el 4º programa, así que si son seis a las
+[01949.00 --> 01961.06] nueve y media, recién me estaríamos terminando, de tomar el final, bueno, alguna consulta
+[01961.06 --> 01985.91] al lugar sobre el trabajo práctico, bueno, si está todo bien, jóvenes, están liberados,
+[01987.91 --> 01992.59] nuevamente, si necesitará algún urgente, mandan me y las dos, me acuerdo que justo ahora
+[01992.59 --> 02001.71] este es un fin de semana largo, así que no creo ver mucho los mails, en el fin de semana,
+[02002.71 --> 02010.63] pero si el lunes ya primera hora, empezate a trabajar con los mails, así que bueno, si está
+[02010.63 --> 02018.62] en cripto, ahora para el lunes, el parcial recuerden que van a empezar a la 5 de la tarde, al final,
+[02018.62 --> 02026.38] bueno, si no, en la espera, en alguna otra fecha, y si no, en esta sinstancia,
+[02026.38 --> 02035.86] se esperemos que para diciembre, este ya, normalizado, el asunto, es el de COVID y nos vemos
+[02035.86 --> 02051.36] personalmente, jóvenes están liberados, cualquier cosa por mi, nos vemos, bueno, y indé.

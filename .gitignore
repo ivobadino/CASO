@@ -1,0 +1,11 @@
+# Dependencies and local caches
+node_modules/
+.pnpm-store/
+src/node_modules/
+
+# Large raw media kept locally
+videos/
+src/videos/
+
+# Obsidian local UI state
+.obsidian/workspace.json

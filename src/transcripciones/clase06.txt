@@ -1,0 +1,1401 @@
+# 6 130420.mp4
+# duration: 8367.281625
+
+[00000.00 --> 00008.72] que después de saccharlo, seguramente vamos a empezar a ver las ppts.
+[00008.72 --> 00016.40] Y sobre la parte del trabajo práctico.
+[00016.40 --> 00024.08] Uno de las temas que me volvió a ocurrir,
+[00024.08 --> 00031.44] que se volvió a creer la máquina cuando abriré el virtual box.
+[00031.44 --> 00036.84] Por eso tarde, en crear la sala, leitó lo demás.
+[00036.84 --> 00039.40] Así que bueno, le vamos a dejar para la masa delante.
+[00039.40 --> 00042.56] Voy a tratar de ver a que se debe.
+[00042.56 --> 00046.56] Hoy también estuve trabajando con la VPN.
+[00046.56 --> 00051.76] Y seguramente no se robiene que todo el goma,
+[00051.76 --> 00057.88] que quizás tenga que reiniciar toda la máquina y no dejarla que se crea que es.
+[00057.88 --> 00061.32] Porque después de intenté no harámente y tampoco en tu.
+[00061.32 --> 00069.96] Así que tengo que verificar eso para poder insectar el vídeo del trabajo práctico.
+[00069.96 --> 00075.04] Así que por el momento, si lo grana, la sala de instalación es gigada adelante.
+[00075.04 --> 00092.70] Y los que no lograron mandenme un mail y así voy viendo cómo diarlos.
+[00092.70 --> 00098.54] El error de virtualización dejar guard que estás comentando de adario,
+[00098.54 --> 00111.90] se debe una opción que temecen el vídeo que no está activa.
+[00112.10 --> 00116.02] Cuando te tienen la posibilidad de usar,
+[00116.02 --> 00121.54] hacer la iracción de hardware para realizar los...
+[00121.54 --> 00124.38] Las visualizaciones.
+[00124.38 --> 00130.25] El virtualizador, cualquier acceder,
+[00130.25 --> 00134.81] ya sea virtual box o sea VMware.
+[00134.81 --> 00138.49] Va a tratar de hacer uso de esa opción.
+[00138.49 --> 00141.85] Y es aconsejable.
+[00141.93 --> 00144.97] Yo no le conté una prevenisto, pero ya estamos.
+[00144.97 --> 00150.65] A partir de también en el real de la gente y el web utiliza el reto.
+[00150.65 --> 00158.33] Ase mucho tiempo apareció un software que simulaba completamente la arquitectura.
+[00158.33 --> 00164.17] 80, 86, se llamaba Boss.
+[00164.25 --> 00168.45] Sí, veo es Velárgano, o ese CH.
+[00168.45 --> 00172.21] El Boss era un simulador completo de arquitectura.
+[00172.21 --> 00173.97] ¿Qué pasa? Cuando una asumula,
+[00173.97 --> 00181.13] una simulación completa de arquitectura implementa dentro de su programa
+[00181.13 --> 00183.65] toda la arquitectura de 1886,
+[00183.65 --> 00187.33] inclusive toda la parte de administración de memoria,
+[00187.33 --> 00192.41] en todas las instituciones, los diferentes modos,
+[00192.41 --> 00195.09] supervisó el modo.
+[00195.09 --> 00199.09] Todo eso lo implementa en un programa que tengo una consola
+[00199.09 --> 00201.21] y ustedes corren y mostrar la consola,
+[00201.21 --> 00204.29] lo que ustedes están ejecutando y usando su peclado.
+[00204.29 --> 00209.29] Por supuesto, ese programa hace que todo corre y funciones
+[00209.29 --> 00210.41] y se alento.
+[00210.41 --> 00214.97] Es más, el Boss permitía que si ustedes tenían una arquitectura
+[00214.97 --> 00220.05] totalmente distinta, podrían ejecutar el Windows sobre esa otra arquitectura.
+[00220.05 --> 00224.53] Por ejemplo, cuando ustedes tenían un sistema operativo solaris,
+[00224.53 --> 00232.81] cada día, un sistema operativo solaris,
+[00232.81 --> 00237.09] el solaris corría sobre una plataforma de hardware que se llama a Spark,
+[00237.09 --> 00240.09] son micro procesadores tipo risk.
+[00240.09 --> 00243.29] Los cuales no teniendo arquitectura Intel.
+[00243.29 --> 00245.45] Gracias a esta implementación del Boss.
+[00245.45 --> 00249.21] Ustedes podían correr a dentro de los juegos,
+[00249.21 --> 00253.21] o hay que ir a los programas o un sistema operativo,
+[00253.21 --> 00260.97] que usar arquitectura 1886, aunque abajo no estuviera la arquitectura 1886
+[00260.97 --> 00262.85] en la máquina de fritriol.
+[00262.85 --> 00267.57] Eso fue muy interesante, porque para mí pía hacer cosas cursadas,
+[00267.57 --> 00273.09] o sea, yo no necesitaba tener una pensión para trabajar en un sistema operativo,
+[00273.09 --> 00275.33] pero he parado para PC.
+[00275.33 --> 00279.05] Ahora, ¿qué pasado con eso?
+[00279.05 --> 00280.65] Es y talento.
+[00280.65 --> 00281.77] O sea, no elento.
+[00281.77 --> 00283.41] Es más que elento.
+[00283.41 --> 00288.53] Entonces, lo que empezaron a hacer es copiarse
+[00288.53 --> 00293.09] una asaucción es que implementó el Cubemo,
+[00293.09 --> 00298.25] que era otro emulador o simulador de arquitecturas 1886,
+[00298.25 --> 00301.61] que lo que hacía era hacer una ejecución rápida.
+[00301.61 --> 00307.73] Entonces, qué te de permitía.
+[00307.73 --> 00313.77] Esa ejecución rápida, la que hacía era el lugar de show star implementando
+[00313.77 --> 00318.21] el pipeline para la unidad de puntos flotantes,
+[00318.21 --> 00320.89] usaba la unidad de puntos flotantes de la computadora.
+[00320.89 --> 00322.97] Entonces, hacía un pasamano.
+[00322.97 --> 00329.69] Por lo tanto, se simplificaba mucho el tema de hacer un virtualizador.
+[00329.69 --> 00332.61] Porque lo único que hacía era una cascara,
+[00332.61 --> 00336.13] y después lo que hacía era gracias al que el sistema operativo
+[00336.13 --> 00341.81] le permitía usar el hardware, le mandaba el hardware.
+[00341.81 --> 00344.65] En esta versión, en esta opción que daba el hardware,
+[00344.65 --> 00349.13] que se permite tener un enillo extra, ejecutar en ese enillo extra,
+[00349.13 --> 00352.45] devolver las cosas y hacer como que lo había ejecutado.
+[00352.45 --> 00358.21] Entonces, esta virtualización se utilizan con ayuda del hardware.
+[00358.21 --> 00360.93] Y esa ayuda del hardware se tiene que estar activando.
+[00360.93 --> 00367.41] En Intel se llama PT y era de medita,
+[00367.41 --> 00374.35] también, creo que hay otro nombre, sí todas.
+[00374.35 --> 00379.79] Pero básicamente, la tecnología de virtualización
+[00379.79 --> 00384.59] se tiene que estar activando las computadoras que usted necesitan correr.
+[00384.59 --> 00389.87] Normalmente, el virtualizador de disenchemia no tiene virtualización
+[00389.87 --> 00394.11] no activada, activada para que pueda ejecutar bien.
+[00394.11 --> 00399.11] El voz en el caso del voz, que ya estábamos hablando donde necesitaba.
+[00399.11 --> 00404.83] En el medito, sí, puede ser que sea ese medito.
+[00404.83 --> 00409.83] Creo que era X, a mi de X, algo por el estilo.
+[00409.83 --> 00416.59] Y como es con eso, permitía que el tener activo
+[00416.59 --> 00421.23] esa flaxa, esa opción, ese en el mío, la máquina o el virtualizador
+[00421.23 --> 00422.91] pueda trabajar más rápidos.
+[00422.91 --> 00428.43] Como les decía, en el caso del voz, no le importaba.
+[00428.43 --> 00432.91] La tuviera eso que no lo tuviera, es el simulaba todo completamente adentro
+[00432.91 --> 00436.31] y digamos, salía adelante.
+[00436.31 --> 00439.71] Inclusive, en otra plataforma.
+[00439.71 --> 00442.91] Hay algo que no es todo de igual, pero por ahí saliendo interesante.
+[00442.91 --> 00448.67] Si lo quieren mirar, ver si el voz funciona sobre las RMS.
+[00448.67 --> 00453.31] Por ahí, el teniendo el most portado RM,
+[00453.31 --> 00460.99] le permite estar ejecutando un Windows dentro de un dispositivo RM
+[00460.99 --> 00463.35] y con solo tener un virtualizador.
+[00463.35 --> 00467.35] Pero son todas que en su propio celular.
+[00467.35 --> 00469.59] Pero hay que ver las potencias que se tienen,
+[00469.59 --> 00472.39] si se está portado, no está portado.
+[00472.39 --> 00477.63] Pero son temas de simulación, eso es tema de arquitectura.
+[00477.63 --> 00479.75] Es de sistemas de procesamiento de datos.
+[00479.75 --> 00485.19] Es más o menos, el actuaromiendo con Fabio, el contributivo es repasado.
+[00485.19 --> 00488.31] Eso es a lo que más apunta.
+[00488.31 --> 00494.59] O que la materia que más toca ese tema de virtualización.
+[00495.87 --> 00498.19] Así que bueno, teniendo en cuenta eso,
+[00498.19 --> 00501.75] que si le da un problema con la virtualización de hardware,
+[00501.75 --> 00505.23] es porque no tiene en activo ese flux de virtualización.
+[00505.23 --> 00511.75] Vete yo, inclusive hay una opción y homo,
+[00511.75 --> 00521.03] que eso es lo que le permite en es simular.
+[00521.03 --> 00525.79] Víamos hardware más allá del disco,
+[00525.79 --> 00532.59] simular, placas y acceso distintos más rápidos a los discos y cosas.
+[00532.59 --> 00538.31] Pero es que se llama IOMU, que es la posibilidad de virtualizar
+[00538.31 --> 00540.95] de positivos dentro de la salida.
+[00540.95 --> 00548.79] Por eso es llamar IOMU, que es una unidad de administración,
+[00548.79 --> 00551.75] dentro de positivos de la salida.
+[00551.75 --> 00554.19] Así que puedes, por ejemplo, con ese IOMU,
+[00554.19 --> 00556.55] puedes estar virtualizando una placa.
+[00556.55 --> 00560.91] La placa, ahora que vamos a hablar de los primeros días,
+[00560.91 --> 00564.79] habíamos hablado de algo que llamaba IOMU.
+[00564.79 --> 00565.91] Voy a ir al infinivar.
+[00565.91 --> 00570.79] Es un solo placa, pero ustedes pueden virtualizarla
+[00570.79 --> 00572.95] con lo que se llama Virtual Functions.
+[00572.95 --> 00576.51] Y esa virtual función, las puedes estar asignando
+[00576.51 --> 00578.87] a las máquinas virtuales que ustedes crean.
+[00578.87 --> 00583.07] Así que es muy interesante porque pueden estar dando
+[00583.07 --> 00589.51] la una máquina virtual, el acceso a una placa virtualizada
+[00589.51 --> 00590.99] por hardware.
+[00590.99 --> 00593.23] Es un bastante interesante.
+[00593.23 --> 00597.11] También puede estar haciendo uso de algo muy interesante
+[00597.11 --> 00602.43] con la parte de la realización que es la placa en media.
+[00602.43 --> 00607.47] Las placas en media también tienen esta tipo de virtualización
+[00607.47 --> 00612.03] de hardware y le permitiría estar asignando una parte de la placa
+[00612.03 --> 00616.11] en media o una máquina virtual.
+[00616.11 --> 00620.11] O sea, la placa en media, la aceleradora para juegos,
+[00620.11 --> 00624.83] de gráficos, de cálculo, la cual les tiene varios sabores.
+[00624.83 --> 00626.95] La pueden tener en la máquina en fitrión,
+[00626.95 --> 00631.79] usar la máquina en fitrión y también usarla desde la máquina virtual.
+[00631.79 --> 00635.31] Acer, usarla aceleración gráfica que brinda esa placa
+[00635.31 --> 00642.27] en tanto desde el la máquina virtual como del ámbito.
+[00642.27 --> 00647.47] ¿Qué pasa cuando no le toma la contraseña y el usuario
+[00647.47 --> 00650.91] después de instalarlo?
+[00650.91 --> 00654.35] Bueno, hay una forma y es algo que normalmente
+[00654.35 --> 00657.35] hoy cuando debe actualizar la virtualización y también
+[00657.35 --> 00663.15] de modificar que es como, ¿cuál seguro es el sistema operativo
+[00663.15 --> 00665.47] que usted es instalado en la máquina?
+[00665.47 --> 00667.47] Y normalmente usted dice, bueno,
+[00667.47 --> 00670.11] me da yo me voy a estar a un lino porque con el lino
+[00670.11 --> 00673.03] no tengo problema de seguridad mentira.
+[00673.03 --> 00675.63] Lo problema de seguridad está y están siempre.
+[00675.63 --> 00680.95] Y a partir de eso viene algo muy interesante
+[00680.95 --> 00685.75] que es la securización, así le desunado,
+[00685.75 --> 00691.39] para la brinda etada, pero en el jardin de los sistemas operativos.
+[00691.39 --> 00693.99] Ustedes cuando está la dos sistemas operativos viene
+[00693.99 --> 00697.39] con una instalación estándar,
+[00697.39 --> 00700.15] la cual no es totalmente segura.
+[00700.15 --> 00703.95] Y ustedes deben estar asegurando.
+[00703.95 --> 00707.95] Voy a tratar de ver si logras ser anar para el mía
+[00707.95 --> 00711.63] con el sistema digitalizado,
+[00711.63 --> 00713.87] el virtual box dentro de esta máquina,
+[00713.87 --> 00716.39] si no voy a dejar que ingenierme las de transformos
+[00716.39 --> 00720.91] para mostrarles toda la parte de la instalación del lino
+[00720.91 --> 00724.87] y la parte de esa securización,
+[00724.87 --> 00731.55] vamos a tomar esa palabra, no lo que haces ya han instalado.
+[00731.55 --> 00735.75] Bueno, y la securización de un sistema operativo
+[00735.75 --> 00739.95] o para que puedan ver esto que le estoy contando.
+[00739.95 --> 00741.71] No todos los sistemas operativos cuando están
+[00741.71 --> 00747.83] es vital, está totalmente seguro y está jardinizado.
+[00747.83 --> 00753.47] Hay que hacer un par de cosas para lograr de que eso ocurra.
+[00753.47 --> 00757.39] Y que no esté libre, que sea fácil de acceder.
+[00757.39 --> 00762.11] Por supuesto, cuando ustedes hacen algo para que no sea fácil de acceder,
+[00762.11 --> 00765.31] si ustedes queden de entrar porque se olvidaron la clave,
+[00765.31 --> 00767.35] y ya no lo van a poder hacer.
+[00767.43 --> 00773.31] Entonces, hay el joven que hizo la instalación ahí,
+[00773.31 --> 00776.91] y salvió a la usuario de la contrazaeña.
+[00776.91 --> 00781.63] El vas a tener que entrar si querés investigar lo antes de que lo veamos,
+[00781.63 --> 00787.91] tendrías que venir a ver el grub como hacer el acceso al grub,
+[00787.91 --> 00793.71] modificar las entradas para poder ejecutar el bae.
+[00793.79 --> 00796.31] El vas es un...
+[00796.31 --> 00804.59] ...como se llama, es el interruta de comando que tiene todo usuario que entra en lino.
+[00804.59 --> 00809.19] Entonces, hay un truco en el cual se toca el grub,
+[00809.19 --> 00813.67] que es el primero que aparece cuando está aprendiendo.
+[00813.67 --> 00817.47] Se accede a ese grub, se cambia unas líneas, sí,
+[00817.47 --> 00823.23] y se pone en formato de lectura escritura, normalmente se pone en ro.
+[00823.31 --> 00830.79] Y una vez que toca la niña y digieron que botea y que empieza con el vas,
+[00830.79 --> 00833.23] lo que hace es...
+[00833.23 --> 00840.35] ...al condirar la del úteo, van a quedar en loguado con el usuario rút.
+[00840.35 --> 00845.19] A partir de ahí, pueden cambiar con el pasador de la clave,
+[00845.19 --> 00848.19] a cualquier trucoario, inclusive el rút.
+[00848.19 --> 00855.47] Y después, reiniciando, vas a poder ver que realmente ya puedes acceder con el usuario
+[00855.47 --> 00857.47] y las contraseña que creaste.
+[00857.47 --> 00863.43] Pero bueno, si no te animas hacerlo o a investigarlo, lo vemos...
+[00865.83 --> 00869.59] ...lo vemos en esta niación.
+[00869.59 --> 00874.79] Soy el pasador, porque en pueden ser que haberse estado en mayúsculas,
+[00874.87 --> 00881.03] o el cárcelo acornido, puede ser que digamos cuando vos te clas,
+[00881.03 --> 00890.27] en la instalación, esto es usando un layout de inglés.
+[00890.27 --> 00893.79] Y ahora también es un layout de en castellano.
+[00893.79 --> 00897.63] Entonces, hay que ver si usaste simoles especial de su que,
+[00897.63 --> 00902.79] así que pueden ser que no esté ingresando correctamente las claves.
+[00902.99 --> 00907.75] Verificar los caracteres, sí, sí, si te acorgar bien la clave y todo lo demás,
+[00907.75 --> 00908.75] lo puedes hacer.
+[00908.75 --> 00912.59] Y más allá, si te lo lo voy a hacerlo, puedes estar utilizando este no prometo,
+[00912.59 --> 00915.27] que es...
+[00915.27 --> 00929.57] es factible usar, mientras no esté jardenizado el sistema pertivo.
+[00929.57 --> 00935.21] Bueno, ya que más o menos estamos casi todas las personas,
+[00935.21 --> 00941.69] vamos a comenzar con la clave de administración de la memoria.
+[00941.77 --> 00947.49] En la parte de administración de memoria, normalmente también me gusta la...
+[00947.49 --> 00954.49] digamos muy interactiva, así que si quieren escribir escriban,
+[00954.49 --> 00957.49] yo tengo ahí puesto al lado para ver.
+[00957.49 --> 00968.93] Es más, voy a insectar mi pantalla y le voy a dejar con la imagen de...
+[00968.93 --> 00973.33] a la rj, así, y todas las pueden ver.
+[00973.33 --> 00977.13] Y le paso yo también, mira, vamos a ver cómo va saliendo.
+[00977.13 --> 00989.26] Bueno, estamos...
+[00989.26 --> 00995.74] Como siempre les comenté, vamos a tratar de ver esto desde el punto de vista...
+[00995.74 --> 01002.54] de un creador de un sistema operativo, un diseñador de sistema operativo.
+[01002.54 --> 01009.54] Vamos a tratar de ir desde lo más simple a lo más difícil.
+[01009.54 --> 01016.54] Ustedes saben que un programa que ustedes compilan,
+[01016.54 --> 01023.54] normalmente, como pasaban de RSS, el piensa que tiene una máquina propia para él.
+[01023.54 --> 01029.54] Y lo que haces, si tengo operativo, le trata de mostrar de qué realmente son pasas.
+[01029.54 --> 01035.54] Que tiene una máquina para él tanto en memoria como en procesador.
+[01035.54 --> 01040.14] Como vimos, si yo tengo un solo procesador y ejecuto 15 o 20 procesos,
+[01040.14 --> 01045.94] cada vez, no todos pueden usar el procesador, el único procesador que tengo,
+[01045.94 --> 01049.34] no todos pueden estar usando lo a la vez.
+[01049.34 --> 01055.54] Si no, que lo que hace es un time sharing, así como un compartimiento de tiempos,
+[01055.54 --> 01061.54] que nosotros lo vimos como la administración de procesador, FIFA, más corto primero.
+[01061.54 --> 01065.54] Tiene que le van dando pequeñas tiempos a cada proceso.
+[01065.54 --> 01071.54] Y todos van caminando juntos, uno se adelando un poquito y así se sugiamente.
+[01071.54 --> 01078.54] Bueno, eso lo tenemos que lograr también en la parte de administración de memoria.
+[01078.54 --> 01086.54] No sólo tenemos la memoria real, la memoria real y la memoria que es un proceso puede llegar a conocer.
+[01086.54 --> 01097.54] Entonces, yo tenía mi programa, tenía para nosotros tenía tres partes.
+[01097.54 --> 01108.86] Una de esas eras en código, otra de esas eras dos datos.
+[01108.86 --> 01115.50] Y otra de esas eras en esta.
+[01115.50 --> 01128.61] Para cada uno de estos, ustedes lo que tienen que tener en cuenta es que existen un aparte de código.
+[01128.61 --> 01132.61] Pero sea una parte de la memoria.
+[01132.61 --> 01137.95] Todo esto, como el cuerpo de ese juego morando.
+[01137.95 --> 01144.95] Por ejemplo, el código está acá, se podían en los datos y después viene el estar.
+[01144.95 --> 01148.19] Bien.
+[01148.19 --> 01151.19] Logicamente está dividido en esto.
+[01151.19 --> 01156.19] Por el momento no tienen por qué salenlo, pero cada uno de estos, según lo que viene,
+[01156.19 --> 01161.19] leones cada uno de estos es un segmento.
+[01161.19 --> 01168.19] Es un segmento y usted le oponía.co.data.c.
+[01168.19 --> 01175.19] Esto eran las tres partes que dividiamos el programa de la segunda.
+[01175.19 --> 01180.19] Ahora bien, esto va a estar cargado en una terminal lugar.
+[01180.19 --> 01181.19] Sí.
+[01181.19 --> 01186.19] Y lo que estámente, al que tenemos el valor, el 0.
+[01186.19 --> 01188.19] La dirección 0.
+[01188.19 --> 01195.19] Y acá también hemos el acción.
+[01195.19 --> 01198.19] Por ponerle un número.
+[01198.19 --> 01203.19] Entonces, todo esto tiene que estar cargado en memoria para poder ejecutarlo.
+[01204.19 --> 01208.19] En el programa de alzemble al final, teníamos un end y decía,
+[01208.19 --> 01209.19] meín.
+[01209.19 --> 01216.19] Por ejemplo, que eso lo que indica, es que el programa, un color exe,
+[01216.19 --> 01231.69] por el cargado, el punto de entrada, sea, meín.
+[01231.69 --> 01234.69] Por eso decía, en meín.
+[01234.69 --> 01238.69] Entonces, el end, lo que estaba diciendo es que cuando cargas este programa,
+[01238.69 --> 01245.69] en memoria, si tengo operativo, ponía ejecutar desde el punto de entrada meín.
+[01245.69 --> 01248.69] Y el punto de entrada meín está en el código.
+[01248.69 --> 01249.69] Es el mismo.
+[01249.69 --> 01251.69] Es el punto es el meín.
+[01251.69 --> 01254.69] Y ese punto lo que hacía es la empezar a correr el programa.
+[01254.69 --> 01259.69] Bien, a partir del momento que se está en memoria y que está cargado y que tiene
+[01259.69 --> 01265.69] el transporto en la tabla de bloque de control de procesos en la parte de los registros.
+[01265.69 --> 01271.69] La dirección del main cada vez que elito que correr o que tiene el asignado
+[01271.69 --> 01277.69] el procesador y está ejecutando, va a continuar del donde quedó en la última vez
+[01277.69 --> 01281.45] que esto lo trabaja.
+[01281.45 --> 01283.45] Ataí esto es muy simple esancillo.
+[01283.45 --> 01288.45] El problema es que cuando yo tengo un solo proceso, eso lo puede hacer.
+[01288.45 --> 01291.45] Lo cargo en la posición cero y lo pongo a trabajar.
+[01291.45 --> 01295.45] Pero ya en ese momento teníamos un pequeño problema.
+[01295.45 --> 01298.45] Para la entrada dentro de un repito, la versión.
+[01298.45 --> 01301.45] Esa es el problema mientras que está solo.
+[01301.45 --> 01303.45] Yo le puedo enseñar a placo.
+[01303.45 --> 01305.45] Yo tengo una casa.
+[01305.45 --> 01309.45] En esa casa, digamos, no tengo ninguna división.
+[01309.45 --> 01311.45] Todo un lof.
+[01311.45 --> 01315.45] Y puede evitar una persona en todas el of.
+[01315.45 --> 01317.45] Sí, pero ese enorme.
+[01317.45 --> 01321.45] Entonces, esa persona utiliza todos los.
+[01321.45 --> 01326.45] Entonces, hay el sueño.
+[01326.45 --> 01332.45] El poder hacerlo de que quiera, él se puede ubicar en el mamá de desacite.
+[01332.45 --> 01339.45] Y ejecutar código en tocar los datos que necesite y usar el stack
+[01339.45 --> 01342.45] llamando funciones y parzando un parámetro.
+[01342.45 --> 01348.45] Ahora viene a través de cuando yo quiero salir de ese mono programación
+[01348.45 --> 01352.45] que teníamos y pasar algo de multimagración.
+[01352.45 --> 01356.45] Entonces, hay tenemos que trabajar con muchos programas.
+[01356.45 --> 01358.45] Y qué hacemos?
+[01358.45 --> 01362.45] Bueno, si no solo teníamos nuestra gran log.
+[01362.45 --> 01368.82] Entonces, lo que puedo hacer es que no me da ese es todo nuestro lof.
+[01368.82 --> 01370.82] Ahí tenemos todo el trabajo en la familia real.
+[01370.82 --> 01372.82] No podemos estar dividiendo.
+[01372.82 --> 01373.82] Y qué vamos a hacer?
+[01373.82 --> 01375.82] No, no, no, no, no.
+[01375.82 --> 01379.82] Entonces, vamos a dar como una vez que no.
+[01379.82 --> 01381.82] Y esto es tal libre.
+[01381.82 --> 01385.82] Bueno, así que puedo seguir agregando un peso tres.
+[01385.82 --> 01389.82] Y así, o en la todos, todos los programas que yo quiero.
+[01389.82 --> 01393.82] Ahí empieza a nuestro primer problema.
+[01393.82 --> 01397.82] Y el primer problema, al igual que pasaba con el de hoy,
+[01397.82 --> 01402.82] cuando yo ponía un programa de la cembre que empezaba en un verado en cero.
+[01402.82 --> 01407.82] Sí. Y le decía, como un cargo y quiero correrlo,
+[01407.82 --> 01411.82] el de hoy no lo ponía al cero este que estaba del programa.
+[01411.82 --> 01415.82] No lo ponía en el cero de la memoria.
+[01415.82 --> 01418.82] ¿Por qué no lo ponía el cero de la memoria?
+[01418.82 --> 01423.82] Porque en el cero de la memoria estaba el vector de interrupciones.
+[01423.82 --> 01429.82] Entonces, este cero de esta gada no puede ser el cero real.
+[01430.82 --> 01433.82] Porque el cero real está el vector de interrupciones.
+[01433.82 --> 01440.82] Así que, se tiene que estar desplazado un poco y nombrar un nuevo cero.
+[01440.82 --> 01446.82] Sí, el cero para los programas.
+[01446.82 --> 01449.82] Y está el cero para el sistema operativo.
+[01449.82 --> 01453.82] Porque el sistema operativo sí tiene que ir y tocar el vector de interrupciones.
+[01453.82 --> 01458.82] Tiene que poner sus rutinas a que eso apúnten a sus rutinas.
+[01458.82 --> 01467.82] Y bueno, y a lograr todo eso, vamos a tener una parte de la cosa que vamos a dibujar acá.
+[01467.82 --> 01470.82] Vamos a cambiar el cero que vamos a poder algo abajo.
+[01470.82 --> 01473.82] Y va a ser una parte del sistema operativo.
+[01473.82 --> 01478.82] Esa parte del sistema operativo, incluso el cero real.
+[01478.82 --> 01479.82] Sí.
+[01479.82 --> 01482.82] Esto, el cito operativo es lo que tiene.
+[01482.82 --> 01486.82] Y todo lo demás está libre para ser usado por procesos.
+[01487.82 --> 01492.82] Bien, ya sacamos el primer problema que le he dicho que le teníamos inclusive en el dego de ese.
+[01492.82 --> 01494.82] Ahora, yo tengo dos programas.
+[01494.82 --> 01497.82] Sí, cada uno tiene su cero.
+[01497.82 --> 01503.45] Si yo lo pongo en el nuevo punto de inicio.
+[01503.45 --> 01506.45] Sí, vivo, el nuevo punto de inicio.
+[01506.45 --> 01509.45] Este es este, este va a ser el cero.
+[01509.45 --> 01515.45] Cuando cargue el programa uno, se va a poner en esa posición cuando cargue el programa dos.
+[01515.45 --> 01518.45] Se va a poner en esa posición y se va a la pesta.
+[01518.45 --> 01524.45] Entonces, eso no puedo hacer lo que yo tengo que estar haciendo es al cero de cada programa.
+[01524.45 --> 01527.45] La pongo en una posición distinta de memoria.
+[01527.45 --> 01533.45] Y, género, lo que son estas subdivisiones, que serían como si fueran habitaciones.
+[01533.45 --> 01538.45] En milo, lo he dividido en este caso, en tres habitaciones, en cuatro personas.
+[01538.45 --> 01541.45] En cuatro habitaciones, uno para el sistema operativo.
+[01541.45 --> 01545.45] En cuatro pará el programa uno, otro programa dos.
+[01545.45 --> 01549.45] Y que la 1 a 3 cero, así, para que venga alguna otra programa.
+[01549.45 --> 01555.45] Entonces, esto va a tener cada uno en cero en su posición.
+[01555.45 --> 01558.45] Bien, este cognito es el cero.
+[01558.45 --> 01560.45] No, no, no, no, no, no, no, no, no.
+[01560.45 --> 01562.45] Porque es el, el, el marcado.
+[01562.45 --> 01564.45] Pero bueno, tenemos el cero del programa dos.
+[01564.45 --> 01567.45] El cero del programa uno, el cero del sistema operativo.
+[01567.45 --> 01568.45] Bien.
+[01568.45 --> 01570.45] El sistema operativo.
+[01570.45 --> 01573.45] El sistema operativo, el vídeo es nada, porque no es un proceso.
+[01573.45 --> 01574.45] Bien.
+[01574.45 --> 01580.45] Si no, que el sistema operativo es el sistema operativo y tiene capacidad de tocar
+[01580.45 --> 01584.45] a o sea de cambiar todo.
+[01584.45 --> 01602.79] Así que, que, ahí, donde, ahí es donde viene el tema de todas las partes secretas.
+[01602.79 --> 01603.79] El sistema operativo.
+[01603.79 --> 01605.79] Así que, al ver, vamos a otro sistema operativo.
+[01605.79 --> 01607.79] Y vamos a poner en cada uno de estos.
+[01607.79 --> 01609.79] Y ahí, en la opción de poner el cero.
+[01609.79 --> 01611.79] Así que, esa es la que también hay un cero.
+[01611.79 --> 01613.79] Vamos a poner esto.
+[01613.79 --> 01615.79] Un cero acá y un cero acá.
+[01615.79 --> 01616.79] Bien.
+[01616.79 --> 01617.79] Aquí se ve mejor.
+[01617.79 --> 01619.79] Entonces, cada uno con su cero.
+[01619.79 --> 01620.79] Sí.
+[01620.79 --> 01621.79] Para que empiece.
+[01621.79 --> 01624.79] Entonces, algo que yo me tienes que estar ayudando.
+[01624.79 --> 01626.79] Porque cuando yo te sea el programa uno,
+[01626.79 --> 01629.79] el cero del programa uno está acá.
+[01629.79 --> 01631.79] El cero del programa dos está acá.
+[01631.79 --> 01634.79] Y el cero del programa, bueno, no hay ningún programa,
+[01634.79 --> 01636.79] pero si fuera el programa tres estaría acá.
+[01636.79 --> 01637.79] Bien.
+[01637.79 --> 01644.07] Cada una de estas cosas seamos particiones.
+[01644.07 --> 01651.55] Y es con lo mínimo que tenemos que empezar.
+[01651.55 --> 01655.55] O sea, en la época de los Mainfren de las primeras contadoras,
+[01655.55 --> 01660.55] lo que se se que se cuando se empezó a trabajar con multipero de la Amazon,
+[01660.55 --> 01663.55] lo que se hizo fue generar particiones.
+[01663.55 --> 01667.55] Y esas particiones, esas son particiones fijas o particiones de inarnmicas.
+[01667.55 --> 01671.55] En principio, se trabajaron con particiones físicas.
+[01671.55 --> 01673.55] La partición es fijas,
+[01673.55 --> 01680.30] permiten vivir, permiten vivir,
+[01680.30 --> 01684.30] la memoria en tantos lo que sítos como uno quiera.
+[01684.30 --> 01685.30] Bien.
+[01685.30 --> 01690.30] Entonces, si yo tengo dividido en tantos lo que sítos como quiero,
+[01690.30 --> 01696.30] si tengo cinco, voy a poder poner a ejecutar concurrentemente cinco programas.
+[01696.30 --> 01703.30] Pero en la TBSP de cada programa, voy a tener que poner algo en la BCP.
+[01703.30 --> 01708.30] En la BCP era donde tenía la información del programa,
+[01708.30 --> 01711.30] le vamos a entender que sítos y vamos a programar.
+[01711.30 --> 01714.30] Estás con el Cero acá.
+[01714.30 --> 01718.30] Y vamos a notar poder decir más que este tamaño.
+[01718.30 --> 01721.30] Si yo tengo un programa y ese programa quiere crecer,
+[01721.30 --> 01726.30] y se la partición fija que le asigne,
+[01726.30 --> 01730.30] yo tengo que poder decirle a Flacón de fuiste y te canselo.
+[01730.30 --> 01732.30] Yo como si tengo a gratis.
+[01732.30 --> 01734.30] Entonces, para lograr eso,
+[01734.30 --> 01738.30] en el BCP tengo que tener más información.
+[01738.30 --> 01741.30] Y el hardware me tiene que estar ayudando.
+[01741.30 --> 01743.30] Porque si el hardware no me ayuda,
+[01743.30 --> 01746.30] como detecto yo que se fue del lugar.
+[01746.30 --> 01750.30] Recuerden que las instrucciones,
+[01750.30 --> 01753.30] Sean, por ejemplo, tienen la dirección.
+[01753.30 --> 01756.30] Entonces, si yo vengo ejecutando y en cuanto a un Sean,
+[01756.30 --> 01759.30] y salto a ese lugar y esta fuera de la partición,
+[01759.30 --> 01761.30] como lo cancelo.
+[01761.30 --> 01764.30] Si yo esa certeza me fui ya pudimos seguir.
+[01764.30 --> 01770.30] Entonces, acá aparecen dos registros nuevos que va a la plataforma,
+[01770.30 --> 01773.30] o sea, en la arquitectura,
+[01773.30 --> 01783.30] que una vez el registro base y otra vez el registro límite.
+[01786.80 --> 01790.80] El registro límite me permite definir la partición.
+[01790.80 --> 01793.80] Entonces, con esas particiones definidas,
+[01793.80 --> 01796.80] cuando un proceso ejecuta dentro de una partición,
+[01796.80 --> 01802.80] se le suma cada dirección del proceso, se le suma el registro base.
+[01802.80 --> 01805.80] Sí, porque es desde ahí para arriba.
+[01805.80 --> 01807.80] Y el registro límite dice, hasta acá.
+[01807.80 --> 01810.80] Entonces, eso me va a estar bloqueandolo.
+[01810.80 --> 01814.80] Entonces, con esos dos registros nuevos que tiene que tener
+[01814.80 --> 01817.80] de dejar guardis ponible y lo tienen que utilizar,
+[01817.80 --> 01820.80] como corresponde yo puedo estar definiendo estas particiones.
+[01820.80 --> 01826.80] Así que los Minecraft tenían un registro base y un registro límite.
+[01826.80 --> 01830.80] Abre el lado al registro que nosotros ya vimos.
+[01830.80 --> 01835.80] Bueno, de ahí es como empezó todo.
+[01835.80 --> 01839.80] Y a partir de ahí es donde empieza a trabajarse
+[01839.80 --> 01841.80] sobre las distintas problemas.
+[01841.80 --> 01843.80] Y para solucionar los problemas,
+[01843.80 --> 01848.80] empiezan a generarse nuevas administraciones de memoria.
+[01848.80 --> 01851.80] O sea, si entendían a las tacos que es la parte básica,
+[01851.80 --> 01856.80] lo demás siempre es una mejora porque tenemos un problema.
+[01856.80 --> 01857.80] Sí.
+[01857.80 --> 01860.80] Así que, si ustedes dieron a esta acá,
+[01860.80 --> 01865.80] bien, esperamos un ronda de preguntas.
+[01865.80 --> 01867.80] Sí.
+[01867.80 --> 01869.80] Así que, pregunten.
+[01869.80 --> 01872.80] Y si no hay preguntas, seguimos.
+[01872.80 --> 01884.14] Bien.
+[01884.14 --> 01889.79] El registro base no sería el vequis.
+[01889.79 --> 01892.79] El vequis se usa registro base porque la arquitectura
+[01892.79 --> 01897.79] 80, 86, los definidos como vequis que se usa como base
+[01897.79 --> 01899.79] para hacer una inexistación.
+[01899.79 --> 01907.79] El registro base sería estaría acompañado al data segment.
+[01907.79 --> 01909.79] Sí, porque ese es el fin de los segmentos.
+[01909.79 --> 01912.79] En el caso de la 80, 86.
+[01912.79 --> 01915.79] Eso sería un registro base.
+[01915.79 --> 01923.79] El vequis con el vei y el sei se utilizan con registros
+[01923.79 --> 01928.79] para acceso a diferentes posiciones de memoria.
+[01928.79 --> 01933.79] El vequis se lo dice base porque nos permite hacer
+[01933.79 --> 01937.79] que es más de ahí o vee que más es ahí.
+[01937.79 --> 01942.79] Y yo no puedo hacer un esa ahí más de ahí porque no lo permite
+[01942.79 --> 01943.79] la arquitectura.
+[01943.79 --> 01946.79] Por eso le pusieron vequis como registro base.
+[01946.79 --> 01950.79] Pero no es el registro base que hacen referencia a los mainframe.
+[01950.79 --> 01956.58] Bueno, las fijas se están.
+[01956.58 --> 01962.58] Por eso, porque viene el próximo paso de las dinamicas.
+[01962.58 --> 01964.58] A ahí viene la diferencia.
+[01964.58 --> 01969.58] Las particiones fijas sabemos que eran tres en este caso y no mal de tres.
+[01969.58 --> 01973.58] Ahora sí todos mis programas.
+[01973.58 --> 01976.58] Si todos mis programas, compo un pan.
+[01976.58 --> 01978.58] Exactamente, es Tom.
+[01978.58 --> 01981.58] Sí, peso y vamos a poner.
+[01981.58 --> 01987.58] Cada peso vi, fígense que yo pongo unbo este en la partición uno.
+[01987.58 --> 01989.58] Este en la partición dos.
+[01989.58 --> 01997.70] en la participación en una ocasión entre 3 y en la participación en la participación que queda acá
+[01997.70 --> 02007.62] entraria una y pero por qué y bueno porque el programa chiquito y pero si yo tengo 5
+[02007.62 --> 02013.78] porque acá entra dos acá entra dos y entra uno acá hay posibilidad de que se ejecuten 5
+[02013.78 --> 02019.62] de su vida pero por qué no puedo ejecutarlo porque está en una participación fija porque las
+[02019.62 --> 02024.34] participaciones fija se crean al momento de cargar el sistema operativo y se mantienen
+[02024.34 --> 02028.74] durante toda la ejecución del sistema operativo y no se las corta y no se lo cambia y no se
+[02028.74 --> 02036.34] puera esa nada de eso entonces qué lo que no nos viene a simplificar el tema de tener
+[02036.34 --> 02043.02] participaciones dinámicas que es lo que acaba de preguntar mi colás la participación es dinámicas
+[02045.02 --> 02054.10] pero mi tengo cargar más procesos si porque porque en el cheno pero supongo que un proceso todo
+[02054.10 --> 02062.02] proceso que va a venir a ejecutar acá tiene 10 sigas no cada proceso mi de un espacio y ese
+[02062.22 --> 02067.98] espacio es un de un chiga o en los bus a un chiga pero qué pasa yo las participaciones las que
+[02067.98 --> 02076.13] en el día y así las me fui y de más mucho gusto y pero qué pasa con eso yo puedo ejecutar
+[02076.13 --> 02082.89] procesos hasta que ocupen día y siga de de de derrám y que trabaje en ahí arriba y pero me
+[02082.89 --> 02088.85] es invierno tu medios media fuera de lugar si si pero yo con eso me garantizo de que cualquier
+[02088.85 --> 02094.93] el proceso entre y pero no es la normal, la media es un programa, un proceso que
+[02094.93 --> 02100.89] opa un siga en una emoria. Bueno, entonces, en partición, todo es un siga, pero
+[02100.89 --> 02105.77] esto tengo cinco lugares para ponerlo ahí. Bien un proceso de más de un siga,
+[02105.77 --> 02113.89] lo puedo ejecutar. No. Tengo en total la memoria tiene 10 sigas, puede ejecutar
+[02113.89 --> 02118.17] un proceso de unos puntos cinco sigas, porque tus particiones a las creas
+[02118.17 --> 02123.17] te y las creas te todas de un siga. Entonces, y que tenemos que hacer, bueno,
+[02123.17 --> 02128.89] tendré que apagar el sistema operativo que significa apagar la computadora, volver
+[02128.89 --> 02134.89] a la planera, cambiar el archivo de particiones, volver a hacer todas las
+[02134.89 --> 02138.37] ejecución de las procesos que ahí sí va a ser tener, pero cuando te tarda
+[02138.37 --> 02143.77] eso, y en un mes, en ese momento, tardaba una hora en volver a aprender.
+[02143.77 --> 02148.21] Es más, cuando te le lo tenían que aprender, yo tuve la posibilidad de ver
+[02148.21 --> 02152.45] una infre función, lo tenía que aprenderlo con una llave tipo de loutos.
+[02152.45 --> 02156.73] Era una llave que se ponía el costado de la consola y se prendía y tenía 3
+[02156.73 --> 02162.05] niveles entre 3 posiciones. Y bueno, cuando te le ponía en el primeros, se
+[02162.05 --> 02167.33] se hacía lo que se llamaba Lipel, que se nichan pro-reblode. Y a partir de ahí
+[02167.33 --> 02173.81] seguía todo. Y bueno, tenía mínimo media hora, hasta que para el miras todo,
+[02173.81 --> 02181.41] se ha tenido todos los, el Jargo ha rendido, todo conectado. Así que bueno,
+[02181.41 --> 02189.05] se perdía tiempo. Y bueno, en una máquina que tiene que mantenerse ejecutando y
+[02189.05 --> 02194.13] amortizarse, cambiar las particiones no era algo muy trivial para hacer todas las
+[02194.13 --> 02200.53] días. Entonces, cambiaron directamente la política, entonces pasaron hacer particiones
+[02200.53 --> 02204.49] dinámicas. Y en las particiones dinámicas que es lo único que tiene de
+[02204.49 --> 02211.13] diferente, sí, que no está participiendo a la línea. Es algo muy simple.
+[02211.13 --> 02215.65] Bien, ahora si no está participando a la línea y se pueden generar
+[02215.65 --> 02221.17] particiones y entrar procesos y salir procesos y venir y dir y todo lo demás.
+[02221.17 --> 02227.81] Bueno, las dinámicas tuvieron un problema también y el problema fue que
+[02227.81 --> 02249.97] estaban, por ejemplo, particiones ocupadas, sí, perdición ocupada, perdición ocupada,
+[02249.97 --> 02257.17] perdición ocupada. Y qué empezaba con esa partición? Y es muy simple esa
+[02257.17 --> 02261.89] partición de la letra ocupada, sí, estaban corriendo procesos y si yo quería
+[02261.89 --> 02272.98] traer un proceso nuevo, que mi diérea, esto, o mi tabelos, no se va a fallir,
+[02272.98 --> 02281.64] esta es mi proceso nuevo. Es ese proceso lamentablemente no entre ese
+[02281.64 --> 02286.64] pedazo del partition. Cuando tenemos hablamos del partición es dinámica, tenemos
+[02286.64 --> 02294.18] huecos y yo tengo dos huecos. Y mi proceso nuevo no entra en ninguno de los
+[02294.18 --> 02301.16] huecos. Entonces, sí, pero, digo que creamos las particiones dinámicas para poder
+[02301.16 --> 02313.32] poner más procesos y ahora con el andar de la del día, me quedaron huecos en los
+[02313.32 --> 02327.00] huecos. Entonces, ¿qué tenemos ahora? Bueno, es otro problema nuevo.
+[02327.00 --> 02333.88] Y qué solución podemos hacer? Si yo pudiera cargar, si yo pudiera dividir mi
+[02333.88 --> 02342.16] proceso en muchas fétitas y yo podría dar dos fétitas acá y una fétita acá y con
+[02342.16 --> 02348.00] eso no me lo entra. Y podemos ejecutar el proceso, el problema que en las particiones,
+[02348.00 --> 02352.64] cuando yo tengo particiones tanto fíjas como dinámicas, el proceso tiene que estar todo
+[02352.64 --> 02358.96] junto. Y cuando tiene que estar todo junto aparece el problema. En la caso de las
+[02358.96 --> 02364.36] particiones fíjas, que me sobra espacio dentro de la partición porque me procesas chiquitito.
+[02364.36 --> 02369.80] Entonces, eso se llama desperdición. Ahora, cuando estoy en la partición de dinámicas,
+[02369.80 --> 02374.44] tengo un desperdicio también, pero yo más de perdiio externo porque no perdenése a la
+[02374.44 --> 02380.64] partición porque las particiones se ajustan porque son bien amigas. Y eso es un desperdicio
+[02380.64 --> 02389.72] externo en el caso de que tenemos ahora en ese modelo que dibujamos, tenemos desperdicio externo.
+[02389.72 --> 02394.96] Porque no puedes estar metiendo ahí el proceso que yo quiero ejecutar,
+[02394.96 --> 02401.96] siendo teniendo la memoria disponible en la remarque también dos huecos javos distintos.
+[02401.96 --> 02410.44] Si yo pudiera vivir mi pirajrama en pedacitos todos iguales y que todo uno no trabaje
+[02410.44 --> 02416.76] con pedacitos todos iguales y a todos los divididos, todo dividido por ejemplo a un
+[02416.76 --> 02421.56] cargo, un poco todos en tamaño de un cargo. Entonces, cuando tengo un cargo, lo meto y voy
+[02421.56 --> 02430.36] metiendo pedazos. Entonces, lo agradecer que mi proceso se divide siempre en partición
+[02430.36 --> 02440.80] en pedacitos en likes todos iguales. Yo podría estar voliendo una cara, otra cara y
+[02440.80 --> 02449.68] es que el trocar. Y perfecto cargamos nuestro proceso, ese día algo muy bueno.
+[02449.68 --> 02463.83] Bien, eso dio tratar de resolver este problema, dio el paso a lo que se llama pasinada.
+[02463.83 --> 02470.39] Lo azul dio el paso, como se dio como una solución, la paginación. Un otra solución
+[02470.39 --> 02474.97] está bien en el medio, que hasta que alguien se lo ocurrió la pagina. Y cuál es fuera
+[02474.97 --> 02480.67] lesa a su opción? ¿Y mirar? Podes comprimir, mira el de Frank, que ustedes se que
+[02480.67 --> 02488.39] gustan dentro del disco, ustedes de Frank me entandas en de Frank y lo que hacen es todo
+[02488.39 --> 02493.63] los datos lo pueden, lo más juntos posible. Entonces, si yo junto a todos los datos, me
+[02493.63 --> 02499.83] va a quedar espacio que yo necesito. Nunca intentaba hacer eso mientras están me
+[02499.83 --> 02508.25] que gustando o están jugando. Hay un juego que requiere, digamos, una interacción muy
+[02508.25 --> 02512.59] alta con la computadora. Porque no lo hacen porque saben que se le va a chanchar la computadora,
+[02512.59 --> 02519.17] voy a estar copiando datos de un lugar a otro para hacer el hueco para que ustedes
+[02519.17 --> 02529.49] pueden correr el programa. Entonces, la compactación, sí, es una solución medio, no
+[02529.49 --> 02534.77] muy tráplicable. Me he vido que se iba mucho tiempo y bueno, quién tiene que estar
+[02534.77 --> 02540.13] procesando. Bueno, en principio la compactación lacía la CPU, o sea que la CPU perdía
+[02540.13 --> 02545.69] tiempo copiando bytes de un lugar a otro a la memoria para hacer espacio para poder ejecutar
+[02545.69 --> 02552.53] un proceso nuevo. Después de lograr hacer gracias a los procesadores entre la salida,
+[02552.53 --> 02560.77] que muchos conocen como canales y otros conocen con el nombre de VMA, eso se me da
+[02560.77 --> 02568.53] lograban hacer de que se pasada por el disco y no estuviera la CPU tratando de copiar
+[02568.53 --> 02576.65] pedazo de memoria de un lugar a la otro. Entonces, con la de MMA lograron mejorar eso,
+[02576.65 --> 02585.09] pero igualmente había que decidir cuando hacerlo y si iba a remir, porque supognamos que
+[02585.09 --> 02591.41] yo nacía todo eso empezaba a compactar llevando el día bajo para arriba y de repente cuando
+[02591.41 --> 02598.65] estaba haciendo la compactación, terminé el proceso del medio. Y una y separa que empecé
+[02598.65 --> 02604.13] la compactación si ya se fue este que estás justo del medio. Si se va a ser en medio, no tengo
+[02604.13 --> 02612.53] que ser nada, entra el proceso nuevo y entra si simple y sencillo. Entonces, bueno, como
+[02612.53 --> 02619.57] todas son los sientes en su grudio y su contra, yo creo que la página fue una de las mejores
+[02619.57 --> 02628.49] opciones para resolver este problema para resolver el tema de los desperdicios, para
+[02628.49 --> 02636.69] ir. Y digamos la próxima vuelta que vamos a ver es, bueno, acá en la página, el proceso tiene
+[02636.69 --> 02641.89] que estar todo el memoria también. Y la gran pregunta es, necesito tener todo el proceso
+[02641.89 --> 02648.53] memoria principal, ¿no? Pues, te mando memoria secundaria, o sea, en un disco lo puedo, ¿verdad?
+[02648.53 --> 02655.49] Sí, bueno, y con eso, para decirles, chema, no necesito tener todo el grudio más cargado.
+[02655.49 --> 02664.09] Si solo estoy usando un pedacito y es el primer slide, necesito tener todo eso,
+[02664.09 --> 02678.12] cargado. Entonces, apareció la nueva versión, la nueva vuelta que es memoria virtual.
+[02678.12 --> 02684.20] Y con esta vuelta, de verlo en el virtual, digamos, logramos tener lo que hoy tienen los
+[02684.20 --> 02691.40] sistemas operativos. Sí, paginació con memoria virtual. Por supuesto, cuando uno tiene
+[02691.40 --> 02696.16] esta posibilidad dice, bueno, para que voy hasta tanta plata memoria, si total un pedacito
+[02696.16 --> 02703.20] del proceso tiene que estar en la memoria real, me moria sin poca para que no es
+[02703.20 --> 02712.28] intento tanto. El problema viene que cuando una empieza a hacer esto de dejar todo el proceso
+[02712.28 --> 02717.08] en la memoria virtual, de la memoria virtual, para poder ejecutarlo, tienen que cargarse
+[02717.08 --> 02724.24] a la memoria real. Y ahí es una empieza a subir y bajar los pedacitos del proceso.
+[02724.24 --> 02728.48] Si subiendo y bajando, subiendo y bajando y bajando y bajando y de repente esté la
+[02728.48 --> 02736.32] vent que su computadora está súper lenta y su disco rígico al rojo, porque está escribiendo,
+[02736.32 --> 02740.80] le sienga escribiendo, le sienga y subiendo y bajando de memoria páginas para poder hacerlo
+[02740.80 --> 02746.40] ustedes que él. Y dentro de la poedda en ver eso que yo ya tengo estoy mal con la memoria,
+[02746.40 --> 02753.24] cuando ustedes cambian de una aplicación a otra, por ejemplo en Windows, en Windows y ven que
+[02753.24 --> 02760.72] el cambio hasta tarde en refrescar la pantalla, o sea, está tan lento porque está siendo
+[02760.72 --> 02771.81] mucha entrada salida y lo hace que todo la computadora se ha chanté. Así que bueno,
+[02771.81 --> 02780.81] está todo eso tan muy bien la parte de memoria virtual. Con esto hicimos un panero muy
+[02780.81 --> 02791.45] rápido, todos los temas de lo que es digamos administración de memoria. Si se puede
+[02791.45 --> 02801.53] conseguir que es la soap, la parte de la memoria virtual, miren que Windows rechaba
+[02801.53 --> 02807.05] pagefilo y lo iba así, que también sería como un tipo de memoria virtual. Si es un
+[02807.05 --> 02814.17] lugar donde no va dejando, lo que no se puede dejar en memoria. Por supuesto sobre el tema
+[02814.17 --> 02820.17] en memoria virtual, se trabajó mucho en particular en la parte de los códigos.
+[02820.17 --> 02832.94] Víamos permite hacer mapéos, permite hacer mapéos de un archivo de ejecutable, se
+[02832.94 --> 02841.10] mapéa directamente a memoria y digamos, no necesito tener un espacio extra para copiar
+[02841.10 --> 02847.82] de nuevo al código, sino que utilizan donde está el masena de programa, subo y bajo las
+[02847.82 --> 02853.02] páginas de ejecución. La que sí, o sí tengo que tener separadas son las páginas
+[02853.02 --> 02858.94] de datos, sí, porque los datos se modifican y se camiando en memoria y esas páginas no
+[02858.94 --> 02866.54] están reflejadas en el programa, las páginas están reflejadas en la memoria en los datos.
+[02866.54 --> 02871.66] Entonces, sí, o sí, las páginas de datos voy a tener que bajarla en este caso,
+[02871.66 --> 02876.06] lo que vos comentas que se usaba. O sea, el software no vive toda la memoria virtual.
+[02876.06 --> 02883.26] En el software vive, sólo las páginas que tienen datos. En la parte del programa, el
+[02883.26 --> 02889.90] ejecutable, ahí vive las páginas de código y también en el software parece las páginas
+[02889.90 --> 02898.30] que resultaron como estátas. A todo esto, como les decía, le falta dar una vuelta de
+[02898.30 --> 02906.06] tuerca que es la última administración que se ve, que es la administración segmentada página,
+[02906.06 --> 02913.18] que o sea que arriba de esto viene la segmentación y para que sirve eso bueno, bien,
+[02913.18 --> 02921.18] a solucionar un tema y qué tema es. Si todo el mundo tengo 70 procesos que utilizan
+[02923.18 --> 02930.22] esa parte del código, la tienen todos, las quieren usar todos, porque todos la usan,
+[02930.22 --> 02935.66] porque les parece muy linda y tiene incrementado un código que se usa la moda. Bueno,
+[02935.66 --> 02940.62] todas las procesos lo quieren usar esa parte. ¿Qué hago? La tengo revicada en todos los procesos.
+[02940.62 --> 02948.22] No, es una realidad de espacio sin sentido. Puedo tener que todas los procesos usan esa página.
+[02948.22 --> 02957.34] Sí, o es una página. Usan ese pedacito de código, lo usan como quieran, y cuando lo necesiten.
+[02958.06 --> 02965.10] Y a partir de ahí aparecieron lo que ustedes conocen como dinámic, linda y granis o del
+[02965.10 --> 02974.38] él es o los puntos solinos. ¿Qué son esos? Son pedazos de código que se pueden cargar. Ahora,
+[02975.18 --> 02982.70] todo el mundo lo pone en la misma posición de programa, ¿no? Cada programa lo va a poner en una
+[02982.70 --> 02988.54] parte donde la queda el lugar y lo va a usar cuando lo necesite. Entonces,
+[02988.54 --> 02996.54] eso, como cupa distintos lugares, no puedes ser una página compartida como veíamos acá. Tiene
+[02996.54 --> 03001.98] que tener un nombre y tiene que tener algo que lo podemos identificar y que todo el mundo sepa
+[03001.98 --> 03011.66] como se llama para poder usarla. Entonces, eso es el paso final en el tema de administración de
+[03011.66 --> 03019.50] memoria que sería la segmentación. Sí, se crean segmentos que son pedazitos de código,
+[03019.50 --> 03028.86] los cuales pueden compartir por muchos procesos y digamos, no tenerlo todos copiados en cada
+[03028.86 --> 03037.34] proceso. Hacinas en las deleles y así nace en los puntos solinos. Bien. Es un pario de todo lo que
+[03037.34 --> 03043.42] es la parte de la memoria de administración de memoria. Así que lo que vamos a hacer es comenzar
+[03043.42 --> 03050.54] con las pepetes y todo lo que vimos se va a ir revelando en las pepetes. Pero bueno, este es el
+[03050.54 --> 03056.06] panero general que siempre me gusta darlo, chargado antes para que vas a miendo de por qué van
+[03056.06 --> 03063.50] apareciendo las cosas y los puntos que van solucionando. Igual el pepetes de memoria estaba
+[03063.50 --> 03073.43] bastante bien trabajado, así que nos va a ir guiando también. Preguntas se destinen en dos
+[03073.43 --> 03083.19] unas partes de memoria a los deleles. No, lo que se tiene es, digamos, el del L se carga por un proceso.
+[03083.19 --> 03090.87] O sea, cuando un proceso corre y se yo ven un centro de la del L a perfecto. Eso se carga en una
+[03090.87 --> 03097.83] posición de memoria y se publica dentro de los documentos públicos que se tiene dentro del
+[03097.83 --> 03105.35] sistema operativo. Entonces todo el mundo que quiero usar a va a preguntar primero, si tengo
+[03105.35 --> 03114.07] operativo, tal a cargada, sí, la puedo usar, sí, bueno, la usa. Y sí dice que no, como él la necesita,
+[03114.07 --> 03120.39] la tiene que cargar y se carga en una posición de memoria. Bien, asociada al proceso, pero la
+[03120.39 --> 03127.35] pone en modo público. Y sí, hay muchos que la usa, se va sumando un marito diciendo la está usada por
+[03127.35 --> 03133.03] cinco procesos. A perfecto. Bueno, se empieza a ver, cuatro procesos, tres procesos, dos procesos,
+[03133.03 --> 03138.87] la está usando un proceso. Bueno, ese proceso se va, bueno, se baja la librería sin nada y además la usa.
+[03138.87 --> 03145.59] Y eso es lo que permite trabajar gracias a la tema de segmentación, o sea, de tener segmentos
+[03145.59 --> 03158.52] nombrados para poder subir los sigajaros. Debería también tener algo muy interesante que sería la
+[03158.52 --> 03164.92] versión de la del L, y que cuando ustedes quieran limpiarse, gente, podrían que indicar la versión.
+[03164.92 --> 03171.72] La venta le vende Windows, cuando implemento en L, es no tu cuenta de eso. Y fíjense lo que
+[03171.72 --> 03183.08] traen tu ir a la dicha de trabajar con software de la FIP, el vendito siap, o te el siam venía con unas
+[03183.08 --> 03191.24] del L, es que necesitaba por todas las vientes que tenía. Pero si ustedes instalaban un ambiente
+[03191.24 --> 03198.44] distinto, pisaba las del L, y cuando querían correr el siap, se llama lefucionadas más y bueno.
+[03198.44 --> 03207.96] Ahí el problema venía como se nombraban las del L, es que no estaban incluidas las versiones,
+[03207.96 --> 03216.12] porque un archivo de L, a punto de L, se llama a punto de L, a punto de L, para la versión 2.
+[03216.12 --> 03224.60] Entonces, cuando ustedes los copianos sobre escribían los archivos que no correspondían,
+[03225.16 --> 03229.40] que se sobre escribían, porque había otro proceso que si les estaba usando a esa versión.
+[03229.40 --> 03239.72] Entonces, bueno, teniendo muchos temas de implementación del lado fue una buena solución,
+[03239.72 --> 03248.44] porque permitió compartir memorias, inclusive poner, se recuerdan que hablamos en semáfulos, que los
+[03248.44 --> 03254.04] procesos tenían que compartir sonas de memoria para trabajar y sin tranquilizar su acceso y todo
+[03254.04 --> 03261.16] eso. Bueno, los segmentos apartes de segmentación permite compartir segmentos de datos y segmentos de código.
+[03261.16 --> 03269.16] Entonces, son cosas muy buenas, que, bueno, aparecieron a partir de que dos procesos que ya en
+[03269.16 --> 03276.16] compartir una página, pero no se puede, porque la página en un número y en otros
+[03276.16 --> 03282.68] se mape a la número. Entonces, cómo hacen para compartir con números, las direcciones interna van a
+[03282.68 --> 03290.80] variar porque están distintas. Entonces, al tener esta nueva capa arriba de la página,
+[03290.80 --> 03299.00] la que se llama segmentación, bien, se logro un gran paso para compartir un memoria.
+[03299.00 --> 03316.30] Algo de otra pregunta, creo que estoy hablando más de 40 minutos, ¿no? Se pasó un poco el tiempo. Bueno,
+[03316.30 --> 03326.33] así me dicen que hoy, gracias. Cero te llamamos a hablar mucho, así que lo que vamos a hacer es hacer
+[03326.33 --> 03333.57] un repaso rápido por las de positivas. A medida que más se va pasando en la depositiva, si tienen
+[03333.57 --> 03340.25] preguntas a la, voy a ir parando también por los temas, ya saben los temas, porque la que hago
+[03340.25 --> 03347.05] de dar un repaso así muy rápido, así que saben dónde se termina cada tema y pueden parar
+[03347.05 --> 03356.59] y mandar preguntas, a medida que vayamos viendo las positivas. Bien, las positivas están
+[03356.59 --> 03379.98] cargadas en el campus, así que se habla pueden ver. Bueno, vamos a mostrar, ¿sabén? Bien,
+[03379.98 --> 03393.24] ¿cómo estamos? Para que sirve la administración de memoria. Bueno, como dijimos, es un recurso
+[03393.24 --> 03401.00] y que tienen que asignarse a los procesos. Tienen que probar el mecanismo para que no se pisen,
+[03401.00 --> 03409.04] como bendigimos en la presentación el proceso uno, trabaja dentro del surango, dentro del
+[03409.04 --> 03417.24] suplo, de su participación, por ejemplo. Entonces, eso hace que las particiones se han
+[03417.24 --> 03422.92] un bloquecidos que no se pueden estar, digamos, transgrediendo, pasando por eso, se tiene un registro
+[03422.92 --> 03431.40] vacío, un registro alímito. Bien, y tampoco pueden estar accediendo a la memoria del sistema
+[03431.40 --> 03437.60] operativo, también de gestar protegida. Bien, por eso, en la administración, el sistema operativo
+[03437.60 --> 03443.56] tenemos el sistema operativo por un lado, la administración de memoria y por otro lado,
+[03443.56 --> 03449.20] la administración de la memoria de los procesos. Recuerden que dentro del sistema operativo,
+[03449.20 --> 03455.64] se puede estar implementando alguna de estas administraciones de memoria. Sí, también se puede
+[03455.64 --> 03461.16] pensar de que parte del sistema operativo puede hacer bajado a disco, pero, bueno, eso
+[03461.16 --> 03467.60] ya depende de cuánto complejo hagan sus sistemas operativos. Por ejemplo, una gran pregunta.
+[03467.60 --> 03479.40] La, digamos, donde yo tengo la tabla de la que control de procesos, la TVCP, de la administración
+[03479.40 --> 03489.72] de procesador. La puedo poder ver el disco y las respuestas no. Porque, y porque si está
+[03489.72 --> 03494.76] fuera cuando un proceso quiera agarrar el próximo, o dióloga un procesador quiera agarrar
+[03494.76 --> 03501.92] el próximo proceso, va a tener que quedarse en lo que hago, hacer que buena la memoria,
+[03501.92 --> 03513.04] la página, la tabla, la tabla y, con eso, empezaba a buscar, también retocar. Entonces,
+[03513.04 --> 03522.16] hay muchas, muchas estructuras que no deberían estar bajadas. Entonces, lo más simple es
+[03522.16 --> 03529.04] sencillo, es implementar un sistema operativo que tiene toda la memoria a lo cada. Sí,
+[03529.04 --> 03536.44] está. Me cuánto necesito para mi sistema operativo? Uyiga, perfecto. Un siga el palestino
+[03536.44 --> 03543.64] operativo. Y yo te irá y por qué me citará algo que sea dinámico dentro del sistema operativo.
+[03543.64 --> 03551.92] Y, fíjense, si yo define un siga, y mi tabla de procesos que puedo tener está cortada a
+[03551.92 --> 03558.08] siempre esos, yo no voy a poder un mezcar más de siempre o el my sistema operativo. Y
+[03558.08 --> 03564.76] quiero poner 200, no no puedes. Entonces, el sistema operativo no te va a dejar crear procesos.
+[03564.76 --> 03572.76] Y, espero, y entonces, estoy acotado. Y sí, porque el espacio que yo soy a regresar a mi
+[03572.76 --> 03577.76] hoy para el sistema operativo tiene un espacio finito, no puedo seguir creciendo. Bueno, una forma de
+[03577.76 --> 03582.72] resolver ese tema de la sistema de la sistema de la sistema de sistema de sistema de
+[03582.72 --> 03589.72] bueno, tal bien yo, de guardé un siga y puedo tener siempre los esas. Voy a cremarte un saco de
+[03589.72 --> 03600.56] las a mi atras de mi procesos, de saco 500 mida y tener 150 procesos. Bueno, sí, es un traído
+[03600.56 --> 03609.28] aceptable, sí, y se están. Entonces, el sistema operativo puede ser con un espacio fijo
+[03609.28 --> 03618.88] de memoria o que pueda crecer. Entonces, el sistema operativo es un característico buena que crezcan.
+[03618.88 --> 03626.00] Pero, lleva todo a dentro de el sistema operativo, tiene que grabarse y ser más complejo.
+[03626.96 --> 03636.97] Bueno, vamos a la próxima de positiva, vamos a la positiva 4. Las administraciones que
+[03636.97 --> 03642.69] de memoria, bien, la que vimos siempre contigo es todo para uno sobre, para seleccionado
+[03642.69 --> 03648.85] fijo, que era lo que habíamos estado llegando, participió nada variable, la paginaación,
+[03648.85 --> 03654.57] la paginaación por de manga que es como lo vemos en el virtual y por último la segmentación
+[03654.57 --> 03667.79] paginaada. Sí, sí, le contigo. Un proceso, toda la memoria, el proceso y la parte que queda bajo,
+[03667.79 --> 03678.22] se desperdicia. Bueno, eso de ya va fragmentación externo. Eso es una situación trivial, no permite
+[03678.22 --> 03685.78] multiplicar la información. Sí, hay una opción en esto que llama Oberlais. Oberlais es,
+[03685.78 --> 03693.46] miran, si vos, él es un proceso. Y no entraba todo dentro de la memoria que yo tenía,
+[03693.46 --> 03702.74] te podías estar haciendo una vanguardeta como para que vos subas lo que necesitas. Entonces,
+[03702.74 --> 03717.94] lo que, si el proceso era todo esto, se va a ir cursando. Sí, esto. Bueno, entonces, si el proceso
+[03717.94 --> 03724.30] era todo esto, si cuando se cargaba directamente a memoria física en la simple contigo,
+[03724.30 --> 03731.50] se decidía mirar. Me están cargando y por la lógica que están llevando, voy a cargar
+[03731.50 --> 03738.06] la subunitina de. O voy a cargar la subroutine de hacer. Entonces, lo que así era, cuando
+[03738.06 --> 03744.46] corría determinaba, que era lo que iba a cargar del archivo y cargaba eso en la memoria,
+[03744.46 --> 03751.42] el mismo proceso. Yo he dicho llamado Oberlais, que permitía y que correr el outran,
+[03751.42 --> 03758.82] por ejemplo, en una especie vieja, mi vez a mi vez y de repente el outran iba dando y van
+[03758.82 --> 03767.08] dando y tenía que cargar porque me fui para la derecha, tenía que cargar el Oberlais de la
+[03767.08 --> 03772.84] derecha y si no, si me iba para la izquierda, de cargar en la hogar de la izquierda. Entonces,
+[03772.84 --> 03779.34] así decidía y cargaba la subunitina que le correspondía para seguir el juego. Algo muy
+[03779.34 --> 03785.06] simple, muy sencillo lo que pasaba era que digamos lo tenía que programar el programa
+[03785.06 --> 03790.94] ador, eso ya que se ha sido el día de usuario, encarme a todos los demás que vienen,
+[03790.94 --> 03799.10] lo hace el sistema operativo. Bien, la que ha estado la continuación de Oberlais. Bueno,
+[03799.10 --> 03807.10] el soapismo es algo que sí emumula lo que sería la multiple la mación. Bien, entonces,
+[03807.10 --> 03812.50] yo tengo un proceso a secar el proceso a sí y tengo un proceso a ver y secar el
+[03812.50 --> 03818.70] proceso de se baja a la y se sube. Y eso permitía subir y bajar, pero que pasa, lo hacía
+[03818.70 --> 03823.70] completo. Eso es el primer concepto de soapismo, no es el soapismo que usted es que,
+[03823.70 --> 03829.74] en actualmente, bien, y eso es loapismo, permitía correr dos procesos, sí, cargando
+[03829.74 --> 03838.29] uno y les pascargando el otro para continuar y ver y visitarse. Bueno, la mejor imposible
+[03838.29 --> 03843.77] de partición de la memoria, y es decir, una proceso de distintos a cada partición.
+[03843.77 --> 03850.73] Y eso da la partición de la fija, que como les dije, bueno, tienen espacios, ya
+[03850.73 --> 03857.69] pre-definidos, procesos que vienen con distintos tamaños y van a necesitar una tabla,
+[03857.69 --> 03862.21] donde diga dónde comienza y ya está donde termina cada partición, así es, el tamaño
+[03862.21 --> 03871.61] de la partición. Y con esa tabla, sí, se hace siempre lo que les comentaba, cuando
+[03871.61 --> 03877.01] la se pegó, necesita hacer una dirección, la se pegó esta leyendo el código, sí,
+[03877.01 --> 03885.89] que dice la posición 15, perra, el composición 15 no es la posición 15 de la memoria física,
+[03885.89 --> 03893.29] no es la posición 15 de mi proceso, a eso le tengo que sumar el registro base, entonces
+[03893.29 --> 03902.93] con el registro base, más la dirección, sí, sí, es mayor, o igual, sí, dice que sí,
+[03902.93 --> 03907.93] es mayor que el registro base, contigo, ahora sí, dice que no, porque la dirección es negativa,
+[03907.93 --> 03916.13] que chau, te vas porque el sistema operativo dice error y te saca, perfecto, está más
+[03916.13 --> 03924.33] a arriba que la parte baja de la partición, porque la base es menor igual, entonces la
+[03924.33 --> 03930.61] base más la dirección, sí, por el camino todo el medio, y dice que sí, que es mayor que
+[03930.61 --> 03938.01] la base, perfecto, ahora es menor que la base más el límite, sí me dice que sí, accede a
+[03938.01 --> 03944.21] memoria, y sí me dice que no, otra vez el error por el sistema operativo, te cansela, directamente
+[03944.21 --> 03954.53] que saca y no, no sigue la la la ejecución, bien, entonces eso es como trabaja el tema de
+[03954.53 --> 03961.49] un partición, sí, se o tengo un registro base que le sumo a la dirección que viene del
+[03961.49 --> 03974.77] programa, que dice 15 y se fija si no se va de límite, sí, sí, que es la base más el límite,
+[03974.77 --> 03980.97] así es como que yo puedo estar ubicando las procesos, sí, puedo carnal principio y bien
+[03980.97 --> 03985.93] el final, y me quedo en el espacio libre, que puede haberne otro proceso y lo puede estar
+[03985.93 --> 03991.29] ocupando que me quedo otro pedacital libre, y dice de espardillo del proceso tres,
+[03991.29 --> 03999.37] bien, recuerden que teníamos tres particiones, sí, la partición es una que era grande y las
+[03999.37 --> 04004.29] otras dos eran muy parecidas, y esto es lo que os digo, el tema de el espardillo del proceso
+[04004.29 --> 04013.26] tres, porque no compo toda la partición, esa es el perdición como está dentro de la
+[04013.26 --> 04020.06] partición se llama fragmentación interna, cuando pasamos de la partición adovariable,
+[04020.06 --> 04029.26] vuelve a pasar lo mismo, sí, y fíjense que lo que yo tengo hay esparcio libre, no es, no se le
+[04029.26 --> 04039.58] llama, no es, no se le llama de esparvicio, sí, el espardillo interno queda en el color que tiene
+[04039.58 --> 04050.14] el proceso, si el proceso cobre todo el espacio de memoria que está dividido normalmente en
+[04050.14 --> 04057.42] regular de DC Cyphe White, por ejemplo, usa los DC Cyphe White, ahora si un sal 12 bytes,
+[04057.42 --> 04063.10] hay queda a eso se le llama a despardillo interno, bien, hay esto que queda libre porque
+[04063.10 --> 04068.94] esto no es en partición variable, es variable es un juego, sí, no es un despardillo,
+[04070.14 --> 04078.46] se va el proceso una porque terminó bien y queda un 12 pasios libre, quedan dos juegos, sí,
+[04078.46 --> 04086.62] un proceso 4 viene y usa uno de esos juegos en donde entra, sí, en el otro no entra,
+[04086.62 --> 04095.98] por lo tanto se usa una política es donde yo entró, me quedo, por ejemplo, o podría ser donde yo
+[04095.98 --> 04101.66] entró y sea el menor de los juegos, entonces tienen que recorrer todos los juegos que dice
+[04101.66 --> 04107.82] acá dentro sí, bueno, ese el que más chiquito es no, se iba buscando, bueno, tiene que
+[04107.82 --> 04112.70] se iba buscando hasta que es lo gran trá, porque luego la forma de hacer ese algoritmo de
+[04112.70 --> 04117.10] es organizar los juegos de menor a mayor, sí y si ya tengo todo el juego, el menor a
+[04117.10 --> 04122.06] el mayor, el mismo mejor, el menor entra, el mejor entra, el próximo entra, el
+[04122.22 --> 04129.02] el mejor sí, sí, listo, eso es que agarre el hueco más chico en el cual el proceso entra,
+[04130.46 --> 04135.66] esa es una, como ya vamos en la política de la asignación de huecos, sí,
+[04138.62 --> 04143.50] ahora que pasa cuando viene y quieren entrar el proceso 5 y se chino, no entra porque no hay
+[04143.50 --> 04148.54] pasio libre, porque están dos huecos y vosos su uno solo, y no te puedo partir el medio,
+[04148.54 --> 04152.62] porque estamos en partición de nada, participan nada a esto todo el proceso junto,
+[04153.66 --> 04162.13] y eso se le llama fragmentación extirla, no es la fragmentación interna.
+[04162.13 --> 04166.57] Bien, como dijimos que a las fragmentaciones extirla se le podía estar,
+[04166.57 --> 04169.53] digamos, se le hicieron con la compactación.
+[04169.53 --> 04172.17] Memoria Memoria Memoria es muy caro, sí.
+[04172.17 --> 04178.21] Y la opción mucho más barata es copiar todavía en el disco
+[04178.21 --> 04186.25] y después del disco a la memoria.
+[04186.25 --> 04191.05] En la compactación de memoria en disco a memoria,
+[04191.05 --> 04193.25] la CPU que da libre para poder ejecutar otros.
+[04193.25 --> 04199.65] Sí, porque está robando ciclo conlace uso de canal de entrada salida.
+[04199.65 --> 04203.65] Bien, cuando se hace de memoria a memoria,
+[04203.65 --> 04206.25] la CPU está dedicada a hacer eso.
+[04206.25 --> 04209.25] Y no puede estar ejecutando otro proceso.
+[04209.25 --> 04214.25] Eso es algo que se tiene que dar en cuenta y depende de cómo ustedes,
+[04214.25 --> 04225.25] la compactación, la más óptima, que vamos, sería de memoria a disco a memoria.
+[04225.25 --> 04232.26] Como les decía, como así no en esos huecos,
+[04232.26 --> 04236.26] los huecos le voy a usar con el mejor ajuste con el peor ajuste
+[04236.26 --> 04237.26] o con el primer ajuste.
+[04237.26 --> 04241.26] Así es, tengo ordenado, lo ordeno de menos a la mayor.
+[04241.26 --> 04244.26] Busco el mejor ajuste que empieza desde los más chiquitos
+[04244.26 --> 04249.26] hasta que no cree que el proceso entre en esa partición
+[04249.26 --> 04251.26] aunque me quiero variar.
+[04251.26 --> 04254.26] Si lo logró, ahí hago el mejor ajuste.
+[04254.26 --> 04256.26] ¿Cómo lo va a tener ajuste?
+[04256.26 --> 04258.26] Lo va a dar de empezar por el principio, en piezo por el final
+[04258.26 --> 04259.26] de la lista ordenada.
+[04259.26 --> 04262.26] Ahora lo último y lo meto ahí.
+[04262.26 --> 04266.26] Y quedan de perdillos enorme.
+[04266.26 --> 04269.26] Mentiras, no es un desportillo, es una fragmentación.
+[04269.26 --> 04271.26] Externa.
+[04271.26 --> 04274.26] Es un desportillo externo, no es interno.
+[04274.26 --> 04277.26] Y lo puedes estar usando ese hueco
+[04277.26 --> 04279.26] cuando ponemos otros procesos.
+[04279.26 --> 04280.26] Se va a chicar en el hueco.
+[04280.26 --> 04284.26] El hueco más grande, al usarlo un pedazo, que de otro hueco más chico.
+[04284.26 --> 04287.26] Es el peor ajuste.
+[04287.26 --> 04290.26] El hueco más grande que puede decir
+[04290.26 --> 04292.26] y hay entro como proceso.
+[04292.26 --> 04295.26] El primer ajuste es agarro el primero de todos.
+[04295.26 --> 04296.26] Sí.
+[04296.26 --> 04301.26] Lo que pasa es en el modelo que yo simplemente que este menor
+[04301.26 --> 04304.26] de nada, todos los huecos, sí, el primer ajuste
+[04304.26 --> 04305.26] justo da el mejor.
+[04305.26 --> 04308.26] Pero si usted lo tienen luego, cocino ordenar y lo tienen
+[04308.26 --> 04311.26] solo ordenado por la dirección de memoria.
+[04311.26 --> 04314.26] El primer hueco puede ser cualquiera, puede ser el más chico,
+[04314.26 --> 04316.26] puede ser el medio, puede ser el más grande.
+[04316.26 --> 04320.26] Por eso tiene otra forma de hacer el primer ajuste.
+[04321.26 --> 04324.26] Como venan la opción más interesante,
+[04324.26 --> 04328.26] es tener ordenado los huecos por tamaño y no por dirección de comienzo.
+[04328.26 --> 04332.26] Sí, no porque el primer hueco es el que está el más cerca
+[04332.26 --> 04334.26] del cero de la memoria real.
+[04334.26 --> 04335.26] No.
+[04335.26 --> 04336.26] Sí.
+[04336.26 --> 04342.92] Entonces, supongamos que el peor ajuste
+[04342.92 --> 04343.92] es el primer ajuste.
+[04343.92 --> 04346.92] Bien, o el mejor ajuste.
+[04346.92 --> 04350.92] ¿Cómo le aponé de peor ajuste?
+[04350.92 --> 04354.92] Si el peor ajuste es lo menos intuitivo que existe.
+[04354.92 --> 04355.92] Sí.
+[04355.92 --> 04362.92] Si yo no voy a poner algo muy chiquito en un espacio muy grande.
+[04362.92 --> 04365.92] Eso es lógico, si estamos en las particiones fija,
+[04365.92 --> 04368.92] si estamos en las particiones variables,
+[04368.92 --> 04371.92] recuerden que ustedes lo que hacen es sacarle del hueco,
+[04371.92 --> 04376.92] libre, sacarle el pedacito que le corresponde al proceso.
+[04376.92 --> 04379.92] Y queda otro hueco más chico.
+[04379.92 --> 04380.92] Bien.
+[04380.92 --> 04384.92] Y aunque ustedes no lo crean cualquiera de los tres,
+[04384.92 --> 04390.92] si ustedes implementan los tres y si se ponen a trabajar y hacen rendimiento y buscan
+[04390.92 --> 04397.92] el modelo con un grupo de procesos que entre diferentes tamaños o de los mismos tamaños,
+[04397.92 --> 04402.92] como ustedes quieran, les van a desactarmente lo mismo al final del día.
+[04402.92 --> 04406.92] La cantidad de procesos va a ser muy similar.
+[04406.92 --> 04411.92] Y eso tiene que ver con algo que se llama teoría de los grandes números,
+[04411.92 --> 04414.92] que se ve en matemática discreto.
+[04414.92 --> 04419.92] Como le decía, cualquiera de los tres,
+[04419.92 --> 04422.92] el primer en el peor y el mejor ajuste,
+[04422.92 --> 04427.92] a la larga, al final del día o de los días,
+[04427.92 --> 04431.92] le va a dar la misma cantidad porque se va compensando.
+[04431.92 --> 04437.92] Y aunque ustedes no crean muchas veces el peor ajuste de la mejor que el mejor ajuste.
+[04437.92 --> 04441.92] Entonces, por eso, en promedio todos los mismos.
+[04441.92 --> 04450.01] Bueno, mejor posible para esto,
+[04450.01 --> 04454.01] participan a la memoria, para poder asignar una parte de cada procesos,
+[04454.01 --> 04455.01] es lo que estoy moviendo.
+[04455.01 --> 04459.01] Y además, partir los procesos se sumían en unidades de más pequeñas.
+[04459.01 --> 04462.01] Bueno, eso se va a la paginación.
+[04462.01 --> 04464.01] La idea es partir,
+[04464.01 --> 04468.01] la memoria de bloques y en las procesos empaginas.
+[04468.01 --> 04470.01] Para que parte de la memoria bloquea,
+[04470.01 --> 04475.01] porque yo tengo que ser capaz de poder lidamos en la dirigita,
+[04475.01 --> 04477.01] sí, en la misma posición.
+[04477.01 --> 04479.01] Así que significa,
+[04479.01 --> 04481.01] si yo tuviera que construir una parella,
+[04481.01 --> 04482.01] yo voy a poner un ladrilloito,
+[04482.01 --> 04483.01] después otro ladrilloito,
+[04483.01 --> 04484.01] y después otro ladrilloito,
+[04484.01 --> 04488.01] y las ladrilloitos están separados en determinadas,
+[04488.01 --> 04491.01] en las tamañas de las dirigitos,
+[04491.01 --> 04494.01] con todos los ladrillositos son iguales.
+[04494.01 --> 04496.01] Entonces, lo que se dice es,
+[04496.01 --> 04497.01] se particiona,
+[04497.01 --> 04501.01] la memoria real en espacios
+[04501.01 --> 04503.01] que corresponden a las ladrillositos,
+[04503.01 --> 04504.01] que le van a llamar milos,
+[04504.01 --> 04508.01] y las ladrillositos se van a llamar páginas.
+[04508.01 --> 04509.01] Entonces,
+[04509.01 --> 04510.01] los bloqueos,
+[04510.01 --> 04512.01] si las páginas tienen las mismas,
+[04512.01 --> 04513.01] en mi mismo tamaño.
+[04513.01 --> 04514.01] En principio,
+[04514.01 --> 04516.01] la necesariamente tiene que ser así,
+[04516.01 --> 04519.01] es recomienda porque se simplifican todas las cárículas,
+[04519.01 --> 04522.01] que los bloqueos sean el mismo tamaño que las páginas.
+[04522.01 --> 04526.01] Para los ejercicios de nuestra materia,
+[04526.01 --> 04528.01] vamos a estar utilizando bloqueos,
+[04528.01 --> 04531.01] tamaño de bloqueos igual a tamaño de la página.
+[04531.01 --> 04533.01] Y bueno,
+[04533.01 --> 04534.01] todas las páginas,
+[04534.01 --> 04537.01] los esos se deben encargar en memoria.
+[04537.01 --> 04538.01] Recuerden eso porque sí,
+[04538.01 --> 04540.01] si tiene que estar todo cargado de memoria
+[04540.01 --> 04545.45] para la administración de paginación.
+[04545.45 --> 04546.45] Bien,
+[04546.45 --> 04547.45] por ejemplo,
+[04547.45 --> 04549.45] tengo la distribución de memoria,
+[04549.45 --> 04550.45] sí,
+[04550.45 --> 04551.45] lo que esero,
+[04551.45 --> 04552.45] lo que hubo un lado 3,
+[04552.45 --> 04553.45] 4, 5,
+[04553.45 --> 04556.45] que esté otro tamaño,
+[04556.45 --> 04558.45] la línea que hace bloqueo,
+[04558.45 --> 04560.45] si lo que es 3,
+[04560.45 --> 04562.45] lo que yo le pute,
+[04562.45 --> 04564.45] todos los bloqueos están consecutivos,
+[04564.45 --> 04566.45] el 1º de cero,
+[04566.45 --> 04567.45] en adelante,
+[04567.45 --> 04568.45] lo mismo las páginas,
+[04568.45 --> 04569.45] de cero, en adelante.
+[04569.45 --> 04570.45] Entonces,
+[04570.45 --> 04571.45] bien un proceso,
+[04571.45 --> 04573.45] como tiene que estar todo,
+[04573.45 --> 04574.45] en memoria,
+[04574.45 --> 04576.45] se tiene que cargar todo el proceso,
+[04576.45 --> 04578.45] que este proceso tiene dos tres páginas,
+[04578.45 --> 04579.45] de cero a dos.
+[04579.45 --> 04580.45] Bien,
+[04580.45 --> 04582.45] la puedo ubicar donde a mí se ve de la gara
+[04582.45 --> 04584.45] y en el orden que yo quiera.
+[04584.45 --> 04585.45] Entonces,
+[04585.45 --> 04586.45] si yo le ubico de esta forma,
+[04586.45 --> 04588.45] tengo que tener alguien que me diga
+[04588.45 --> 04589.45] che,
+[04589.45 --> 04590.45] la página cero está en lugar,
+[04590.45 --> 04591.45] la página a una,
+[04591.45 --> 04592.45] tanto a otro lugar.
+[04592.45 --> 04593.45] Sí,
+[04593.45 --> 04594.45] porque cuando antes,
+[04594.45 --> 04595.45] estaba en toda un bito,
+[04595.45 --> 04597.45] que era en la partición,
+[04597.45 --> 04599.45] el código empezaba por la página cero,
+[04599.45 --> 04600.45] el ejecutado,
+[04600.45 --> 04601.45] el ejecutado,
+[04601.45 --> 04602.45] el ejecutado,
+[04602.45 --> 04603.45] el ejecutado,
+[04603.45 --> 04604.45] el ejecutado,
+[04604.45 --> 04606.45] el ejecutado,
+[04606.45 --> 04607.45] el ejecutado,
+[04607.45 --> 04608.45] el ejecutado,
+[04608.45 --> 04608.95] es decir,
+[04608.95 --> 04609.45] con la página cero,
+[04609.45 --> 04610.45] pero la página cero
+[04610.45 --> 04612.45] está pegada a la página 1.
+[04612.45 --> 04613.45] Entonces,
+[04613.45 --> 04615.45] por cada vez que se se referencia,
+[04615.45 --> 04616.45] la sépe,
+[04616.45 --> 04619.45] tendría que tener una tablita
+[04619.45 --> 04622.45] equivalencia que dice.
+[04622.45 --> 04624.45] Las páginas cero está en el bloque cuatro.
+[04624.45 --> 04625.45] La página 1,
+[04625.45 --> 04626.45] está en el bloque 1.
+[04626.45 --> 04628.45] La página 2 está en el bloque tres.
+[04628.45 --> 04631.45] Bien
+[04631.45 --> 04633.47] Fíjase que aparece en las número dos de las
+[04633.47 --> 04635.45] los u Lotis.
+[04635.45 --> 04644.29] 3, página 4, página 0, lo que es 4, ¿eh? Entonces, se llama una tabla de distribución de páginas,
+[04644.29 --> 04652.53] que se llama TDP, como les dije, todo el sistema operativo es un manejado de tablas y
+[04652.53 --> 04660.62] ya venan, ya venan que tenemos tabla por todas partes. Muy bien, ahí tengo la TDP que corresponden
+[04660.62 --> 04669.58] el proceso uno, porque a cada proceso voy a tener una TDP, bien, es algo sencillo. Entonces,
+[04669.58 --> 04675.54] desde el bloque de control de procesos, voy a tener algo que apuntar a la tabla de distribución
+[04675.54 --> 04683.10] de páginas TDP, donde el número de páginas 0, 1 o 3, 4, dice en qué posición se encuentra en
+[04683.10 --> 04688.26] la vez muy real, la 0 se encontra en lo que uno, la uno en lo que cuatro, las dos, a lo que
+[04688.26 --> 04693.98] se la dislacete, la tres se nos lo que siete y la cuatro, no es lo que no. Es una distribución,
+[04693.98 --> 04704.34] es una ejemplo general, sí, que invica cómo se va a payar. Hay fragmentación, ¿eh? Que
+[04704.34 --> 04715.30] se llama fragmentación, porque las páginas tienen toda su mismo tamaño, bien, yo creo que
+[04715.30 --> 04720.70] no es fragmentación interna, porque todas las páginas vi del lo mismo, bueno, hay un desperdicio
+[04720.70 --> 04727.38] interna, sí, primero principal hay un desperdicio interna, porque la última página, el programa
+[04727.38 --> 04732.76] no es el農, es que terminear justo en el tamaño de la página, por ahí termine un poco
+[04732.76 --> 04739.38] antes, sí, porque dice fin, y donde dijo fin, si eran las páginas son de un cada,
+[04739.38 --> 04746.34] sí, acá, tendría tres cada, el programa, pero el programa mide 2.5, que sea que la mitad de la
+[04746.34 --> 04753.34] última página no le tozando, y eso se llama fragmentación interna, que es un desperdicio,
+[04753.34 --> 04759.18] bien, pero después no tengo fragmentación, porque no tengo estar compactando la parte
+[04759.18 --> 04765.18] externa, la parte de esta en la zona hueca, son lo que sí, y justo en cada lo que
+[04765.18 --> 04774.36] entra una página, por lo tanto no hay fragmentación, pues eso se dice que el tamaño de la
+[04774.36 --> 04783.16] página sí lo que es al ser igual es, sólo puede haber fragmentación interna al proceso
+[04783.16 --> 04789.28] en el último bloque, que no hay que estar explicando. Ahora bien, cómo hacemos nosotros
+[04789.28 --> 04798.28] para manejar las direcciones de los procesos, se acuerdan que usted tenía en Champ, y
+[04798.28 --> 04805.16] los Champ decían saltar de acá, de el próximo lugar, bien, bueno, esas direcciones son direcciones
+[04805.16 --> 04810.48] lógicas, cuando ustedes programaban en el asemular lo que están diciendo saltar a tal
+[04810.48 --> 04815.52] lados, saltar a que el otro son direcciones lógicas, y se se llama direcciones lógicas,
+[04815.52 --> 04823.00] porque en la memoria después ocupan otro lugar, volamos a el dibujo, por ejemplo,
+[04823.00 --> 04830.56] la página cero, sí, y la posición cero de la página cero va a estar ocupando la humincación
+[04830.56 --> 04837.28] de bloque cuadro, y el bloque cuadro, como lo tengo, bueno, un multiplical, el tamaño de
+[04837.28 --> 04843.92] gró que por 5, porque está el cero 1, 2, 3, 4, sí, lo que ha pejado, el tamaño de
+[04843.92 --> 04849.56] bloque por 4, y una vez que tenga el tamaño de bloque 4, le sumas el desplazamiento
+[04849.56 --> 04855.24] dentro de las páginas cero, que es cero, entonces dentro de cada página, yo voy a tener
+[04855.24 --> 04864.48] un offset dentro de la página, sí, el direccionamiento es siempre lo mismo, cuando yo hago el
+[04864.48 --> 04871.08] champ, sí, si estoy en la página 1 y tengo un cá, va a ser un cá más lo que esté adentro,
+[04871.08 --> 04877.00] el offset dentro de la página 1, si voy a la página 2, lo que voy a tener en el caso de la
+[04877.00 --> 04885.88] página 2 va a ser, el tamaño multiplicado por los, sí, y la ubicación el offset que tengo
+[04885.88 --> 04890.56] dentro de la página, eso si fuera que está todo jutito, pero cuando no está todo jutito,
+[04890.56 --> 04896.72] tengo que decir, donde se encuentra la página 2 y ahí dentro de esa página 2 sumas el
+[04896.72 --> 04903.04] offset, bien, y después que hay que acular desde que empieza la memoria hasta este nuevo lugar,
+[04903.12 --> 04914.80] entonces yo tengo que arrabar una función que me diga, sí, el va a 5 de la página 2 se encuentra
+[04914.80 --> 04923.76] en el bloque 4 va a 5, porque el desplazamiento interno de la página, sí, es el mismo desplazamiento
+[04923.76 --> 04933.72] dentro del bloque, porque el bloque y la página tienen el mismo tamaño, entonces cuando
+[04933.72 --> 04940.28] yo tengo una dirección lógica, el número de página se pone siempre adelante, que es,
+[04940.28 --> 04950.76] porque tengo el desplazamiento que son tantos bits, necesite para representar el tamaño de la página,
+[04950.76 --> 04959.04] si es un cá, sí, desplazamiento tengo un cá, cada página, mi de un cá, yo tendría que poner para
+[04959.04 --> 04969.08] tener un cá es 2 a 10, sí, así que tengo que tener 10 bytes, sí, de 0 a 9, son 10 bytes para
+[04969.08 --> 04975.56] representar cualquier dirección dentro de una página, que sería el desplazamiento o también
+[04975.56 --> 04984.92] llamado obs, y después adelante tengo el número de página, pero recuerden que ustedes al proceso
+[04985.16 --> 04995.28] lo partieron empágenes, el proceso era un todo, sí, que ustedes ejecutaban, movían, saltaban,
+[04995.28 --> 05002.20] hacía un comparación, etcétera etcétera, y ustedes iba encaminando, caminaban, caminaban, caminaban
+[05002.20 --> 05010.24] y si ustedes caminan, el proceso del programa ustedes comienzas caminando, caminando, caminando, caminando,
+[05010.32 --> 05016.32] suman uno, suman uno, suman uno, suman uno, según momento que terminara la página 0, sí, y suman uno
+[05016.32 --> 05023.56] y pasara la página 1, entonces ese cambio tiene que verse acá, o sea, con ya estaba en la página 0,
+[05023.56 --> 05029.72] si acá eran produceros, yo me voy a ver, me voy a ver, hasta un momento en que tanto dos acá unos,
+[05029.72 --> 05037.20] todos unos, que se lo último, byte de esa página, ahora cuando en sumo uno, se ha pasado
+[05037.28 --> 05043.76] la próxima página y empiezo en el 0 de la próxima página, entonces las direcciones lógicas,
+[05043.76 --> 05051.76] se usamos como lo venía, nos dando el proceso, no se caminada, lo único que hicimos es dividirlo,
+[05052.48 --> 05060.28] sí, decirle las páginas miren un ca, entonces de acá, voy a tener de 0 hasta un caminos uno,
+[05060.28 --> 05069.08] y después acá es un ca 2 ca, 4 ca, 4 ca, sí, y va dando el número de páginas,
+[05069.08 --> 05076.44] bien, pero recuerden que ustedes cuando ejecutan y van corriendo con el IP, ustedes van sumando
+[05076.44 --> 05082.68] de 1, de 2, 4 bytes, sí, y van sumando y van sumando el IP, se va corriendo, cuando el IP sigue a
+[05082.68 --> 05092.36] todos 1, 1, 1, 1, 1, 1, 1, 1, y sume 1, va a aparecer acá otra página, sola, no, no, no
+[05092.36 --> 05098.00] es que no tengo que cambiar el número página, no, ustedes suena uno y se cambió solo, es
+[05098.00 --> 05104.04] otra tende verlo porque es muy importante, si lo gran entender eso, los ejercicios que tienen
+[05104.04 --> 05112.00] que ver con ubicaciones de las direcciones reales pasarlas, direcciones, digo, direcciones
+[05112.00 --> 05117.60] lo que ha pasado, direcciones que es muy sencillo, pero tiene que quedar en claro que cuando
+[05117.60 --> 05123.92] ustedes man caminando por la página se va incrementando el número del desplazamiento,
+[05123.92 --> 05134.24] sí, cuando este número llega a todos 1, pasarlo a la próxima página, sí, porque eso es
+[05134.24 --> 05140.68] lógico, ahora nadie le dice que la próxima página está pegada, eso es algo real, y
+[05140.68 --> 05146.42] dice que ese acá, la página 0, yo empezo a caminar por la página 0, caminar caminar caminar
+[05146.42 --> 05149.74] caminar caminar caminar, caminar, llegó un momento en que se terminó la página suma 1 y
+[05149.74 --> 05156.64] qué pasaría, acá paso a la página 1, entonces yo de acá saltaria iría esta, bien, y
+[05156.64 --> 05160.48] empezaría a caminar por acá dentro, vamos caminar a caminar a caminar de caminar cuando
+[05160.48 --> 05165.64] termino, tengo que terminar la página 1 a cual voy a la página 2, allá en la mano
+[05165.64 --> 05174.64] derecha tanto, pegaditos, bueno acá lo que va a pasar es que de acá va a saltar acá,
+[05174.64 --> 05181.84] sí, pero ¿qué es la esa traducción? Bueno, le que es la traducción es el data, el data
+[05181.84 --> 05194.24] toma todos los valores, sí, de la página y lo traduce al número de bloque, tal cual como
+[05194.24 --> 05201.40] se representa el ATP, se acuada la ATP que hablamos al principio, que era el número de páginas y
+[05201.40 --> 05206.84] no decía el número de bloque la escuela, entonces mientras no cambio de la página, el
+[05206.84 --> 05212.16] desplazamiento se mantiene siempre con la misma página, y sigo corriendo y sigo corriendo, cuando
+[05212.16 --> 05217.56] ya terminé el desplazamiento, le sumo un, le voy a una página distinta o salta, una página
+[05217.56 --> 05226.36] distinta tengo que buscar en la ATP, sí el data va a buscar, cuál es el nuevo bloque y va
+[05226.36 --> 05232.08] saltar al doble bloque, y ahí adentro, mientras este dentro de ese bloque se suma uno, se
+[05232.08 --> 05238.64] cambia, se va, hace lo que viene de caser, no se cambia bloque hasta que no salté a otro a otra página
+[05238.64 --> 05247.76] y o no va sin creventando y llega al final de la página, la capacidad del direccionamiento del
+[05247.76 --> 05255.16] sistema estrada por el tamaño del bus, o sea, direccionamiento no es tamaño capacidad
+[05255.16 --> 05262.36] direccionamiento no es tamaño de programa, bien, sino que es el tamaño del bus de direcciones,
+[05262.36 --> 05270.12] o sea si yo puedo direccionar con mi PC, 16 bits, dos a la 16, el a la máximo que eso puedo
+[05270.20 --> 05285.32] direccionar en un programa, y eso corresponde a, digamos, si es dos a la 16, sería, dos a la
+[05285.32 --> 05294.72] 16, es un c, 64 c, bien, o sea dos a la 16, es muy poquito, no, no se van nada, es
+[05294.72 --> 05306.72] el otro g, la arquitectura 180, 86 usaba para direccionar logicamente usaban 32, 16,
+[05306.72 --> 05315.72] 16, que era eso, por ejemplo, ustedes tenían el data segment más el option, bien usaban 16
+[05315.72 --> 05322.44] para el data segment 16 para el option, pero el direccionamiento real era 20, entonces se
+[05322.44 --> 05332.56] me apiava de los 16, 16, se me apiava 20, y eso era la dirección real, o sea que yo tenía dos o en
+[05332.56 --> 05339.96] formas, sí, en el más orque uno, debe rechinar la misma posición real de la memoria,
+[05339.96 --> 05349.12] sí, porque yo tenía 16, 16, sí, era 32 bits y todo eso se me apiava a 20 bits, que era el
+[05349.12 --> 05358.92] direccionamiento físico a memoria real, y eso digamos era la capacidad de direccionamiento,
+[05358.92 --> 05368.48] y si hacemos dos a la 20, sería un mega, que el 86 de 6, para mi pie trabajar con un mega
+[05368.48 --> 05379.08] de memoria, con máximo, entonces ustedes tenían 16, 16, bien, o eso es que trabaja
+[05379.08 --> 05387.84] con ustedes mostraban el consegment más el IP era 16, más 16, pero todo eso se traducía
+[05387.84 --> 05394.44] a 20 bits y se iba a la memoria y se tomaba esa información, bueno, eso es casi como si fuera
+[05394.44 --> 05400.92] un tré comisa un data, sí, que traducía de la memoria lógica a la memoria física, bien,
+[05400.92 --> 05406.36] esta zona de instrucción es estaría a partir de los programas en las páginas que corresponden
+[05406.36 --> 05412.52] según el tamaño requerido por la instalación tamaño de agro, bien, porque es esto,
+[05412.52 --> 05423.40] el comparador sabe el tamaño, entonces lo que hace es dividir las páginas, entonces automáticamente
+[05423.40 --> 05436.48] va a mirendo cómo caen cada uno de los buffers, sí, y trata de ponerlo las datos en particular
+[05436.48 --> 05445.72] para que no caiga mal, eso lo vamos a ver un poco más adelante, bien, pero bueno, lo
+[05445.72 --> 05452.28] que tiene que dar en claro es que las direcciones dentro del programa son direcciones lógicas,
+[05452.28 --> 05455.86] pero es cual como ustedes las vinieron trabajando hasta ahora, no tienen que prestar ninguna
+[05455.86 --> 05461.42] tensión rara sobre esto, lo que va a hacer es el data, es el que se va a encargar de
+[05461.42 --> 05468.54] usar la TDP para poder ubicar las páginas que normalmente estaban así para poder la subicara
+[05468.54 --> 05478.10] acá, están símbolos sencillos como eso, vamos a la página como se hace es que hay
+[05478.10 --> 05487.16] un reculo de la dirección física, saliendo de una dirección lógica, yo tengo una dirección lógica
+[05487.16 --> 05499.56] que es el número de páginas con el desplazamiento, sí, eso nos da el parpe de bien,
+[05499.64 --> 05507.16] es el páginas de plazamiento, con el número de páginas se va a la T, a la tabla de distribución
+[05507.16 --> 05517.76] de páginas, se tiene el offset como era de 0 al número, si périce 5 en trans 5 y lo que
+[05517.76 --> 05528.02] se tiene en ese lugar es el frame, o sea, es el sistema frame o bloque, entonces ese número de
+[05528.02 --> 05535.34] bloque lo toma y reemplaza la página por el número de bloque, por eso le dijimos que tenga
+[05535.34 --> 05539.98] tanto la página de número de bloque tenga el mismo tabaño para hacer esto muy simple, porque
+[05539.98 --> 05544.94] si no se complica mucho, se losca y el desplazamiento sigue siendo a mismo, porque lo
+[05544.94 --> 05551.54] único que se hizo fue decir la página era la cero pero acá es el bloque 5, entonces se
+[05551.54 --> 05556.68] cambia, se pone 5 y se deja el mismo de plazamiento y se accede con eso de morir, esto lo
+[05556.68 --> 05564.10] hace la CPU por cada vez que hace una trans salida de memoria, usa el dat, los que no usan el
+[05564.10 --> 05571.74] dat son todos los perifericos, o sea por ejemplo, se tendo el disco, el disco no pasa por el
+[05571.74 --> 05578.42] dat, porque el no maneja número de páginas en sus directiones, maneja toda la parte física
+[05578.42 --> 05585.58] real, entonces no usa el dat, la único que usa el dat es la CPU para traducir, los números
+[05585.58 --> 05592.98] lógicos de las páginas de un proceso que piensa que está solo en la computadora a los números
+[05592.98 --> 05601.14] de bloque que le corresponde, porque realmente no está solo, entonces está en particular ahora
+[05601.14 --> 05611.96] está cortado, muchos pedacitos distribuidos en toda la memoria, bien, cada posición,
+[05611.96 --> 05617.60] o sea cada acceso, una posición de memoria real tiene dos accesos, el acceso para ir a
+[05617.60 --> 05625.12] la TDP del proceso y ubicar con el bloque que le corresponde a esta página que se quiere acceder
+[05625.12 --> 05632.52] y después el acceso real de memoria, ahora, tener el A TDP en memoria y ir a consultar
+[05632.52 --> 05639.88] a cada vez que yo quiero acceder, se iba mucho tiempo, entonces lo que hace es la tabla
+[05639.88 --> 05646.20] de distribución de proceso, cuando le toca a ejecutar un proceso, lo que hace el dispacher,
+[05646.20 --> 05653.88] no solo le carga los registros, sino que también carga la TDP, la TDP es un caché
+[05653.88 --> 05659.00] de búsqueda por contenido que viene del 4 de este pasado, se llama Translation, Lucas
+[05659.00 --> 05667.44] Aif buffer y lo que hace es pongo un aparte de un dato y me trae el dato al costado,
+[05667.44 --> 05672.76] entonces pongo el número de página y lo que me trabe al lado es el número de bloque que
+[05672.76 --> 05677.68] le corresponde, y eso no hace porque es una caseda sucediva, bien, y eso es lo que
+[05677.68 --> 05685.36] viene con fario el 4 de este pasado, entonces, fíjense cuando ustedes empiezan a meter
+[05685.36 --> 05691.04] muchos procesos, entonces, a cada con dos procesos se puede ver que la página cero del proceso
+[05691.04 --> 05698.20] uno ocupa el bloque 4, después la página uno, lo que uno es la página dos de bloque 3,
+[05698.20 --> 05705.04] y así con la página del proceso 2, la página cero, o casualidad, casualidad, en el bloque cero,
+[05705.04 --> 05712.48] si razón por la cual hacer esta traducción es nada, seguimos en el mismo número, bien,
+[05712.48 --> 05718.52] y página uno con página 5 y la página 2 con el bloque 5, es el con el bloque 2, bien,
+[05718.52 --> 05728.80] así es que esto representa lo que tengo al izquierdo, realmente,
+[05728.80 --> 05736.40] vas a meses a tener una tabla de distribución de bloque, y por qué me necesito una tabla de distribución
+[05736.40 --> 05744.64] de bloque, porque en el momento, uno dice, bueno, yo acá ponlo esto y lo demás, además
+[05744.64 --> 05749.84] está ambasio, y cómo se que está ambasio, cuáles son los bloque que están vacíoles,
+[05749.84 --> 05755.12] son los que están chainos, no lo sé, yo tengo todas las páginas, y si yo quiero saber si
+[05755.12 --> 05760.92] es lo que es 5 está vacíos, y si les sabe lo que es 5 que está vacíos, nada, recorretó
+[05760.92 --> 05766.64] de las tablas de distribución de páginas de todas las procesos y fijates se aparecen 5,
+[05766.64 --> 05777.24] la vez comienza, bueno, entonces generemos una tabla de bloque 3, y me dice que página de que
+[05777.24 --> 05783.52] proceso está ocupando la, y si no hay nadie, sí, va a decir que está vacía, entonces
+[05783.52 --> 05788.00] quedo cuando no son necesitos saber si hubo que está vacío, la busco llegó está vacío,
+[05788.92 --> 05796.40] porque la leo está en una tabla, entonces es mucho más sencillo, entonces lo que dice, lo que
+[05796.40 --> 05803.24] decidieron fue generar una tabla de distribución de bloque, que en ella no sólo tengo la capacidad
+[05803.24 --> 05808.20] de saber qué bloque se están vacíoles, cuando yo necesite cargar un proceso, tengo
+[05808.20 --> 05812.68] de cheque, tengo lo que está más y está, bueno, lo uso, qué otro, y lo voy usando
+[05812.68 --> 05821.72] cargando las páginas, sino que también me permite trabajar con los periféricos, que dijimos
+[05821.72 --> 05828.40] que no saben el data, entonces si no usan el data los periféricos, los periféricos no pueden
+[05828.40 --> 05833.96] acceder a la TDP, y si no pueden acceder a la TDP, como saben, a donde tienen que escribir,
+[05834.00 --> 05843.76] que cuáles está enciendo escrito por otro, de me, sí, entonces tengo que llevar
+[05843.76 --> 05849.20] más información, bueno, la tabla de distribución de bloque, le permite saber de que el bloque,
+[05849.20 --> 05858.00] por ejemplo, tres, tiene la página del proceso 1, sí, la página 2 del proceso 1, y yo puedo
+[05858.00 --> 05865.72] ponerlo lado, le están haciendo una entrada salida, sí, entonces puedo estar dando más
+[05865.72 --> 05871.16] información si es necesario, por el momento no se falta porque como todas las páginas
+[05871.16 --> 05877.20] del proceso tienen que estar en memoria, no tengo esa necesidad, pero cuando empezemos a trabajar
+[05877.20 --> 05882.96] con las páginas con la memoria del total, muchas veces muchas páginas van a ser sacada
+[05882.96 --> 05890.20] de la memoria, entonces ¿cómo quedó el tema de la página, sí, la página, sí, tiene
+[05890.20 --> 05898.60] una tabla de llamada TDP, por proceso y una tabla para todo el sistema llamada TDP,
+[05898.60 --> 05906.32] que la TDP representan todos los bloques que tienen el sistema y la TDP representan las
+[05906.40 --> 05915.74] páginas que tienen un proceso y a dónde están carregadas en la memoria real. Bueno,
+[05915.74 --> 05924.94] por la para acá vamos a la última de consultas, sí, tiene alguna y seguimos. Bueno,
+[05926.22 --> 05931.10] ¿cómo se hace para ordenar esto en el pasado?
+[05931.10 --> 05944.38] Veamos, esto venía por el tema de las particiones variables, las particiones de
+[05944.38 --> 05951.82] varía, ¿able recorden que ustedes necesitan llevar el manejo de el espacio libre? Es más,
+[05951.82 --> 05956.58] ahora en esta última que dó muy en claro de que en toda mi administración, siempre
+[05956.58 --> 05964.18] lo que llevar el espacio ocupado y el espacio libre, sí, sí, siempre tengo que llevar. Entonces,
+[05964.18 --> 05970.42] cuando yo tengo particiones, se van generando las particiones a medida que yo voy cargando
+[05970.42 --> 05979.06] los procesos y me queda huecos, sí, entonces lo que yo tengo que tomar es llevar ese contra
+[05979.06 --> 05986.98] de huecos. Entonces cuando ustedes covié esa o sea, dan la patalla inicial a un sistema operativo,
+[05986.98 --> 05997.91] lo que hace el sistema operativo es tener todos, absolutamente todos los, espero no se uno, porque
+[05998.55 --> 06010.70] siento la puerta acá que está. Cuando yo te el arranque un sistema operativo, la memoria como está,
+[06010.70 --> 06017.82] sólo ocupada por el sistema operativo y toda la memoria para procesos está libre, o sea que yo
+[06017.82 --> 06025.82] cuánto juego tendría, 1, 1, 1, y a partir de ese único, enviso sacar le pedacitos a medida que van
+[06025.82 --> 06033.50] subiendo los programas, a los procesos se van creando y se van tomando de ese juego grande, se van
+[06033.50 --> 06041.66] a se vachicando algo de coi van apareciendo todas las particiones variables, bien, pero el
+[06041.66 --> 06048.70] hueco grande está y se vachicando. Ahora, cuando un proceso se va, deja esa partición que
+[06048.70 --> 06053.34] que estaba ocupando, ese pedacito que estaba ocupando y ese pedacito tiene que pasar a ser
+[06053.90 --> 06060.30] pedazo de espacio libre. Ahora, lo puedo poner junto con todos los otros nuevos, porque está separado,
+[06060.30 --> 06069.90] porque estaba en el medio, entonces lo que hago es armar una lista de huecos, y esa lista se va entre
+[06069.90 --> 06075.10] las Ando, normalmente simplemente una lista doblemente encadenada para poder hacer las buques
+[06075.10 --> 06082.22] de las tranquilos. Y lo que voy haciendo es cuando agrego esa lista de encadenada, el nuevo hueco, lo que hago es
+[06082.22 --> 06088.22] ordenar los portemáños. Entonces, se ha directamente cuando el inserto, la lista doblemente encadenada,
+[06088.22 --> 06093.74] lo pongo en la posición que le corresponde. Entonces, así lo puedo tener de nada o por tamaño.
+[06093.74 --> 06099.98] También puedo decidir, mira, no, los huecos, lo voy a poner ordenado por dirección, si empieza a
+[06099.98 --> 06105.18] en tal lugar, lo pongo primero, si empieza a entrar a otro, lo pongo segundo. Bueno, eso es decisión
+[06105.18 --> 06113.66] de ustedes, por supuesto, ustedes que son diseñadores de este objetivo, por supuesto, va a tener su
+[06113.66 --> 06124.38] proceso contra tener ordenado, por la dirección de comienzo, va a hacer mucho más simple en la
+[06124.38 --> 06133.10] algoritmo para pegar dos huecos. Porque se puede dar dos huecos, yo tengo el hueco grande y el último
+[06133.10 --> 06141.18] proceso que entró, que me sacó el pedacito de arriba, está para terminar. Su podemos, ya
+[06141.18 --> 06148.22] no termina. Y que hace, me queda el hueco del proceso que se termina y el hueco grande. Pero son dos
+[06148.22 --> 06153.50] huecos, no, son no solo porque si fue justo el último que era un espacio más grande, el final.
+[06153.50 --> 06160.70] Entonces, ¿qué nos queda? ¿Cuántos huecos? Bueno, solo. Entonces, tengo que colapsar los huecos.
+[06160.70 --> 06166.62] Ahora, si lo hubiera tenido ordenado por tamaño, quizás eso yo no hubiera encontrado.
+[06166.70 --> 06178.46] Bien. Entonces, por eso depende de dónde ustedes quieren poner el mayor costo. Sí, por ejemplo,
+[06179.26 --> 06189.10] les interesa hacer que cuando dos huecos pegados colapsen en uno solo sea más fácil, le comiena
+[06189.10 --> 06197.10] tener ordenado por dirección de comienzo. Y si, ustedes quieren hacer que sea más fácil la
+[06197.10 --> 06203.66] asignación de los huecos, sí, el otro tema de la otra por tamaño. Bien. También pueden tener
+[06203.66 --> 06210.54] las dos. Pero recuerden que cuanto más estructuras, ustedes mantengan más coherente tienen que ser
+[06210.54 --> 06219.66] entre anactualizarlas. Sí. Bueno, eso es el tema de partición. Pero, segunda sobre la parte de
+[06220.94 --> 06245.75] paginada. Ahí hay alguna. Bueno, entonces, resumimos. Antes de pasar a paginada por demanda o con
+[06245.75 --> 06260.65] memoria virtual, hay que entender lo siguiente. En la pagina, en la pagina, se tiene una tabla de distribución
+[06260.65 --> 06269.37] de páginas para cada proceso. Y se tiene una tabla de distribución de bloque, el total. Que es lo mismo,
+[06269.37 --> 06280.25] que se llevar un control del espacio libre. Bien. En el caso de las partisionas, era el hueco
+[06280.25 --> 06286.73] grande, que se figureba diminuendo y que podían aparecer más huecos. En el caso de la pagina,
+[06286.73 --> 06294.33] la pagina de protección está todas los bloque de memoria representados en la TV diciendo que están
+[06294.33 --> 06301.53] vaciós. Cuando se carga un proceso, se crea la entrada en la tabla de distribución,
+[06301.53 --> 06309.09] de paro en la tabla, de bloque de control de procesos, se crea la entrada, se le asignan los archivos,
+[06309.09 --> 06314.37] y vos se le hace todas las asignación de recursos. Se crea el espacio de memoria que
+[06314.37 --> 06321.25] van a necesitar, se genera en el caso de que sea administración del página de la
+[06321.25 --> 06329.85] orden de paginada, lo que va a hacer es crear una tabla de distribución de páginas,
+[06329.85 --> 06340.37] que va a estar de basear del tamaño del proceso dividido por el tamaño de bloque,
+[06340.37 --> 06349.77] así que el de distribución para el tamaño de página. Entonces, el proceso medida 15
+[06349.77 --> 06356.93] cada y el tamaño de la página de un ca va a hacer 15 entradas, que van a estar senas,
+[06356.93 --> 06361.37] que en un principio como no hay nadie ocupándolo, con estas todas contiguas,
+[06361.37 --> 06368.97] no tienen porque estas todas separadas y se van a representar esas 15 entradas en la TDB,
+[06368.97 --> 06378.85] donde van a tener las 15 bloque contiguas, indicado, ocupado, ocupado,
+[06378.85 --> 06385.93] porque por eso y por qué página de cada proceso. Entonces, así se va a referenciando y se va
+[06385.93 --> 06394.81] llenando la tabla de distribución de bloque, a medida que empieza a aparecer más procesos.
+[06394.81 --> 06400.61] Recuerden que cada proceso tiene su tabla de distribución de páginas. Bien, hasta ahí,
+[06400.61 --> 06406.97] es todo lo que se ve en página. Ahora, cuando se le haga la página de un por demanda,
+[06407.05 --> 06415.01] lo único que cambiar es que no se debe cargar todo el proceso. Entonces, en la TDB,
+[06415.01 --> 06422.29] no va a estar todas las entradas de la TDB de un proceso, así que en la TDB,
+[06422.29 --> 06430.33] voy a tener asociado, a una página un número de bloque o diciendo le no,
+[06430.33 --> 06435.77] no te ves lo que ha asociado, pero estás en la anbemovia virtual. Bien, porque si no,
+[06435.77 --> 06442.65] como sabe que estás ocio de que no, bien. Entonces, como se dicen, no todas las cargas,
+[06442.65 --> 06447.37] no todas las páginas se cargan simultágramente, no se necesita que estén todas las páginas
+[06447.37 --> 06452.89] cargadas en memoria, entonces, se puede utilizar el espacio de las páginas, no, no
+[06452.89 --> 06458.77] cargadas para otro proceso, porque necesita subir también algunas páginas. Entonces,
+[06458.85 --> 06464.29] volviendo a la página, que al modo delito que tenemos en página, en página, en
+[06464.29 --> 06469.09] lación por demanda, tenemos nuestro proceso uno que tenía 0 y uno, y sólo va a cargar
+[06469.09 --> 06474.61] la que tiene el entrepone, que era el entrepone, era el punto de entrada que nosotros no
+[06474.61 --> 06482.21] definíamos como main en la sangre. Entonces, va a cargar todo eso, esa página sola para
+[06482.21 --> 06489.65] que, para que cuando le toque el proceso, si el proceso pueda empezar y no generé una falta
+[06489.65 --> 06495.89] de página, porque va a generar una falta de página. Y porque si no está cargada, el,
+[06497.89 --> 06502.73] digamos, en la telebe cuando van a la búsqueda de la página que quiere acceder que es la
+[06502.73 --> 06507.49] cero, le va a decir, che no tengo ninguna cero, entonces no va a devolver una nada, va a decir
+[06507.49 --> 06515.41] cómo que es un misc, como que no se encontró, y ahí eso va a tirar una excepción por falta de página.
+[06515.41 --> 06520.77] Y esa excepción que en la guerra, la guerra el sistema operativo, que va a subir la página del disco,
+[06520.77 --> 06526.09] y la va a poner en una corresponda y les siena ahí, le va a decir, bueno, procesos puede empezar.
+[06526.09 --> 06533.53] O sea, que es un desperdicio de tiempo, todo porque por no haber cargado la página cero al principio.
+[06534.09 --> 06539.89] Entonces, siempre se recomienda cargar la página cero del proceso, al menos en la página cero,
+[06539.89 --> 06544.33] sea la página de punto de entrada, que no solamente la cero, pues es el uno, pero bueno,
+[06544.33 --> 06548.33] más os voy a decir, siempre la cero, entonces la página cero debería estar cargada de mi
+[06548.33 --> 06556.46] morning, para todo los procesos. Ahí está la telebe, que esto dice el número de página,
+[06556.46 --> 06562.10] apunta a lo que 4, el número de página, apunta a lo que 1, el número de página, apunta a 2, apunta a
+[06562.10 --> 06568.50] lo que 3. Ahora, eso es suficiente de información, no, porque puede ser de que haya algunas páginas
+[06568.50 --> 06576.46] que no tengan asociado de ningún bloque, bien. Entonces, la tabla de la TDP cada
+[06576.46 --> 06585.14] bien poquito. Y dice, la TDP, el número de páginas está implícito a la izquierda, cada número
+[06585.14 --> 06590.82] de página, pues se piezan en cero y el número de bloque es la primera columna. Entonces,
+[06590.82 --> 06595.98] la página cero, bloque está en memoria, si tiene el número de bloque, porque está en memoria.
+[06595.98 --> 06604.34] Ahora, si no está en memoria, tiene una ubicación dentro de la memoria virtual. ¿Qué significa ubicación?
+[06604.34 --> 06614.86] Y si es código, tiene que estar, ese pedacito de página, tiene que estar en una posición
+[06614.90 --> 06623.02] dentro de las chivos que tiene asociado del programa. Ahora, si es dato, esa página de memoria
+[06623.02 --> 06629.74] tiene que estar grabada en una posición dentro del swap. Bien, entonces, la dirección de
+[06629.74 --> 06639.90] modo virtual es la ubicación de la página, sí, en el dispositivo secundario que no es la memoria.
+[06639.90 --> 06649.62] Real, bien. Entonces, o tengo el número, tengo el número acá, ve el de bloque, o tengo una
+[06649.62 --> 06656.22] dirección de memoria virtual. Bien, por supuesto, hay parmízos que pues vamos a ver, pero no,
+[06656.22 --> 06669.94] lo viene mucho de caso ahora. Entonces, cuando no sólo tenemos todos los procesos, sí, se
+[06669.94 --> 06677.22] tengo todos los procesos, tienen ejecutando, tienen algunas páginas cargadas, sí, y quedaron
+[06677.22 --> 06683.26] cargadas o, y se fueron cargando nuevas. Bien, otro proceso, y se chiminal, yo quiero ejecutar,
+[06683.26 --> 06689.62] yo tengo que poder subirle la página, ¿ser? Ahora, en el lado izquierdo de la, de la,
+[06689.62 --> 06696.50] ya posible, hace un buen disingo, no hay lugar, bien, como no hay lugar, qué, qué problema
+[06696.50 --> 06701.26] hay, bueno, usted tiene que hacer un buen, sí, porque si no se suen un buen con, no puede
+[06701.26 --> 06707.70] poner, no puede subir mi página, porque es lo que quedamos, cada vez que, en inicio,
+[06707.70 --> 06715.22] un proceso, la página de inicio tiene que estar por esta, entonces, si no lo puedo hacer, estoy
+[06715.22 --> 06723.50] contradicciendo lo que yo acabo de poner como esténmen, ¿ok? Entonces, tengo que sacar una, entonces,
+[06723.50 --> 06730.50] ahí tengo que elegir, y cuál saco, y no sé, bueno, una opción es la prima el página,
+[06730.50 --> 06735.94] sí, como siempre vimos, la primera, la mejor, la peor, bueno, cada y que define el que es
+[06735.94 --> 06741.58] mejor y que peor, bueno, saca la primera, bueno, saca la primera, en elegimos la prima el página
+[06741.58 --> 06749.30] y la sacamos, de ese bloque, bien, y eso es esa más remoción, yo lo tengo en que
+[06749.30 --> 06756.78] sacar y tengo que preguntar, sí, lo que estoy sacando, corresponde a datos o corresponde a código,
+[06756.78 --> 06761.76] si corresponde a código, lo tengo que grabar, no, sí, sí, es código, no sé, cambia, y si es
+[06761.76 --> 06767.22] dado, y si es dado, si es cambio, entonces, lo tengo que estar grabando, y sí, bueno, entonces,
+[06767.22 --> 06770.98] son los montos de temas que tengo que estar teniendo en cuenta ahora para poder subir y bajar
+[06770.98 --> 06778.70] las páginas, entonces, si la página de removida, sí, de ver guardarse en memoria virtual,
+[06778.70 --> 06785.70] eso es lo que son los sigues, sí, sí, cambio, sí, no se falta, sí, entonces, si que
+[06785.70 --> 06793.52] él se que acastaba en esta posición la 3, la página 2 del proceso 3, se decidió
+[06793.52 --> 06801.58] ahí poner en la página 0 del proceso 4 y la página 2 del proceso 3, si es una página de
+[06801.58 --> 06806.74] datos, cambio entonces, se graban disco y sí, es una página de código que no cambio,
+[06806.74 --> 06817.38] no se graban nada, sí, entonces, si la página cambia, si, entonces, o nuestra querida
+[06817.38 --> 06825.58] estima de la telebén, y acá es donde viene toda la lógica de remoción de página,
+[06825.58 --> 06834.22] esto es, no es difícil, sí, ahí que se irla, entonces, lo que no sabe lo que
+[06834.22 --> 06841.02] niamos, el número de una dirección cualquiera, dirección lógica, bien, del proceso,
+[06841.02 --> 06848.46] tiene un número de página y tiene un replazamiento, el desplazamiento no se modifica porque
+[06848.46 --> 06853.22] dijimos que el tamaño de la página y el tamaño de la vez lo que eran los mismos, entonces
+[06853.22 --> 06859.90] eso lo dejamos para ir, entonces con el número de página lo buscamos en la telebén,
+[06859.90 --> 06865.86] que tenía cargada, tenía cargada la tabla de distribución de página, de ese proceso,
+[06865.86 --> 06874.06] porque estamos trabajando, entonces dice si está ahí, ahí exitos sí, entonces tengo el número
+[06874.06 --> 06882.46] de la dirección de bloque, entonces junto el número de bloque, más el desplazamiento, sí, y lo
+[06882.46 --> 06895.64] que hago es buscar el número de bloque en la memoria de calle, esto es para que cuando
+[06895.64 --> 06905.60] tengo memoria de calle asociada al procesador, sí, ahí exitos sí, ahí exitos toma,
+[06905.60 --> 06913.00] si ahí exitos toma el bloque de la calle, sí y sigue, seleccionar los mit, los whites que
+[06913.08 --> 06921.88] necesitan y lo trae al procesador, ahora sí en la calle de nivel 1, no hay, tiene que traer
+[06921.88 --> 06929.16] el bloque de la memoria, sí, a la calle y el másena en el bloque en la calle y después seleccionar
+[06929.16 --> 06936.40] los datos y lo manda, esto que está acá, que es a partir de acá en adelante, corresponde a,
+[06936.48 --> 06946.60] a ver si tengo, lo más sí, tenemos, bien, vamos a dibujar, esto que está desde acá,
+[06946.60 --> 06955.72] todo así, perdón, estoy usando para el conno, él está espándela, entonces todo esto que está
+[06955.72 --> 06965.76] casi, eso que está ahí corresponde solo a la calle de, de, en frucciones o calle de, de datos,
+[06965.76 --> 06977.28] eh, no, en tarviene en el ayurgo abrismo de, eh, de, de, de memoria virtual, lo que sí aparece o
+[06977.28 --> 06983.92] doce, en trabaja con el ayurismo de mi moria virtual, esto es todo la, esta parte que está acá,
+[06983.92 --> 06991.84] que es cuando se busca la telebe, eh, si, si hay un éxito, se adigimos que poníamos el número
+[06991.84 --> 07000.24] de bloque, bien, si no hay un éxito, en el caso que teníamos la, eh, con llamas, la, me
+[07000.24 --> 07006.88] moria administración memoria página sola, lo que se salía cuando era no, era matar
+[07006.88 --> 07012.96] el proceso porque está seguiendo algo que no tiene, pero acá no hay que matarlo, cuando
+[07012.96 --> 07019.32] no hay éxito porque no está en la telebe, puede suceder de que la página de esa no está
+[07019.32 --> 07025.00] cargada memoria porque se encuentra en la memoria virtual, bien, entonces, si hay éxito,
+[07025.00 --> 07034.24] no, muy bien, seleccionos la entrada en la telebe para remblazo, saca de la telebe, sí,
+[07034.24 --> 07052.86] y pone, sí, la dirección virtual en el dat, bien, después de eso lo que hace es calcular la dirección
+[07052.86 --> 07061.42] real, sí, que le corresponde, y una vez que está cargada en la entrada de la telebe,
+[07061.42 --> 07069.06] el par de dirección virtual, dirección real, devuelve la dirección del bloque, bien, dirección
+[07069.06 --> 07075.30] real se llama dirección de bloque, entonces cuando yo no go la búsqueda dentro del,
+[07075.30 --> 07084.06] la telebe, cuando aparece el número de página, ese número de página, si no lo han
+[07084.06 --> 07093.10] coen, si no lo han coen tro, tengo que poner una nueva entrada en la telebe o reemplazar
+[07093.10 --> 07104.14] una que se está, bien, y ahí mismo agregó la nueva lea son, lo que van a ganche,
+[07104.22 --> 07111.10] entre dirección virtual y dirección real, así, a dirección lógica de página y dirección real que es el número
+[07111.10 --> 07123.38] de bloque, o sea, a ver si lo podemos ver acá, cuando yo no tengo en la telebe, cuando yo no tengo
+[07123.38 --> 07129.22] el número de páginas, mejor dicho, que el número de página no tiene suciado un número
+[07129.22 --> 07137.78] de bloque es porque se encuentra la página en el disco y para solucionar eso,
+[07137.78 --> 07148.90] tengo que hacer subir la página del disco a memoria, entonces subo la página del disco a memoria
+[07148.90 --> 07156.90] y hago esa página en bastar en un número de bloque, entonces asocio, la página al número de bloque,
+[07157.46 --> 07163.62] y una vez que se está asociado, de vuelvo al número de bloque, eso básicamente lo que intenta decir
+[07163.62 --> 07175.74] este algoritmo, ahora para subirla necesito tener un hueco libre, si no hay hueco libre,
+[07175.74 --> 07185.82] yo tengo que re mover del telete, en el atabla de distribución de bloque, tengo que re mover
+[07185.82 --> 07193.98] una de esas y para re mover la ya necesito un algoritmo, que se afifó en menos reciacero
+[07193.98 --> 07200.22] del programa, porque fue la que primero entra a memoria, entonces se saca la que primero
+[07200.22 --> 07206.74] entra a memoria cuando necesito hacer un hueco, después en lugar de hacer eso puedo estar
+[07206.74 --> 07214.90] diciendo la que menos recientemente usada fue la saco, y como puedo llevar eso, y bueno,
+[07214.90 --> 07225.26] muy simple cada vez que haceso, le pongo un time están, entonces digo estas se accedió a las
+[07225.26 --> 07233.06] 19 de ese nuevo número, si estas accedió 19 de ese nuevo 2, la que tiene el tiempo más lejano
+[07233.06 --> 07239.70] al tiempo actual, es la que tengo que re mover, y la que menos frecuentemente usada es a que
+[07239.70 --> 07250.62] no se usa hace mucho, o sea que no fuzadas muchas veces, ¿no? Entonces, ¿qué pasa?
+[07250.62 --> 07256.14] Si no fuzadas muchas veces, entonces no sería que se va a un contador diciendo estas accedió,
+[07256.14 --> 07262.22] se accedió y muy sumando uno, pues sumando uno, ois sumando uno, entonces cuando quiero sacar
+[07262.22 --> 07274.10] una, la que tiene menor cantidad de en número de usadas es la que voy a sacar, bien entonces,
+[07274.10 --> 07280.82] en la tabla de distribución es lo que yo tengo todos las páginas de todos los procesos, entonces
+[07280.82 --> 07286.10] cuando yo voy a hacer una remoción, tengo que sacar cualquiera, no necesariamente tienen que
+[07286.10 --> 07291.10] ser del proceso que está ejecutando, entonces yo puedo elegir cualquiera de ellos, agusando
+[07291.10 --> 07297.38] alguno de las algoritmos que dijimos anteriormente. Ahora, yo puedo sacar una que está siendo
+[07297.38 --> 07304.42] usada por un periferico para escribir la información, no, porque el periferico no usa la TV,
+[07304.42 --> 07311.94] no usa la TV, no usa la TV, no usa la TV, no usa la TV, no usa la TV, no usa la data, no usa absolutamente
+[07311.94 --> 07318.82] nada de eso. Entonces, como él no usa nada de eso, yo no puedo sacarle, después de que yo
+[07318.82 --> 07324.86] mandé como sistema operativo, lo mandé al disco a escribir en una de las páginas, entonces
+[07324.86 --> 07330.90] no puedo sacar esa página, entonces lo que tengo a hacer es cuando el algoritmo de remoción
+[07330.90 --> 07338.06] vaya a buscar cual se puede remover, no permití la que remover la página que estaba escribiendo
+[07338.06 --> 07347.90] el disco, entonces está, se tiene que extender, y ahí es donde viene, por ejemplo, lo que
+[07347.90 --> 07354.18] vimos el contador para saber cuántas veces, si el menos recientemente usado esta información
+[07354.18 --> 07359.46] para el algoritmo de remoción, y si cambió la página que era algo muy importante, pues si
+[07359.46 --> 07366.18] cambió la página que hemos que grabar, y hay otra opción que son dos, una que hice fijo
+[07366.18 --> 07374.58] por canal y entrancito. Estas dos opciones fijo por canal lo que está indicando es nozá que
+[07374.58 --> 07384.30] es esta página, no lo de descargue esta página, tampoco de las lijas para remover, porque esta página
+[07384.30 --> 07391.62] está siendo escrita por el dispositivo de entrada salida. También puede decir, esa página
+[07391.62 --> 07399.82] no la toques porque está siendo copiada desde el disco de la memoria para poder seguir la
+[07399.82 --> 07407.62] ejecución de otra, y eso se llama entrancito. Entrancito es cuando se detectó hace tiempo
+[07407.62 --> 07416.86] que un faltaba una página, tenía el espacio para ser carregada en la memoria real, se empezó a copiar
+[07416.86 --> 07425.22] desde el disco a la memoria real, pero no se terminó esa copia, entonces justo a vino otro,
+[07425.22 --> 07429.58] y se llene ese sitio espacio, entonces no la puede estar el higiendo de esa que se está
+[07429.58 --> 07436.30] carregando a la memoria porque está justo en tránsito, así que la asoción es fijo por
+[07436.30 --> 07445.94] canal y entrancito se utiliza en para que el algoritmo de remoción no saque o no elija una página
+[07445.94 --> 07455.23] para removerla que está siendo utilizada por un dispositivo de entrada salida.
+[07455.31 --> 07463.87] Temas que aparecen con la división de todos los programas, digamos cuando una lo corta
+[07463.87 --> 07469.59] como fetas con una cortadora de fiamre, lo que puede lo que va a pasar es que puede
+[07469.59 --> 07477.55] ocurrir que una varíaable en que es una raíz, por ejemplo, no entre en una página, o mejor
+[07477.55 --> 07483.31] dicho que es un tamaño que puede entrar en una página, pero logicamente por la definición
+[07483.31 --> 07491.03] de los datos, no, no, no, entra, sino que justo cayó en el corte de dos páginas.
+[07491.03 --> 07498.23] Entonces, si ya va un buffer acá abajo, y el traye va cuando tengo a esos arraig,
+[07498.23 --> 07505.67] yo justo quiero que eso se grave y lo mando para grabar las direcciones no van a ser contiguas,
+[07505.67 --> 07511.75] porque como siempre dijimos, las páginas uno no tiene que estar pegada a las páginados,
+[07511.75 --> 07518.59] entonces, justo cayó entre la página, uno en la página dos, ese baja la caixa no puedo
+[07518.59 --> 07528.11] estar trabajando. Entonces, lo que hace es dar una solución para este problema, que se ha
+[07528.11 --> 07535.25] gándose entre las instaladas físicas. El traye de la lieu trotema que habíamos dicho,
+[07535.25 --> 07541.89] que cuando un sistema operativo está subiendo y bajando, subiendo y bajando páginas, automáticamente,
+[07541.97 --> 07552.33] pasa mucho tiempo en eso, subir y bajar, hace que todos los programas an del lento y si pasa
+[07552.33 --> 07559.57] un cierto umbral, eso se convierte de entras sin y lo cual no les deja ni siquiera apada la computadora.
+[07562.62 --> 07568.54] Bueno, ¿qué páginas no pueden removerse como dijimos? Las atadas entre la salida, que son cuando
+[07568.54 --> 07576.90] dos canales, como un san dirección en las reales y no un san virtuales no usa la TDP. Y páginas
+[07576.90 --> 07582.54] que están entran, si entonces están siendo copias de la memoria virtual, a la memoria real, o al
+[07582.54 --> 07595.54] revés, bien. Bueno, ese es el beat de protección de bloque, bien. Bueno, el algorithmo completo
+[07595.54 --> 07603.30] de página y con esto, si no me quedo terminamos, si terminamos, el partio de tío rique. En la
+[07603.30 --> 07612.17] algorithmo completo de páginacción va de esta forma. Bueno, usted tiene la generación de una entrada
+[07612.17 --> 07621.25] negocia de la dirección de una construcción, bien. Esa generación de la dirección,
+[07622.17 --> 07627.25] digamos, recuerden que ustedes están ejecutando un proceso. Entonces, comienza en la una posición,
+[07627.25 --> 07640.81] se genera la nueva posición, se le, si esa posición es correcta, si se verifica que la parte
+[07640.81 --> 07646.45] de la página es parte de la escak proceso, si no parte de ese proceso, chado, mueve.
+[07647.37 --> 07655.77] Si parten ese proceso, se verifica que la página es 3 memoria. Si esta memoria, en
+[07655.77 --> 07661.01] da usa la porque se está todo perfecto, puede estar acá, puede seguir. Ahora, si la página
+[07661.01 --> 07667.05] en esta memoria aparece, lo que se llama una interrupción por fase de página. Y acá es donde
+[07667.05 --> 07676.29] viene el tema de cómo hacemos para subir la página. Fíjense que la interrupción es la
+[07676.29 --> 07681.53] producción por fase de página, es una interrupción más que una interrupción es una excepción
+[07681.53 --> 07689.77] que genera la CPU. Entonces, cuando tiene acceder o tener la dirección, no puede. Entonces,
+[07689.77 --> 07695.09] genera una excepción. Eso hace que las excepciones sean similares a la interrupción. Esa
+[07695.09 --> 07701.61] hay una de diferencia que es de verdad lo habido como un fábio. Pero bueno, lo que hace es
+[07702.05 --> 07710.37] empezar a ejecutar la rotina de atención a esa excepción. Y eso sí es software. Y esto es lo
+[07710.37 --> 07717.01] que se programa por el sistema operativo. Y acá es donde está la igualismo de remoción
+[07717.01 --> 07725.25] que habíamos hablado en su nombre. Entonces, cuando la parecia en la excepción es porque no hay
+[07725.25 --> 07731.61] un bloque es libres, o mejor he hecho, es porque la página está encargado en memoria. Entonces,
+[07731.61 --> 07736.57] sí, la tengo que cargar en memoria, tengo que verificar. Si hay un bloque libre, sí me dice que no
+[07736.57 --> 07743.57] tengo que remover una página. Bien, sí me dice que sí, tengo que cargar la página que está en
+[07743.57 --> 07749.61] el disco, cargarla en ese lugar, en el bloque libre. Bien, ahora, supongo que me dice que no hay
+[07749.61 --> 07754.05] lo que es libres. Entonces, tengo que ejecutar el gorismo de remoción, cualquier de ellos,
+[07754.05 --> 07766.17] lo ejecuto y me fijó. ¿Qué página decidió el aerobinó que va a remover? Si esa página cambió,
+[07767.45 --> 07775.33] tengo que grabarla en la memoria virtual. Si esa página no cambió, sigo y se lo paso para que
+[07775.33 --> 07783.29] se escriba directamente sobre ese bloque que está en la página, se escriba la nada a página.
+[07783.29 --> 07790.89] Bien, entonces, si no cambió, la escribimos y si cambió, primera que se grababa y después
+[07790.89 --> 07796.57] las escribimos. O sea, se hacen dos centradas salidas y cambió. Primero grabarla y después
+[07796.57 --> 07804.25] le herla. Entonces, cuando le hemos la página y la cargaramos en memoria, se tiene que
+[07804.25 --> 07813.45] calizar las tablas, la TDB y la TDP del proceso. Sí, porque, porque en la TDB aparece
+[07813.45 --> 07821.49] un nuevo entrada, un cambio de alguna entrada y en la TDP el proceso dice yo ahora la tengo,
+[07821.49 --> 07827.69] para que cuando le vuelva a tocar, no se vuelva a largar esta introducción por falla de página.
+[07827.69 --> 07832.93] Bien, o esta decepción por falla de página. Porque en un poquito la tiene cargada, el tema
+[07832.93 --> 07838.69] es que desde que termina esto que dice restaurar la introducción, que significa restaurar
+[07838.69 --> 07844.09] introducción. Muy bien, seguir ejecutando donde fue cortada de que no existía. Entonces,
+[07844.09 --> 07852.69] va a poder procesar el dato. Bien, ahora desde que se tuvo la fase porque no estaba la página
+[07852.69 --> 07859.25] de memoria. Hasta que le vuelve a tocar que es restaurar la introducción puede haber pasado
+[07859.29 --> 07868.25] mucho tiempo. Y eso va a depender de cómo usted programado la planificación del proceso.
+[07868.25 --> 07874.25] Nada que esto que está en hardware se ejecuta en el procesador y hace que se ejecute
+[07874.25 --> 07881.33] una rutina del sistema operativo. Que sí se arruquen el sistema operativo. Tarda, tres horas,
+[07881.33 --> 07887.93] grandes tres horas, el proceso es en no va a poder ejecutar. Bien. Entonces, lo que
+[07887.93 --> 07896.61] se suele hacer es que, cuando el par de ese esta fase de página, el proceso se le pone en bloqueado.
+[07896.61 --> 07902.13] Sí, se hace todo esto para ir a buscar la página y cargar la nave de memoria. Y después,
+[07902.13 --> 07907.49] cuando se restaura la introducción se pasa en bloqueado al listo para que el proceso puede
+[07907.49 --> 07916.73] entrar de nuevo. Ok. Bueno, estos son ejemplos, estos son temas de
+[07916.81 --> 07923.93] práctica, así que hasta acá, hasta la página 64, es lo que vamos a hablar de teoria
+[07923.93 --> 07930.93] con respecto a la Administración de memoria en la parte de curso.
+[07930.93 --> 07938.65] Nos queda después de todo parte práctica, que es lo que sigue en las de positivas y después
+[07938.65 --> 07943.13] de eso nos queda segmentación. Ok. Son los dos temas que van a quedar para la próxima
+[07943.13 --> 07949.13] de la parte de la página, que va a ser en mi de recoles. Vamos a sacar esto.
+[07949.13 --> 07967.13] Se va a tener la escarpada, bien. Y vamos a ver consultas. Bueno, sé que fue un
+[07967.13 --> 07974.77] ucho y fue bastante, en pedioso escucharlo a la actual tiempo. Pero bueno, tratemos a ver
+[07974.77 --> 08001.10] si les quedó alguna consulta sobre este tema. Bueno, si no hay consultas, si no hay que
+[08001.10 --> 08015.58] o me entendieron, o sea, tú le mieron toda la clase. Espero la primera opción.
+[08015.58 --> 08021.70] Recuerden que se está cargado en todas las ppts que estuvemos usando y bueno, va a quedar
+[08021.70 --> 08034.28] también la próxima que vamos a usar. Entonces, día por si yo que voy a usar la clase que viene.
+[08034.28 --> 08039.68] Lo que pueden empezar a hacer son todos los ejercicios de la Administración de la
+[08039.68 --> 08047.32] Demoria, es esto es que trabajan con trasa, que es lo que vamos a ver la clase que viene.
+[08047.32 --> 08054.64] Y si se animan a trabajar con un medaminario en el tema de las direcciones, para traducir
+[08054.64 --> 08062.40] una dirección lógica a una dirección física. Eso lo vamos a hacer, resolviendo ejercicios
+[08062.40 --> 08076.11] directamente. Pueden hacer consultas de ejercicios de la Administración de Procesador
+[08076.11 --> 08084.79] de Trail, donde se más fueron, quedamos haciendo consultas hasta que se terminan
+[08084.79 --> 08100.43] de poner offline todos los chicos. Bueno, eso no sabría decir de en principio de
+[08100.43 --> 08108.23] veía mantenerse. Yo he escuchado que pensando que si puede ser que hace a un final
+[08108.23 --> 08114.87] vez ahora en mayo, el tema no se como se va a tomar. Por eso es que lo iba a consultar
+[08114.87 --> 08127.47] ahora con Claudia, Claudia, a ver el dedo que es la directora. Yo creo que sí, digamos, no
+[08127.47 --> 08153.20] ingresé al mascamp alcio, pero dejame confirmarlo y te comento la clase que viene.
+[08153.20 --> 08157.60] Bien, la parte de la práctica, si puede ser síllina, la parte de estrés, ya lo
+[08157.60 --> 08165.28] puedes estar haciendo. Que me llamé a la parte de estrés porque justo se
+[08165.28 --> 08175.52] cayó la conectividad de la laptop cuando intenté hacer la parte del trabajo práctico
+[08175.52 --> 08182.52] y bueno, seguimos con el tema de la inselular, que bueno, se vio temas asigenerales,
+[08182.52 --> 08187.32] pero sí con eso ya lo podría estar haciendo. Oye, que cosa consulta, si hay algún punto
+[08187.32 --> 08205.66] específico que no te sale y lo vemos en un echarlado como el depeo y a tratar de ver
+[08205.66 --> 08213.02] si lo logras hacer que funcione el para poder injectar, pero si teni más a seguirlo, no
+[08213.02 --> 08220.58] es el problema. Si voy a ver qué forma puedo, si no es este día este miércoles, es el lunes.
+[08220.58 --> 08227.54] Tengo que ver cómo hacer para que no se me creayer el Windows. Cosa rara nunca me pasó y
+[08227.54 --> 08234.98] lo que pasa es que estuvimos con esto de la cuarentena. Estuvimos instalando software para
+[08234.98 --> 08242.66] hacer pruebas y diversificación de cosas que no estaban antes de la máquina. Seguramente,
+[08242.66 --> 08271.74] son compatibles con el miércoles. Para las vamos a venir coles, si quiera hacer consultas,
+[08271.74 --> 08301.05] yo me quedo hasta las nuevete, no tengo ningún problema de seguir. Hasta el miércoles,
+[08301.05 --> 08314.78] al miércoles.
+[08314.78 --> 08335.06] ¡Tropchau!

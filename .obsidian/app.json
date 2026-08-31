@@ -1,0 +1,17 @@
+{
+  "userIgnoreFilters": [
+    ".obsidian/**",
+    ".git/**",
+    ".pnpm-store/**",
+    "node_modules/**",
+    "scripts/**",
+    "transcripciones/**",
+    "videos/**",
+    "package.json",
+    "pnpm-lock.yaml",
+    "pnpm-workspace.yaml",
+    "2026-08-12clase BYMA cedears.md",
+    "clase 03-08-26",
+    "clase 03-08-26.md"
+  ]
+}

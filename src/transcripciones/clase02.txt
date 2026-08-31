@@ -1,0 +1,945 @@
+# 2 300320.mp4
+# duration: 6596.075125
+
+[00000.53 --> 00007.53] y bueno gracias a que teníamos los mails, lo grepone más o menos la cantidad que estuvimos
+[00007.53 --> 00021.53] gracias al vídeo que grabó el solange, lo grepé recuperar también los nombres de las personas que tuvieron en la charlante de yor
+[00022.53 --> 00035.53] así que muchas gracias a Solange, bueno con eso lo grepé pasar la información que me estaba pidiendo en una de las preguntas que hicieron
+[00036.53 --> 00046.53] si tenemos ideas de personas que no tienen conectividad o que tienen algún problema como para conectarse al
+[00047.53 --> 00060.53] la charla virtual, así que si tienen algún conocido que no se pudo conectar, manda un mail o a la
+[00060.53 --> 00098.73] video, escucha que estoy hablando de medio lento pero estoy tomando la lista de medio que van entrando
+[00098.73 --> 00109.73] como la idea mirando el video, bien el problema que comentaban del de Fassage, esto me estoy tomando un poco
+[00109.73 --> 00119.73] el tema es que yo uso Firefox y bueno, yo tengo una de las problemas puede ser que esto usando Firefox
+[00119.73 --> 00132.73] que haya empenido eso, así que hoy el cambio y esto usando el Chrome, así que vamos a ver qué salió ahí
+[00132.73 --> 00169.61] la clase pasado, ya no sigamos a 30 personas, así que no, está faltando unas 8, 9, para ir viendo
+[00169.61 --> 00190.32] a buenos gracias, sigo a la vez, eso es bueno que este me va a hacer mejor, también dice que todo
+[00190.32 --> 00201.32] la familia de Jara de Usarl Internet para poder ensecar mejor, así que lo esperamos que vaya, yo ahí sea un poco más coordinado
+[00201.32 --> 00213.32] igual lo que voy a optar es que ustedes tienen el documento con la diapositiva voy a ver que vaya cambiando de diapositiva
+[00213.32 --> 00226.32] le voy a decir el número, así se van ubicando y cualquier cosa después pueden mirarlo y escuchar el video de otra forma
+[00226.32 --> 00249.54] o sea seguirlo con las diapositivas, ahí hay un tema así, así, como anda la que hay, ya un tema más me consultaron
+[00249.54 --> 00259.54] por el trabajo práctico, el trabajo práctico lo tengo pensado de abordar el niércoles que viene
+[00259.54 --> 00309.56] lo que es lo que tenemos que hacer o cómo se debería estar entregando, para el trabajo práctico lo que vamos a hacer es utilizar un
+[00309.56 --> 00343.60] macinavierto, el la tarde de las siempre usamos el almiciador, el la práctica en la cátera
+[00343.60 --> 00354.60] y en la parte práctica usamos el duro del duro del box, el duro del box es de hora que se llaman que lo vas a embajando en instalando
+[00354.60 --> 00367.60] ahora que voy a hacer es mandarle un mensaje todo oio mañana para que le quede escrito o no se le mandara con el chat así le quede
+[00367.60 --> 00392.20] así aparte el trabajo práctico, le hemos virtual box, bien, tema con virtual box, hubo variadas personas que utilizan el Windows 10 64 bits que no le funciona
+[00392.20 --> 00406.20] en ese caso pueden utilizar cualquier otro virtualizado, por ejemplo que lleva el BMEGUEAR o algun otro que anda por ahí
+[00406.20 --> 00436.90] el virtual box es gratuito y funciona bastante bien, vamos a estar utilizando el punto server, así que hace lo voy a poner
+[00436.90 --> 00462.34] vamos a hacer utilizando el punto server, que versión 16, 16, 16, 4 si es posible o cualquiera que puedan bajarla
+[00462.34 --> 00477.34] y les va a aparecer el lugar de descargar del punto hizo, hay uno que es muy chiquito y que ocupa casi un chimera de ellos por ahí
+[00477.34 --> 00496.97] así que lo pueden estar bajando, qué más, bueno, el bien cual es vamos a dar la charla de que solo las máquinas virtuales
+[00496.97 --> 00508.97] y como se instalaría en el trabajo práctico al principio tiene una guía de cómo hacer la instalación básica
+[00508.97 --> 00523.97] una vez muy difícil de su siga, pero igual le voy a tratar de mostrar el miércoles que viene o si no no le va a dar mirada de preparar el lunes
+[00523.97 --> 00541.97] así que no es imposiente el tema del trabajo práctico es bastante sencillo, le voy a contar la verdad, el trabajo práctico es para que ustedes hagan hands on
+[00541.97 --> 00558.97] como siempre le hicimos con Fabio, el SPD y bueno ahora yo acá en el sistema super activo, el la idea que nosotros tenemos que ustedes aprendan y que están acá para aprender
+[00558.97 --> 00589.50] nosotros vamos a poner todo en el flalado para que ustedes aprendan y el trabajo práctico es el mismo de la año pasado, el mismo de la antes de la pastado, el mismo de hace tres años hace cuatro, cinco, así que resuelto lo que por qué la buena por resolver el tema es que aprendan
+[00589.50 --> 00602.50] o sea que lo entreguen es un paso más para aprobar la materia, ahora lo que nos interesa es que aprendan
+[00602.50 --> 00630.50] no lo puedes instalar en la PC, porque en la máquina virtual el disco rígido pasa a ser un disco un archivo en la máquina de costa, hace el tu PC es un archivo, si instala el scm tienes que traer el disco rígido y yo llevan mal disco rígido, buscar una máquina para poder probarlo y mutarlo y ejecutar lo que exista
+[00630.50 --> 00652.50] entonces es un poco como lo que nos brindan las máquinas virtuales es poder trabajar en el sistema operativo y que el disco sea un archivo de tu computadora, esa sí es esisio
+[00652.50 --> 00663.50] entonces para entregar lo graban y lo entregan en un DVD junto con el informe, así es esisio
+[00663.50 --> 00683.52] igual esto lo vamos a ver el miarco, el humes, el humedo de la que se alniarco, el que más, el disco para que entra en un DVD no tiene que ser más de cuatro chicas
+[00683.52 --> 00694.64] si no no entra, así que tiene que ser menos ahora cuatro chicas, ponas le cuatro chicas perfecto, bien esto es mi
+[00694.64 --> 00708.64] que lo que vamos a hacer en la clase hoy vamos a empezar la hora, es un pequeño repaso de lo que estuvimos viendo en la
+[00708.64 --> 00729.25] pasada para que le quedamos en claro lo importante, voy a proyectar en la pantalla así que compartí,
+[00729.25 --> 00754.77] bien, debería estar viendo mi misoxión y vamos a ver ahora para ver un archivo de texto
+[00754.77 --> 00791.08] en donde quise un pequeño resumen, si se ve, no se habría que no se va a escribiendo, bueno, repaso de los temas,
+[00791.08 --> 00800.08] qué es un sistema operativo, bueno, realmente tengo un sistema operativo de excelente y que se encuentra entre el usuario y el hardware
+[00800.08 --> 00815.16] ese sistema operativo brinda a funciones al usuario, vía una puerta, nosotros vimos, ojo, me estoy chechado, te habíamos con el usuario
+[00815.16 --> 00832.16] si estamos operativo de hs y que utilizamos el 21, bueno, en el 21, está el sistema operativo y esa es la puerta,
+[00832.16 --> 00841.16] la puerta con la que un usuario le pide el servicio al sistema operativo, a partir de ahora en una adelante
+[00841.16 --> 00851.16] vamos a estar llamando esto como sistema col, cuando uno usuario necesita el sistema operativo,
+[00851.16 --> 00866.16] hace una sistema col, esa sistema col se va a traducir en una interrupción que el deo de c es el 21 h, el Linux es la intochenta,
+[00866.16 --> 00878.16] normalmente el sistema operativo se almacena en un archivo o varios archivos chiquitos en el caso del Linux,
+[00878.16 --> 00886.16] se llama BML Linux y eso es lo que se carga para poder comenzar a trabajar con el Linux,
+[00887.16 --> 00900.16] al butiar la PC se realiza un post que es un favor a los altes y que tal mina haciendo la carga de un administrador de buteo,
+[00900.16 --> 00910.16] que está en el primer sector de la partición o del disco, eso se llama group y a partir de ahí ustedes pueden cargar el carne y que quiere,
+[00910.16 --> 00922.16] por eso el Linux es muy versatile y le permite cargar diferentes kernels, tener diferentes kernels en su computadora y decidí con cualquier
+[00922.16 --> 00931.16] porque está hecho eso, eso está hecho para que ustedes puedan bajar el kernel de carne el punto de modificarlo,
+[00931.16 --> 00939.16] y salarlo en su computadora y botiar con ese carne que ustedes no hay que fijar, pero que pasa,
+[00939.16 --> 00947.16] normalmente cuando uno no hay que fijar algo, no siempre sale las cosas bien, entonces tendría que tener la posibilidad de volver para trasig usar el viejo kernel,
+[00947.16 --> 00955.16] bueno, en grupo le permite eso y como permite hacer botello de diferentes kernels también permiten ser botello de diferentes sistemas operativos,
+[00955.16 --> 00963.16] por eso el que ustedes pueden instalar en una computadora un Windows y Linux, normalmente se,
+[00963.16 --> 00976.82] a conseja que se instale primero Windows en la computadora y despacital el Linux, así lo reconoce y puede hacer bien las particiones,
+[00976.82 --> 00982.82] bueno cuando el carne se carga memoria que se se archivo que es el disco que está en el disco,
+[00982.82 --> 00989.82] no hay control de la computadora que es un híjica, cuando empieza a ejecutar, pues un programa se empieza a ejecutar,
+[00989.82 --> 00994.82] tiene una parte que trabaja en el modo real, se acuerdan que hablamos del modo real de 186,
+[00994.82 --> 01006.82] que es lo que ustedes viran el 4 de la 3 pasado en SAP con el todo el manejo del VHS, el manejo del VHS,
+[01006.82 --> 01016.82] trabaja en modo real, pero modo real como pasa con el VHS no puede proteger el hardware, entonces ahí se inicia siempre,
+[01016.82 --> 01026.82] pero después se pasa con ese mas bajo, ha modo protegido, ha modo protegido, ha parecido en el 186,
+[01026.82 --> 01034.82] a partir de ahí apareció el modo protegido que le permite tener los niveles que habíamos hablado en la clase pasado,
+[01034.82 --> 01045.82] de niveles de privilegios, entonces tiene un nivel de supervisor que sería el sistema operativo,
+[01045.82 --> 01051.82] que es el tiene el mayor privilegio y después el nivel usuario que es el de menor privilegio.
+[01051.82 --> 01061.82] Cuando el sistema operativo se termina de cargar, usan todas las interrupciones, una rutina, en todas,
+[01061.82 --> 01068.82] o sea que cualquier cosa que suceden la computadora y haga una interrupción lo tiene el sistema operativo,
+[01068.82 --> 01076.82] no quedó nada, librado a las armas, no sean todas las interrupciones, usadas y copadas,
+[01076.82 --> 01080.82] por el sistema operativo que usted es cargar, no es por el mercado.
+[01080.82 --> 01089.82] Y como bien dijimos el cable o el sistema operativo lo que hace es gestionar y para gestionar,
+[01089.82 --> 01098.82] necesita llevar tablas, es como tener una del, no tel de que llevar las tablas de amitaciones vacías o habitaciones disponibles,
+[01098.82 --> 01106.82] sin la tablas de pasajeros, saber cuando entran cuando salen, cuando les corresponden,
+[01106.82 --> 01119.82] y llevar todas las tablas. Entonces como todo es una tabla, acá el sistema operativo es básicamente un manejador de tablas
+[01119.82 --> 01126.82] y rutinas de atención de intrusiones. Eso es todo el sistema operativo,
+[01126.82 --> 01132.82] a el pequeño pedacito que se ejecuta para poner todo esto en marcha, no,
+[01132.82 --> 01138.82] o sea que son tres partes que forma en el carne. Dentro de la parte que queda funcional,
+[01138.82 --> 01144.82] utilizando todas las rutinas que habíamos hablado, que están asociadas a interrupciones,
+[01144.82 --> 01150.82] está ahí metido la administración de procesos que son todas las componentes,
+[01150.82 --> 01155.82] administración de procesos a mi instrucción de memoria, a mi instrucción de la información y a mi instrucción de perifericos.
+[01155.82 --> 01165.42] Todo eso está metido allá dentro de lo que se cargo. La ejecución de el procedimiento de
+[01165.42 --> 01172.42] a inicialización es esto que yo le decía, cuando termina del proceso de inicialización que es carguetó de memoria,
+[01172.42 --> 01178.42] y se netó a las tablas, puse todas las rutinas en las interrupciones,
+[01180.42 --> 01186.42] necesito crear el primer proceso, el proceso hilo y que nosotros lo llamamos que es un meta-poros
+[01186.42 --> 01192.42] y es el primer proceso que se llama init en Linux. Entonces el init,
+[01192.42 --> 01197.42] ese es que va a terminar de hacer el buteo, que es un hilo que el buteo. Bueno,
+[01197.42 --> 01203.42] la parte final del buteo es cuando aparece la interfaz con el usuario,
+[01203.42 --> 01207.42] porque el carne el solo trabajó hasta ahora con el hardware.
+[01207.42 --> 01211.42] Y ahora tiene que mostrarse al usuario y trabajar con el usuario.
+[01211.42 --> 01216.42] Bueno, ahí viene como parte final del init y realización,
+[01216.42 --> 01222.42] la interfaz con el usuario, que puede ser por consola de texto o por una interfaz gráfica.
+[01222.42 --> 01230.42] La consola de texto, cuando ustedes escriben, y precienda en enter, causa mi interrupción y eso
+[01230.42 --> 01233.42] hace que el sistema operativo toma lo que ustedes están tratando de hacer.
+[01233.42 --> 01238.42] Y cuando la interfaz gráfica, ustedes mueven el mouse, o sea, en un clic en el mouse,
+[01238.42 --> 01244.42] también va a usar una interrupción y el sistema operativo le va a tomar y vas a lo que ustedes
+[01244.42 --> 01249.86] le están invicando que ha. Ahora bien, para el acada sistema,
+[01249.86 --> 01254.86] o sea, para cada usuario no se estén operativo, un sistema operativo que se dice
+[01254.86 --> 01261.86] de ser muy tu usuario. Lo que va a ser este cada usuario vea como si tuviera una máquina propia.
+[01261.86 --> 01267.86] Por eso, se habla una visión del usuario como una máquina virtual propia.
+[01267.86 --> 01271.86] Se lo tengo en la computadora, pero muchos están trabajando en ella.
+[01271.86 --> 01278.86] En Linux, por ejemplo, desde otra computadora, puede entrar y trabajar también en un servidor.
+[01278.86 --> 01285.86] O sea, 5 computadoras pueden entrar a un servidor y están trabajando 5 personas en el servidor.
+[01285.86 --> 01292.86] Y eso se logra en el caso del init mediante el SSH, o algo un servidor de este estilo.
+[01292.86 --> 01297.86] Y cada usuario pensaría de que tiene su máquina propia.
+[01297.86 --> 01301.86] Sí, básicamente es eso. Cada usuario ve una computadora.
+[01301.86 --> 01306.86] Y cuando le ejecuta sus programas, no sabe lo que estás haciendo el otro usuario.
+[01306.86 --> 01314.86] Y no debería saberlo. Y cuando un programa se ejecuta, tampoco hay otro programa de otro proceso
+[01314.86 --> 01317.86] en este caso, cuando se ejecuta el programa se transforma el proceso,
+[01317.86 --> 01324.86] y en dos procesos, el mismo usuario no tienen que saber que está o mezclar o ocho caras entre sí.
+[01324.86 --> 01329.86] Porque cada una es como si está corriendo en una máquina propia.
+[01329.86 --> 01333.86] La visión es, yo tengo un debole ese para mi solito.
+[01333.86 --> 01338.86] Y trabajo en él y hago correr lo que yo quiero.
+[01338.86 --> 01348.16] Ahora, eso es todo lo que deberíamos saber de lo que es un sistema operativo.
+[01348.16 --> 01353.16] Lo que vamos a empezar en la clase de ese empezar a ver la parte de mi intrisión de procesos.
+[01353.16 --> 01357.16] La parte de un multiplicar la mación y un multiplicar el proceso de procesamiento,
+[01357.16 --> 01359.16] es lo que tiene que quedar muy claro.
+[01359.16 --> 01367.16] La ma, la multiplicar la mación, se se cuando un sistema operativo permite la ejecución de varios procesos,
+[01367.16 --> 01373.16] sí, o sea que varios procesos se tienen ejecutando en el momento dentro de el tiempo.
+[01374.16 --> 01376.16] ¿Qué significa eso?
+[01376.16 --> 01380.16] Yo ocurra el proceso a y ocurra el proceso a ver.
+[01380.16 --> 01384.16] Las dos procesos están ejecutándose al mismo tiempo.
+[01384.16 --> 01387.16] Pero tiene, hay un solo procesador.
+[01387.16 --> 01392.16] Entonces, cómo se ve esto, están corriendo o no están corriendo.
+[01392.16 --> 01397.16] Bueno, esto se ve como pensar lo siguiente.
+[01397.16 --> 01403.16] Yo puedo hacer en paralelo, comer, dormir y caminar.
+[01403.16 --> 01409.16] No estoy a ganar decir, no puedo comer, caminar y dormir al mismo tiempo.
+[01409.16 --> 01415.16] Es cierto, yo no dije que era en el mismo instante que estoy comiendo, también, de caminando.
+[01415.16 --> 01419.16] Lo que sucede es en un deta de tiempo.
+[01419.16 --> 01423.16] Yo en un día, yo como, duermo y camino.
+[01423.16 --> 01426.16] Sí, en el lapso de un día.
+[01426.16 --> 01432.16] Ahora, si lo ha hecho, ahora, también puedo comer dormir y caminar en ahora.
+[01432.16 --> 01439.16] Si ha estado perdiendo sentido de esto, pero bueno, ahora cuando yo voy y lo hago en un instante,
+[01439.16 --> 01443.16] yo en un instante no puedo hacer dormir y comer.
+[01443.16 --> 01448.16] Sí, sí, podría hacer, por ejemplo, comer y caminar.
+[01448.16 --> 01452.16] Sí, pero dormir y comer no, porque durmiendo, no me permite comer.
+[01452.16 --> 01458.16] Entonces, acá viene el tema de paralelismo.
+[01458.16 --> 01464.16] Y acá, este concepto me lo puse, pero es algo que deberían tener en cuenta.
+[01464.16 --> 01477.57] O sea, que dos procesos sean paralelos, no implican que sean simultáneos.
+[01477.57 --> 01480.57] Yo estoy hablando de decir que tienes que significar simultáneo.
+[01480.57 --> 01488.57] Si un tenio en el chagaron instante de tiempo, sí, y corto, sí, y les saco un arfoto.
+[01488.57 --> 01493.57] Y en esa foto veo que los dos procesos están ejecutándose.
+[01493.57 --> 01495.57] ¿Qué significa?
+[01495.57 --> 01500.57] Si son dos procesos que usan procesador, me necesito tener dos procesadores.
+[01500.57 --> 01505.57] Porque, si no, cuando yo corte, voy a ver un solo procesador en el procesador.
+[01505.57 --> 01508.57] Y el otro, en otro estado.
+[01508.57 --> 01514.57] Entonces, acá empieza a aparecer la parte de Estados de los procesos.
+[01514.57 --> 01523.23] Entonces, yo puedo tener muchos procesos en diferentes Estados.
+[01523.23 --> 01526.23] Sí, entonces, qué significa están en diferentes Estados?
+[01526.23 --> 01533.23] Y bueno, ahora cuando vamos a ver, vamos a ver, vamos a ver ver de que hay procesos que
+[01533.23 --> 01540.23] pueden estar ocupando. Un solo proceso y solo un proceso un estado, mientras que en otros
+[01540.23 --> 01546.23] pueda ver muchos. Entonces, están ejecutándose en forma paralela.
+[01546.23 --> 01548.23] Sí, sí, toma el delta de tiempo muy grande.
+[01548.23 --> 01553.23] Están ejecutándose en una forma simultánea, no, hay uno solo que se puede estar ejecutando
+[01553.23 --> 01558.22] información simultánea, porque tengo una CPU.
+[01558.22 --> 01564.22] Y la multiplicación, bueno, la multiplicación es hacer creer que hay muchos procesos
+[01564.22 --> 01570.22] que están ejecutando en paralelo, pero en realidad, simultáneo no hay ninguna.
+[01570.22 --> 01574.22] En un último procesamiento, sin ifía que tengo más de un procesador,
+[01574.22 --> 01577.22] va a permitir que exista esta simultánea.
+[01577.22 --> 01583.22] Porque, porque un proceso puede estar en un procesador y otro proceso en otro procesador.
+[01583.22 --> 01589.22] Entonces, cuando yo corte, en un intento, voy a ver que dos procesos se están ejecutando.
+[01589.22 --> 01593.22] Una vez el procesador, a otro vez el procesador, v.
+[01593.22 --> 01597.22] Bien, nosotros para todos los ejercicios que después de la clase de hoy,
+[01597.22 --> 01599.22] van a poder empezar a realizar.
+[01599.22 --> 01602.22] No vamos a tener en cuenta el multiplicamiento.
+[01602.22 --> 01605.22] A menos que el ejercicio lo indique.
+[01605.22 --> 01609.22] Pero si vamos a tener nosotros en cuenta la multiplicación.
+[01609.22 --> 01614.22] Bien, en la multiplicación, varios procesos se ejecutan en paralelo.
+[01614.22 --> 01617.22] Bien, eso es la que tiene que quedar en clara.
+[01617.22 --> 01622.75] Para poder empezar a trabajar con las deapositivas del hoy,
+[01622.75 --> 01626.75] necesito que quede el concepto de qué es un proceso.
+[01626.75 --> 01631.75] Si bien lo tuvimos viendo, digamos,
+[01631.75 --> 01635.75] acá vamos a dejar sentado y los conceptos.
+[01635.75 --> 01639.75] Bueno, ¿qué es un proceso?
+[01639.75 --> 01643.75] Básicamente un proceso es la ejecución de un programa.
+[01643.75 --> 01646.75] Es la parte viva del programa.
+[01646.75 --> 01648.75] O sea, ustedes se creen de un programa.
+[01648.75 --> 01653.75] Ermoso programa, lo y escribieron en el asemble, en el lenguaje que más les guste,
+[01653.75 --> 01659.75] lo ponen a ejecutar. Bueno, es un programa mientras live en el disco.
+[01659.75 --> 01662.75] Es un programa mientras se carga en la memoria.
+[01662.75 --> 01668.75] Si, cuando empieza a procesar, o sea, cuando empieza a ejecutar,
+[01668.75 --> 01671.75] se transforma ese programa en un proceso.
+[01671.75 --> 01673.75] Que está con, que consta de él.
+[01673.75 --> 01679.75] El programa es código así y una parte viva que son la parte de el gocemben,
+[01679.75 --> 01686.75] el IP y los registros que van haciendo paso a paso en el programa que ustedes cargaron.
+[01686.75 --> 01694.75] Bien, entonces, la parte viva es lo que nosotros le vamos a estar llamando 3.
+[01694.75 --> 01698.75] Esto es para que empiecen a tomar en cuenta que es un 3.
+[01698.75 --> 01701.75] Un 3 es la parte viva.
+[01701.75 --> 01707.75] Es básicamente tiene el coces menel IP y los registros.
+[01707.75 --> 01712.75] Bien, se le tiene que sumar a él que es el stack.
+[01712.75 --> 01715.75] Pero, por el momento no nos vamos a meter en eso,
+[01715.75 --> 01718.75] pero no soy casa con saber que el CS IP y los registros
+[01718.75 --> 01724.75] pertenece a la parte viva del proceso que a esos se le estaría llamando 3.
+[01724.75 --> 01738.54] Mientras que el programa es el código así.
+[01738.54 --> 01747.24] Bien, entonces un proceso no solo tiene la parte viva o sea el frem.
+[01747.24 --> 01753.24] Si no que también tiene asociado la memoria donde se puso el código de el programa,
+[01753.24 --> 01757.24] recursos que va a estar utilizando y archivos, que también son recursos.
+[01757.24 --> 01763.24] Me da más que lo quisiera saltar, que son archivos que ustedes van a estar trabajando con este programa.
+[01763.24 --> 01766.24] Entonces ese proceso,
+[01766.24 --> 01771.24] ¿sí? Ve como si la máquina que estoy en la cohesión estoy trabajando,
+[01771.24 --> 01775.24] si es para mi solo, o sea para el proceso solo.
+[01775.24 --> 01781.24] Así que el proceso tiene que tener la sensación de que él está solo.
+[01781.24 --> 01784.24] Es verdad que está solo, no puedo haber 20 mil,
+[01784.24 --> 01786.24] pero él no tiene que saber de los demás.
+[01786.24 --> 01789.24] Él es,
+[01789.24 --> 01795.24] digamos, sí, el proceso de un proceso de un proceso de un proceso.
+[01795.24 --> 01797.24] Bien, eso es en principio.
+[01797.24 --> 01800.24] A ver, hemos que ahí hay una llamada comunicación de proceso.
+[01800.24 --> 01805.24] Pero para nosotros hoy el proceso es una persona,
+[01805.24 --> 01808.24] es un momento de mejor dicho más que una persona,
+[01808.24 --> 01812.24] es unente que no se comunita con nadie más que con el sistema operativo.
+[01812.24 --> 01816.24] Y ve que tiene todos los procesadores,
+[01816.24 --> 01819.24] todos los memorias, todos los procesadores.
+[01819.24 --> 01825.24] Bien, eso sería como la máquina virtual que se le forma para el sol.
+[01825.24 --> 01833.24] Bien, como la dije, un programa es la parte de código del proceso.
+[01833.24 --> 01841.24] Si uno lo analiza, va a encontrar partes de que es ejecutar un código
+[01841.24 --> 01846.24] a hacer cuentas, vamos a llamar la sortena.
+[01846.24 --> 01850.24] Y hay una parte que es de entrada salida.
+[01850.24 --> 01854.24] El usuario ingreson un dato y ir a leer un archivo,
+[01854.24 --> 01857.24] o sea, ir a leer un dato de un archivo eso,
+[01857.24 --> 01861.24] es la parte de entrada a la sisa.
+[01861.24 --> 01865.24] O sea que si uno analiza y código en el programa,
+[01865.24 --> 01870.24] va a tener una parte de entrada en ejecución y una parte de entrada a la sisa.
+[01870.24 --> 01877.24] Bien, vamos a trabajar con eso y lo vamos a dibujar de una determinada manera.
+[01877.24 --> 01884.24] Luegomente, recuerden que el proceso piensa que está solo, solo y toda la máquina es para él.
+[01884.24 --> 01889.24] Sí, y lo único que hace es pedirlo, es que tenemos operativo que haga cosas por él.
+[01889.24 --> 01895.24] Bien, bueno, eso es todo el resumen de las dos,
+[01895.24 --> 01901.24] tres clases que tuvimos dos, no sé, no sé, pregencia el esina virtual.
+[01901.24 --> 01907.24] Esto sería el resumen, esto sería lo que necesita nos te saber y que le quede bien en car.
+[01907.24 --> 01911.24] Entonces lo que vamos a hacer ahora, vamos a tener unos tres minutos
+[01911.24 --> 01915.24] para que ustedes saben pregunta por el chat y yo les voy a responder a lo.
+[01915.24 --> 01917.24] Si tienen alguna consulta sobre esto.
+[01917.24 --> 01934.51] Así que vamos a cerrar esto y vamos a dejar de presentar y vamos a ir a chat.
+[01934.51 --> 01944.43] Bueno, como se vio el tema del video era, no hay mucho más que cambiar,
+[01944.43 --> 01952.43] pero si se ve un poco mejor, sería bueno porque a partir de ahora vamos a empezar con la
+[01952.43 --> 01961.43] la idea positiva, así que ahí sí se va a empezar a mover el contenido.
+[01961.43 --> 01975.61] Sí, pregunten, bueno, Fernando, consulta a mi situación de procesador.
+[01975.61 --> 01992.14] ¿Puedes ser la que pasa que tengo en la foto a la familia y puede ser que está en el
+[01992.14 --> 02001.26] momento.
+[02001.26 --> 02012.63] No, no puedo ahorritar, disculpen.
+[02012.63 --> 02018.63] Cuando se va a usar el recurso en el mismo, se tiene una cuenta,
+[02018.63 --> 02022.63] se tienen con de distintos tiempos como throughput y de ejecución,
+[02022.63 --> 02023.63] etcétera.
+[02023.63 --> 02028.63] Bueno, eso es lo que vamos a empezar a ver ahora en las vías positivas.
+[02028.63 --> 02034.49] Y empezamos a la idea positiva y empieza a desactar menos de con eso.
+[02034.49 --> 02050.67] ¿Cómo se sabe con lo que sucede en lo siguiente?
+[02050.67 --> 02055.67] No, no, no, no, no, cuando ustedes crean un sistema de consultación,
+[02055.67 --> 02061.67] no sea crear una computadora o crear un...
+[02062.67 --> 02068.67] A ver, sí, una máquina le pusional el sistema operativo,
+[02068.67 --> 02075.05] es para ver de hacer una acción que es repetitiva.
+[02075.05 --> 02081.05] Así que a ustedes, si a sea que todo lo que hacen con su computadora es algo repetitivo.
+[02081.05 --> 02090.05] Esepto que cuando vino toda la parte de interfagráfica y interactiva con el usuario,
+[02090.05 --> 02094.05] el usuario puede correr diferente programas y empieza a trabajar.
+[02094.05 --> 02099.05] Entonces, si uno piensa en una máquina como un servidor,
+[02099.05 --> 02109.05] ese servidor viene como algo para hacer tareas rutinarias.
+[02109.05 --> 02111.05] Por ejemplo, en un banco.
+[02111.05 --> 02116.05] En los maifren se utilizaban en banco y se siguen usando en bancos.
+[02116.05 --> 02123.05] En estos bancos, todos los días hacen el cierre y el balance de cuentas.
+[02123.05 --> 02129.05] Entonces, bueno, todos les sierra y que ese cierre y de que es clering,
+[02129.05 --> 02133.05] hay clering bancario, se hace todos los días.
+[02133.05 --> 02137.05] Entonces, eso es lo que empieza a hacer.
+[02139.74 --> 02148.74] Se empieza a inunorario, se sierra por pasos y se programa.
+[02148.74 --> 02153.74] Forma, bach se va a empezar a escuchar esa palabra.
+[02153.74 --> 02157.74] En forma bach, la ejecución de varios procesas,
+[02157.74 --> 02161.74] que primero, o sea, hace las cuelta, después hace,
+[02161.74 --> 02163.74] ese voy a que los resultados y etcétera.
+[02163.74 --> 02166.74] Entonces, eso va haciendo,
+[02166.74 --> 02170.74] en secuencia.
+[02170.74 --> 02179.26] Me, entonces, si ustedes se ejecutan muchas veces,
+[02179.26 --> 02188.26] el mismo proceso, van a poder sacar tiempo.
+[02188.26 --> 02191.26] Entonces, para obtener estadísticas.
+[02191.26 --> 02196.26] Y cuando se hable, de, por ejemplo, el más corto primero,
+[02196.26 --> 02201.26] y eso le va más a ver hoy, tengamos en cuenta de que hay que llevar estadísticas,
+[02201.26 --> 02208.26] porque como se que es el más corto, un proceso es el más corto.
+[02208.26 --> 02210.26] A ver.
+[02210.26 --> 02214.26] Por ejemplo, puedo tomar que sea más corto en tamaño.
+[02214.26 --> 02219.26] Pero imagínense un proceso que usa 15 bail,
+[02219.26 --> 02223.26] y que hace, mueva a Chewano,
+[02223.26 --> 02228.26] Si, Shant y salta la, a la, a la introducción anterior.
+[02228.26 --> 02231.26] Es el proceso es súper chiquitito,
+[02231.26 --> 02233.26] pero no en catormina.
+[02233.26 --> 02236.26] Entonces, el corto o es largo.
+[02236.26 --> 02239.26] Y si uno se puede ver, depende.
+[02239.26 --> 02241.26] Así, el tamaño es corto,
+[02241.26 --> 02243.26] pero cuando se ejecuta es largo.
+[02243.26 --> 02246.26] Entonces, ahí es donde,
+[02247.26 --> 02250.26] uno tiene que tomar una referencia
+[02250.26 --> 02253.26] cuando veamos las administraciones.
+[02253.26 --> 02258.26] Entonces, cómo puede ser una saber el terrarão,
+[02258.26 --> 02261.26] como dice ahí, o el troupon.
+[02261.26 --> 02270.26] Bueno, yo puedo saber mi sistema hoy ejecute 20 procesos en dos horas.
+[02270.26 --> 02272.26] Eso es un troupon.
+[02272.26 --> 02278.26] Entonces, tantos procesos se terminaron en tal, en tal, en tal periodo.
+[02278.26 --> 02280.26] Sí.
+[02280.26 --> 02284.26] Entonces, yo con eso digo, bueno, manía de voy a ejecutar.
+[02284.26 --> 02287.26] Te voy a ejecutar 40 procesos.
+[02287.26 --> 02289.26] Quanto ahora voy a necesitar.
+[02289.26 --> 02292.26] Pero en el desdresimple, cuatro veces.
+[02292.26 --> 02295.26] Bien, es para tener eso.
+[02295.26 --> 02298.26] Ahora, ¿para qué más sirve?
+[02298.26 --> 02302.26] Y para probar distintas administraciones.
+[02302.26 --> 02304.26] Que vamos a empezar a ver ahora.
+[02304.26 --> 02306.26] O sea, yo le hice una administración.
+[02306.26 --> 02312.26] Corro con esa administración y me da 10 procesos cada dos horas.
+[02312.26 --> 02314.26] Agarró otras administraciones.
+[02314.26 --> 02319.26] Corro con esa administración y me da 15 procesos cada dos horas.
+[02319.26 --> 02320.26] Ah, bueno, sí.
+[02320.26 --> 02322.26] Entonces, las primeras no me sirve,
+[02322.26 --> 02324.26] la segunda es mucho más rápido.
+[02324.26 --> 02327.26] Entonces, eso se usa el troupon
+[02327.26 --> 02331.26] y para eso se usa también algo que vamos a ver que se llama terror round.
+[02331.26 --> 02332.26] Bien.
+[02332.26 --> 02334.26] ¿Agúrlo a cargonzultas?
+[02334.26 --> 02344.08] Bueno, vamos a empezar con las deapositivas.
+[02344.08 --> 02349.02] Ah, tenemos que insectar nuevamente.
+[02349.02 --> 02368.72] Bien, se ve.
+[02368.72 --> 02374.72] Voy a cortar, mangan por el chat que voy a poner un medivicarlo.
+[02374.72 --> 02380.48] Bueno, esto lo que vamos a ver el día de hoy.
+[02380.48 --> 02384.48] Vamos a estar viendo las medricas, sobre el botito round.
+[02384.48 --> 02389.48] ¿Cómo se consumen los tiempos del sistema operativo?
+[02389.48 --> 02391.48] ¿Qué sería monoprogramación?
+[02391.48 --> 02393.48] ¿Ustedes a lo conocen?
+[02393.48 --> 02396.48] Y qué sería la multibrogramación.
+[02396.48 --> 02402.48] Las rutinas que aparecen en cada uno de las transiciones que vamos a ver ahora
+[02402.48 --> 02405.48] en lo que es un deagramos de estados.
+[02405.48 --> 02408.48] Lo que control el proceso,
+[02408.48 --> 02414.48] esa sería una línea de la tabla de los procesos,
+[02414.48 --> 02416.48] se acuerdan que.
+[02416.48 --> 02423.48] Yo lo que había dicho es que un sistema operativo es un administrador de tablas.
+[02423.48 --> 02426.48] Y para los procesos, voy a llevar una tabla.
+[02426.48 --> 02428.48] Y esa tabla se llama TBSP.
+[02428.48 --> 02430.48] Simple y sencillo.
+[02430.48 --> 02435.48] La diagrama de transición de estados es lo que se le estaba comentando.
+[02435.48 --> 02440.48] Vamos a estar trabajando con ese agraba para poder explicar las administraciones.
+[02440.48 --> 02443.48] Y después de sobrebeen las administraciones.
+[02443.48 --> 02446.48] Bien, es que tenemos cinco administraciones posible.
+[02446.48 --> 02448.48] Se pueden inventar muchas más.
+[02448.48 --> 02452.48] Pero estas con estas cinco son las que podemos empezar a trabajar.
+[02452.48 --> 02458.48] Bueno, Pachiva de a posibilidad tres concepto.
+[02458.48 --> 02464.48] Y enbúlcan las distintas maneras de asignar el control de la CPUa de los distintos procesos.
+[02464.48 --> 02472.48] Y en particular, la forma en que se va a estar asignando la CPUa,
+[02472.48 --> 02476.48] a todos los procesos se llama Planificación a la escadio.
+[02476.48 --> 02480.48] O sea, yo tengo 20 personas.
+[02480.48 --> 02484.48] Y me necesito responder preguntas a esa parte de personas.
+[02484.48 --> 02491.48] Bueno, yo voy a utilizar una planificación de que todos lo que hagan pregunta.
+[02491.48 --> 02494.48] Lo tienen que hacer en orden al fábético.
+[02494.48 --> 02500.48] Entonces, yo planifique para que, primero, lo que tiene a la pregunta,
+[02500.48 --> 02503.48] después, voy a hacer de asignarme.
+[02503.48 --> 02508.48] Bien, para poder evaluar su calidad de una planificación respecto a otra,
+[02508.48 --> 02512.48] se necesita médrica si para eso se encuentra el throughput.
+[02512.48 --> 02516.48] Bien, que es la cantidad de procesos en una unidad de tiempo.
+[02516.48 --> 02526.48] Entonces, si yo tomo la opción de, por ejemplo, el mejor en primero de los alumnos
+[02526.48 --> 02528.48] para hacer consultas.
+[02528.48 --> 02533.48] Entonces, tomo el mejor en primero y voy contestando.
+[02533.48 --> 02536.48] Entonces, bajo ese modelo, cuanto me atardar.
+[02536.48 --> 02541.48] Sí, en una hora, cuántos puedes desocupar de consultas.
+[02541.48 --> 02545.48] Si no tomo, es el orden al fábético.
+[02545.48 --> 02552.48] Para mí me queda uno que hace muchas preguntas y, por lo tanto, me hizo bajar mi throughput.
+[02552.48 --> 02559.48] Bueno, entonces, bueno, para eso se usa esta, esta métrica de throughput,
+[02559.48 --> 02563.48] para poder evaluar cuán buena es mi planificación.
+[02563.48 --> 02566.48] La otra medida es el turnaround.
+[02566.48 --> 02569.48] Es un promedio.
+[02569.48 --> 02578.22] Es el promedio de todas las tiempos de finalización de los procesos.
+[02578.22 --> 02579.22] A ver.
+[02579.22 --> 02584.22] Un proceso como nuestra alinegráfico bajo ese proceso va,
+[02584.22 --> 02589.22] como dijimos que tenía todo proceso tenía una parte de ejecución
+[02589.22 --> 02596.22] y una parte de entrada salida o de, sí, de, sí, de, sí,
+[02596.22 --> 02601.22] de entrada salida, digamos, dicho, esa parte de ejecución sería las lineas llenas,
+[02601.22 --> 02608.22] donde dicen, entrada salida, es cuando el proceso va a pedir que se lea del teclano
+[02608.22 --> 02615.22] o va a pedir que se lea un registro de un archivo y después un cierto tiempo vuelve
+[02615.22 --> 02617.22] y sigue ejecutando.
+[02617.22 --> 02627.22] Eso es el dibujito que se va viendo abajo que dice, ah, entrada salida a entrada salida a.
+[02627.22 --> 02634.22] Como uno no tiene un proceso, mejor dicho, lo tiene un programa escrito.
+[02634.22 --> 02640.22] Entonces, no, si tuve el programa escrito yo tendría que seguir el programa.
+[02640.22 --> 02643.22] Entonces, lo que hace hace es, se dice, bueno, se ejecuta,
+[02643.22 --> 02648.22] es que cantidad de tiempo, se suena entrada salida, es que cada día de tiempo se hace
+[02648.22 --> 02654.22] a entrada salida o se dice, mira, este proceso ejecuta 30 segundos o 3 segundos
+[02654.22 --> 02657.22] con la más le ejecuta 3 segundos y hace 2 entrada salidas.
+[02657.22 --> 02662.22] Entonces, uno decide cómo ponerla. Entonces, lo que siempre se suele hacer es distribuir
+[02662.22 --> 02670.22] uniformemente. Así, sí tengo 3 segundos de ejecución y 2 segundos o 2
+[02670.22 --> 02677.22] de 3 segundos y después la 2 entrada salidas juntas lo que se hace es, se le va
+[02677.22 --> 02683.22] distribuyeendo a lo largo de todo el proceso. Entonces, el proceso ejecuta a
+[02683.22 --> 02688.22] la entrada salida ejecuta a entrada salida ejecuta y termina.
+[02688.22 --> 02694.22] En el 5, en el tiempo 5, que es lo que la de la imposición va a que también
+[02694.22 --> 02697.22] el proceso termina, a el proceso de la termina.
+[02697.22 --> 02702.22] Una vez que termina el proceso va, empieza el proceso, hey, y esto es algo
+[02702.22 --> 02708.22] modo de mono programación. Porque, porque sólo un proceso está activo.
+[02708.22 --> 02714.22] Sí, no hay 2 procesos activos cuando yo corte en un tiempo.
+[02714.22 --> 02722.22] Bien, piensé que si yo corto en 4 está a si corto entre sí medio, no hay nadie
+[02722.22 --> 02727.06] ejecutando, pero a esta siendo la entrada salida. Bien, si corto en 2
+[02727.06 --> 02732.06] y medio, si está ejecutando a esta corriendo en el procesoador.
+[02732.06 --> 02740.06] Bien, cuando va a término, se elige a otro, para eso, y se lo pone ejecutar.
+[02740.06 --> 02745.06] Entonces, ahí aparece el proceso, eh, que oca salida también tiene 2 entrada salida
+[02745.06 --> 02750.06] y tarda 3 segundos. Entonces, se le hace la distribución que, como hicimos, será.
+[02750.06 --> 02760.45] Entonces, para eso va a terminar un 5, para eso va a terminar un 10.
+[02760.45 --> 02765.45] El turn around, esto está mal escrito bajo, les falta los paréntesis.
+[02765.45 --> 02769.45] Es 5 más fines, todo eso dividido 2.
+[02769.45 --> 02772.45] Bien, y eso es 7.5.
+[02772.45 --> 02783.45] Ok, entonces, el turn around, es el promedio de las horas o la el horario de terminación.
+[02783.45 --> 02791.45] Decada de proceso. Se considera que cada proceso terminó cuando terminas su ejecución
+[02791.45 --> 02799.45] y lo que imprimió está impreso, sí, sí, eso después vamos a ver más adelante,
+[02799.45 --> 02806.45] que pueda ver algo que se llama spool. Entonces, el tiempo de finalización de procesos
+[02806.45 --> 02811.45] se ha no es el mismo que la aparisa cada ena. Pero, por el momento, como no vamos a tener
+[02811.45 --> 02819.45] spool, el proceso terminó cuando deja de ejecutar. Entonces, sí, vamos dibujando,
+[02819.45 --> 02828.45] pues ahora pasará dibujar en art. Vamos a tener un estado del proceso que está ejecutando,
+[02828.45 --> 02836.45] y un estado del proceso que lo vamos a llamar bloqueado, que es cuando orce la enraza al día.
+[02836.45 --> 02849.45] Y vamos a llamar de ejecutando que está terminado que es el estado cuando terminas
+[02849.45 --> 02858.45] proceso. Bien, sí, es que de leer esto aparecieron tres estados. Bien, ejecutando
+[02858.45 --> 02863.45] porque el proceso va a estar ejecutando o está bloqueado haciendo la enraza al día,
+[02863.45 --> 02870.45] se llama bloqueado porque el proceso va a tocar el disco. El proceso va a limpir
+[02870.45 --> 02878.45] al sistema operativo, anda a leer tal archivo y el sistema operativo va a lo leer
+[02878.45 --> 02884.45] y devuelve la información. Luego el proceso va sigue ejecutando.
+[02886.92 --> 02893.92] Acá hay algo implícito del medio, sí que es cuando vamos a aparecer las próximas
+[02893.92 --> 02901.92] y positivas, que es esto en es instantáneo o sea de cambio de entrar a salir a ejecutar
+[02901.92 --> 02909.92] de si instantáneo. Bueno, eso fíjense que yo en arcar no lo dibujé. Pero debemos pensar
+[02909.92 --> 02916.92] de que hay algo que vuelve de ver, a ejecutando. Pero no pasa así. Ahora vamos a ver
+[02916.92 --> 02924.39] por qué. Bueno, esto es mi misma ejecución de dos procesos, el proceso de la enraza
+[02924.39 --> 02930.39] y el proceso de, cuando no es el mono programación, implica que los procesos
+[02930.39 --> 02936.39] pueden comenzar juntos. Entonces, cuando empiezan juntos,
+[02936.39 --> 02945.39] siguen que los dos no pueden estar ejecutando, o sea, procesando usando el procesador
+[02945.39 --> 02951.39] porque hay un solo procesador. Entonces, como hay un solo procesador, el que entra primero
+[02951.39 --> 02960.39] o el que se lige primero, lo toma, procesa. Cuando este procesador le pide al igual
+[02960.39 --> 02965.39] este operativo, el sistema operativo lo pone bloqueado. Sí, eso es para usarla
+[02965.39 --> 02970.39] en la entrada de la salida. Entonces, cuando los zata de ejecutando, el estado de ejecutando
+[02970.39 --> 02975.39] quedo libre, qué significa qué quiere libre, qué el micro procesador quedo libre
+[02975.39 --> 02982.39] y qué es el micro procesador. Sí, puede usarlo otro proceso. Sí, y ese es el secreto
+[02982.39 --> 02989.39] de la multibraronación, que aprovechar los huecos en qué el procesador está libre. Sí,
+[02989.39 --> 02994.39] porque el proceso de la estado usando va a ser una entrada de salida
+[02994.39 --> 02999.39] poner a ejecutar otro proceso y usar ese tiempo un harto. Entonces,
+[02999.39 --> 03006.39] pígense que en el estante, en el estante, 0,5 está ejecutando el proceso
+[03006.39 --> 03012.39] a la ilustante 1,5 está ejecutando el proceso. Antes,
+[03012.39 --> 03016.39] habíamos dicho que estaba el proceso a entrar a la salida, pero no estaba ejecutando
+[03016.39 --> 03020.39] la idea. Ahora sí, ahora está ejecutando el proceso.
+[03020.39 --> 03029.93] La gran pregunta es, puede el proceso a estar ejecutando en el instante 1,5.
+[03029.93 --> 03032.93] Bueno, esa es el asijo y la reponde vamos a esposa al final.
+[03032.93 --> 03038.72] Fíjense que a la esposa del proceso, eh, cuando el proceso va a tomarlo
+[03038.72 --> 03042.72] su entrada de salida, va a ser su entrada de salida,
+[03042.72 --> 03049.72] y también sale de ejecutando.
+[03049.72 --> 03053.72] Bien, pero piense que el resolver puede volver.
+[03053.72 --> 03057.72] Pero acá, es algo que no me queda.
+[03057.72 --> 03060.72] El proceso va a procesor. ¿Por qué puede volver el proceso a
+[03060.72 --> 03063.72] se anterninóse en la salida por ahí, la entrada salida está lo demás?
+[03063.72 --> 03066.72] Entonces, pueden haber muchos en lo que ha dado.
+[03066.72 --> 03068.72] Sí, puede haber muchos en lo que ha dado.
+[03068.72 --> 03073.72] Y si hay muchos en lo que ha dado, vuelven todos juntos,
+[03073.72 --> 03077.72] donde van, porque no pueden ir ejecutando, porque solo ejecutando,
+[03077.72 --> 03081.72] pues, a estar uno. Y si vuelven 15 de bloqueado,
+[03081.72 --> 03085.72] a dónde lo pongan. Bueno, ahí aparece un nuevo estado,
+[03085.72 --> 03089.72] porque por eso yo no le había hecho la flicitad, de bloqueado de ejecutando.
+[03089.72 --> 03093.72] Y aparece un nuevo estado que es listo, o sea,
+[03093.72 --> 03097.72] es pelito para el de balijan, nuevo de la ele,
+[03097.72 --> 03100.72] que va de bloqueado a el alisto.
+[03100.72 --> 03104.72] Y cuando alguien va a el eje, pasó del listo.
+[03104.72 --> 03107.72] Ah, que gustando. O sea,
+[03107.72 --> 03109.72] pues, sí, hemos estado intermedio,
+[03109.72 --> 03113.72] que cuando yo tengo muchos bloqueados y todos vuelven juntos,
+[03113.72 --> 03117.72] no pueden ir ejecutando, porque solo puedes ejecutarse uno por vez.
+[03117.72 --> 03120.72] Entonces, lo vamos a meter en un estado intermedio,
+[03120.72 --> 03124.72] que dice, yo ya estoy listo, no necesito nada más,
+[03124.72 --> 03127.72] solo me falta que me pongan a ejecutar.
+[03127.72 --> 03130.72] Entonces,
+[03130.72 --> 03133.72] entonces,
+[03133.72 --> 03135.72] ese estado va a contener el estado listo,
+[03135.72 --> 03137.72] va a contener a todas las procesos,
+[03137.72 --> 03140.72] que solo le falta del procesador.
+[03140.72 --> 03143.72] Entonces, cuando el procesador está libre,
+[03143.72 --> 03146.72] se toma uno ahí y se lo pone a ejecutar.
+[03146.72 --> 03148.72] Ahora, si no está libre,
+[03148.72 --> 03151.72] bien, se queda ahí en el estado listo.
+[03151.72 --> 03153.72] Entonces,
+[03153.72 --> 03155.72] en el estado ejecutando,
+[03155.72 --> 03158.72] como tenemos un sistema de monoprocesamiento,
+[03158.72 --> 03161.72] tenemos un solo procesador y, por lo tanto,
+[03161.72 --> 03163.72] puedo estar un sol,
+[03163.72 --> 03169.54] el proceso en el estado ejecutando.
+[03169.54 --> 03171.54] ¿Qué pasa si no hay ningún proceso
+[03171.54 --> 03173.54] en el estado ejecutando está,
+[03173.54 --> 03174.54] nuestro que heído ya,
+[03174.54 --> 03176.54] y amigos, inseparable y del,
+[03176.54 --> 03179.54] sí, que está ejecutando, haciendo nada.
+[03179.54 --> 03181.54] Bien, bueno,
+[03181.54 --> 03183.54] fíjense que ahora el turnaround,
+[03183.54 --> 03184.54] en este caso,
+[03184.54 --> 03186.54] cuando trabajamos del multiprogramación,
+[03186.54 --> 03189.54] es el tiempo de finalización.
+[03189.54 --> 03191.54] Nuevamente nos falta los paréntesis,
+[03191.54 --> 03194.54] el tiempo de finalización de 5 de de a
+[03194.54 --> 03196.54] 5 y el de b6,
+[03196.54 --> 03198.54] por lo tanto,
+[03198.54 --> 03200.54] el tiempo del turnaround,
+[03200.54 --> 03202.54] nos da 5,5.
+[03202.54 --> 03204.54] Bien,
+[03204.54 --> 03206.54] ahora bien,
+[03206.54 --> 03208.54] el turnaround también se lo toma
+[03208.54 --> 03210.54] índice de satisfacción del usuario.
+[03210.54 --> 03214.54] Es cuanto contento va a estar el usuario
+[03214.54 --> 03216.54] porque sus procesos termino.
+[03216.54 --> 03217.54] Y eso a ustedes,
+[03217.54 --> 03219.54] y siempre lo ha hecho yo no creo,
+[03219.54 --> 03220.54] sí,
+[03220.54 --> 03223.54] fíjense cuando ustedes hablemos mucho programas en
+[03223.54 --> 03224.54] Windows.
+[03224.54 --> 03226.54] Tienen abierto 20 programas,
+[03226.54 --> 03227.54] sí,
+[03227.54 --> 03229.54] y ustedes se cambien de uno otro,
+[03229.54 --> 03232.54] a ustedes le gusta en que la cosas se cambien
+[03232.54 --> 03236.14] y se vean en seguida.
+[03236.14 --> 03237.14] Bueno,
+[03237.14 --> 03238.14] ¿Qué pasa si tarda mucho?
+[03238.14 --> 03240.14] Y ustedes se empieza a d przejar.
+[03240.14 --> 03244.14] Entonces,
+[03244.14 --> 03246.14] están no muy satisfechos con su sitio operativo.
+[03246.14 --> 03248.14] Y entonces,
+[03248.14 --> 03249.14] en este caso,
+[03249.14 --> 03250.14] es algo muy similar.
+[03250.14 --> 03252.14] Si no termina al rápido,
+[03252.14 --> 03253.14] mi proceso mi programas,
+[03253.14 --> 03256.14] es como que me pongo un poco de Dios.
+[03256.14 --> 03257.14] Bien,
+[03257.14 --> 03259.14] Y eso,
+[03259.14 --> 03266.02] voy a ver que después uno también su computadora.
+[03266.02 --> 03268.02] Aunque muchas veces,
+[03268.02 --> 03272.98] muchos problemas que pueden causar de que la computadora sucha la excelente.
+[03272.98 --> 03285.86] Bien, continuamos. Estamos en el 5 vamos al 6. Bien, vincere que acá es empezamos a tener
+[03285.86 --> 03295.90] el comportamiento del sistema operativo ante los pedidos que llegan. Hay unos numeritos.
+[03296.14 --> 03302.74] Fíjense que tenemos un número que está en arriba que es 1, 2, 3, 4, 5, 6, 7, 8 y vuelve el 1.
+[03302.74 --> 03313.03] Bien, fíjense que dice sistema operativo. Bien, recuerden que el sistema operativo son rutinas que se ejecutan.
+[03313.03 --> 03317.99] Entonces, entre las ejecuciones voy a volver para atrás.
+[03317.99 --> 03324.87] Entre cada uno de la línea de ejecución del proceso A y del proceso B.
+[03325.11 --> 03330.07] Se va a estar ejecutando rutinas del sistema operativo.
+[03332.07 --> 03338.71] Un 2 para que la verdad da la más 1, 1 o 1.
+[03338.71 --> 03345.35] Un segundo de ejecución. Recuerdan que ustedes tienen una intonusión que siempre están molestando
+[03345.35 --> 03353.11] en el medio, que es la del reloj. Que 18 a veces por segundo interrumpen al procesador.
+[03353.19 --> 03358.63] Se ejecuta su rutina y se deja ejecutando lo que estaba haciendo ante el proceso.
+[03359.91 --> 03366.39] O sea que ese A realmente la línea de ejecución de A no están contínua como parece ahí.
+[03366.39 --> 03373.43] Porque tiene 18 huetitos en las cuales se fue ejecutar una rutina del sistema operativo
+[03373.43 --> 03377.03] y volve a una rutina del sistema operativo y volve a una rutina del sistema operativo y volve a una rutina del sistema operativo y volve a volve a.
+[03377.03 --> 03382.71] Pero siempre se ejecutó a durante el segundo. A parte del sistema operativo A.
+[03393.86 --> 03408.84] Estamos? Bueno, entonces las rutinas del sistema operativo que empieza a trabajar en el medio de cada uno de esas ejecucciones de A
+[03410.04 --> 03419.24] es exactamente el 1, 2, 3, 4, 5 que empieza a dar parecer. El sistema operativo arriba es lo que va a marcando.
+[03419.32 --> 03426.52] Si, cuando aparezca una rutina del sistema operativo el proceso es cuando el proceso está ejecutando
+[03427.08 --> 03430.20] y la entrada de salida es cuando la entrada de salida se está realizando.
+[03431.08 --> 03439.08] Pigense que después del 4 hay una introducción por fin de entrada de salida.
+[03439.64 --> 03443.64] Eso es una introducción que le hace el periférico o,
+[03443.88 --> 03447.16] si, realmente el periférico cuando termina de transferir la información.
+[03447.96 --> 03452.52] Entonces, es ahí, nuevamente, en una introducción que en la parece, es sistema operativo.
+[03454.46 --> 03461.02] Empezamos. El 1 hasta le aquí, sí. Va a venir,
+[03462.54 --> 03471.82] lo dice abajo, es el tiempo de preparación del proceso, asignación de memoria carga del código objeto, asignación de periférico, asignación de archivos.
+[03472.46 --> 03479.10] O sea que hay un 1, sí, que se tiene que hacer y una vez que a pasación, viene,
+[03481.13 --> 03488.97] se dice que el proceso se pone de ejecución. Bueno, va en un estado donde yo lo estoy preparando el proceso.
+[03489.85 --> 03498.17] Entonces, el proceso, si bien, se crea con una entrada en la tabla de procesos, hay un tiempo en el
+[03498.17 --> 03505.53] quancho lo preparo. Entonces, eso lo vamos a estar dibujando de nuevo en arta. Vamos a ir.
+[03505.53 --> 03512.76] Y vamos a dibujar un estado anterior, que le vamos a poner hace,
+[03513.32 --> 03520.04] antes de creer, antes de creer, antes de creer, no, si no es, a comenzar, que va a ir después a
+[03522.95 --> 03528.47] listo. Cuando pasa listo, cuando tiene todo preparado, cuando le o uno, que le hace falta,
+[03528.95 --> 03536.63] el proceso es la cepego. Entonces, el listo está en todo los procesos que satien todos
+[03536.63 --> 03545.27] son bien de preparado, sí, y que van a estar listo para que los ejecuten, solo necesitan la cepego.
+[03546.23 --> 03553.27] Una vez que el proceso toma y control, o sea, en el 2, si ya sé que tenemos el 2, el proceso empieza a
+[03553.27 --> 03558.07] ejecutarse, en porque se lo tomó del listo y se lo puso en ejecución, empieza a correr,
+[03558.07 --> 03563.35] hace todo lo que necesite y se che, necesito que el sistema operativo me va a salir algo en el disco.
+[03563.99 --> 03573.51] Esas las flechas que sube del 2 y aparece el 3, el 3 es, que cosa, una rotina de quien,
+[03573.51 --> 03579.83] el sistema operativo, que atiende una interrupción, cuál, la interrupción que es la puerta,
+[03579.83 --> 03587.51] donde los usuarios le piden el sistema operativo algo, y eso se llama si está en col. O sea que la flecita para arriba,
+[03587.51 --> 03595.11] es un sistema en col. El 3 es la sistema en col, sí, y lo que hace es decir, ya hago que le
+[03595.11 --> 03601.43] se lo va a salir el disco. Perfecto, entonces, te pongo en bloqueado, voy a leer el disco,
+[03601.67 --> 03609.99] y cuando te arremine el 4, sí, voy a subir, voy a esperar que el periférico diga,
+[03609.99 --> 03619.51] ché, se atarme, y en ese momento sí, voy a pasar de bloqueado al listo, eso sería el 5.
+[03622.55 --> 03626.95] Y después el 6 es que te vuelve porque está se el listo, te vuelve en el eje para que sigas corriendo.
+[03626.95 --> 03632.79] Y así, eso es básicamente, bajando vuelta en ese círculo que está o en ese ciclo que está
+[03632.79 --> 03638.47] mentido, es ejecución bloqueado listo, o sea, el listo que buscamos bloqueado, usted va a la girar,
+[03638.47 --> 03645.27] digirar sus procesos, va a girar, digirar, digirar y digirar ahí, hasta que dice termine, que sale
+[03645.27 --> 03653.51] por que un proceso dice, si te lo perdido, termine, entonces va por el 8 a atarminas.
+[03654.47 --> 03660.07] Y después viene otro, otro proceso te juntas con el 1, que sería en la comensar.
+[03660.07 --> 03671.82] Bueno, eso es lo que está explicado en las dipositivas 7, bien 8 y bueno, bueno,
+[03671.82 --> 03679.10] que termina con el 1 que el sistema operativo prepara la carga del prociño o proceso.
+[03681.51 --> 03688.23] Bueno, eso es un solo proceso. Ahora, ¿qué pasa cuando se pone en un muy libre de la noción?
+[03689.43 --> 03700.06] Era sencillo, ahora es sencillo pero hay que saber seguirlo, bien entonces.
+[03702.06 --> 03706.14] Piste, cuando hay más de un proceso para mi instro el sistema operativo, tiene que tomar la decisión,
+[03706.14 --> 03712.54] ¿qué proceso toragla en la CPV? Es el pasaje del listo ejecutando, ya no es, agarrar el que está y lo pongo.
+[03712.54 --> 03716.22] No, ahora hay muchos procesos en el listo que tienen que subir uno de ellos.
+[03717.42 --> 03722.70] Esta acción implica un tiempo considerable en el 1, ya que implica la ejecución de un agorismo de decisión.
+[03722.70 --> 03729.02] Es cierto, que se llama planificas dorgas de procesos. Esa es la frutina que hace
+[03731.42 --> 03735.82] de selector del próximo proceso a ejecutar.
+[03735.82 --> 03742.94] Entonces, ¿qué es el siso? La más en siso es si tengo una cola de procesos,
+[03742.94 --> 03749.66] como cuando te van al banco o cuando van a una ventanilla y necesita qué pasa.
+[03750.70 --> 03755.66] ¿Sor de engane y cómo se orte en la nación?
+[03755.66 --> 03757.66] ¿Sor de engane?
+[03757.66 --> 03766.46] Hola y que te sacas. Esa es la más FIFA, FIFA, FIFA, FIFA, FIFA, FIFA, FIFA, FIFA, FIFA, FIFA, FIFA y se toma el primero y se lo suen.
+[03766.46 --> 03774.46] ¿Cuánto cuesta eso? Nada. Es algo muy simple, porque yo el hijo del que está primero y lo pongo a ejecutar.
+[03774.46 --> 03783.10] ¿Se puede complicar? Sí, yo lo que puedo decir, mi lo voy a ordenar por edad, pero no está ordenado por edad.
+[03783.10 --> 03787.18] Entonces, entre todos ustedes que están haciendo la cola,
+[03788.54 --> 03794.06] ¿miremos cuál es el mejor? Entonces, bueno, empezamos a tomar todas las edades,
+[03794.06 --> 03799.18] los buscos, cuáles el mejor el hijo y eso me llega un tiempo. Perfecto.
+[03799.18 --> 03802.30] Bien, fíjese que ya no es todo el primero.
+[03803.50 --> 03809.02] Ahí, hay otro patrón de decisión. Tengo que tener las edades.
+[03809.10 --> 03812.39] Bien, bueno, cuáltimos.
+[03814.79 --> 03820.39] Aquí se empieza a ver, dice en todo el momento, mercado con una dex,
+[03820.39 --> 03824.79] la nificadora de proceso debe decidir si el que recibe, el control de la CPU,
+[03824.79 --> 03826.87] es el proceso en cuestión u otro.
+[03826.87 --> 03830.71] Bien, cuando tienen que poner, el proceso de la ejecutación.
+[03830.71 --> 03834.63] Fíjese que después de la dex sigue que el proceso está ejecutando.
+[03834.63 --> 03838.42] Bien, el turnaround.
+[03839.38 --> 03840.18] Bien.
+[03840.42 --> 03846.10] O, el turnaround de un solo proceso en un ambiente de mono programación, bien,
+[03848.18 --> 03855.14] es menor o igual a una de un último programación. El igual no lo pongamos, es menor,
+[03855.14 --> 03862.66] porque es, digamos, en mono programación,
+[03862.66 --> 03869.70] yo cuando un proceso ejecuta ejecuta, píjese que me entra la salida.
+[03869.70 --> 03873.86] Hasta ahí, normal. Cuando vuelve ejecutar, en mono programación,
+[03873.86 --> 03880.10] se ejecuta el mismo. No tengo que ejecutar una rutinita para saber cuáles el próximo.
+[03880.10 --> 03884.98] En muy tipo de programación, se ejecuta uno, hace me entra la salida.
+[03884.98 --> 03888.10] Cuando voy a elegir a cuáles en que tiene que seguir,
+[03890.10 --> 03892.10] eso todo un tiempo.
+[03892.10 --> 03896.66] Bien, que mudo programación estaba porque era único. En cambio,
+[03896.66 --> 03902.34] yo acá tengo que elegir cuáles sube y a elegir cuáles sube, sí, tarda, no sé,
+[03902.34 --> 03906.58] decimos de segunda, milécimas de segunda, bueno, pero son milécimas de segunda,
+[03906.58 --> 03908.66] que va a terminar más tarde. Sí,
+[03909.70 --> 03916.98] en sea que el planificador de procesos me sobrecarga de trabajo a la CPU, pero es tan perfecto,
+[03917.22 --> 03922.10] que es lo que logró. Lloro que varios usuarios te nos andan la computadora,
+[03922.10 --> 03928.18] que varios procesos te han ejecutado en paralela, que antes solo tenía uno y después
+[03928.18 --> 03932.82] otro y después otro y después otro. En cambio así yo puedo tirar todas las ejecutas
+[03932.82 --> 03936.74] y este se rellen, bien, y que terminen cuando déjan terminar.
+[03936.74 --> 03939.54] Y no tengo que estar esperando, que termino uno para la regal del próximo.
+[03943.98 --> 03946.06] Bueno, esto es lo mismo que se atuimos viendo.
+[03947.02 --> 03953.42] Fíjense que el, hay algo que se llama planificador de trabajo,
+[03953.42 --> 03959.34] que no lo vimos, que es el 1.8, que es cuando uno está en la comenzar y en la terminar.
+[03961.18 --> 03964.38] Acomenzaría terminar, trabaja el planificador de trabajo.
+[03965.34 --> 03973.10] Después tenemos el número 3 que es un pedido o de entrada de salida y el número 5,
+[03973.18 --> 03977.66] sí que es la rutina de atención de en fin de la hasta vida.
+[03978.38 --> 03982.62] Ok, lo que está tratando de otra edad acá son las rutinas de sistema activo,
+[03982.62 --> 03988.31] que es un bien en el 2 de sitio. Como dijimos,
+[03989.27 --> 03994.55] todos los procesos se van una tabla, y lo que están viendo es una entrada de la tabla
+[03995.67 --> 04001.19] de un insecto. ¿Qué es lo interesante? Lo interesante es que tenemos.
+[04001.19 --> 04008.19] Unidad, un identificar a los procesos. Como es una tabla, tengo un proceso anterior y un proceso
+[04008.19 --> 04018.79] posterior. Bien, después de eso hay algo que se utiliza que son los tiempos.
+[04019.75 --> 04023.51] Aparte de lo que nosotros teníamos, llegamos información de tiempos.
+[04023.51 --> 04030.23] Ya vamos información de Estado, porque antes no teníamos Estados. Nosotros ganíamos ejecutando
+[04030.31 --> 04040.15] bloqueado listo para nosotros era una tabla simple con los registros y el proceso del proceso.
+[04040.15 --> 04043.43] Sí, y los archivos y los dispositivos y la memoria que tenían.
+[04043.43 --> 04049.67] De nada más, ahora empieza a aparecer información que su utiliza para la planificación.
+[04049.67 --> 04056.47] Bien, entonces todo lo que empieza a partir de la mitad de la de la de la
+[04056.47 --> 04064.95] positiva para la derecha en ese gráfico es información para el algoritmo de planificación
+[04064.95 --> 04073.78] de procesos. Bien, llegamos a nuestro de agra maestracición que fuimos dibujando a lo.
+[04073.78 --> 04082.42] Bien, en la otra, en la pizarra. Fíjense que hice a comenzar, dice listos,
+[04082.50 --> 04090.82] bien, dice ejecutando pero hay una flechita que aparece nueva. Bien, en ese lugar,
+[04090.82 --> 04096.98] que es algo que sale de ejecutando a listos y eso se llama desalojo. Para qué voy a
+[04096.98 --> 04110.98] necesitar donde salió. Bueno, en desalojo se utiliza por qué uno puede ser a la tener un proceso.
+[04111.22 --> 04115.70] Así que, si clifín, se acuada de mi proceso no va a ser un alenteillón que ha sido inito.
+[04116.90 --> 04124.18] Algunos dos veces son empan ejecutando qué le pasa al procesador ejecuta por siempre.
+[04124.18 --> 04132.58] Hay que lo puede interrumpir si hacen la introducción. Si no hay introducción, no. Entonces ejecuta
+[04132.58 --> 04139.94] ejecuta por siempre. Cuando sale, nunca, de ese lugar, sigue ejecutando y nunca va a pedir
+[04139.94 --> 04147.78] mi pasar a terminar mi hacer una entrada salida. Entonces, qué pasa? Se queda en ejecución continua.
+[04147.78 --> 04152.74] Y coele a todos los demás porque todo lo que están en el listo nunca pueden subir. Entonces,
+[04152.74 --> 04161.06] eso, lo que el desalojo permite es que cada cierto tiempo yo te saco. Si te pasaste de tanto tiempo
+[04161.06 --> 04166.98] en ejecutando, te saco. Entonces, eso permite equilibrar estas situaciones raras.
+[04166.98 --> 04175.62] Bien, este dibujito le vamos a aceptar utilizando muchísimas veces y va a ser lo que se utiliza para
+[04175.62 --> 04188.02] mostrar las administraciones. Bien, venimos bien. Bueno, rutinas de comenzar a listos. Bien,
+[04188.02 --> 04194.34] evento, fin, entradas salidas del periferico por el cual se ingresan al sistema. Sí,
+[04194.58 --> 04201.46] por eso cuando yo, por ejemplo, vamos mi programa enter, el enter, eso en introducción hace que
+[04201.46 --> 04208.66] mi programa se creen a comenzar y se ponga el listo después de prepararle todo. ¿Qué en
+[04208.66 --> 04216.42] interviene entre un indicador de trabajos? Bien, de listos ejecutando. Bueno, la CPU se acaba de liberar
+[04216.82 --> 04225.30] porque hay un proceso lo abandono. Bien, ese evento hace que alguien que está en listo
+[04225.30 --> 04230.26] su ejecutando. ¿Quién es interviene interviene a plánefico a los procesos que es el que elige?
+[04230.82 --> 04236.82] Y vamos a mantener dos rutinas que asurer al plánefico a los procesos.
+[04236.82 --> 04258.63] Uno de esa va controlador de tráfico y leotrao de parcero.
+[04258.63 --> 04269.75] ¡Eta ordena! Travajan junto con el magnificador de procesos. Es una lógica, es una rutina
+[04269.75 --> 04274.71] que se va a encargar de tocar la tabla, esta que vimos que es la TBSP. ¿Por qué esa tabla
+[04274.71 --> 04283.51] tiene que estar actualizada, reflejando quién está en cada lugar? Lo puede, o sea, está pensado
+[04283.51 --> 04288.15] como una rutina y está contra el retrafico porque después vamos a saber que puede haber
+[04288.15 --> 04294.95] concurrencia cuando hay multiprocesador y se puede romper todo. Entonces, para que eso no es un
+[04294.95 --> 04301.67] cedar, lo que se hace se toma una rutina que es la encargada de tocar las tablas.
+[04301.67 --> 04309.67] Y eso se llama controlador de tráfico. Y el dipacher es lo que nosotros habíamos visto que
+[04309.67 --> 04316.87] hacíamos con el irret, se acuerden la segunda clase que yo había dicho de interrupciones.
+[04316.87 --> 04323.75] Que cuando te des, se llama en una interrupción, todo interrupción también con un irret que toma la
+[04323.75 --> 04331.91] información de retorno, si de el stack, si yo en la información de retorno en lugar de dejar
+[04331.91 --> 04338.31] los datos que están, pongo a los datos de otro proceso cuando se irrete a donde van a
+[04338.31 --> 04344.63] los otros procesos. Entonces, lo que hago es cambiar de procesos. Y eso se llama, eso es el
+[04344.63 --> 04350.23] dipacher. Entonces, el plan de mi trabajo del proceso, y se voy a correr el proceso B. Y el
+[04350.23 --> 04367.99] dipacher carga de ese proceso B. El co-seguen el IP, los registros y los flaks. Todo eso lo carga y lo
+[04367.99 --> 04376.71] ponen ejecutando. Usando que, por ejemplo, y rete, de ejecutando al listo. Bien, el proceso que está ejecutando
+[04376.71 --> 04385.51] pierde el control del SPU y es desalojado. Puede ser porque he extraido su tiempo, por un fin de entrada
+[04385.51 --> 04394.63] salida de otro proceso. Por en, en el proceso, con mayor brida. Todo depende cuál es el modelo de
+[04394.63 --> 04403.19] desalojado que yo quiero. La rutina que se usa es la rutina de desalojado, ya sea, por ejemplo,
+[04403.19 --> 04418.39] por reloj o por un fin de entrada salida o por un proceso de mayor brida. Después de que
+[04418.39 --> 04424.87] gustan la bloqueado, sí, uno pasa bloqueado porque está esperando que se termina un entrada salida.
+[04424.87 --> 04431.19] Sí, el evento es que un proceso hace un sistema cual o sea solicita, así que tenemos
+[04431.19 --> 04438.15] operativo, un realizado de entrada salida. Sí, la rutina es una rutina de lanzamiento de la
+[04438.15 --> 04447.67] entrada salida y se pone al proceso en bloqueado. Deble lo que ha pasado listo es cuando se produce la
+[04447.67 --> 04455.67] interrupción de fin de entrada salida. Diseptarmino lo que vos necesitas, lo que vas en el sistema operativo,
+[04455.67 --> 04462.95] todo me dice a terminal disco, el disco tenía esto, este está terminado, perfecto lo pasa de bloqueados,
+[04462.95 --> 04470.07] al listo. Y eso se llama, o la rutina que la tiende se llama la rutina de la atención de interrupción
+[04470.07 --> 04482.38] por fin de entrada salida. Y ejecutando terminado, digamos que se realiza porque el proceso pide la finalización
+[04482.38 --> 04489.98] del proceso de su trabajo. Entonces, a partir de ahí puede ser, o que lo pidió el proceso,
+[04490.94 --> 04497.58] o que hizo una dilisión por cero, sí, se acuerdan que esa gran excepciones, la división por cero
+[04497.58 --> 04516.47] es un fin a normal del proceso y un fin normal es que el proceso, o que es 4 y le decía al sistema operativo
+[04516.47 --> 04532.31] de OLC, terminé mi proceso. Entonces esa era una que sería una sistencólica. Perfecto. Bueno,
+[04532.31 --> 04538.39] recuerden que todo cambio de estado, sí, tiene que ser reflejado en la tabla, hay bien el controlador
+[04538.39 --> 04546.55] tráfico que estuimos hablando. Y ahora viene administraciones de procesador. Bueno, no quedaría
+[04546.55 --> 04556.39] unos 15 minutos más para terminar la clase de hoy, el tema de administración de procesadores,
+[04556.55 --> 04564.39] básicamente, tenemos el fico que es el orden de llegada. Cuando un proceso llega la cola de
+[04564.39 --> 04572.23] listos se forma una fila y va pasando el primero de la fila y se pasa ejecuta. En la ciencia,
+[04572.23 --> 04579.83] es sencillo. Bien, más corto primero sin desalojo. Cuando se llegan a la cola de listos,
+[04579.83 --> 04591.27] sí, se forma el más corto primero y acá el más corto con qué, con respecto a qué. Bueno,
+[04591.27 --> 04597.51] hay muchas opciones. Bien, vamos a utilizar el gomuy sencillo, le han después el estadio positiva
+[04597.51 --> 04603.03] que aparece un algo de llama Rafa Gas, no es el grupo de música.
+[04603.03 --> 04612.15] Dicamos lo que nosotros podemos pensar es el más corto en tamaño, bien, que son los
+[04612.15 --> 04623.77] hay cansa para te dar la idea. Bien, bien, bueno, el más corto, vamos a su padre más corto
+[04623.77 --> 04634.41] de tamaño. Perfecto, entonces lo que hago es ordeno ya la cola de listo, sí, de más corto en adelante.
+[04634.57 --> 04640.25] Ahora, ¿cómo es la inDesalojo? Sí, yo estoy ejecutando algo que tardar 5 horas y viene 1,
+[04640.25 --> 04645.13] que tardar 10 minutos, sí, le ejecutando 5 horas. Así que no tiene la flechita para abajo,
+[04645.13 --> 04652.01] de la inDesalojo. Bien, normalmente se dice que cuando uno tiene todos los que son rapidos o más cortos,
+[04652.01 --> 04658.73] primero es lo que se llama Tarra Rafa mejora y eso le van a ver en los ejercicios de la práctica.
+[04659.05 --> 04663.69] El Tarra Rafa es mejora porque en claro, todos también en pronto, sí,
+[04663.69 --> 04672.81] entonces al terminar todo rápido, sí, y el último es pasas ser una un cláver, porque el más largo
+[04672.81 --> 04679.93] que del final y tardaba un montón, entonces quedan todos concentrados en el comienzo y el último
+[04679.93 --> 04689.21] final, lejano. Entonces el primerio se acerca más hacia los que están agrupados, entonces el
+[04689.21 --> 04696.81] turnoaron va a mostrar eso. Bien, pero hay que tener algo en cuenta de que los procesos
+[04696.81 --> 04703.29] largos pueden que nunca lleguen a tomar el procesador, porque si tengo muchos procesos cortos y los procesos
+[04703.29 --> 04708.89] corto dan vuelta rápido ejecutando la queda, lo que ha dado listo, que le gustan la
+[04708.89 --> 04716.57] holocaado, tengo muchos procesos que hacen rápido, esa vuelta el proceso que es largo, que está el final de
+[04716.57 --> 04722.57] todos nunca le va a tocar, porque el alcohol el listo está ordenado de mirar a más o sea que cuando
+[04722.57 --> 04732.17] vuelve uno que es más corto se pone primero que el más largo, entonces 13, nunca le toca, entonces
+[04732.17 --> 04758.01] se puede tener algo que se llama In, vamos al 26, en la página 26, lo que usted van a ver es lo mismo que el
+[04758.01 --> 04767.45] anterior, pero con desalojo, la página que agregó en esta página directamente es el desalojo,
+[04767.45 --> 04772.73] bien y que tiene que ver, y bueno, se arriba está el de 5 horas y viene unos de 10 minutos,
+[04773.29 --> 04779.45] hace que el de 5 horas se va a eje y suba el de 10 minutos, bien, entonces así se va
+[04780.65 --> 04790.01] mejorando la ejecución, esto es más corto primero, con desalojo por tiempo remarente,
+[04790.57 --> 04796.73] si yo sé que lo que me falta para terminar es un segundo y yo estoy acá en la gola del listo
+[04796.73 --> 04803.61] y digamos yo soy un proceso enorme pero en falta 1 segundos, 2 para terminar,
+[04804.65 --> 04814.01] y todas las otras están recién empezando, así, pero se siano muy poco, se libera a una ubicación de la tabla
+[04814.01 --> 04821.53] con un segundo, entonces mucho y siempre no usece el más corto en el tiempo, en el tamaño,
+[04821.53 --> 04828.57] usamos corto en el que les falta, si te falta nada, entrago primero, así, entra hasta
+[04828.57 --> 04832.33] terminar las liberas los recursos, liberas la memoria, liberas todos y te vas a terminar,
+[04832.33 --> 04839.93] y después sí, en corriendo a los otros, eso es una forma de verlo, el problema es como caeculo,
+[04839.93 --> 04846.17] el tiempo remarente, yo para eso tendría que llevar estadísticas, bien, y nuevamente,
+[04846.17 --> 04854.25] ahí es donde tengo el problema, si yo ejecuto muchas veces el mismo proceso voy a tener
+[04854.25 --> 04859.29] estadísticas, ahora sí las que gustó una vez y nunca más, no voy a tener estadísticas, entonces
+[04860.01 --> 04866.41] las políticas que simplemente tienen que ser una política que funciona en siempre o a la
+[04866.41 --> 04871.61] más severe el tiempo, y no que depende de eso tener muchas estadísticas para poder decidir,
+[04871.61 --> 04879.37] recuerden que cuando se gusta de estadísticas, uson tiempo más tiempo en llevar las estadísticas,
+[04879.37 --> 04885.37] y no están algo tan sencillo como tomar y cuando le gusta tomar y cuando le gusta tomar y podemos
+[04885.37 --> 04890.81] que usar, eso es rápido, ahora sí tengo que llevar, tengo que escribir, tengo que hacer
+[04890.81 --> 04896.89] cada y que lo tengo que estar anotando, eso tarda más, y al fin de cabo lo que yo quería
+[04896.89 --> 04903.69] mejorar, estoy esperando porque supongamos, tengo tres procesos y yo tardo, si lo va a ejecuto,
+[04903.69 --> 04910.17] uno tras otro, el hijo del primer o después del que sigue, pues se sigue bien tardo nada,
+[04910.17 --> 04915.53] tardo casi el mismo tiempo porque no tarden nada a empezar, ahora sí yo por cada vez que tengo que elegir
+[04915.53 --> 04925.05] uno tardo 5 minutos, tengo 15 minutos más de demora, entonces y por ahí la ejecución de los tres me
+[04925.05 --> 04934.49] tardaba 5 minutos, o sea, lo incrementé 15 minutos por solo estar pensando cuál es la mejor
+[04934.49 --> 04941.29] elección para poner ejecutar, no hay que ser un poco más práctico en ese sentido, hay que poner
+[04941.29 --> 04949.77] ejecutar, y no estar pensando cuál es la mejor opción, porque como me dice la oligabilidad,
+[04949.77 --> 04964.33] lo es perfecto de ese enemigo de lo bueno, así que tomar el mejor, la mejor secuencia de procesos
+[04964.33 --> 04971.37] para poner la ejecutar que tarde menos, quizás es otro producento, porque tarden mucho tiempo en
+[04971.37 --> 04983.18] calcularla, realmente el tema de la store around, y aparece algo que es el hogargen,
+[04985.18 --> 04990.30] recuerden que si bien el turno around de más corto primero es lo que yo le están explicando
+[04990.30 --> 04997.10] a�ción, el turno de más corto primero, da muy bueno, ahora el hogargen que yo tengo que estar
+[04997.10 --> 05003.02] llevando en los cálculos para mantener la información, para poder tomar después la decisión
+[05003.02 --> 05010.30] con el plúdificador de procesos es muy alto, entonces hace un hogargen que termina tirando abajo
+[05010.30 --> 05018.22] la administración que simplemente, prioridades, todos los sistemas operativos que conocen hoy en día
+[05018.22 --> 05025.98] tiene sistemas de prioridades, la prioridades se lo puedan por diferentes criterios, nosotros tenemos
+[05025.98 --> 05034.78] una que es cada cola del listo se ordena por una prioridad, y se va a tener listos de alta,
+[05034.78 --> 05041.34] media y baja prioridades ordenados, y de ahí se van tomando los procesos a ejecutar,
+[05041.42 --> 05051.74] para el 29, entonces lo que tenemos que tener en cuenta que al tener prioridades,
+[05051.74 --> 05059.26] si, de nuevo puedo caer en lo que se llama inunición, porque si siempre viene en procesos que tiene
+[05059.26 --> 05065.10] más sorpreedad que el un proceso nunca se va a ejecutar ese proceso va a quedar relegado,
+[05065.10 --> 05074.87] donde cuando simplemente en prioridades hay que tener un mucho cuidado, y digamos que
+[05077.19 --> 05085.67] cuando yo tengo un proceso, que tiene una alta prioridad, puede estar penalizándole o bajándole
+[05085.67 --> 05093.67] la prioridad cuando ese proceso usó mucho tiempo el procesador, entonces yo puedo jugar y armar prioridades
+[05093.67 --> 05098.71] como yo quiero, es más hay un ejercicio en la práctica que les va a hacer pensar,
+[05100.39 --> 05109.75] con una prioridad inversa al tiempo que pasó desde la última entrasa al día, es bastante compleja,
+[05110.31 --> 05114.95] pero es una un sistema de administración real, no significa que no tengo una barjada muy grande,
+[05115.75 --> 05117.91] pero eso no es administración de prioridad de balla,
+[05118.87 --> 05125.31] así que tengan en cuenta, los sistemas operativos de hoy entienden, tienen prioridades, tienen sistemas
+[05125.31 --> 05133.11] prioridades, tienen como mismos 3, uno de esos los procesos que se consideran como un
+[05133.11 --> 05138.87] de tiempo real que son todas las partes que pasan música en los videos o en las trinitas a cosas,
+[05139.87 --> 05146.79] le podía en los procesos del sistema operativo y después tienen los procesos que son de los suarios,
+[05147.35 --> 05153.67] y adentro de cada uno de esos 3 niveles tienen prioridades internas, entonces hay como
+[05154.79 --> 05160.55] prioridades, hay como dos niveles, es lo que casi todos los Estados Unidos implementan,
+[05161.99 --> 05167.35] hay uno que se llama Rom Robin que es muy parecido al FIFOM, sino es exactamente el mismo,
+[05167.35 --> 05175.35] lo único que pasa es que acá los procesos se ordenan en un círculo y mantienen su ubicación
+[05175.99 --> 05182.31] y van girando, una manecisa que le va diciendo que el proceso corresponde,
+[05183.43 --> 05190.63] lo que hace es, a diferencia del FIFOM es que a cada proceso le asignan cuánto, el FIFOM es,
+[05190.63 --> 05197.43] entonces tenemos como acá y ejecuta, no tiene desalojo, el Rom Robin tiene desalojo, entonces lo que
+[05197.43 --> 05203.47] me garantiza es que al de los procesos de esos que tienen un círculo infinito, los voy a sacar después
+[05203.47 --> 05212.67] de un delta de tiempo, eso significa cuánto, cuánto es asignarle un tiempo de uso sin al proceso, un tiempo de uso de
+[05212.67 --> 05219.87] la CPU, hace que yo 10 mil y seguros, 100 mil y segundo, bueno te fuiste del procesador,
+[05219.87 --> 05225.51] sutesaco, así que como se puede ir un proceso del procesador, no hay simple, terminó o pidió una
+[05225.51 --> 05233.31] entrada salida, así que si yo tengo un proceso que es, por ejemplo, hace ejecuta
+[05233.31 --> 05239.75] entre las áreas, ejecuta en la salida y es menor que el cuantum es el proceso nunca va a ser penalizado,
+[05240.31 --> 05246.31] ahora cuando ese ciclo de ejecuta en la salida es mayor que el cuantum es penalizado,
+[05246.31 --> 05252.79] porque cuando ejecuta demasiado lo penaliza ni le baja de prioridad,
+[05253.79 --> 05262.23] Rom Robin trabaja muy bien como multicolas, que es el próximo, el bien, esto es Rom Robin, la
+[05262.23 --> 05270.07] introducción por el relózo de cuantum, está dibujada en la 31, el desalo como era el más corto
+[05270.07 --> 05276.51] primero que era porque había un proceso que llegó a cola del listo más corto que se está
+[05276.51 --> 05283.91] ejecutando, acá el desalojo de introducción por reló. Y el multicolas es este gráfico que
+[05283.91 --> 05293.15] está en el 32, es un gráfico muy hermoso y creo que el próximo de los gráficos,
+[05295.19 --> 05304.09] básicamente tiene tres cola de las listos, es listo de alta prioridad, de baja prioridad y de
+[05304.09 --> 05316.51] muy baja prioridad, y después se clasifican a los bloqueados, por periférico al ento, periférico
+[05316.51 --> 05325.15] rápido, bien son esos dos tipos de bloqueados, y después genera otros bloqueados que pasan a tener
+[05325.15 --> 05332.07] importancia más adelante que es bloqueado por falta de página y bloqueado por espera de recursos,
+[05332.07 --> 05338.87] eso los últimos dibujos dejen los esos dos líquitos últimos no los tomar en cuenta,
+[05338.87 --> 05345.75] tengan en cuenta así los bloqueados por periférico al ento y periférico rápido,
+[05345.75 --> 05353.15] piquense que el periférico al ento va a listo de alta prioridad, eso sabe que tiene que notar, y que el
+[05353.15 --> 05361.79] periférico rápido va a listos de baja prioridad, por qué es eso? Bueno, cuando uno tiene que generar
+[05361.79 --> 05371.80] un planificador, tiene que tomar muchas cosas en cuenta, la primera de esas es, yo quiero que el
+[05371.80 --> 05380.24] sistema esté equilibrado, o no, eso es una decisión de diseño, si yo he sido que el sistema esté
+[05380.24 --> 05386.44] equilibrado, la que voy a tratar de hacer es que cuando un proceso se va, porque pidió una entrada
+[05386.44 --> 05390.96] salida que es un buen proceso, porque los procesos que hacen en la salida de salud,
+[05390.96 --> 05399.08] anal el procesador, o sea, libera el procesador, por si solo, no lo tengo que no lo tiene que estar el
+[05399.08 --> 05407.72] sistema operativo, percibiendo y siendo, por lo que te viene, se va solo, pero cuando se va a ese
+[05407.72 --> 05416.48] proceso hace una estructura en cinta o una estructura en la impresora, y ese es el problema,
+[05416.48 --> 05426.52] bien, aparece porque la impresora y la cinta son recontralementas en comparación del disco,
+[05426.52 --> 05434.40] sí, entonces, qué va a pasar? El proceso es un buen proceso porque se fue solo, ahora,
+[05434.40 --> 05443.12] fue a un periférico lento, estuvo un rato largísimo afuera, 5 de procesar, cuando vuelve,
+[05444.04 --> 05451.84] qué le voy a hacer? Lo voy a castigar, no, si ya tuvo castigado, pove que se fue a buscar la
+[05451.84 --> 05456.28] impresión o hacer la impresión y tardó un montón de tiempo, lo que podemos hacer es decir,
+[05456.28 --> 05464.12] lo bueno, mira, cuando vuelve, te voy a dar alta brevia, ahora si vos os muy bueno y volvés al mismo
+[05464.12 --> 05469.84] a la misma impresora, sí, hacer una entrada salida de impresora antes de tu cuanto vas a seguir
+[05469.84 --> 05476.48] teniendo alta brevia, yo te voy a dar alta brevia, porque cuando te vas te vas por casi
+[05476.48 --> 05484.56] 30 segundos, es un montón, sabe cuántas vueltas seguieron en 30 segundos en este en
+[05484.56 --> 05488.52] este gráficito, tienes que en que los cuándo son de 10 mil y segundo, estamos hablando de
+[05488.52 --> 05496.84] mil y segundo, o sea que se giró uno, no, no, no, no, no, es, entonces, se los da, se le da alta
+[05496.84 --> 05502.80] brevia, para que es mejor, para que acceder la ejecución un poco más rápido, sí, yo como
+[05502.80 --> 05508.16] sistema operativo es lo que puedo hacer, te puedo ayudar de esto, te doy un incentivo,
+[05508.16 --> 05514.64] por haber gustado un periférico lento, ahora aquí usar periférico rápido, puede ser que
+[05514.64 --> 05518.64] se haya ido antes de que termina y cuanto un producto, también es bueno, pero te usando un
+[05518.64 --> 05524.28] periférico rápido que bajo el bien en seguida, sí, entonces lo que va a pasar es que si
+[05524.28 --> 05531.28] yo lo pongo en alta prioridad, todos, o sea, va a quedar girando a una velocidad terrible,
+[05531.28 --> 05539.68] el ciclo, listo ejecutando bloqueado listo, que gustando obligado a bajar pero tan rápido, sí,
+[05539.68 --> 05545.28] que va a terminar en seguida, se va a ir, y cuando venga uno de periférico de bloqueado
+[05545.28 --> 05549.36] lento, va a tener que esperar a todos los otros, que están ahí también en colado,
+[05549.36 --> 05556.36] se han en la lista de alta prioridad, entonces no le estoy dando ningún beneficio al periférico lento,
+[05556.36 --> 05563.72] entonces para que el periférico lento tenga un poco de beneficio lo que se hace es que al
+[05563.72 --> 05570.04] bloqueado por periférico rápido se lo manda con listo de baja o de media, sería una prioridad
+[05570.04 --> 05577.88] media, cosa que los de lo que fueron por el periférico lento, están en alta prioridad
+[05577.88 --> 05585.44] pueden subir y hacer uso con el recone, balancea del sistema, entonces uno con esto trata
+[05585.44 --> 05593.52] más o menos de balancear el comportamiento de todos los sistemas operativos, bueno, las
+[05593.52 --> 05599.88] múltiples, es lo que estoy viviendo, sí, trata de balancear la CPU y como les dije era
+[05599.88 --> 05608.04] el último gráfico que teníamos para ver, bueno jóvenes escucho consultas, vamos a dejar
+[05608.04 --> 05619.94] de insectar, recuerden que el mía de coles vamos a seguir seguramente el mía de coles
+[05619.94 --> 05631.98] voy a estar, vamos a hacer de nuevo un pequeño resumen de lo que se vio y digamos como
+[05631.98 --> 05641.06] les dije con esto que está acá pueden empezar a trabajar con los secarcios prácticos,
+[05641.06 --> 05647.30] la práctica dos, sí, que es todo administración de procesador, la pueden estar haciendo,
+[05647.30 --> 05656.58] hasta que lleguen a 3D, sí, 3D hay cosas que no van a poder responder porque se ve en una
+[05656.58 --> 05664.50] clase siguiente, se va a ver el tema de spread, puntualmente como simplemente, así que bueno,
+[05664.50 --> 05670.58] la clase que viene, recuerden que también venimos a la serie de la tarde, cinco, seis menos
+[05670.58 --> 05677.70] cuartos empezamos, en chargeando un poco, descomentos cosas así en generales y después bueno,
+[05677.70 --> 05685.26] tendremos una hora y media más de eso no hacer las charlas o las clases mejor dicho, así que
+[05686.58 --> 05698.61] bueno, bueno veamos, alguien me escribió en el chat, a ver, teníamos algo, al archivo,
+[05698.61 --> 05706.81] el texte que tengo, sí, los gollas subieran más campos, más campos, así que en centran kilos,
+[05706.81 --> 05716.69] se hace en bencho a pasar a ver esos tiempos Juan Ctexera, lo que lo os vean,
+[05716.69 --> 05724.25] mucho más sin, normalmente lo que se utiliza los veintos marques para hacer estrés y para ver cómo
+[05724.25 --> 05737.44] responde un hardware, lo no se hace tanto benchmark para, o sea, no se hace tanto benchmark
+[05737.44 --> 05748.32] para un ver el funcionamiento, un sistema operativo, sí, se lo puede hacer para lo cual uno
+[05748.32 --> 05760.12] tiene que saber hacia dónde quiere ir, por ejemplo, si yo agarró el hunto, bien, fíjense que
+[05760.12 --> 05765.16] el hunto tiene dos sabores, el hunto server creo que ya no, pero bueno, en un momento
+[05765.16 --> 05772.16] estaba separado así, era el hunto ser arparonado y el hunto de esto por el otro, que
+[05772.16 --> 05779.24] diferenciatenían exactamente en el scheduling, o sea, el administrador en la administración
+[05779.24 --> 05787.52] de procesos cambiaba, por qué cambiaba, el server está pensado para que uno sólo no
+[05787.52 --> 05794.48] esté sentado en frente de la consola, entonces lo que hace es darle prioridad a todas
+[05794.48 --> 05801.20] los procesos que usan la redo, entonces si vos te vas a un bloqueado de red, lo que hace
+[05801.20 --> 05813.68] te vuelvo a un listo de alta prioridad, ahora en el caso de un hunto texto, ahí sí está
+[05813.68 --> 05820.68] la diferencia, porque lo que quieren es que sea muy, como lo dice en inglés, responsible,
+[05820.68 --> 05829.48] o sea que sea, no me sale que a tcho, o sea que sea muy dinámica la interacción con el usuario,
+[05829.48 --> 05837.28] bien, que cuando yo hago un clic, se haga clic y no, que dos horas después aparezca la
+[05837.28 --> 05845.80] pantalla, eso es lo que se trata de buscar con las diferentes administraciones, el hunto
+[05845.80 --> 05851.44] server trabaja con eso, entonces qué es lo que hace? Con los benchmark se verifica que
+[05851.44 --> 05856.88] el hunto server funciona correctamente para ese tipo de aplicaciones, entonces los
+[05856.88 --> 05864.08] benchmark se generan para verificar esa característica, entonces yo voy a hacer benchmark,
+[05864.08 --> 05869.24] para algún user, la que haciendo un estilo de un tipo para verificar que, por ejemplo,
+[05869.24 --> 05876.80] desarrollador en FPS funciona correctamente que si lo tengo que tuñan que le cambia
+[05876.80 --> 05882.00] las variables para que se desenguelo a mejor, y en algún hunto de esto, lo que voy a hacer
+[05882.00 --> 05892.92] es un púl de aplicaciones que hagan un su intensivo de la interfacrafia, bueno, después
+[05892.92 --> 05897.68] tenemos otra consulta que hice en el rambroven cuando el proceso es desarrollado o vuelve a
+[05897.68 --> 05905.52] la cola delistos, esperando a su tuna nuevamente, no, no quedó claro, bueno, en el caso
+[05905.52 --> 05915.00] del fifo cuando vos volves a la cola delistos vas al final de la cola, el caso de el rambroven,
+[05915.00 --> 05922.00] cuando volves volves al mismo a la misma sección que tu tocó de el relógio,
+[05922.00 --> 05927.36] así que si vas a estar puesto con oquintos, vos volves a la posición quinta, y sigue girando
+[05927.36 --> 05933.16] la manecilla del relógio, o sea que es cuando un proceso en el rambroven, cuando entre un
+[05933.16 --> 05940.44] proceso se le ha dado una ubicación dentro del relógio y por siempre va a estar ahí,
+[05940.52 --> 05946.48] puede ser que se vaya a bloqueados, colocando cuando gira la manecilla y ese es lo que
+[05946.48 --> 05956.40] ha dado la saltea y sigue con el próximo, o sea que uno uscupa un esload de por
+[05956.40 --> 05964.24] vida hasta que termine, entonces cuando el vuelve el esload está ocupado por él, entonces
+[05964.24 --> 05970.40] cuando la manecilla le toca al esload le da cuánto un calico rafón, esa es la gran
+[05970.40 --> 05976.36] diferencia entre lo que es un FIFA y un rambroven, eso se va a ver en un ejercicio que creo que es
+[05976.36 --> 05983.96] el tercero, cuarto que le pregunta, le da un día de la mitad, y le dice bueno,
+[05983.96 --> 05991.64] qué administración usted dice que esto macheta, que administración FIFA, mas con el primero
+[05991.64 --> 05999.48] rambroven, sí, bueno, fíjense cómo está la cola de listos, porque si la cola de listos siempre
+[05999.48 --> 06006.28] es en el mismo orden, es porque estamos en un rambroven, ahora si a medida que se van
+[06006.28 --> 06012.68] desalojando, se están usando y saliendo van cambiando el orden, sí, estamos en un FIFA,
+[06012.68 --> 06017.76] bien, al FIFA si bien nosotros lo vimos cuando que no tiene cuánto, al FIFA se le puede
+[06017.76 --> 06022.52] generar un cuantum, entonces genera una administración nueva que es un FIFA con cuantum,
+[06022.52 --> 06029.44] que es un rambroven casi un rambroven, ahí es a pequeña diferencia como se maneja la cola,
+[06029.44 --> 06047.72] del listo, ok, a ver, algún otro, Octavia, dice, yo no entiendo porque es más corto, primero
+[06047.72 --> 06052.16] de la si yo sí mejor que en rambro, si se ejecutan los mismos procesos no debería tardar
+[06052.16 --> 06061.22] lo mismo, vamos al arcar, yo le dije, yo le dije, yo le dije, yo le dije, yo le dije, yo le dije, yo le dije, yo
+[06063.44 --> 06065.26] procesos y.
+[06065.26 --> 06078.08] Vamos a abrir más que tenemos, voy a mostrar que tenemos procesamiento,
+[06078.08 --> 06084.32] vamos a pensar que tenemos procesamientoもの procesamiento, vamos a ver, y si no lo
+[06084.32 --> 06094.56] procesona, después, poco procesonos, y después, poco proceson 3, que es que todas terminan
+[06094.56 --> 06103.59] más son menos, si hacemos un promedio hasta cerca de un por acá, por acá sería la media.
+[06103.59 --> 06113.82] Ahora si yo hago vos, pero eso es a 3, pero eso es 1, pero eso es 2, y que
+[06113.82 --> 06123.80] es que ocupa exactamente el mismo tiempo, pero si que es que la media va a estar por acá.
+[06123.80 --> 06130.56] Bueno, cuando yo ponos todos los más cortos adelante, que se basan primero, lo que
+[06130.56 --> 06137.80] voy a lograr es que el turnaround se acerca más hacia la izquierda.
+[06137.80 --> 06143.68] En cambio, sí, yo los pongo, al más largo primero, y después lo demás, pí que se que
+[06143.68 --> 06150.92] cuando los demás terminan, sí, digamos acá el turnaround es cortito, pero que pasó,
+[06150.92 --> 06159.72] como este largo en el medio que me hizo retrasar a todos. Entonces el turnaround acá va a dar
+[06159.72 --> 06164.80] mayor que en este otro caso, si que es por el tiempo que ocurre, si acá pongo el 0,
+[06164.80 --> 06176.11] si esto termina antes en promedio y este termina después se en promedio.
+[06176.11 --> 06185.57] Ahí, perdón. Primero la vez que lleva el teléfono de la visar, vamos a decir,
+[06185.57 --> 06191.41] si todo es el sero acá, el promedio me da acá, que sería el turnaround y el otro
+[06191.41 --> 06198.57] promedio me da acá, sí, todo el 9, 1, 5, 3, 1, 1, 2, en el de abajo, mientras que
+[06198.57 --> 06203.29] el de arriba es el más corto, 1, después el más corto, el segre que le sigue pero
+[06203.29 --> 06213.57] estudios y después, pues un tres. Bien, como, como les dije, la finalización es todos
+[06213.57 --> 06223.73] terminada realmente ahí, sí, todo tardes exactamente lo mismo, se terminan en el mismo tiempo,
+[06223.73 --> 06233.98] pero está en la ronda mejor, en el caso de que los primeros procesos fueron más cortos.
+[06234.66 --> 06248.62] Bien, a perfecto, sí, eso lo lo Strabo para que aparezca con el ping. Bueno,
+[06248.62 --> 06259.00] al bueno, lo pregunta lo que vamos a hacer es la clase que viene, hacemos lo que,
+[06259.00 --> 06266.80] seguen menos 4, menos 10, hacemos un par de preguntas sobre lo que les quedó de esta clase,
+[06267.32 --> 06276.32] sí, les respondo, y después empezamos la clase, y después al final hacemos también otro
+[06276.32 --> 06284.80] ronda de preguntas. La clase que viene, vamos a fijar cómo quieren hacer para la resolución
+[06284.80 --> 06292.32] de ejercicios, así que lo que les recomiendo es que tratan de hacer los ejercicios porque los
+[06292.32 --> 06299.04] parciales o el parcial, realmente no van a hacer, creo que no van a hacer los parciales, este
+[06299.04 --> 06309.88] potríamos, tenemos a hacer uno solo, que conté en todo, así que este parcial va a ser
+[06309.88 --> 06318.16] con ejercicios de la práctica, siempre fueron ejercicios de la práctica, porque lebemente alterados,
+[06318.16 --> 06326.28] así que bueno, si ustedes hacen los ejercicios de la práctica tienen el parcial que hacia
+[06326.28 --> 06336.16] probado. Realiza los ejercicios de los ejercicios que no les salen, hacemos una lista y
+[06336.16 --> 06343.60] luego resolviendo, vamos a dedicarlo de una de el cada tiempo para resolver los ejercicios.
+[06343.92 --> 06351.32] En principio, el mierco les que viene empezamos con preguntas generales sobre la parte teórica,
+[06351.32 --> 06362.04] y vemos si hacemos el Tp, o vemos la parte de 10, 13 más force, que sólo ha decido en el momento,
+[06362.04 --> 06368.20] o se lo hubiera antecer del máscamos, que es lo que vamos a hacer.
+[06368.20 --> 06377.92] Y después hay lunes siguientes, hacemos ejercicios, así que vaya resolviendo a los ejercicios,
+[06377.92 --> 06386.76] o que hay todo en la parte de mi administración de procesador, se puede hacer, no incluyendo la parte
+[06386.76 --> 06402.61] de fre, y ni tampoco la parte de ese más force, ¿qué de libras?
+[06402.61 --> 06412.97] Ah, acá me va a pareció ferrico y es una pregunta, que no hizo el scrolling, para la administración
+[06412.97 --> 06421.61] de procesos, para organizar el sistema operativo se puede usar todos, dependiendo del servicio,
+[06421.65 --> 06430.85] o según el sistema tiene una opción otra, un antidote, en la administración de esto, para organizar,
+[06430.85 --> 06447.68] o sea, a ver, lo que vos querés hacer es agrupar procesos por servicios, si es eso,
+[06447.76 --> 06455.64] eso es una opción de agrupar, es comodar a el grupo de procesos priorial, entonces le es
+[06455.64 --> 06485.43] a más alta priorial, baja prioridad, media prioridad, ¿ok?
+[06485.43 --> 06491.59] Sí, como dije, sí, sí, sí, sí, tomás que todos los servicios tengan una prioridad,
+[06491.59 --> 06500.19] está perfecto. Es más, hay una ejercicio, sino que o coel 12 de la práctica, que está relacionado
+[06500.19 --> 06594.64] con esa que preguntas.

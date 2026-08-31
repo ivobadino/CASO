@@ -1,0 +1,475 @@
+# 1 250320.mp4
+# duration: 4822.2563125
+
+[00000.00 --> 00010.60] todo lo que estuvimos viendo las clases presenciales, lo que sí les recuerdo, bueno, que está
+[00010.60 --> 00019.24] el usuario de RG que ahora puede ver un olla sin licencicio escrito su pantalla, así que
+[00019.24 --> 00025.24] bueno, verificen que lo pueden ver y cuando les comente que vamos a hacer algo de mesa
+[00025.24 --> 00033.24] en esa pantalla va a de fricher y ver eso, actualmente no me da tal vez no nada,
+[00033.24 --> 00045.46] le voy a empezar a mandar un poco de video, así se acuerdan de mi cara, así que bueno,
+[00045.46 --> 00058.58] ahí va, vamos a permitir el video, así aunque sea, me pueden ver un rato,
+[00058.58 --> 00076.75] bueno ya somos todos lo que estamos, sigaron todos, somos ya más o menos 25 personas,
+[00076.75 --> 00092.66] así que comenzaremos con la clase, vamos a empezar a insyectar contenidos que serían
+[00092.66 --> 00103.66] unas diapositivas, con respecto al capítulo 11, así que va a aparecer como una pantalla
+[00103.66 --> 00149.37] extra, sí, así que, fíjense si la pueden ubicar va a aparecer mi nombre con pantalla, bueno,
+[00149.37 --> 00182.10] ahí van a estar viendo insectado la introducción así que vamos a utilizar trabajando como dice,
+[00182.10 --> 00188.70] la pantalla es objetivo el sistema operativo, evolución de los sistemas operativos como fue
+[00188.70 --> 00197.74] muy ampliamos modificándose desde algo muy sencillo como lo que es el monitor simple hasta
+[00197.74 --> 00212.68] lo que nosotros tenemos ahora que es bastante complejo en la parte de multiprocesamiento, después
+[00212.68 --> 00218.20] vamos a ver qué es lo que brinda un sistema operativo y por último vamos a ver el tema de
+[00218.20 --> 00225.76] diseñan capas y los ejemplos que se enumeran en este día positiva y lo que se enumeraba
+[00225.76 --> 00233.00] algunos en el capítulo, bueno básicamente como les decía o si tengo operativo,
+[00233.00 --> 00237.88] tiene que probar una interfaz entre el usuario y la máquina, tiene que administrar toda la máquina
+[00237.88 --> 00247.48] y ponerse entre medio de la computadora y de el usuario, no debe permitir que el usuario
+[00247.48 --> 00256.16] no de ninguna forma toque la parte del hardware de la computadora, qué significa? El año pasado
+[00256.16 --> 00263.68] la mayoría habíamos el de OBS y le permitían ustedes instalar algo en las interrupciones,
+[00263.68 --> 00272.44] le permitía trabajar con los puertos, le permitía bueno, todo lo que el de OBS permite un
+[00272.44 --> 00279.56] sistema operativo con decente no lo debe permitir, así que si el sistema operativo quiere que
+[00279.56 --> 00285.80] ustedes trabajen con las interrupciones o trabajes con los puertos, le tiene que dar una puerta
+[00285.80 --> 00291.56] de acceso para que ustedes lo aggan y esa puerta de acceso tiene que estar controlada por el sistema
+[00291.56 --> 00300.84] operativo, o sea, un sistema operativo como por ejemplo el Linux o Windows, a usuario no le permite
+[00300.84 --> 00307.40] ir a tocar las interrupciones tampoco le permite ir y escribir en cualquier parte de la
+[00307.40 --> 00315.96] memoria, como si lo permitía el DOS, fíjense que ustedes cuando entraron en el DIVAR,
+[00315.96 --> 00324.52] podía ni liber la tabla de interrupción, eso un sistema operativo que se ingme hacerlo no
+[00324.52 --> 00331.19] tiene que permitirlo y el sistema operativo básicamente va a administrar todos los recursos,
+[00331.19 --> 00337.79] que significa que son los recursos, los recursos no son solo los perifericos, no son eso
+[00337.79 --> 00343.23] a la memoria sino también a el micro procesador, entonces todo eso la tiene que estar
+[00343.23 --> 00351.17] me estrando o un sistema operativo, como bien dijimos los primeros sistemas operativos y lo
+[00351.17 --> 00358.85] ha habido comentado en el video donde que hubiera un coño fábio, en el primer día de la
+[00358.85 --> 00369.45] curso de S.P.E. que aparecía esta impolcía diciendo que las computadoras de la no-príncipe
+[00369.45 --> 00376.89] era una computadora como muchos fiches que tenían que estar aprendiendo y apagando,
+[00376.89 --> 00386.33] bueno básicamente eso empezó a evolucionar y digamos transformó que el programa
+[00386.33 --> 00393.81] la computadora era que operaba, bien esos fueron los primeros itamos operativos y digamos
+[00393.89 --> 00401.33] la CPU mientras uno estaba programando no hacía nada, solo miraba como se la programaba,
+[00403.33 --> 00411.94] a partir de ahí comienza a aparecer, a partir de ahí comienza a aparecer muchos
+[00414.58 --> 00420.50] da diversos programitas que le llevan a hacer más fácil a los usuarios de las computadoras
+[00420.50 --> 00426.42] trabajar con ellos y aparecen los computadores que sin para que sirven los computadores,
+[00426.42 --> 00430.82] ustedes trabajaron con la semelda y el 4 de entre pasado y vienen que no es nada fácil,
+[00430.82 --> 00438.38] lo que venían hacer los computadores es a simplificar la programación de sus aplicaciones,
+[00438.38 --> 00449.70] entonces si en esos computadores todo tenía que ser escrito o en
+[00449.70 --> 00460.02] a semblar que sería algo novedoso para su época o en binario, así admit,
+[00460.02 --> 00469.26] el byte por byte escrito 8 a 2, etc., etc., todos los bytes que componían el programa que
+[00469.26 --> 00476.82] ustedes quieren ejecutar, así apareció lo que se ha ditamos un monitor simple, que para lo que
+[00476.82 --> 00483.38] nosotros vimos sería algo del estilo del sistema operativo al de ahí,
+[00483.38 --> 00490.66] digamos lo que pasa es que se llama un monitor simple, lo vaig sencillo porque lo que uno
+[00490.66 --> 00497.34] así era pre-programar todos los trabajos que quería ser, se lo se conheceaba y después se lo
+[00497.34 --> 00503.74] mandaba y se empezaba a trabajar y el monitor reciente se encargaba de hacer la transición al
+[00503.74 --> 00515.10] próximo trabajo, entonces utilizaba este monitor utilizaba una cola de trabajos y cada
+[00515.10 --> 00520.34] una de ellos le iba poniendo y lo ejecutaba, cuando terminaba tomaba el próximo en la ejecutaba,
+[00520.34 --> 00525.62] y así socialmente hasta terminar de ejecutar todos los programas o las aplicaciones.
+[00525.62 --> 00535.62] A partir de ese momento parece algo que son instrucciones privilegiadas que en el modo
+[00535.62 --> 00542.10] o 1806 que ustedes estuvieron trabajando en el contrato de la trepazado, esas instrucciones no aparecían.
+[00542.10 --> 00549.26] Las instrucciones privilegiadas permiten trabajar en dos modelos, en modo usuario o en modo
+[00549.26 --> 00557.86] root. Eso se los conoce como nivel de su anillos y el 1806 es a lo implementaba,
+[00557.86 --> 00567.66] de 4 redes de 16, el 20 y todo para acá utilizaban esos anillos y digamos el anillo
+[00567.66 --> 00574.74] de corro sistema operativo, le da privilegios para trabajar con el hardware y el anillo
+[00574.74 --> 00582.02] de corren los programas de usuarios, esos usuarios que están siempre privilegios corren
+[00582.02 --> 00588.66] una anillo de menor privilegiado, entonces los usuarios al notar privilegios no pueden tocar
+[00588.66 --> 00596.94] el hardware y eso lo hace el mismo hardware, la CPU, la computadora, pasa de modo privilegiado
+[00596.94 --> 00605.26] a modo usuario o de modo supervisor a modo usuario. Gracias a eso se pueden implementar lo que
+[00605.26 --> 00612.11] es si es lo que nosotros llamamos hoy un sistema operativo.
+[00612.11 --> 00617.39] Y no tuviera esas instrucciones privilegiadas, cualquier usuario lo podría estar usando y
+[00617.39 --> 00625.67] podría estar accediendo como pasa en dos a ese. Entonces, gracias a esos anillos,
+[00625.67 --> 00632.95] se va a permitir trabajar con sistemas operativos y programas y un de usuarios. También
+[00632.95 --> 00640.35] se va a permitir que existe hoy lo que se llama máquina virtual, si, lo que se conoce
+[00640.35 --> 00648.35] como máquina virtual, es un, digamos, una máquina que funciona entre otras y eso se lo
+[00648.35 --> 00654.91] logra trabajando en uno de estos anillos. Se llama a una principale trabaja en el anillo
+[00654.91 --> 00661.27] de mayor prioridad, la máquina virtualizada trabaja en un anillo intermedio y los programas
+[00661.27 --> 00668.39] de los usuarios trabajando en el último anillo que es de baja prioridad o baja, digamos,
+[00668.39 --> 00678.86] de un poco privilegio. Cuando empezara a ver que realmente el CPU quedaba mucho tiempo
+[00678.86 --> 00685.06] desperdiciado porque mientras un proceso cuando empieza a trabajar, necesita ser una entrada
+[00685.06 --> 00694.22] salida, la CPU que hace nada, porque eso la toma 11, de momento es lo que no solo
+[00694.30 --> 00700.42] toma un proceso trabaja, hace la entrada salida, la entrada salida no la hace la CPU, sino que
+[00700.42 --> 00708.62] el celular ha un períferico y me entrando todo, la CPU que hace nada y en otro caso que
+[00708.62 --> 00716.10] es lo que haría tomaría ido y corgría ido. Esto se logra, gracias a la multiplicación.
+[00716.10 --> 00721.66] Entonces, en la multiplicación lo que trataron de hacer es decir, miren muchos chos, si ustedes
+[00721.66 --> 00728.38] tienen que correr 5 programas, los 5 programas pueden correrse en forma, o sea, en forma
+[00728.38 --> 00734.54] concurrente, lo que vamos a hacer es ejecutar la forma concurrente y los huecos que le
+[00734.54 --> 00743.26] es que hago un programa en el uso de la CPU lo usa el otro. Entonces, si todos los programas
+[00743.26 --> 00749.10] trabajan de una forma que ejecutan y hacen una entrada salida durante la entrada salida,
+[00749.10 --> 00756.82] otro programa puede estar tomando la porta y usar el CPU con su cálculo. Y así es
+[00756.82 --> 00764.02] decidivamente hasta que terminé. Ok, aparece mucha técnica que le vamos a ir viendo,
+[00764.02 --> 00770.22] toda la técnica de Buffling, Online y Spooling, todo esto no se preocupa en si no lo
+[00770.22 --> 00775.42] entendemos, vamos a seguir viendo a media que avanzamos con los temas de cursa.
+[00775.42 --> 00782.42] Hay una clases particular de Spooling que se debe en administración de procesos de perifericos.
+[00782.42 --> 00787.90] La técnica de Buffling se debe también cuando se trabaja con la entrada salida salidos,
+[00787.90 --> 00793.74] también la antena de perifericos y la operación offline, bueno hoy en día casi no se trabaja,
+[00793.74 --> 00802.98] pero se utiliza en conjunto con el Spooling para perifericos lentos. Pero bueno, eso
+[00802.98 --> 00809.42] sepa las nombrais, a cual las de las nombras que lo vamos a volver a ver más adelante
+[00809.42 --> 00819.10] de la excusa. El Tamishenering es cómo se divide el tiempo que no tiene la computadora entre
+[00819.10 --> 00825.30] muchos usuarios, más allá de que tenga unos usuarios, puede que gusta mucho procesos,
+[00825.30 --> 00833.94] aparece lo que se llama multiple usuarios. Entonces, si necesitamos operativos de multiple
+[00833.94 --> 00840.78] usuarios, por ejemplo el Linux le permite a varios usuarios estar corriendo diferentes programas
+[00840.78 --> 00847.94] y hay un esqué de Linux entre todos ellos. En que el esqué de Linux es una planificación.
+[00847.94 --> 00852.54] Entonces, todo primero a los usuarios va a el programa a una de los usuarios,
+[00852.54 --> 00858.18] vamos a ejecutar cuando es sale o otro y así es realmente. Pero recuerden que no tengo
+[00858.18 --> 00863.50] que estar esperando a que todo el programa termine porque gracias a la multisprogramación,
+[00863.58 --> 00870.26] se pueden ir entre calando programas entre sí. Entonces, con la multisprogramación,
+[00870.26 --> 00879.06] se puede pensar que se está ejecutando 100 programas a la vez, si una mira bien en un
+[00879.06 --> 00885.98] pequeño el tiempo reduce el tiempo lo más chiquito posible, van a ver que hay un único programa
+[00885.98 --> 00892.38] por se pego ejecutando sí. Si bien uno, cuando lo miran forma de macro, aparece que hay 100
+[00892.38 --> 00900.22] programas ejecutando en un instante, en un delta de tiempo muy chiquito, solo hay un programa en cada
+[00900.22 --> 00907.94] cpego. Lo que vamos a trabajar en los sabores, ahora elante va a ser con un arquitectura de
+[00907.94 --> 00914.62] un solo cpego, así que hacen las cosas más simples. Después mencionaremos cuando se han
+[00914.62 --> 00920.78] necesario tener muchas cpego o sea la ser multisprogramación. Pero para el momento tenemos
+[00920.78 --> 00928.34] una sola cpego que nos va a permitir hacer eso. Bien, entonces esa cpego comparte su tiempo
+[00930.34 --> 00937.62] entre muchos procesos de un usuario y ahora con la parte del tango de ring, a muchos usuarios con
+[00937.62 --> 00948.46] sus procesos. Entonces ahora se estiendere y digamos cada usuario ve a la computadora como si fuera
+[00948.46 --> 00956.50] una. Bien, como el tango y el tango y lo que le hace ver por lo simula, el usuario es que cada
+[00956.50 --> 00963.14] uno tiene una computadora, si y que cuando un pueblo corre en forma libre todo lo que
+[00963.14 --> 00971.42] quiere. Pero acá viene un tema que había hecho un comentario a uno que la memoria no se infinita.
+[00971.42 --> 00977.30] Entonces, cuánto programas puede llegar a poner la memoria. Bueno, eso le vamos a estar trabajando
+[00977.30 --> 00980.66] cuando vemos la parte de la administración de memoria que viene después de la administración de
+[00980.66 --> 00986.70] procesador y vamos a ver cómo simplemente y cómo se pueden usar en la mejor posible
+[00986.70 --> 00996.94] el recurso de memoria física. Y que cada usuario vea, si lo tenga la sensación de tener una
+[00996.94 --> 01007.70] máquina propia, aunque la esté compartiendo. Bien, sistema de tiempo real, estos sistemas aparecieron
+[01007.70 --> 01017.82] más adelante y tienen que ver con tiempos críticos. O sea, si no te es algún sistema de tiempos real,
+[01017.82 --> 01025.70] lo usan. Así, si cuando te escuchamos, si cá, eso es un programa, el reblojctono música, es un
+[01025.70 --> 01034.10] programa de tiempos real. Porque si tarda en reproducir el sonido, que viene, se ha reproduzado
+[01034.10 --> 01037.46] un sonido, reproduzado un reproduzco, reproduzco, reproduzco, reproduzco, reproduzco, me estoy
+[01037.46 --> 01043.38] está escuchando la canción. Ahora, si tarda, más del un delta de tiempo, el reproduzco,
+[01043.38 --> 01052.46] si del próximo, qué es lo que pasa? Ustedes no tan un hueco, un vacío. Entonces, eso es que
+[01052.46 --> 01062.50] no se cumplió la meta, si de el tiempo real. Entonces, el esquede o la planificación,
+[01062.50 --> 01068.02] del sistema operativos que trabajan como en tiempo real, como sea con aplicaciones en tiempo
+[01068.02 --> 01075.26] real, se basa en metas. Sí, tiene que cumplir la meta en tal tiempo. Bueno, hay varios
+[01075.26 --> 01081.54] sistemas operativos, sí, una secuoso, sí, que es un sistema operativo que está orientado
+[01081.54 --> 01086.42] a la misma sistema de tiempo real. Nosotros no le vamos a ver, solo vamos a hacer un poco de
+[01086.42 --> 01093.66] información, cuando veamos en la parte de administración del procesador, los esquede. Pero,
+[01093.66 --> 01101.66] y no va a ser el fuerte de nuestro, de nuestra curso. Bueno, muy bien, procesamiento,
+[01101.66 --> 01107.10] era el que yo le comentaba, tener más de una CPU, interconectava, para eso vimos
+[01107.10 --> 01112.90] todo el tema de arquitectura, para que tengan un poco de conocimiento de lo que son todas
+[01112.90 --> 01119.98] las CPU interconectadas y cuales son los problemas que hay abajo. Bueno, el sistema operativo
+[01119.98 --> 01126.58] tiene que reconocer cada uno de esos CPU y administrar las que dijimos que vamos a tener.
+[01126.58 --> 01134.98] Bien, lo sabéis ya que hoy no lo he un sistema operativo. Bueno, básicamente, esto
+[01134.98 --> 01143.54] es así, así, de simple, toda la materia. O sea, vamos a estar viendo la administración
+[01143.54 --> 01148.38] de procesos, vamos a estar viendo administración de memoria y administración de otra
+[01148.38 --> 01152.78] de salida. Vamos a estar viendo a manejo de sistema de un archivo que somos el
+[01152.78 --> 01158.78] país y si estamos en un país y y la asimnación de recursos, vamos a estar viendo también
+[01158.78 --> 01165.94] entre comillas, con el que vamos la operación de lectura y la escritura. En la
+[01165.94 --> 01172.26] content, es algo que lo vamos a pasar, así me he opto al top, pero tenemos el concepto
+[01172.26 --> 01182.50] de que esa content y en la próxima parte de la escritura, vamos a empezar con definición
+[01182.50 --> 01188.98] de unas métricas para ver ese content y llevar una idea de cómo está funcionando nuestro
+[01188.98 --> 01195.46] sistema operativo, porque uno sea a counting, por día se acucan bien, a counting.
+[01195.46 --> 01202.84] O sea, lo hace para ver, cuando bien está trabajando su sistema operativo, sino a si
+[01202.84 --> 01209.42] te hacen a counting y nunca lo miran, no tiene sentido. Entonces, con el counting, o sea,
+[01209.42 --> 01218.58] cuando se miran en la población que usa esta computadora, son todos usuarios que corren
+[01218.58 --> 01226.70] programas que hacen mucho el tal y culo. Entonces, que me convenen trabajar con una administración
+[01226.70 --> 01235.94] de procesador tipo a tipo B. Entonces, uno puede hacer pruebas, vamos a administración
+[01235.94 --> 01242.50] de procesos tipo A y me fijo con estas métricas, a ver que estamos bien resultos. Y el
+[01242.50 --> 01248.98] dijo traen mi estación tipo A y me conectasme de cambio, fijo que fue lo que como resultó.
+[01248.98 --> 01257.62] Y ahí tomo una decisión y lo mejor que puede implementar para resolver esto es esta
+[01257.62 --> 01265.94] planificación. Y el tema de protección de interpretación de los procesos, se ve lo van a empezar a leer,
+[01266.02 --> 01275.98] la clase que viene, los recuerran que los lunes da el chole de doy para que lea, así que
+[01275.98 --> 01283.30] el lunes que viene van a estar leyendo el tema de semáforos. Nosotros vemos el tema de protección
+[01283.30 --> 01286.74] de interpretación de interpretación con los también de asciño con mis asciaciones entre ellos,
+[01286.74 --> 01293.22] un día semáforos. Pero bueno, por el momento esto es una charla introductoria básica y cuando
+[01293.22 --> 01300.85] empezamos a ver los temas, vamos a empezar a salir sus ojos. Ahora bien, ese programa que
+[01300.85 --> 01308.29] nosotros carelamos la vez pasada con la última que estuvimos con charla presencia, con la clase
+[01308.29 --> 01317.09] presencial que se cargaba del disco y se ponía a cor en la memoria y se le daba para que corra,
+[01317.09 --> 01326.61] bien se lo puede dividir en módulos o en capas, bien y eso da lo que se llaman estructura
+[01326.61 --> 01333.77] de sistema operativos. Las estructuras necesitamos operativos, a continuación de esta
+[01333.77 --> 01342.29] celular, van a aparecer varios sistemas operativos. Lo único que tiene que dar en clara de todo esto es
+[01342.29 --> 01349.41] que, por ejemplo, ahí si tenemos operativos que son módulares y si tenemos operativos que son módulos
+[01349.41 --> 01356.49] y si tenemos operativos módulares, yo puedo tomar un módulo sacarlo con el otro módulo en su lugar
+[01356.49 --> 01363.21] implementado por mí y así tenemos operativos va a funcionar correctamente y no tendría que tener
+[01363.21 --> 01370.77] problemas de compatibilidad ni de cómo yo implemento el módulo, porque todos los módulos tienen
+[01370.77 --> 01380.01] interfaces bien definidas. Entonces, entre a yo respete las interfaces, si no le da problemas
+[01380.01 --> 01385.97] en cambiar los módulos. Ahora bien, que son las interfaces, las interfaces son lo que hoy se
+[01385.97 --> 01397.01] conocen como ápids, ¿eh? ¿Qué es? Serían los comando que el mundo sabe que yo puedo hacer,
+[01397.01 --> 01403.97] entonces me piden esos comando y yo le hago dos programas. Y para cada comando, como yo necesito
+[01403.97 --> 01411.21] que me lo piden. Entonces, por eso es que se tiene ciertos imput, se entonces hago un cúd,
+[01411.21 --> 01416.97] que yo le voy a estar dando como módulos, se le voy a estar devolviendo al mundo que me rodea.
+[01416.97 --> 01425.93] Entonces, mientras se respeten esas interfaces, yo puedo también los módulos. A casi puedo
+[01425.93 --> 01431.69] ver al sistema operativo de Vs, tiene que ver la programa de aplicación que está arriba,
+[01431.69 --> 01441.61] que eso era el vid que ustedes corrian o el diva, o el tasan, corren en esa capa de programa
+[01441.61 --> 01449.65] de aplicación, programa residentes, sí, básicamente el programa reciente el sistema operativo
+[01449.65 --> 01458.45] es el comando que uno tiene para poder comunicarse con el USB, ejecutar comando,
+[01458.45 --> 01465.09] que corren del nivel de programas de aplicación. Y después ese sistema operativo se comunica
+[01465.09 --> 01472.93] con las drivers, sí, de los dispositivos y utilizan también las rutinas del vidos.
+[01472.93 --> 01480.61] Entonces, cuando ustedes cargaban el sistema operativo, el sistema operativo de Vs
+[01480.61 --> 01489.65] tenía tres archivitos. El ms le voy a hacer, el íbios y el comando. Esos tres programas
+[01489.65 --> 01496.13] con programas, se cargaban mejor dicho, esos tres archivos se cargaban en memoria y una
+[01496.13 --> 01505.81] que estaban cargados, sí, los podía uno utilizar. Por ejemplo, se mandó a un h1,
+[01505.81 --> 01512.29] en 29 h que le permitía ingresar una liter aportecía, bueno, todos esos programitas estaban
+[01512.29 --> 01518.69] puestos en la parte de la extiente y la parte de los drivers del DVS.
+[01518.69 --> 01527.33] Bueno, drivers del DVS, pero ¿qué necesitó drivers? Bueno, cuando funcionaba el DVS,
+[01527.33 --> 01535.33] el CD-ROM era un periferico que no era reconocido. Entonces, uno tenía que cargar un driver,
+[01535.33 --> 01540.77] que era normalmente un archivo punto 6, que se cargaban la memoria para que pudiera
+[01540.77 --> 01547.33] cualquier aplicación del sistema operativo, que le ha algo del CD y el sistema operativo
+[01547.33 --> 01552.05] lo podía resolver via los drivers de las dispositivos.
+[01552.05 --> 01558.85] Ahora, esta es una estructura básica de un sistema operativo entre comillas, sí,
+[01558.85 --> 01567.87] fíjese que no hay ninguna protección a la inadestido. El UNIX es muy similar que está separado
+[01567.87 --> 01581.39] un poco, pero, normalmente, se ve, el nivel usuario y todo el nivel de un sistema operativo.
+[01581.39 --> 01588.11] Entonces, el sistema operativo está adentro a lo que se llama kernel, bien, el kernel
+[01588.11 --> 01598.19] está dividido a su vez en control de los drivers, sí, y tiene una capa que es la que
+[01598.19 --> 01606.59] ha hadido las peridos de los usuarios. Bien, los pedidos de los usuarios bien entrando,
+[01606.59 --> 01613.79] via los Shell, los comando, los compiladores o los interprete, pasa por la biblioteca,
+[01613.79 --> 01621.63] es decir, que ustedes están trabajando y esas son las que se encargan de hacer pedidos al
+[01621.63 --> 01630.35] sistema operativo, via la int, en este caso 80, en el caso del Linux, sí, utiliza la intrupción
+[01630.35 --> 01642.83] 21 para pedir cosas al sistema operativo, el Linux, en particular, usa la intrupción.
+[01642.83 --> 01653.79] Bueno, esto no voy a onar en las estructuras de los sistemas operativos, sino que
+[01653.79 --> 01662.59] lo que rescarten de esta y de todas las que vienen es el nivel de usuario y el nivel del
+[01662.59 --> 01670.83] sistema operativo. Nosotros vamos a trabajar durante todo el 4 de mes 3 en todo lo que es el
+[01670.83 --> 01676.79] nivel del sistema operativo. Y vamos a trabajar con diferentes tipos de que el nivel vamos a
+[01676.79 --> 01683.79] dar mi croquet de arma y para que si venicamos el trabaja con ellos.
+[01683.79 --> 01693.11] Hay muchos itens operativos que inclusive el Windows y otros utilizan un intrupás, el
+[01693.11 --> 01698.79] Linux también utilizan un intrupás para acceder a la parte del hardware.
+[01698.79 --> 01705.31] ¿Qué es lo que hacen? Esa parte del hardware que fíjese que ahí se interfazó el
+[01705.31 --> 01712.79] canal de hardware, es como una la abstractión sin dejar o orgútea de este el de abajo.
+[01712.79 --> 01718.79] Eso es lo que le permite el sistema operativo poder migrar de entre plataformas.
+[01718.79 --> 01725.63] No sé si es si es algo o un sistema operativo y lo hago muy restrictivo y lo uso solo para
+[01725.63 --> 01735.43] la PC cuando yo quiero a ir a una Mac o cuando quiero a ir a un mainframe no lo voy a
+[01735.43 --> 01743.31] poder llevar. Cuando pensaron el Linux y el particular comenzaron el Linux usaron eso. Entonces
+[01743.31 --> 01751.31] cuando ustedes van a carnes punto org, van a ver que hay una parte de la abstractión del hardware
+[01751.63 --> 01758.31] y esa abstractión del hardware es lo que le permite. Voy a Linux poder trabajar en un sistema
+[01758.31 --> 01764.63] en bebidos. Poden trabajar en una computadora como unico-riente o pueden estar trabajando
+[01764.63 --> 01776.07] en una en la barropas en un microondas, en un reloj. Porque es acá para la abstractión permite
+[01776.07 --> 01783.31] que se lo pueda ejecutar en cualquier lado. O sea, el kernel va a ser el mismo, lo que yo
+[01783.31 --> 01789.59] tengo que cambiar ese interface de carnes de hardware. Entonces no tengo que implementar todo
+[01789.59 --> 01793.27] el tema de sistema de archivo. No tengo que implementar la administración de ser peo
+[01793.27 --> 01797.71] un uso, no tengo que implementar. No, si yo quiero llevarlo a otra computadora, solo me
+[01797.71 --> 01804.07] encargo tres interfaces de carnes de hardware y todo lo de arriba lo mantengo. Entonces, si yo
+[01804.07 --> 01813.09] lo creo, digamos, implementar esa interface de carnes a un hardware que yo tengo, puedo
+[01813.09 --> 01819.01] correr el Linux sobre ese hardware. Es así de simple y el Linux también. Bien.
+[01819.01 --> 01826.13] Así que bueno, la mayoría de lo tienen. Sí, esto es lo que veníamos hablando de los diseños
+[01826.13 --> 01835.74] en entre capas. Sí. Este es otro modelo del THB. Este es un sistema operativo en
+[01835.74 --> 01845.62] sedos de IBM que he vivido en las valores de Windows. Este era un realmente un buen sistema
+[01845.62 --> 01851.86] operativo, pero como siempre, el que suciste es el que da en el mercado y el que da
+[01851.86 --> 01859.54] en el mercado fue Windows y no, pero de ese dos. Así que bueno, quedó olvidado, pero
+[01859.54 --> 01868.58] tenía un buen diseño. El Windows en este, que abajo de todo está la capa de la
+[01868.58 --> 01874.10] extracción que ya lo estoy listo de mencionar la analisio en el Linux que se llama
+[01874.10 --> 01884.94] hal. Bien, piense que ese hal básicamente, el que ustedes tienen es una capa de extracción.
+[01884.94 --> 01893.34] Sí. Y esa capa de extracción se comunica con el hardware. Y yo cambiando eso, voy a poder poner
+[01893.34 --> 01903.06] el Windows en diferentes lugares. Eso permitió que el Microsoft pudiera poner el Windows en,
+[01903.06 --> 01910.02] por ejemplo, en los autos para, digamos, trabajar con el Windows y comunicarse con los
+[01910.02 --> 01918.18] celulares. Por ejemplo, para permitir el reconocimiento de vos y poder trabajar y hacer
+[01918.18 --> 01927.02] llamado la mial celular de antes de la habla. Entonces, bueno, esa capa de extracción es
+[01927.02 --> 01931.98] muy importante en todos los sistemas operativos que quieran ser portables. Sí. Y no tan
+[01931.98 --> 01938.02] interesado de la segunda sistema operativa portable, pueden abrirla. Pero quedan a todos
+[01938.02 --> 01948.14] algunas bien monestros. Todo lo que vamos a ir en el medio, bien que se llama Executee,
+[01948.14 --> 01955.42] son es el sistema operativo en sí. Y lo que aparece ahí como carga del mouse driver, son
+[01955.42 --> 01962.62] los drivers que ustedes agregan cuando están las friféricos, se van publicando en ese
+[01962.62 --> 01973.46] lugar. Y el microcarnel lo que tiene es el manejo básico de los procesos. Entonces,
+[01973.46 --> 01980.38] esta estructura fue muy utilizada el tiempo que apareció el Windows en este, favor del tema
+[01980.38 --> 01986.86] de los microcarnels. Y aparecieron varios otros sistemas operativos, uno de esos era
+[01986.86 --> 01993.82] escolivos, que era un microcarnel que arriba, podíamos escorrar cualquier otro sistema operativo.
+[01993.82 --> 02001.50] Pero bueno, como les dije realmente, lo que nos tiene que interesar a nosotros es en gran
+[02001.50 --> 02008.86] narrarlo, la división entre carne y el modo carne y el modo de un fario. Fíjense que todos
+[02008.86 --> 02017.76] tienen la misma estructura Linux de nuevo, Fíjense que tienen las aplicaciones de modo usuario
+[02017.76 --> 02037.63] y el espacio del carro. Bueno, de esta manera vamos a ir sacando este tema de las capas
+[02037.63 --> 02044.11] o las divisiones que ahora estructura que tiene un sistema operativo y no vamos a quedar con esos
+[02044.11 --> 02052.11] tres grupos. Usó hario por un lado, carne por el otro, hardware por abajo. La más
+[02052.11 --> 02058.11] simple sencilla de esta que estaba abiendo, Fíjense que tenemos las aplicaciones de usuario.
+[02058.11 --> 02064.83] Tenemos una interfaz para hacer la sistem col, que es algo que permite a los usuarios
+[02064.83 --> 02070.75] comunicarse y hacer la expedido al sistema operativo. Y abajo tenemos la parte de drivers
+[02070.75 --> 02077.23] que se comunican con el hardware. Este modelo es el más básico y sencillo y es el que vamos a
+[02077.23 --> 02084.43] estar utilizando para explicar las cosas o sea, todos los temas en las clases que seguien.
+[02084.43 --> 02096.70] Bueno, esto es el más básico de todos. Bueno, esto es la función de Linux, la función
+[02096.70 --> 02104.94] de laucción es el de Linux, la su directorios que se encuentran en kernel.org,
+[02104.94 --> 02111.18] ustedes pueden bajar el fuente de Linux y van a ver cuando habrán el fuente de Linux,
+[02111.18 --> 02116.06] van a ver estos su directorios y adentro cómo está implementado cada uno de los modules.
+[02116.06 --> 02121.10] Como te implementaba el carne y cómo está en preventado a la memoria, cómo está implementando
+[02121.10 --> 02126.86] el facebook, la interacción cable de usuario y las redes. Cada uno de esos tiene un
+[02126.86 --> 02133.58] subilitorio particular y lo puede estar viendo como se implementa. Pero yo les recomiendo antes de
+[02133.58 --> 02139.10] ver el carne de Linux, que es muy difícil de entender o no, o sea, es más complicado,
+[02139.10 --> 02148.86] porque es un sistema operativo, se apuesto para producción. Puedes estar viendo el cartel del
+[02148.86 --> 02157.74] Linux que es un sistema operativo modular en que toma cada uno de estos mismos en vez de
+[02157.74 --> 02171.66] tenerlo en su directorio, lo tiene agrupado en archivos y pueden ver ahí. Como es la implementación
+[02171.66 --> 02178.46] básica de un sistema operativo, guiado por el libro que yo les recomende el primer día que
+[02178.46 --> 02186.86] hace. Sí, ese libro se muestra todos los conceptos y muestra el código del caramel que implementa
+[02186.86 --> 02195.02] ese concepto. Por eso está muy interesante, ese libro en el caso de que quieran tener alguna bibliografía
+[02195.02 --> 02203.90] de cabeza y si se van a dedicar a hacer sistemas operativos. Así, bueno, vamos a pasar esto,
+[02205.50 --> 02216.46] lo mismo que venimos viendo antes. El Android fielse que es basado en Linux, y la única que dice es que
+[02216.46 --> 02222.06] el camo de la orientado a funciones. Eso lo vamos a ver cuando empecemos a trabajar un poquito más
+[02222.06 --> 02235.02] adelante, ¿o cómo lo podemos dar estas prioridades de esta orientación del caramel? Bueno,
+[02235.02 --> 02243.02] viberaba nuevamente, podemos atener las reparaciones, además que en este caso se hace mucho en
+[02243.02 --> 02252.62] capir en la zona de librerías para el caramel y en las aplicaciones de usuarios. El Android
+[02252.62 --> 02263.90] trabaja con frameworks, sí, que son proveedores de las aplicaciones. Entonces, por ahí si uno de esos proveedores
+[02263.90 --> 02272.70] deja de funcionar las aplicaciones tampoco funcionan. Entonces, esta trabaja está pensado desde
+[02272.70 --> 02281.18] otra óptica el diagrama más orientado a la parte de usuario, la liricia en parte de usuario, porque
+[02281.18 --> 02287.34] quieren que se haga un implementación mucho más sencilla y explote cómo es plato del tema de
+[02287.34 --> 02302.72] la celular. Entonces, ese es otro tipo de sistema operativo, también basado de Linux, y así va
+[02302.72 --> 02315.52] cambiando los sabores. El calmo de ese es como si yo tuviera el sistema operativo de Windows,
+[02315.52 --> 02332.13] si fuera un microcranal y arriba, ha montado el Chrome OSM. En el caso de Chrome,
+[02334.13 --> 02343.17] realmente nunca lo le voy a usar, o sea si ustedes tienen la idea de dedicarse a trabajar todo
+[02343.17 --> 02348.69] con sistemas operativos para tener que tener muchas máquinas y estar dispuesto a insalar y desintalar
+[02348.69 --> 02356.93] muchas veces los sistemas operativos por cuestiones de tiempo y dedicación no lo podrán o no
+[02356.93 --> 02365.25] tuve tiempo de probar el Chrome en particular. Así que bueno, solo estas en las pocas formaciones que
+[02365.25 --> 02373.33] les puedo dar sobre Chrome OSM, si se pueden haber nuevamente tenemos la parte de hardware
+[02373.33 --> 02380.05] abajo el kernel y todas las aplicaciones del sistema operativo de usuario que están arriba.
+[02382.05 --> 02389.25] Así que, como siempre les dije, están esas tres capas en todos los sistemas operativos que estamos viendo.
+[02394.06 --> 02407.04] Firefox OSM de nuevo, muy similar a lo que estamos viendo con el anterior y este es lo que queda como
+[02407.68 --> 02414.32] básico. Lo que yo le ha agar dicho el diagrama o la estructura básica de sistema operativo,
+[02415.60 --> 02422.64] digamos, se lo puede ver un poquito más en detalle acá que es el hardware, la administración de procesador
+[02422.64 --> 02430.08] y los demás foros, eso es lo básico que uno tiene que tener y por eso muchos solo implementan hasta
+[02430.08 --> 02436.80] ahí y eso le llaman microcarmel. Y a partir de arriba todos los hembras se pueden implementar
+[02436.80 --> 02443.76] la nivel de usuario. Bien, bueno, en este caso si ustedes se quedan hasta la capa uno, generan la
+[02443.76 --> 02449.60] que llama un microcarmel. Si su kernel sigue expandiéndose y se ganas hasta la capa 6,
+[02449.60 --> 02457.36] tiene el sistema operativo de los actúles, es un carro del completo. Bien, entonces,
+[02458.08 --> 02465.36] acá se puede ver lo que vamos a estar trabajando como lo vamos a trabajar en la materia. Vamos a
+[02465.36 --> 02470.40] empezar con administración de procesador y sistemas foros, después vamos a ir a administración de
+[02470.40 --> 02476.08] memoria, después a administración de perifericos, después a mi interacción de file system y
+[02476.08 --> 02483.92] con eso vamos a terminar hasta ahí, todo el la cruzada, el planificador de trabajo, lo vamos a
+[02483.92 --> 02490.24] dar muy por arriba y lo que lo mismo que lo que llama el jota c l que llama a shop control language
+[02490.80 --> 02499.68] que básicamente es como generar un script entre comillas. Bien, así que bueno, hasta la capa 6,
+[02500.40 --> 02510.56] esto lo que vamos a mostrar, vamos a considerar con un sitio operativo. Y esto se ha empieza a
+[02510.56 --> 02517.68] tomar un poco más sentido cuando empezamos a hablar de comportamiento de los procesos. Este dibujo
+[02517.68 --> 02529.28] que está acá, mucho sentido no tiene que ustedes los vean, okey, todo men voy, como algo importante,
+[02530.00 --> 02537.44] dado que no vimos nada sobre esto, pero es como lo vamos a estar trabajando en la parte de administración de
+[02537.44 --> 02548.50] procesos, sí, dentro de un sitio operativo. Esto es para decir, bueno, y que significa todo esto que estamos
+[02548.50 --> 02558.34] viendo, esto lo que era, está el slide, daba el punto a pie para la próxima clase, no sea, esta es la
+[02558.34 --> 02566.42] última y positiva que vamos a ver por ahora. Así que vamos a hacer un corte acá, así que ustedes
+[02566.42 --> 02644.42] pueden hacer preguntas y consultas y después continuaremos, sí, después continuaremos, bueno, sí, no tengo ningún
+[02644.42 --> 02654.45] problema, ahora después las voy a colegar las de positivas, así que bueno, con va a estar colegadas en el
+[02654.45 --> 02662.53] más campos, hoy no creo que la pueda colegar, debido a que, como es el dije, trabajar de noche en el
+[02662.53 --> 02694.99] campos, es un poco complejo, así que voy a hablar, lo voy a estar subiendo, bueno, no sé si me sigan escuchando,
+[02694.99 --> 02708.86] pero bueno veo el chat y hagan consultas, llame a noto para subir, llame a noto para subir las de
+[02708.86 --> 02724.27] positivas, si quieren hacer consulta por ahora hubiendo básicamente escriban y yo les doy el
+[02724.27 --> 02797.95] lo que para que puedan tomar la costa, bueno, sí, se bastían hasta haciendo la costa, a ver,
+[02797.95 --> 02812.91] lo primero dos días, tuvimos una charla, sobre arquitectura, en esa charla arquitectura,
+[02814.91 --> 02823.79] estuvimos viendo los diferentes tipos de micrófiles es que hay, o sea las estructuras de multilas
+[02823.79 --> 02831.71] los exadores estuvimos trabajando con la clasificación de fling, y viendo que la misma, no era muy abartativa,
+[02831.71 --> 02840.91] dejando muchas cosas del lado, en muchas estructuras y arquitecturas del lado, vimos como,
+[02840.91 --> 02852.11] se implementaba la interconnección entre distintos procesadores, vimos el bus, el standard, la conexión
+[02852.11 --> 02859.71] con la memoria, la conexión del procesador, como se conectaba muy bien procesadores sobre ese bus,
+[02859.71 --> 02867.47] y el problema que tenía después trabajamos con conexiones tipo hypercube, que permitían
+[02867.47 --> 02873.71] tener muchos caminos para conectar centros en procesadores, la división de memoria entre
+[02873.71 --> 02879.31] esos noos del hypercube, y como básicamente según se podía estar conectando entre sí,
+[02879.31 --> 02887.95] como hacer para que todos los demás dejen de trabajar, cuando uno necesita unio que
+[02887.95 --> 02896.91] arta toda la máquina, y vimos el esnubicachet sobre el el bus, que es algo que nosotros usamos mucho,
+[02896.91 --> 02906.99] porque la computadora, digamos, las PC con que nosotros tenemos, con otra vez más de un procesador,
+[02906.99 --> 02914.27] utilizan siempre un bus de interconnección, no trabajan una topología muy rara dentro,
+[02914.27 --> 02926.03] entonces vimos eso en la esnubicachet, bueno, vamos a seguir con las consultas,
+[02928.91 --> 02935.23] Fernando Apele, dice entonces el kernel son las partes que constituyen, no se tiene un partido,
+[02935.95 --> 02945.31] sí el kernel es una parte o sea, si uno se empieza a trabajar con las distribuciones del sistema
+[02945.31 --> 02955.71] Linux, por ejemplo, se tienen distribuciones tipo 1,100, 100, 100, 100, 100, 100, 100, cada una vez o cualquiera de
+[02955.71 --> 02963.63] ellas toma el mismo kernel del Linux, y lo que hace es agregarle bibliotecas y agregarle aplicaciones
+[02963.63 --> 02972.19] en tornos gráficos y crean su propia distribución, el kernel es lo que está, digamos, abajo,
+[02972.19 --> 02980.19] es que brinda los servicios para que funcionen la computadora, después, como forante,
+[02980.19 --> 02992.51] uno pueden, digamos, un sistema de texto, sólo texto o podemos sistemas de interfagráfica,
+[02993.63 --> 03002.03] entonces el sistema operativo sería todo, y el kernel sería todas las partes internas,
+[03002.03 --> 03008.59] que hace la funcionalidad el sistema operativo, realicarme el es, esa imagen es certivo que yo
+[03008.59 --> 03014.99] ablé en la primera clase, en el final de las operaciones de la segunda clase, que dijimos, bueno,
+[03014.99 --> 03019.71] ya tenemos toda la arquitectura, ya sabemos todo lo que se pueden conectar al el trobe,
+[03019.79 --> 03024.99] veamos como prende una rara quina y hicimos los pasos del ensenvio de la máquina hasta que
+[03024.99 --> 03032.51] cargaba el archivito de el caramel, el sistema operativo, cuando se carga ese archivito,
+[03033.63 --> 03039.55] hace como un polvo y toma todas las interrupciones, y a partir de tomar todas las interrupciones,
+[03041.95 --> 03045.47] empieza a trabajar con la administración de todos los procesos,
+[03046.03 --> 03052.51] hay un programa en el caso de Lino que se llama Init, que es que empieza a disparar
+[03052.51 --> 03058.27] todo lo que falta para que funcionen la interfagráfica o la interfagre texto,
+[03058.99 --> 03067.87] y te permita dialogar con el sistema operativo, okay, entonces, aparte de las arquitecturas en la
+[03067.87 --> 03074.67] primera clase, vimos este punto de pie inicial para cargar el caramel en la memoria,
+[03075.07 --> 03091.44] bien, alguna otra consulta, porque el caramel del Lino es monalítico, bueno el caramel del Lino
+[03091.44 --> 03112.69] es monalítico porque cuando Lino está igual todo el bar, decidió separarse de la filosofía
+[03112.69 --> 03122.05] que tenía anvirtana en bomb, del Phoenix, el Phoenix era un sistema operativo como le dije,
+[03122.13 --> 03127.57] hemos pensado fue un sistema operativo con un caramel modular en el cual ustedes pueden cambiar
+[03127.57 --> 03133.49] cualquier parte del sistema operativo, ya sea la administración de archivo, la administración de la
+[03133.49 --> 03141.73] memoria, la pueden cambiar en forma independiente, siempre que se respete las interfaces que ese
+[03141.73 --> 03148.61] modo tiene, la pueden cambiar implementar los ustedes quieran, y en esa implementación modular,
+[03149.17 --> 03157.49] lo que tenía de malo es que te arradaba, básicamente las performance, entonces, porque,
+[03158.13 --> 03166.69] porque si yo estoy trabajando, por ejemplo, con la creación de un proceso nuevo,
+[03167.33 --> 03176.05] tengo que ir y decirle, a la parte administración de procesos, crea un proceso, a la parte de la memoria,
+[03176.05 --> 03183.17] es darle un espacio de memoria para este proceso, a la parte de enperifericos, a social, a este
+[03183.17 --> 03190.61] proceso, a través de enperifericos, entonces cada una era por separado y tenía que ser llamado
+[03190.61 --> 03198.85] a cada una de los mobles, entonces la llamada de los mobles, la lograba ser, gracias a
+[03198.85 --> 03211.12] un par de mensajes, o sea yo me ando una carta, te digo, hace tal cosa, y el otro me da una
+[03211.12 --> 03218.32] respuesta a vida carta, y si no ya la hice, y al otro le paso, hace tal cosa, y el otro me decía,
+[03218.32 --> 03230.00] me respondía la carta, ya lo hice, entonces, así, cada uno, y respondía, lo que le correspondía
+[03230.00 --> 03240.80] hacer, ahora esa pregunta y respuesta se debe a que cada administración, o sea, administración de procesador,
+[03240.80 --> 03249.60] administración de memoria, era estanca, o sea era un módulo, y como es un módulo y yo lo puedo cambiar,
+[03249.60 --> 03256.88] no se pueden basar en lo que simplemente adentro, entonces sí, así para comunicarse con un
+[03256.88 --> 03263.92] nuevo otro, tenía que mandar esta carta, el Linux dijo no, yo no lo voy a hacer modular,
+[03263.92 --> 03270.40] sino que voy a permitir que cualquiera sí, en vez de mandar una carta, llama la función directamente,
+[03271.20 --> 03279.84] porque que pasaban el Linux, un módulo, le mandaba el otro módulo, sí, la carta, ese módulo decía,
+[03279.84 --> 03286.32] a ver qué quiere esta persona a quienes que yo ejecute esta función, ejecutaba la función y le devolvié a otra carta,
+[03286.32 --> 03294.64] y siempre está no hice, entonces Linux lo que lo hará a hacer es decir, no, no vamos a adaptar
+[03294.64 --> 03301.60] mandando tantas cartas, el módulo que quiere llamar a la función del otro, directamente la
+[03301.60 --> 03309.28] llama, no le manda a carta y espera que el otro, no, lo hace el mismo, entonces esa manera se
+[03309.28 --> 03314.88] perdió esta definición de módulos, o sea se perdió la división de los módulos, y al perder
+[03314.88 --> 03321.60] esa división de módulos que do todo como un solo módulo grande, por eso es que se le llama monolítico,
+[03321.60 --> 03331.28] porque es un grande, es un único módulo grande y cambiar una administración dentro de ese
+[03331.28 --> 03339.60] paquete es retocar todo, no como en el caso del mini, yo solo sacaba el módulo, ponía el nuevo y se
+[03339.60 --> 03348.48] termino, siempre cuando respetaba las interfaces, en cambio en el Linux, a hacer cambiar la administración
+[03348.48 --> 03353.52] de memoria y pasar una administración horrible, por ejemplo una administración de partición,
+[03355.52 --> 03366.74] o al vida, no es casi imposible de que reimplementar totalmente el gármer, que me ha dado a
+[03366.74 --> 03377.62] con el cambio de Android, puede que sea monolítico o micro enupio, como te cierre en la idea positiva,
+[03377.62 --> 03386.82] estaba sabendo sobre un Linux, o sea Linux, o bien la dije de depender a ustedes usan del Linux,
+[03386.82 --> 03395.22] si van a usar solo hasta el nivel 1, sin de Linux, eso sería un microcárner, o sea, es un micro enupio,
+[03395.22 --> 03402.34] y como determinas, y van a deprejas básicamente en lo siguiente, esto va a comprar cualquier sistema
+[03402.34 --> 03408.34] objetivo, sino que está implementado en el gármer, es hasta la comunicación de proceso,
+[03408.34 --> 03416.34] la comunicación entre procesos y se más faros, digamos que hagamos ese corte, si ustedes
+[03416.34 --> 03423.46] implementan todo hasta ahí, eso que está implementando es un microcárner, eso corre en modo protegido,
+[03423.46 --> 03430.74] y todo lo demás, la que usted simplemente, que entré que ha implementado, implementa de nivel de usuario,
+[03430.74 --> 03439.78] vía servidores, o vía los frameworks o cosas por el estilo, todo lo que implementa nadie arriba,
+[03439.78 --> 03447.30] está en nivel de usuario con un poco mayor de privilegio, pero es a nivel de usuario, entonces lo que
+[03447.30 --> 03459.71] está en el do, es un microcárner, si usted es bien, no lo tengo para proyectar, creo que no
+[03459.71 --> 03481.60] estoy proyectando, pero el andrés, fíjense, ah, perdón, tengo que presentar,
+[03481.60 --> 03502.06] entonces, completa, permite, bueno, si ustedes ven acá el diagrama, van a ver la parte roja que
+[03502.06 --> 03524.99] está en el caro de línguques, pero fíjense que no se ve, bueno, no pueden ver el video de que está
+[03524.99 --> 03542.38] escrito, o la pueden ver el, a ver bien, entonces lo voy a dibujar en el ar,
+[03542.38 --> 03563.74] está en el de la android, tiene una parte que todo rojo, tiene el otro, tiene los drivers,
+[03563.74 --> 03575.30] tiene que ser que trabaja con los drivers y después el android tiene todo la capa que es
+[03575.30 --> 03598.32] la mayoría, que básicamente y un rantheim, un rantheim en ese rantheim es donde corre y ejecuta las cosas,
+[03598.32 --> 03606.08] todo esto que tan rojo es el turno que está abajo, que se podría pensar en un microcárner, el rantheim
+[03606.08 --> 03613.44] es en el anivendo usuario junto con la librería y todo lo que viene para arriba, o sea que sí,
+[03613.44 --> 03646.51] se puede pensar que eso microcárner no tiene abajo de línguques, bien, se puede ver,
+[03646.51 --> 03707.54] a ver voy a tratar de apagar mi video, a ver si mejor, a ver, recuerden que el video de lo que estoy
+[03707.54 --> 03757.34] escribiendo aparece en rg, bueno, se me colgó la parte de video, en el que hemos presentado,
+[03772.05 --> 03821.97] bueno en el ar, si se puede ver bueno, a ver vamos a ver con una otra consulta,
+[03821.97 --> 03841.58] bueno voy a dar de dibujar las cosas más lento, si puede ver un kernel y brido, mezclado
+[03841.58 --> 03853.10] microcárner y moralítico, hace un microcárner de moralítico porque es uno solo un solo archivo,
+[03853.10 --> 03876.11] que tiene lo mínimo indispensable para funcionar, no sé si es lo que te reforiz, bueno le voy a
+[03876.11 --> 03884.11] dibujar un par de cositas más, vamos a estar hasta las ocho y corto, después de ahí se acortaremos
+[03884.11 --> 03899.55] la charla de hoy, el comento que el capítulo 12 es bastante largo, lo que vamos a estar viendo
+[03899.55 --> 03912.11] es hasta semana, poros voy a tratar de hacer el enganche entre lo que estoy moviendo hoy y lo que vamos
+[03914.11 --> 03924.63] a ver en la próxima charla, lo voy a estar dibujando en rg, así que bueno,
+[03924.71 --> 03965.37] voy a dar un pimp para que queso que he acabado y van a escuchar mi audio, bueno, la que vamos a
+[03965.37 --> 03979.29] dar tarde, ver es un concepto que se llama proceso, el proceso básicamente es un programa
+[03979.29 --> 03999.16] que está grabado en algún disco y ese programa se acaba en la memoria, como el sistema
+[03999.16 --> 04008.44] perativo tiene que administrar y hemos visto que el sistema perativo es un gran la minestradador
+[04008.44 --> 04023.48] de tablas, va a ver una tabla importante que se llama tabla de bloque de control de proceso,
+[04024.76 --> 04036.25] debe ser pena para que un proceso exista tiene que estar en esta tabla, la tabla de bloque
+[04036.25 --> 04050.12] control de procesos, el pan es la tabla, el proceso apunta la memoria, no es en cuenta cargado,
+[04050.12 --> 04075.05] y hay algo, tiene el IP, el concepto en los registros, entonces, teniendo todo eso, uno puede decir
+[04075.05 --> 04089.05] con proceso, va a agentar todo el código del programa en un determinado tiempo, entonces lo que no
+[04089.05 --> 04112.12] llega, a tener un diagrama del tiempo, el proceso va a estar usando la CPU o va a estar haciendo
+[04112.12 --> 04126.49] en la entrada salida, son los dos estados internos que pueden tener un proceso, o sea, un proceso
+[04126.49 --> 04142.57] ejecuta código o espera que el usando ingresión dato o que el disco le devuelva un registro o un
+[04142.57 --> 04153.13] bloque o espera que el impresor atarminen de realizar la impresión, entonces un proceso,
+[04153.13 --> 04169.53] pero puedo ver, un tiempo que ejecuta, un tiempo que hace la salida, un tiempo que ejecuta, un tiempo que
+[04169.53 --> 04183.93] ejecuta y un poco terminado, vamos a dibujar un X en donde termina, entonces nuestro proceso,
+[04183.93 --> 04195.13] básicamente va a ejecutar el código que usted programar, y va a ir evolucionando en el tiempo,
+[04195.13 --> 04209.25] entre ejecutando, o sea, uso de CPU o haciendo la entrada salida, esa es el concepto que vamos a
+[04209.25 --> 04222.18] estar utilizando para trabajar con la administración de procesos, por supuesto que cuando uno tiene
+[04222.18 --> 04237.70] muchos procesos, tiene que ir eligiendo que procesos pone de ejecución, entonces cuando uno empieza
+[04237.70 --> 04248.02] a hacer el proceso desde afuera, o sea, visto desde el sistema operativo, se va a haber que
+[04248.02 --> 04271.91] negado algún gráfico como esto, ejecutando, pero un círculo, cuando le he bloqueado en espera
+[04271.91 --> 04285.24] de la entrada salida, y lo vamos a poner uno que va a hacer listo, que cuando el proceso
+[04285.24 --> 04298.00] no está haciendo nada, está esperando poder ejecutar, y esto se usa el conflictas de
+[04298.00 --> 04315.76] esta actila, y ese es el último gráfico que esturo y lo que está haciendo, ese gráfico,
+[04315.76 --> 04324.44] lo que está diciendo, son las dos estados del proceso y las transiciones que pueden
+[04324.44 --> 04346.57] llevarse a cabo, o sea el sistema operativo, el sistema operativo puede detectar al proceso,
+[04346.57 --> 04357.38] uno de esos vuelo y todo y puede cambiar al proceso debido a algún evento, bueno,
+[04358.30 --> 04371.82] se ha que las flechitas son eventos que hacen cambiar al proceso, por supuesto cuando
+[04371.82 --> 04383.49] usted tiene un proceso que recién entra, lo vamos a poner en un estado que se llama a comenzar,
+[04383.49 --> 04400.36] y cuando usted tiene un proceso que se ha tardar un ina, usted tiene que deshacer todo lo que hicieron
+[04400.36 --> 04416.78] antes de que el proceso empieza, entonces para tener un estado que se llama terminado, básicamente
+[04416.78 --> 04434.56] con esto usted es para poder entender el capítulo 12, una falta de dos transiciones que
+[04434.56 --> 04447.86] según les dear comenzar al disco y les ejecutando a terminar, este gráfico lo van a ver
+[04447.86 --> 04462.08] el dentro de capítulo 12 o es el último gráfico que yo puse en la presentación del día de hoy,
+[04462.08 --> 04475.00] así que cuando suba la presentación lo pueden verificar, esto es lo mínimo que se necesita
+[04475.00 --> 04487.75] para empezar a entender lo que van a leer en el capítulo 12, le lunes vamos a estar trabajando sobre
+[04487.75 --> 04496.51] el capítulo 12, así que traertem de ver ahora se lo voy a poner de leche para que así
+[04496.51 --> 04517.78] pueda sacar el foto o grabar la parte de arregar el que se quedó a infruzado, que con esto van a poder
+[04517.78 --> 04542.70] hacer o me he dicho para poder entender todo lo que corresponde el capítulo 12, bien,
+[04542.70 --> 04566.70] consultas, tenemos tres minutos para el tema de consultas y cualquier otro tema puede mandarme
+[04566.70 --> 04598.91] mail, no hay demás de en el chat, pueden hacerme consultas y de paso se unbo y dando las consultas
+[04598.91 --> 04608.87] que me hacen para repetir las en lunes que viene, yo creo que con esto por hoy,
+[04608.95 --> 04614.39] vamos a terminar la clase, lo que quiera las ser consultas, lo que vamos a orrater más,
+[04614.39 --> 04627.91] en trataremos el lunes de comenzar a las 6, porque a partir de cierto horario se hace todo
+[04627.91 --> 04636.71] más pesado de internet y se empieza a píxilar todo, no creo que las charlas sean más largas de una
+[04636.71 --> 04646.31] hora, así que más o menos la rapor ese tiempo, tratemos de utilizar cuando la encha de banda
+[04646.31 --> 04655.51] de todas las hogares es aceptable, si les parece bien a las 18 en lunes que viene tenemos
+[04655.51 --> 04671.82] otra, una subirtól, en la zona por la cual para la enlunes a las 6 menos 4, voy a enviar
+[04671.82 --> 04683.69] el link para que se unan a la vida conferencia, espero que es un vídeo todo, cualquier cosa
+[04683.69 --> 04694.66] por mail, se la tratar de responderlo más rápido posible, gracias y bueno, logramos terminaba
+[04694.66 --> 04699.14] primera, la primera chana, en chana por video conferencia.

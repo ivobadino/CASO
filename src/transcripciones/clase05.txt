@@ -1,0 +1,2060 @@
+# 5 080420.mp4
+# duration: 8488.6465625
+
+[00000.00 --> 00006.00] vamos a hacer una resolución de tres ejercicios de los semánforos que le deje la
+[00006.00 --> 00013.16] hace pasaba, así que vamos a empezar con eso, después vamos a hacer la resolución
+[00013.16 --> 00021.32] de la ejercicios de procesador y hace una breve repaso sobre estrés, y que además
+[00021.32 --> 00026.68] o menos esto es todo lo que vamos a estar trabajando el ideó y la instalación de Ubuntu
+[00026.68 --> 00031.68] es el que les voy a mostrar no la instalación pero le voy a mostrar otro tema
+[00031.68 --> 00037.68] como para que puedan empezar a trabajar, en principio la instalación de tu que va a
+[00037.68 --> 00044.68] haber salido fácil y si no veremos los problemas que surgiera, entonces vamos a
+[00044.68 --> 00052.68] empezar con la resolución de los ejercicios de semáforos que fue la última clase.
+[00053.68 --> 00084.24] Bien, vamos a comenzar en la pizarra, vamos a ver el tema de bien, bien,
+[00084.24 --> 00096.14] en el haber voy a poner el chat, por así lo veo cuando hacen consulras, bueno,
+[00098.81 --> 00106.81] ante un problema de incranización que sea un productor y en este caso un receptor que
+[00106.81 --> 00115.81] sería el V, el producto sería a el V deberías retirar dos meses lo que produce a,
+[00115.81 --> 00122.81] es un clásico productor consumidor pero que por cada vez que aparece,
+[00122.81 --> 00134.79] sea tiene que aparecer dos veces, la secuencia asegura en este caso sería a V,
+[00134.79 --> 00148.70] a V, y así es así adamente, recuerden que puede venir en cualquier orden, si ustedes hacen
+[00148.70 --> 00159.70] ese iniento de un programa va de un ejercicio de estos, lo que deberían poder hacer es
+[00159.70 --> 00166.70] que venga por ejemplo todas las V primero y después venga a la dos a, y debería
+[00166.70 --> 00174.70] arreglarse, no sé qué, la zona crítica de a, hace la zona que están en medio
+[00174.70 --> 00185.70] del proceso, va a ser el V, así es como debería estar digamos resuelto.
+[00185.70 --> 00194.70] Ahora bien, como siempre todos los procesos tienen que tener una zona en el trabajo y una zona
+[00194.70 --> 00201.70] de esa vida. Ahora bien, la zona de entrada siempre le tengo que poner a el proceso a,
+[00201.70 --> 00208.70] pues es, sabe, le dejo que poner en una P, en el álilo, ese es, este es en la furociro
+[00208.70 --> 00216.70] para trabajar a todos los que son del mismo tipo, que entonces son con el P algo que no
+[00216.70 --> 00225.94] pase, y por supuesto como esta es un producto consumidor, vamos a tener el V.
+[00225.94 --> 00234.38] Esto es un bastante sencillo, porque básicamente sería la un del un producto consumidor,
+[00234.38 --> 00245.98] sí, pero qué pasa? El problema es que si yo pongo por ejemplo y acá, acá pongo
+[00245.98 --> 00253.98] el X, acá pongo el X y acá pongo ahí, se uno quedaría muy visto lo que nos permite hacer
+[00253.98 --> 00259.98] es, pasa a, se que el cuta la zona crítica de la, este pavilita que deben a ver
+[00259.98 --> 00264.98] y pasa a ver, y esto hay gente que le da la pavilita, le peyendo a la pavilita
+[00264.98 --> 00271.98] inicial, si yo pongo Y y o a la 1, es que si ua la cero funciona,
+[00271.98 --> 00290.98] nuestro problema, bien, ahora que es lo que nos está brindando esto,
+[00290.98 --> 00300.31] lo que no está brindando es esta solución que está escrito ahí, es que a la bbb
+[00300.31 --> 00305.31] cosa que no es lo que se pidió, entonces uno tiene que empezar a pensar bueno,
+[00305.31 --> 00312.31] yo tengo que a permita que entre en dos veces una forma muy sencisa, es a ver
+[00312.31 --> 00319.31] que es un poco de otra vez, o no es que habéis visto sí, a ver, entonces uno de estos
+[00319.31 --> 00328.31] v, abilita, en el bbx, abilita, a un proceso v para que entre y el otro vx, abilita
+[00328.31 --> 00335.31] a el otro proceso v, pero normalmente cuando yo habilito dos, sí, van a entrar
+[00335.31 --> 00342.31] y no, pero se van a ejecutar dos y lo que va a pasar es que van a ejecutar dos veces
+[00342.31 --> 00352.92] v, ¿qué pasa si habilita dos veces v, y bueno, va a quedar desbalanceado esto,
+[00352.92 --> 00367.03] porque es la ejecutarse dos veces nos va a causar el gran problema de que alca me sobre
+[00367.03 --> 00378.03] un bb, no está compensado ese bbj con un p, o sea que si usted se puede pagar los bbc
+[00378.03 --> 00385.83] se compensa con los p y si no está compensado eso hace que todo funucional
+[00385.83 --> 00391.63] y mal, razón por la cual uno tiene que decir bueno acá tendría que yo hacer lo siguiente,
+[00391.63 --> 00405.70] es que la segunda p es un p más para compensar los dos de la iglesia, vamos a poner
+[00405.70 --> 00420.13] el hígito, recuerden que la zona que se está sin colonizando y que van a quedar en la secuencia
+[00420.13 --> 00429.13] que y si vamos a llegar arriba es esto, el p está acá y es una vez que es acá, lo que está en
+[00429.13 --> 00442.10] verde es lo que va a quedar a bbb, bien entonces con esto yo lo que hay se fue seguir un poco
+[00442.10 --> 00450.66] en el tinto y decir bueno, mira si viene un b, sí va a habilitar a una de estos pedigüere
+[00450.66 --> 00457.66] sin que el otro b va a habilitar a lo otro de la pedigüere, entonces más o menos uno me quedé
+[00457.66 --> 00465.94] esta que he dado, antes de continuar vamos a ver esto no está resuelto, esto tiene un problema
+[00465.94 --> 00474.94] pero antes de abordar, a hacer problema vamos a ver otro, sí, otro mucho más sencillo
+[00474.94 --> 00492.22] vamos a ver otro problema más sencillo vamos a ver si es el siguiente problema
+[00503.22 --> 00514.22] bien, eso aplica que será, habre a, hace…, habre a, hace ence. Bien, esto lo que nos permite es
+[00514.22 --> 00520.82] que o lo que nos dice es que a produce y tengo dos consumidores distintos, el
+[00520.82 --> 00525.98] B y el C, y que pueda saltar nace como quieran, puede venir el B, después de
+[00525.98 --> 00538.12] venir el C, eso es totalmente indistinto. Ahora, no sirve de algo eso, sí, muchas
+[00538.12 --> 00548.58] veces sea esa ese problema. Y lo que no son, lo teníamos que ver es que el
+[00548.58 --> 00552.98] Promo me quiero que en el en el ejercicio que les tribo estrando, lo que ya me
+[00552.98 --> 00559.70] quiero es otra cosa. Lo puedo, lo voy a morar esto es una ejercicio que lo que hace es que
+[00559.70 --> 00565.02] ven a cualquiera, bueno, lo hacemos. No, no, no vamos a hacer y lo voy a morar después para
+[00565.02 --> 00571.78] introducir el otro que sí me interesa. Esta es el día, no se sabe para que se
+[00571.78 --> 00586.95] se hacer. Esto lo que no sé nada, y sí, creo que lo que se lo resolvemos es que el
+[00586.95 --> 00602.81] B de T, permita que tanto, el para se sabe o el para usted se ingrese. Y eso se hace
+[00602.81 --> 00610.77] dependiendo de quién se iba primero. Cuando hace B de X, cualquiera de los dos que
+[00610.77 --> 00618.81] se he primero, ese te va a entrar. Y eso hace que se ha a B o C. Bueno, por supuesto,
+[00618.81 --> 00625.29] nosotros vamos a hacer otro tema, a fueron que se aligüilera y lo ponemos así y acá lo
+[00625.29 --> 00636.72] valió de similares alían. Y viene igual a 1, y es igual a 0. Lo que hace es que la zona que
+[00636.72 --> 00650.84] están en el medio, si no se pueda, digamos, estas, estas son a, no se pueda ejecutar si
+[00650.84 --> 00658.72] hay alguna vez estos dos no pasó. O sea, es que el Guto A y alguna de estos dos tienen que
+[00658.72 --> 00665.24] pasar, puede ser el B o ese, no importa cual, el que llegó primero. Ahora bien, si llegó primero
+[00665.24 --> 00672.16] C y se ganes pues B, ese B va a quedar en la cola de espera y no va a poder ejecutarse hasta
+[00672.16 --> 00680.20] que venga otro B. Entonces, lo que se va a lograr es que sea A, B o A C, cualquiera de ellos y
+[00680.20 --> 00687.60] el próximo, o sea, cualquiera. Entonces, siempre es A, B o C, es muy sencillo y lo que hace,
+[00687.60 --> 00697.77] el B de X es dejar libre para que cualquiera de los otros dos ingreses y el que va a ingresar es el que
+[00697.77 --> 00710.31] primero ejecuta. Bien, esto es, es parte de lo que se está viendo en el ejercicio arriba. El ejercicio
+[00710.31 --> 00719.55] arriba cuando ustedes se en B de X, B de X, estos dos, en A, permiten que vengan dos procesos,
+[00719.55 --> 00727.91] sí, y entre dos procesos, cualquiera dos procesos y que cuando adentren a gan ejecuta en el
+[00727.91 --> 00738.27] B, sí, como quieran. Acá en el segundo ejemplo, entre uno solo, pero acá como yo tengo
+[00738.27 --> 00747.75] 2 B de X, puede entrar 2 a la vez. Y eso nos trae un gran problema, porque, porque la zona que está
+[00747.75 --> 00763.31] impagada de ver, ¿eh? Si, en este caso, se ejecuta, B o se ejecuta C. Pero en este caso,
+[00763.31 --> 00770.79] la versión B1 digamos, B1, se va a ejecutar y la versión B2 también se puede ejecutar y se
+[00770.79 --> 00777.79] puede ejecutar concurrentemente y se puede ejecutar al mismo tiempo, por lo tanto, si B es una zona
+[00777.79 --> 00783.79] crítica, el B verde, es una zona crítica y solo puede estar una persona adentro de
+[00783.79 --> 00791.95] ella, sí, este ejercicio que está acá no lo resuelve. Y no lo resuelve, porque permite que
+[00791.95 --> 00796.83] dos estén tocando la zona crítica. Mientras que en este, por más que nosotros decimos bueno,
+[00796.83 --> 00803.15] entre, pero como el X vale uno cuando hace el B de X, va a entrar uno solo de ellos.
+[00803.15 --> 00810.19] Pero acá, con estos 2 B de X, hace que entre 2 y al entrar 2 puede ser que este rompiendo,
+[00810.19 --> 00816.39] esa protección que nosotros queríamos que estaba implicito cuando resuelvemos con
+[00816.39 --> 00823.21] se más fuera este problema. O sea, cuando acceden los dos clientes, hay que tener
+[00823.21 --> 00828.81] cuidado de que no rompan la estructura que tenemos suya senta abajo donde pone por ejemplo
+[00828.81 --> 00837.61] que no se rompa el mostrador, o el más faré se que nosotros teníamos. Entonces,
+[00837.61 --> 00845.97] lo que aparece acá es que muchas veces cuando yo tengo que dos procesos pueden ingresar,
+[00845.97 --> 00852.97] tengo que proteger las zonas del medio. Y para lograr eso, vamos a utilizar el color azul,
+[00852.97 --> 00859.65] que tenemos que poner un semáforo de exclusión para que cuando tengan que ejecutar la zona verde,
+[00859.65 --> 00867.41] sólo uno haya la zona verde V. Y ese es la zona de exclusión se debe gaca y se debe gaca.
+[00867.41 --> 00877.65] Y lo vamos a poner hacia el costado. Va a ser un P de E y un V de E.
+[00878.57 --> 00888.21] Bien, lo que hace con el igual a uno es lo que siempre dijimos cuando el es igual a uno
+[00888.21 --> 00894.77] en la zona que está en 3 medio de esos dos semáforos se hace ejecución de uno y se
+[00894.77 --> 00901.41] sería lista. Por lo tanto, si dos personas o dos procesos tienen la posibilidad de entrar y
+[00901.41 --> 00910.29] ejecutar esa zona, lo van a ser en forma secuencial. O sea, no se puede acceder los dos al mismo tiempo.
+[00910.29 --> 00916.41] Y eso logramos con el E igual a uno y poniendo P de E y un V de E.
+[00918.41 --> 00932.86] Eso permite que la zona que está en el medio no se rompa.
+[00934.66 --> 00943.60] Bien, entonces, ¿qué es lo que logramos con poner P de E y V de E?
+[00943.60 --> 00950.88] Pero tejiendo la zona V. Hacemos que los dos procesos no rompa la zona en forma
+[00950.88 --> 00958.72] paralela, concurrente, exactamente los dos al mismo tiempo. Entonces con el E igual a uno lo que hacemos
+[00958.72 --> 00964.80] es que primero, cualquiera, no me importa. Uno de los B, sí que hizo P de E, que hizo P de E,
+[00964.80 --> 00971.48] y lo dejo entrar, hace P de, el que primero hace P de, ese es que primero toma la zona.
+[00971.48 --> 00976.84] Y se va a liberar cuando el ACP de E, sí, es el segundo B de E.
+[00976.84 --> 00985.12] Y así logramos que la zona que está dentro sea de exclusión.
+[00985.12 --> 00994.94] preguntas a acá, son semanfueros nuevos que estamos agregando a lo que nosotros teníamos que
+[00994.94 --> 01001.02] integrar de sincronización. Entonces, que tenemos, como habíamos dicho, lo semanfueros se utilizan
+[01001.02 --> 01009.22] para sincronizar, sí, y para proteger. El P de E, el B de E están protegiendo la zona crítica.
+[01009.22 --> 01021.21] Si E vale dos, sí, E vale dos, vas a permitir que dos personas estén dentro de la zona crítica.
+[01021.21 --> 01026.69] Por eso, el E vale uno porque sólo uno permite que ingrese esa zona.
+[01026.69 --> 01038.25] Ok, el que tiene el que valdría a dos sería el E, que es, ah, perdón. Sí. Ahora lo voy a resolver,
+[01038.25 --> 01046.25] lo voy a reilar a todo eso. Entonces, con el E y val uno solucionamos este problema de acá.
+[01046.25 --> 01052.13] Lo que me estaba hablando de recién en Nicolás es que con el E igual a uno a nunca entra.
+[01052.21 --> 01057.05] Y es cierto porque tiene dos p de x. Así que eso es una error, lo vamos a resolver.
+[01058.33 --> 01063.45] Entonces, esto es igual a dos para que puedan entrar. Pero,
+[01063.45 --> 01069.13] ¿sabe qué vamos a tocar eso? Vamos a tocar el otro problema que surge ahí. Y ahora lo vamos a
+[01069.13 --> 01075.21] rellenar. Entonces, lo que quiero es cerrar el primer tema. El semanfueros de exclusión, que
+[01075.21 --> 01081.17] hace que la zona B en verde no se ejecute.
+[01082.17 --> 01088.77] Viamo en forma concurrente que si o sí se ejecuten forma serializada, es el PD, el VD.
+[01089.97 --> 01098.05] Ahora vamos a ir a otro tema. Voy a borrar la parte de abajo en el segundo ejercicio que utilizamos
+[01098.13 --> 01105.17] para introducir el tema del ingreso a las zonas de exclusión.
+[01107.84 --> 01132.22] ¿Reunta hasta acá? Bueno, vamos a seguir. Vamos a suponer que empieza ejecutarse el programa A.
+[01134.10 --> 01141.82] Entonces, vamos a hacer la institución de A. Vamos a poner un A1 bien el tiempo para abajo.
+[01142.26 --> 01148.49] Sí, igual el tiempo. Y vamos a ejecutar PD.
+[01150.49 --> 01157.29] Entonces, PD. Recuerden que lo hay la inicial es y bien igual a dos.
+[01157.93 --> 01164.34] Y sólate, vamos a quedar con el video. El tiempo funciona.
+[01165.34 --> 01170.42] Como siempre, dijimos, todas las parcerzas tienen que respetar un cuantum. Vamos a suponer que
+[01170.42 --> 01175.62] tú un cuantum y el cuantum ocurrió justo entre medio de los PD.
+[01177.62 --> 01181.78] Acá, un cuantum, se interrumpió el proceso A1.
+[01182.90 --> 01188.98] Que si vemos, podemos decir que cuando es que salo ejecuto completo, PD llega,
+[01189.54 --> 01192.34] en ese instante y grega vale 1.
+[01195.17 --> 01204.56] Bien, vamos a suponer que justo había estado en la cola de listos esperando a subdos.
+[01205.28 --> 01208.40] Ese es el otro proceso de A. A.
+[01209.44 --> 01213.92] Mi no de la subuno y también mi no de la subdos los dos juntos. Las dos productores juntos.
+[01213.92 --> 01219.92] ¿Qué tiene que pasar? El uno tiene que entrar y el asubdos tiene que esperar hasta que
+[01219.92 --> 01226.32] vengan dos consumidores. Ve uno de los vues utos que consuman todo lo que corresponde y
+[01226.32 --> 01233.44] permitan que vuelva a entrar otro a. Bien, para seguir la secuencia normal que habíamos escrito
+[01233.44 --> 01237.04] el principio. Ahora bien, ¿qué más a cuando viene el segundo A?
+[01237.04 --> 01240.56] Y justo el este momento. Bueno, el segundo A te va a hacer, más ejecutar PD.
+[01241.28 --> 01245.28] Porque al menos eso lo puede ejecutar. Sí, no va a ejecutar el pD.
+[01247.65 --> 01254.05] Sí, y eso va a hacer que lo ejecute completo. Porque como he gritar a uno, les resta uno y que de
+[01254.05 --> 01273.35] griga en cero. Bien, entonces ahí estamos ajustos con el pD cero. Bueno, como el cuanto me es un
+[01273.35 --> 01280.15] poquito más largo, que le ejecuciando de una instrucción vamos a suponer que ejecuto a la segunda.
+[01280.15 --> 01288.55] ¿Qué le vamos a hacer ahí el proceso A2?
+[01288.55 --> 01297.96] Va a hacer el irrinal, va a andar, no, no, no aparece el guayet. Sí?
+[01297.96 --> 01303.96] Aparece nuestro querido guayet. ¿Y qué pasa con el guayet?
+[01303.96 --> 01311.65] Sí, y si, proceso, voy a tener que hacer la cola sobre el tema fray.
+[01311.65 --> 01313.65] Automaticamente voy el vén.
+[01313.65 --> 01319.65] Ajecutar a uno porque en el otro que estaba, entonces voy el vén a ejecutar a uno.
+[01319.65 --> 01328.90] Bien, y a uno hace pD. Y al irrinal que le pasa a uno.
+[01328.90 --> 01338.90] Se lo que ya también, porque acá hace el irriera, se igual a los dos y también
+[01338.90 --> 01346.44] voy. Racer por la cola tanto el a uno, como el tazos quedaron bloqueados.
+[01346.44 --> 01352.07] ¿Por qué pasó eso?
+[01352.07 --> 01358.07] ¿Por qué pasa esas cosas? Bueno, no le dağmente.
+[01358.07 --> 01365.80] Tenemos, estamos en presencia de un tema de exclusión muy justo.
+[01365.80 --> 01376.74] Y eso nos va a dar pie a ver también algo de cómo se define la función p.
+[01376.74 --> 01381.74] La función p adentro tiene dos instrucciones.
+[01381.74 --> 01385.74] Como acá tengo dos p de hireda.
+[01385.74 --> 01390.74] La instrucción p tiene x igual a x menos uno.
+[01390.74 --> 01394.74] Si x es menor que cero, den guay.
+[01394.74 --> 01397.74] Son dos instrucciones. Esa la función p.
+[01397.74 --> 01403.74] Y en nuestro caso acá también tenemos dos instrucciones pD y pD y pD.
+[01403.74 --> 01407.74] Las dos instrucciones trabajan con la misma variable.
+[01407.74 --> 01409.74] ¿Y grie da?
+[01409.74 --> 01412.74] Y eso trae un problema.
+[01412.74 --> 01414.74] Y lo vimos recién.
+[01414.74 --> 01424.74] Si en la mitad del de la ejecución entre los dos p en este caso o entre las dos instrucciones,
+[01424.74 --> 01433.17] en el caso de la función pDx, se corta la ejecución.
+[01433.17 --> 01438.17] Se da a lugar a que otra ejecuta y después se intenta volver.
+[01438.17 --> 01442.17] Eso hace que se rompa todo.
+[01442.17 --> 01448.17] La razón por la cual lo que se tiene que hacer es proteger esta región crítica.
+[01448.17 --> 01454.17] En el caso de semáforos que son utilizados para sin colonización,
+[01454.17 --> 01456.17] la divina en que tengo a cero.
+[01456.17 --> 01458.17] Repueta muy obia.
+[01458.17 --> 01464.17] Utilizar otros dos o otros semáforos para proteger esta zona crítica.
+[01464.17 --> 01467.17] Esta zona que tiene que ejecutarse todo junto.
+[01467.17 --> 01470.17] Y que ninguno otro lo venga romper.
+[01470.17 --> 01472.17] Y acá tiene mi no romperlo.
+[01472.17 --> 01478.17] El mismo a, el mismo a cuando quise ejecutar para ver si le tocaba entrar, rompió a la zona.
+[01478.17 --> 01485.17] Y eso es porque tiene el higri de abal de dos y como el higri de abal de dos para empezar.
+[01485.17 --> 01491.17] Permite que dos tratan de entrar, aunque realmente deberían entrar uno solo.
+[01491.17 --> 01494.17] Entonces, ¿cómo se soluciona esto?
+[01494.17 --> 01501.27] Y como siempre, acá se re rompe.
+[01501.27 --> 01507.31] Y acá se re rompe.
+[01507.31 --> 01510.31] Un pede que, que va a dar a la revo otro semáforo.
+[01510.31 --> 01520.95] Sí, vamos a ponerle y de ahí.
+[01520.95 --> 01525.95] Y acá ponemos t igual a 1.
+[01525.95 --> 01531.95] Cuando íbale uno, cuando íbale uno,
+[01531.95 --> 01536.95] dice que solo pueden entrar en esa zona uno.
+[01536.95 --> 01541.95] Y eso que me garantiza que solo haya uno ahí adentro.
+[01541.95 --> 01545.95] Y que esto que está acabado no ocuro.
+[01545.95 --> 01557.08] Porque el pede y no va a dejar entrar a dos a esa zona.
+[01557.08 --> 01562.08] Hasta cuando hasta que el a uno salga de la zona de los pedes.
+[01563.08 --> 01566.08] Haciendo ver ahí.
+[01566.08 --> 01571.08] De esta forma se soluciona el problema de lo que yo decía a Tomisidad.
+[01571.08 --> 01573.08] Bien.
+[01573.08 --> 01578.08] O tengo una nueva zona crítica que es los pede y higriera.
+[01578.08 --> 01587.08] En el caso de la función P, lo que se pide es que la función sea a Tomica.
+[01587.08 --> 01588.08] ¿Qué significa?
+[01588.08 --> 01590.08] Seje con todo uno se ejecuten nada.
+[01590.08 --> 01592.08] Eso es la definición de Tomica.
+[01592.08 --> 01597.08] Entonces, si yo tengo una función P que es automica,
+[01597.08 --> 01602.08] nunca va a pasar de que una instrucción se ejecute y sea cortada
+[01602.08 --> 01605.08] antes de que se ejecuten la segunda instrucción.
+[01605.08 --> 01609.08] Arco esto, lo que es largo de esto vimos cuando empezamos a ver
+[01609.08 --> 01612.08] el tema de cambiar el valor de la memoria.
+[01612.08 --> 01613.08] Sí?
+[01613.08 --> 01618.08] Y sí, más la introducción de el tema test onset.
+[01619.08 --> 01620.08] ¿Qué hace el test onset?
+[01620.08 --> 01626.08] Y es el mismo porque el test onset tiene que ir a la memoria a ver.
+[01626.08 --> 01628.08] ¿Qué valor tiene?
+[01628.08 --> 01633.08] Si tiene un cero lo deja entrar y si tiene uno uno no lo deja entrar.
+[01633.08 --> 01634.08] Y qué hace?
+[01634.08 --> 01637.08] Es que y venés a zona 1, nuevamente.
+[01637.08 --> 01641.08] Dos saludo instrucciones entre comillas.
+[01641.08 --> 01645.08] Tratando de hacer lo mismo, tocando la misma variable.
+[01645.08 --> 01649.08] Si tiene este valor de jalo pasar y agregali un uno o poner uno,
+[01649.08 --> 01651.08] si tiene uno no lo dejes pasar.
+[01651.08 --> 01655.08] Bueno, pero como son dos cosas que se hacen en uno de esos temas,
+[01655.08 --> 01657.08] hay que protegerla.
+[01657.08 --> 01662.08] Y esa protección hace que el test onset también tenga que ser atomico.
+[01662.08 --> 01667.08] Y eso lo logra el hardware, en el caso del test onset.
+[01667.08 --> 01669.08] Bien, no sea.
+[01669.08 --> 01672.08] El hardware, en el caso del test onset, se encarga de eso.
+[01672.08 --> 01676.08] Esis tenemos operativo en el caso del P,
+[01676.08 --> 01680.08] la función P se encarga de que la función P se automica.
+[01680.08 --> 01681.08] Bien.
+[01681.08 --> 01684.08] Y en este caso el proceso,
+[01684.08 --> 01687.08] el que hace el proceso mejor dicho,
+[01687.08 --> 01689.08] el uso de el sistema o el programador,
+[01689.08 --> 01692.08] tiene que asegurarse de proteger esta nueva zona crítica,
+[01692.08 --> 01695.08] que es P de griega P de griega.
+[01695.08 --> 01698.08] Entonces, para cada nivel,
+[01698.08 --> 01700.08] hay una solución.
+[01700.08 --> 01702.08] Sí.
+[01702.08 --> 01704.08] Y digamos, esa solución,
+[01704.08 --> 01707.08] la tiene que estar aplicando que en corresponde.
+[01707.08 --> 01710.08] Cuando ustedes implementen su sistema operativo,
+[01710.08 --> 01712.08] el día de mañana,
+[01712.08 --> 01718.08] tienen que hacer que la función P de acceso al semáforo sea atomica.
+[01718.08 --> 01723.08] Y si ustedes están trabajando como programador y lo detectan
+[01723.08 --> 01727.08] esto, que después también vamos a empezar a ver algo similar,
+[01727.08 --> 01733.08] hasta el antes, cuando veamos tema de lo dinanicio,
+[01733.08 --> 01734.08] ni cosas estilo.
+[01734.08 --> 01735.08] También al parecer.
+[01735.08 --> 01739.08] Y a parece en el concepto de este aparece,
+[01739.08 --> 01740.08] en muchas cosas.
+[01740.08 --> 01742.08] Es más, en las transacciones.
+[01742.08 --> 01745.08] Imagínense ustedes,
+[01745.08 --> 01747.08] tener una transacción en el banco
+[01747.08 --> 01752.08] que lo que hace, el cajero automático cuando ustedes van.
+[01752.08 --> 01754.08] La deposita es glata.
+[01754.08 --> 01755.08] Supongamos.
+[01755.08 --> 01760.96] Imagínense esta programación tan burga que hace un cajero automático.
+[01760.96 --> 01765.44] El cajero automático cuando ustedes llegan, pone la tarjeta, ingresan su clave
+[01765.44 --> 01772.42] y se envuida de positar entonces que hace. Le pide al sistema del banco, no hay un
+[01772.42 --> 01779.86] su tarjeta, dan el saldo de esta persona. Perfecto, el sistema se lo da. El cajero
+[01779.86 --> 01789.86] dice todo lo que se saldo, le sumo 20 y se lo envió. Ahora si eso fuera
+[01789.86 --> 01797.56] tomico, estaría perfecto. ¿Por qué es significa? Se incrementó 20. Si se tomó el
+[01797.56 --> 01804.94] dato, se incrementó 20 y se hasta. Ahora si yo tengo un banking y tengo
+[01804.94 --> 01812.50] elato con internet, estoy al lado de cajero, entró a un banking. Y quedó.
+[01812.50 --> 01827.02] Ella fue algo muy simple. Pago algo. Y qué pasa? Justo lo pago en el tiempo en que el cajero le
+[01827.02 --> 01832.58] preguntó cuál es el saldo de esta cuenta. Y antes de sumarle la plata que yo iba a
+[01832.58 --> 01843.94] depositar, entró gasto, con la, digamos, el banking, pago lo que tengo que pagar, el saldo
+[01843.94 --> 01850.74] se me actualizó. Y después el cajero dice che el nuevo saldo está en. Y manda el nuevo saldo
+[01850.74 --> 01855.22] a la su cursal. Automáticamente lo que yo resté por el
+[01855.22 --> 01865.10] banking, al pagar mi puesto, fue tapado. Y si se hubiera programado mal, quedaría el nuevo saldo.
+[01865.10 --> 01872.40] Sí, y a mí me figuraría un coupon diciendo que yo pague algo y el banco ese débito o esa
+[01872.40 --> 01880.06] transferencia no se les juicó. Entonces, ¿qué pasó ahí? De nuevo, en el medio de la transacción
+[01880.06 --> 01888.86] de honor dinero, bien pasó alguien tocó, cambió el valor y yo los sobre escribi y quedó
+[01888.86 --> 01895.42] mal, no quedó las cosas como deberían ser. Por supuesto, esa programación no existe en
+[01895.42 --> 01901.34] los cajeras, así que si lo tratan de hacer, no debería funcionar. Sí, y digo debería,
+[01901.34 --> 01906.10] porque uno tiene que corroborar lo que dice y yo no es de forma de corroborar como está y
+[01906.10 --> 01914.30] coigó hecho. Entonces debería no funcionar. Ahora, ¿por qué sería el problema?
+[01914.30 --> 01925.30] El problema está entre digamos que el cajero toma el dato del saldo y manda el dato del saldo
+[01925.30 --> 01934.78] después de hacerlo operación. Bueno, eso está mal. Hay que hacerlo distinto. Y está mal
+[01934.86 --> 01942.34] en el sentido de que la operación debería ser tomada, el todo o nada y no estaré hecho
+[01942.34 --> 01951.42] así en pedacitos. ¿Qué significa el todo a nada? Cuando vos depositaste mando un cajero
+[01951.42 --> 01957.30] debería mandar una señal diciendo, se depositó tanto y no pedirles saldo, hacer la sumi
+[01957.34 --> 01965.14] de valor del saldo. Sí, porque está mal programado. Ahí tengo dos intrucciones que se tienen
+[01965.14 --> 01971.54] que ejecutar juntas y nadie tiene ejecutarse en el medio. Bueno, solucion para esto es el tema de
+[01971.54 --> 01977.74] transacciones y se trabaja con transacciones, que o casualidad una de las características de las transacciones
+[01977.74 --> 01985.98] en las bases de datos es esta, que es atómica. O sea, no cambia el universo hasta que no hace comir.
+[01985.98 --> 01992.98] Bien, y en ese momento se cambia todo el universo y no se va haciendo un pedacito, si un pedacito
+[01992.98 --> 02000.94] no un pedacito, si un pedacito, si un pedacito no. Tú es las transacciones de banco, son como
+[02000.94 --> 02008.54] bien le había diciendo, son atómicas. Sí, y eso es lo que hace que todo funcionales. Bueno,
+[02008.54 --> 02016.06] acá también tiene que ser atómico. Ok, preguntas sobre esto si está todo entendido,
+[02016.06 --> 02039.19] pasamos al otro ejercicio. Bueno, o yo os avamaría demasiado o no entendieron nada o entendieron
+[02039.19 --> 02046.79] todo. Así que bueno, voy a tratar de resolver el último ejercicio por supuesto, pasan en
+[02046.79 --> 02054.31] un limpio de ejercicio que queda con los pedagos y los pedagos que se agregaron y el
+[02054.31 --> 02067.82] video para que esto funciona correctamente. Sí, el tema de que sea atómico, lo
+[02067.82 --> 02075.78] agradeza a ser realidad que estás planteando. Así que al ser todo atómico, si os
+[02075.78 --> 02086.37] sí se va haciendo uno de una parte, otro de otra. Sí, el PDI, es pasaste un semáforo
+[02086.37 --> 02091.97] de exclusión de exclusión mucho, así, porque eso es luego uno, está en la zona que está
+[02091.97 --> 02107.01] entre el PDI y el VDI. Rewunden, yo habíamos mirado un barrando a la parte abajo y yo
+[02107.01 --> 02142.00] he dejado el anterior. Para hacer otro sort de descanociana, VDI es que es un mítate que sea
+[02142.00 --> 02158.62] a VDI, bueno, si sigue regando, se llama a poros adelante y atrás. Lo que está haciendo es liberar.
+[02158.62 --> 02167.90] Fíjense que los PDIs sacan de bloqueado y los se van a listo a un programa. En ese caso no sé
+[02167.90 --> 02177.34] qué da bloqueado. Y el cambio no estaría necesitando que sea exclusientes a zona. Porque
+[02177.34 --> 02183.42] lo que estás haciendo es liberando. Así siempre el problema es cuando tomas algo y si pasa
+[02183.42 --> 02198.53] determinado problema, te da que quedaron bloqueado. Sí, bueno, es lo que estaba moviendo.
+[02198.53 --> 02205.81] El caso de Álico Las Lestios Reposso. Si fuera todo correcto y fuera todo atómico,
+[02206.61 --> 02214.05] sería PDI y PDI. Pero recuerden que nosotros estamos dentro de una administración del procesador.
+[02214.61 --> 02220.05] La línea roja que había dibujado en su momento lo que estaba diciendo es justo ahí,
+[02220.05 --> 02229.81] caeo el fin de cuantos. Justo entre los dos PDIs. Entonces eso hizo de que el PDIs
+[02229.81 --> 02239.25] era uno que era separado del segundo PDIs. Por lo tanto quedó en la mitad con un valor igual a uno.
+[02239.25 --> 02247.57] Y justo eso permitió que a sus dos pudieran entrar. Y ese asumdo que podía entrar fue que
+[02247.57 --> 02258.05] rompió todo. Con este se es más foro, sí, lo que con el PDI y la Tina no digrida. Lo que está haciendo es que
+[02258.05 --> 02267.97] solo una exista ya dentro y por lo tanto no se va a poder ejecutar el asumdo. No va a poder ejecutar
+[02267.97 --> 02278.05] ningún PDIs. Porque va a quedar travado en el PDI. De algo que solo un proceso va a poder estar en esa
+[02278.05 --> 02296.08] zona crítica. Porque hay dos PDIs en el proceso. Lo que tuvimos, partimos del semáforo,
+[02297.20 --> 02305.12] que pusimos un P con un corriente y hacíamos a V. Y hicimos un cliente servidor.
+[02305.12 --> 02314.12] O por favor, o productor consumidor. En el productor consumidor, solo te permitía ejecutar un V.
+[02314.12 --> 02321.32] Entonces seguimos bueno. Si queremos que se ejecuten 2B, aderamos un V de X abajo.
+[02321.32 --> 02328.24] Bien, ese V de X abajo. Si yo le dejo, si imponer sus contraparte,
+[02328.24 --> 02338.24] sí, va a quedar todo mal, pero el VDX es consumido, un X por el V subuno y un X por el V sub dos.
+[02338.24 --> 02343.24] Por lo tanto eso estaría perfecto y estoy dejando que entren los 2B.
+[02343.24 --> 02351.24] El problema es que cuando terminas los V hacen 2B se se digriga y si eso no tengo que estar compensando.
+[02351.24 --> 02356.24] Si no lo compenso, que de todo cruzado y no va a andar más.
+[02356.24 --> 02366.24] Entonces, el V de Giga, V de Giga, que ya tengo consumir por uno solo que venga que es el Laku y corta la secuencia de los V.
+[02366.24 --> 02370.24] Por eso se pone en voz V de Giga, ahí comienza.
+[02370.24 --> 02386.66] ¿Pé?
+[02386.66 --> 02387.66] Algo de otra pregunta.
+[02387.66 --> 02393.66] Ahora cuando hacemos el próximo, vamos a ver que cambia un poquito.
+[02393.66 --> 02401.66] El próximo ejercicio que habíamos dado fue el VCD.
+[02401.66 --> 02403.66] ¿Vien?
+[02403.66 --> 02411.01] ¿Qué es el VCD?
+[02411.01 --> 02418.08] Este es el nuevo que vamos a estar resolviendo ahora.
+[02418.08 --> 02420.08] ¿Qué pasa?
+[02421.08 --> 02423.08] ¿Qué tiene que estar habilitando al C?
+[02423.08 --> 02426.08] Pero tiene que pasar 2B.
+[02426.08 --> 02433.08] Entonces, vamos a hacer de nuevo el EMSCD de C más fueron.
+[02433.08 --> 02434.08] Sí.
+[02434.08 --> 02441.08] Para acá, para V, para C y para V.
+[02441.08 --> 02443.08] Todo tiene que empezar con V.
+[02443.08 --> 02450.38] Y todos al menos tiene que tener un V en Policielero de U.
+[02450.38 --> 02458.36] Ahora bien.
+[02458.36 --> 02461.36] Vamos a poder un valor.
+[02461.36 --> 02462.36] ¿Cuál quiere?
+[02462.36 --> 02464.36] Vamos a poder...
+[02464.36 --> 02466.36] Si seguimos como todo lo trabajan antes,
+[02466.36 --> 02469.36] a dormir en el V,
+[02469.36 --> 02472.36] al poder poder poner aquí.
+[02472.36 --> 02475.36] Aquí vamos a poder poner aquí.
+[02475.36 --> 02478.36] Y ahora tenemos que hacer que se abilite el C.
+[02478.36 --> 02483.36] Entonces vamos a poner el V en R.
+[02483.36 --> 02488.61] Aquí vamos a poder un R.
+[02488.61 --> 02493.61] Y acá vamos a poner un EMSCD.
+[02493.61 --> 02496.61] Voy a tener que permitirle el P.
+[02496.61 --> 02502.61] Aquí tenemos que poner un EMSCD.
+[02502.61 --> 02506.92] Y aquí tenemos que poner un EMSCD.
+[02506.92 --> 02507.92] Esto que hace.
+[02507.92 --> 02512.92] Esto hace algo tan simple y sencillo como a VCD.
+[02512.92 --> 02518.92] Si pongo valor inicial y ninguno y todo lo más encero.
+[02518.92 --> 02523.71] ¿Qué problema no falta?
+[02523.71 --> 02525.71] Esto es a VCD.
+[02525.71 --> 02528.71] Pero no hay que pasar 2 V.
+[02528.71 --> 02531.71] Si tienen que pasar 2 V, ¿qué tengo que hacer?
+[02531.71 --> 02532.71] ¿Qué hay a V?
+[02532.71 --> 02533.71] ¿Qué entren 2 V?
+[02533.71 --> 02534.71] ¿Qué le tengo?
+[02534.71 --> 02535.71] Vamos a saber eso.
+[02535.71 --> 02539.72] ¿Aca?
+[02539.72 --> 02543.72] Y si vamos a permitir que hay entren 2 V.
+[02544.72 --> 02545.72] Pregunta.
+[02545.72 --> 02546.72] 100-200.
+[02546.72 --> 02549.72] ¿Cuántas veces se va a ejecutar de R?
+[02549.72 --> 02551.72] Ovio, 2 veces.
+[02551.72 --> 02554.72] Por lo tanto, para que ser, podré entrar,
+[02554.72 --> 02557.72] tiene que esperar a que se ejecuten 2 V, es R.
+[02557.72 --> 02559.72] 2 V de R.
+[02559.72 --> 02563.72] Si van a ejecutar 2 V de R, ¿qué tiene que pasar?
+[02563.72 --> 02566.72] No tiene que consumir todo, porque si deja,
+[02566.72 --> 02569.72] no consumido, hace que entre 2-6.
+[02569.72 --> 02572.72] O sea, si yo así como estar,
+[02572.72 --> 02575.72] esto dispara que entre 2 V.
+[02575.72 --> 02577.72] Esto dispara que entre 2 V.
+[02577.72 --> 02579.72] Esto dispara que entre 2 V.
+[02579.72 --> 02584.72] Porque se ejecuta 2 V, 2 V, y vuelve a dar.
+[02584.72 --> 02586.72] Y permite que entre 2 V.
+[02586.72 --> 02589.72] Pero, o mentira, tienes que esperar si hay.
+[02589.72 --> 02590.72] ¿Alto?
+[02590.72 --> 02594.72] Lo que queríamos era que, a permita que entre 2 V.
+[02594.72 --> 02597.72] Pero, vengan un solo C.
+[02598.72 --> 02601.72] Para ese C, tengo que hacer consumir esos 2 R,
+[02601.72 --> 02603.72] que activó V.
+[02603.72 --> 02608.72] El programa V activan 2 V, es el V de R.
+[02608.72 --> 02611.72] Entonces, acabamos muy bien, sí le voy a esperar
+[02611.72 --> 02614.72] y tengo con el 2 V, es el V de R.
+[02614.72 --> 02616.72] Bien.
+[02616.72 --> 02620.72] Entonces, pasan 2 V.
+[02621.72 --> 02628.72] Al pasar 2 V, hace que se generen 2 valores para que entre el C.
+[02628.72 --> 02634.72] Y ese habilita 1 solo V y el V habilita 1 solo V.
+[02634.72 --> 02637.72] Y con eso, que lo grabó.
+[02637.72 --> 02639.72] ¿Qué funciona?
+[02639.72 --> 02640.72] Perfecto.
+[02640.72 --> 02641.72] Es alucinante.
+[02641.72 --> 02642.72] Bien.
+[02642.72 --> 02643.72] Pero, está mal.
+[02643.72 --> 02671.46] Ahora le repondo a Nicolas.
+[02671.46 --> 02674.46] Sí.
+[02674.46 --> 02676.46] Disculpé.
+[02676.46 --> 02686.18] Ahí se ve.
+[02686.18 --> 02689.18] Bueno, vamos a ir por parte.
+[02689.18 --> 02691.18] Termina de explicar esto.
+[02691.18 --> 02695.18] Y después, respondo a Nicolas.
+[02695.18 --> 02702.61] En esta parte, tenemos nuevamente el gran problema.
+[02702.61 --> 02704.61] ¿Cuál es?
+[02704.61 --> 02705.61] Sí.
+[02705.61 --> 02711.61] Bien ejecutándose y se le cae un fin de cuantos.
+[02711.61 --> 02712.61] Sí.
+[02712.61 --> 02716.61] Justo entre los 2 PDR, puede venir otro C y entrar,
+[02716.61 --> 02718.61] o tratar de entrar.
+[02718.61 --> 02720.61] Y se queda todo lociado.
+[02720.61 --> 02722.61] Aquí, nuevamente, tenemos que agregarle
+[02722.61 --> 02725.61] lo que habíamos agregado en su pricípio.
+[02725.61 --> 02726.61] ¿Qué usted ha sido?
+[02726.61 --> 02727.61] ¿Qué pasa, mi va?
+[02727.61 --> 02728.61] Vamos a agregarle.
+[02728.61 --> 02732.61] Con PDI, que está un V de I.
+[02732.61 --> 02738.33] Para que todo lo que se encuentra entre medio,
+[02738.33 --> 02741.33] se ejecute todo junto.
+[02741.33 --> 02744.33] O sea, en forma entre comisa automica.
+[02744.33 --> 02749.33] Si bien otros C, no lo interrumpa porque con él y igual a uno,
+[02749.33 --> 02754.33] lo que logramos a hacer es que nadie más que uno solo esté a dentro.
+[02754.33 --> 02759.24] Y igual a uno.
+[02759.24 --> 02763.24] ¿Cuál es el ologramo de que solo uno proceso?
+[02763.24 --> 02764.24] Sí.
+[02764.24 --> 02768.24] Este dentro de la zona entre PDI y el V de I.
+[02768.24 --> 02771.24] Y eso hace que si ese proceso que entró,
+[02771.24 --> 02775.24] toma un PDR, otro no puede tomar el PDR.
+[02775.24 --> 02780.24] Entonces, sí lo va a poder ejecutar el mismo y lo va a dejar entrar.
+[02780.24 --> 02786.24] Cuando esta termina, hace el V de I, V de I, es la Tina.
+[02786.24 --> 02787.24] ¿Ví?
+[02787.24 --> 02789.24] Para liberar esa zona.
+[02790.24 --> 02793.24] ¿Puedo liberar ahí o la pudo liberar el final?
+[02793.24 --> 02795.24] Hacen la el final de todo un V de I.
+[02796.24 --> 02800.24] A mí me gusta hacer que las zonas, o sea,
+[02800.24 --> 02803.24] y se libere cuando las zonas están siendo más usadas.
+[02803.24 --> 02806.24] Las zonas no están siendo más usadas cuando se terminó el PDR.
+[02806.24 --> 02808.24] Bien.
+[02808.24 --> 02812.24] Este V de I se puede poner a la cálfinale.
+[02812.24 --> 02815.24] No habría ningún problema en hacerlo.
+[02815.24 --> 02816.24] ¿Qué es lo que va a hacer?
+[02816.24 --> 02820.24] ¿Va a demorar más si viene a un C?
+[02820.24 --> 02825.24] Dos, vas a demorar más a que él trata de aquel poder entrar.
+[02825.24 --> 02830.24] ¿Por qué? Porque recién lo va a permitir el ingreso de otro C
+[02830.24 --> 02832.24] cuando esté acá el V.
+[02832.24 --> 02836.03] El V de I.
+[02836.03 --> 02838.03] Esta es la solución.
+[02838.03 --> 02845.03] Sí, para el ejercicio a V de C.
+[02845.03 --> 02848.03] Y por supuesto no falta volver.
+[02848.03 --> 02851.03] Ense va a Joló de Renseero.
+[02851.03 --> 02854.03] Ense va a Joló de Renseero.
+[02854.03 --> 02857.03] Y ense va a Joló E.
+[02857.03 --> 02861.98] Enseero.
+[02861.98 --> 02865.98] Al estar todos en C no deja que nadie entra.
+[02865.98 --> 02869.98] O sea, viene un V, un V cualquiera, un proceso V.
+[02869.98 --> 02872.98] Quieren entrar, no porque el E. Quiva el E.
+[02872.98 --> 02876.98] Se quedaba en colado, hace E. Quisben a suave y se quedó en colado.
+[02877.98 --> 02882.98] Por supuesto después va a ser despertado cuando alguien haga V de X.
+[02882.98 --> 02885.98] ¿Y quién les de que hacen V de X? Ah.
+[02885.98 --> 02890.98] Ah. Va a ser que se despierte si quedó algún de en colado.
+[02890.98 --> 02893.98] Si quedó un Sen colado por algún motivo,
+[02893.98 --> 02898.98] bien, no fue por el I en primera instancia.
+[02898.98 --> 02901.98] Porque a la Serpede I, el I vale uno, lo deja entrar.
+[02901.98 --> 02903.98] Entonces va a ser en el D.R.
+[02903.98 --> 02906.98] Y quién lo va a despertar cuando V de R.
+[02906.98 --> 02909.98] Sí, no sea cuando a V en un proceso V.
+[02909.98 --> 02912.98] El proceso V va a permitir que se libera.
+[02912.98 --> 02915.98] Cuando no solo hay cansa, no tienen que venir dos dos,
+[02915.98 --> 02918.98] es eso V para que permitan que entrese.
+[02918.98 --> 02926.12] Bien.
+[02926.12 --> 02930.12] Acá lo que está indicando a U.T.
+[02930.12 --> 02933.12] es así ya resolvo perfecto.
+[02933.12 --> 02939.12] Ahora, y los no pueden estar ejecuto entrando en forma paralela.
+[02939.12 --> 02942.12] O sea, los dos a la vez a la zona.
+[02942.12 --> 02943.12] Es correcto.
+[02943.12 --> 02946.12] Acá se puede estar fallendo con V.
+[02946.12 --> 02948.12] V.
+[02948.12 --> 02953.03] V.
+[02953.03 --> 02954.03] V.
+[02954.03 --> 02956.03] V.
+[02956.03 --> 02957.03] Y V.
+[02957.03 --> 02961.03] Mantienen que la zona del medio sea
+[02961.03 --> 02965.03] nuevamente accedida en forma secuencial.
+[02965.03 --> 02967.03] O sea que en dos no acceden a esa zona.
+[02967.03 --> 02969.03] Y tengo que estar agregando un E.
+[02969.03 --> 02977.59] Bien, a usted.
+[02977.59 --> 02979.59] Y yo, ya está lo de Federico.
+[02979.59 --> 02980.59] Ya está lo de Bogotín.
+[02980.59 --> 02981.59] Vamos a los Nicolás.
+[02981.59 --> 02983.59] Que hizo la pregunta.
+[02983.59 --> 02987.59] Pero dice, pero si P de I se ejecuta porque y vale 1.
+[02987.59 --> 02989.59] Sí, la primera vez vale 1.
+[02989.59 --> 02994.59] Entre el proceso A1 y el I se ponen 0.
+[02994.59 --> 02996.59] Se han una entra a 2.
+[02996.59 --> 02997.59] Es correcto.
+[02997.59 --> 02999.59] Pero el A1 se haga una el esquema.
+[02999.59 --> 03001.59] Es que C2 se pede a I.
+[03001.59 --> 03002.59] Sí.
+[03002.59 --> 03006.59] Como va a ejecutar 2 veces pedí a I.
+[03006.59 --> 03008.59] Y no me díais, pero y griga, vale 2.
+[03008.59 --> 03013.59] Por lo tanto, va a tener forma de seguir adelante porque cuando hace el primer pedí rida,
+[03013.59 --> 03019.59] el L. Y igual vale 1, y cuando hace el segundo, el I.
+[03019.59 --> 03024.22] Y lo dejan entrar, bien.
+[03024.22 --> 03026.22] No debería estar el V.
+[03026.22 --> 03028.22] Es una vez cortas.
+[03028.22 --> 03030.22] Son todos recortas.
+[03030.22 --> 03033.22] Sí, en la función que está abajo.
+[03033.22 --> 03034.22] V.
+[03034.22 --> 03035.22] Y no debería estar el V.
+[03035.22 --> 03037.22] Y después de la primera pedí rida,
+[03037.22 --> 03052.26] No, no, no, si el proceso subodamos que el proceso a uno es ejecutal pedaí perfecto,
+[03052.26 --> 03059.38] ejecuta el primer pedaí de grega perfecto y hace el bede y la tina automáticamente
+[03059.38 --> 03066.38] bajar que el pés en el asub dos puede entrar aga, pedaí y puede también intentar
+[03066.38 --> 03073.22] hacer pedigüera y el proceso ha subuno todavía no hizo el segundo pedigüera.
+[03073.22 --> 03080.30] No es la única que te vas a tener a la misma problema, lo único que existe es correr una
+[03080.30 --> 03085.82] línea más abajo. Según lo que doce estas comentando, voy a borrourar un poco en el
+[03085.82 --> 03087.70] costado.
+[03087.70 --> 03100.58] La primera vez, lo que está preguntando en la cual es si yo tengo esto,
+[03100.58 --> 03114.01] es decir, es decir, es decir, es decir, es decir, es decir, es decir, bien, lo
+[03114.01 --> 03120.67] mismo que estoy mostriando en un rato, pensar que acá se termina el cuantum. Si eres el
+[03120.67 --> 03126.83] césedamente, entonces termina el cuantum. Si, volvemos a la misma estado que antes, porque
+[03126.83 --> 03135.27] puede entrar, pés un dos, digo, a su dos, puede entrar, puede hacer pedigüera y puede
+[03135.27 --> 03144.07] ejecutar también, v.e. y cuando quieres ejecutar el pedigüera, se more. Lo que hay, porque
+[03144.07 --> 03151.19] es lo que está porque es una ejecuto de eso y la sub dos es ejecuto sobre una. Entonces,
+[03151.19 --> 03155.39] volvimos al mismo problema que antes.
+[03155.39 --> 03165.75] No estamos asegurando de que se tome los dos pedigüera, sí, en forma atomica. Entonces,
+[03165.75 --> 03176.03] permítimos que un proceso toma una y otro proceso toma el otro y ahí se more toda.
+[03176.03 --> 03199.92] Bien, alguna otra consulta, nada excelente. Bueno, voy a borrar todo esto, si quene hacer alguna
+[03199.92 --> 03206.68] consulta, escribam el random y lo chequeamos.
+[03206.68 --> 03265.81] Bien, antes de seguir antes de empezar con el tema de procesador. Le voy a hacer un pequeño
+[03265.89 --> 03274.81] seguimiento de programas con semáfolos. Eso nunca lo hicimos. Se van a necesitar tener
+[03274.81 --> 03305.69] digamos a mano para lo voy a escribir. Así ya se lo dejo con partido.
+[03305.69 --> 03344.90] Uno, se hace el de compartir con partida y lo he contado de que no. Ahora sí. Bueno,
+[03344.98 --> 03348.62] voy a ponerse a la décida para que vean que esto es una función,
+[03348.62 --> 03354.90] lo recomíja y que después de llamar a la función, sigue ejecutando lo de abajo.
+[03354.90 --> 03363.46] Bien. Entonces, vamos a hacer el clásico productor consumidor tan simples en
+[03363.46 --> 03374.02] si yo como eso, pero vamos a intentar que hacer el seguimiento. Vamos a checar esto.
+[03374.02 --> 03383.82] Así pueden ver en mi pantalla van a ver las dos. Bueno, qué es lo que tenemos.
+[03383.82 --> 03391.92] Vamos a hacer esto.
+[03391.92 --> 03403.18] Bien, qué es.
+[03403.18 --> 03411.18] Y bueno, una y igual a hacer. Bien, ahí estamos. Voy a dejar acá también el chat.
+[03411.18 --> 03440.60] Habitado, ver, o lo ahorré. Ahora después lo chequeónico.
+[03440.60 --> 03445.60] Dejame hacer esto así. Ya lo tiene en claro después.
+[03445.60 --> 03455.48] Vamos como injectamos de nuevo la información. Como la que no.
+[03455.48 --> 03462.02] Bueno, ¿qué tenemos acá? Tenemos esto. Su secuencia normal,
+[03462.02 --> 03467.46] lo secuencia, es que veis más a...
+[03467.46 --> 03474.46] Bien, le vamos a poner un dos, un dos.
+[03474.46 --> 03479.46] Bien, a uno, ve uno a dos, ve dos.
+[03479.46 --> 03484.46] Esa sería la secuencia normal que uno debería estar teniendo.
+[03484.46 --> 03486.46] A, a ve, a ve.
+[03486.46 --> 03490.46] Pero en la realidad no viene toda así en orden.
+[03490.46 --> 03499.46] Siempre hay un caos y en el caos suponjamos que viene los dos de primero y después viene la.
+[03499.46 --> 03512.66] Bien, ve uno, ve dos, a uno.
+[03512.66 --> 03519.66] Vamos a hacer el seguimiento y vamos a seguir viendo cómo trabajar los semáforos en este sentí en ese sentido.
+[03519.66 --> 03523.66] Ok? Voy a decir un poquito la pantalla si me ha hecho.
+[03523.66 --> 03525.66] Si yo.
+[03525.66 --> 03528.66] Bueno, qué es esto?
+[03533.41 --> 03540.39] Yo tengo que poner los semáforos, veis.
+[03540.39 --> 03541.39] Vamos a hacer un poquito.
+[03541.39 --> 03542.39] Vamos a hacer un poquito.
+[03542.39 --> 03548.96] Aquí y su bolao es iniciales.
+[03548.96 --> 03557.09] El X, el 1, el y el 0.
+[03557.09 --> 03560.91] Bien, ve su 1.
+[03560.91 --> 03562.91] Ve su 1.
+[03562.91 --> 03567.61] Y ve su 1, ejecuta.
+[03567.61 --> 03568.61] Pero ahí.
+[03568.61 --> 03569.61] Sí.
+[03569.61 --> 03573.95] Como y vale 0 que pasa con esto.
+[03573.95 --> 03576.95] Se pone en menos 1.
+[03576.95 --> 03581.36] Automáticamente, ve su 1.
+[03581.36 --> 03583.36] Esta es la cola de t.
+[03583.36 --> 03590.75] Porque, oi, se me fue de la pantalla.
+[03590.75 --> 03592.75] A ni lo atraemos.
+[03592.75 --> 03598.75] Porque, porque ejecuta p de iría.
+[03598.75 --> 03600.75] Bien, ejecuta p de iría.
+[03600.75 --> 03603.75] Bien, en el curso, sí.
+[03603.75 --> 03611.04] Se va a ejecutar.
+[03611.04 --> 03612.04] Bien.
+[03612.04 --> 03614.04] Entonces, ejecuta p de iría.
+[03614.04 --> 03616.04] Me de aquí se llama iría.
+[03616.04 --> 03617.04] Bien.
+[03617.04 --> 03618.04] ¿Qué hace?
+[03618.04 --> 03621.04] A iría y hega la resta 1.
+[03621.04 --> 03623.04] Sí.
+[03623.04 --> 03629.08] Al resta 1 es un 0.
+[03629.08 --> 03631.08] Perdón, es un menos 1.
+[03631.08 --> 03634.08] Sí, porque el yiría valía 0.
+[03634.08 --> 03636.08] 0 menos 1, le queda menos 1.
+[03636.08 --> 03638.08] E, el menor que 0.
+[03638.08 --> 03639.08] Sí.
+[03639.08 --> 03641.08] Entonces, wait.
+[03641.08 --> 03645.08] Y wait en quien, en la cola del se va a foro.
+[03645.08 --> 03647.08] Que causa esto.
+[03647.08 --> 03649.08] Que se le iría.
+[03649.08 --> 03655.75] Bien, el ve su 2.
+[03655.75 --> 03658.75] Al venir, el ve su 2.
+[03658.75 --> 03659.75] ¿Qué va a ejecutar?
+[03659.75 --> 03661.75] Otra vez, pedí iría.
+[03661.75 --> 03663.75] Y gríja con todo, vale.
+[03663.75 --> 03665.75] Me en un 1.
+[03665.75 --> 03667.75] Si le restó 1.
+[03667.75 --> 03669.75] Porque estoy ejecutando el p de x.
+[03669.75 --> 03671.75] Y vamos a quedar en menos 2.
+[03671.75 --> 03676.06] Y después del menos 2 queda c.
+[03676.06 --> 03677.06] Mén o 2.
+[03677.06 --> 03680.06] No me da, es menor que 0.
+[03680.06 --> 03682.06] Por lo tanto, wait.
+[03682.06 --> 03685.06] Entonces, ahora la cola de y.
+[03685.06 --> 03687.06] Esta vea 1.
+[03687.06 --> 03689.06] Y vea 2.
+[03689.06 --> 03695.19] Bien.
+[03695.19 --> 03696.19] Ahí me han accedad un miendo.
+[03696.19 --> 03699.19] Y si ven, un 3, también va a quedar un miendo.
+[03699.19 --> 03700.19] Sí.
+[03700.19 --> 03702.19] Porque es un tiempo que tienen que venir.
+[03706.65 --> 03707.65] Fíjense que, ¿qué es dirá?
+[03707.65 --> 03709.65] Bueno, pero es ese ejecuto, ¿ve?
+[03709.65 --> 03710.65] Sí, sí.
+[03710.65 --> 03713.65] Pero recuerden que la zona que se sincroniza,
+[03713.65 --> 03715.65] es la zona que está acá.
+[03715.65 --> 03718.65] Es en vee que está acá y en la que está acá.
+[03718.65 --> 03720.65] Son lo que están en verde.
+[03720.65 --> 03726.09] Y esa zona tiene que hacer a vea.
+[03726.09 --> 03730.09] Bueno, vamos a superar ahora que viene el 1.
+[03730.09 --> 03732.09] Un extra 1.
+[03732.09 --> 03733.09] ¿Qué?
+[03733.09 --> 03736.09] Según lo que habíamos dicho, venía en esa forma.
+[03736.09 --> 03737.09] Y, ¿qué haces?
+[03737.09 --> 03738.09] ¿Qué haces?
+[03738.09 --> 03739.09] ¿Qué haces?
+[03739.09 --> 03740.09] ¿Qué haces?
+[03740.09 --> 03743.20] ¿Qué haces?
+[03743.20 --> 03744.20] ¿Qué haces?
+[03744.20 --> 03746.20] ¿Qué haces?
+[03746.20 --> 03748.20] Ese ejecuta pdx.
+[03748.20 --> 03752.30] Bien.
+[03752.30 --> 03754.30] Al ejecutar pdx.
+[03754.30 --> 03758.94] Volvemos de nuevo a la pantalla.
+[03758.94 --> 03761.94] Y dice, x-1.
+[03761.94 --> 03765.94] Equivale 1, menos 1, 0, 0, es menor que 0.
+[03765.94 --> 03766.94] No.
+[03766.94 --> 03768.94] Entonces, continúa.
+[03768.94 --> 03769.94] Y qué significa?
+[03769.94 --> 03772.94] Sí, con lo que estaba a su pdx.
+[03772.94 --> 03775.94] Sí, que sería.
+[03775.94 --> 03776.94] Ah.
+[03776.94 --> 03780.94] No sé, lo que hizo fue ponerle de 0 este.
+[03780.94 --> 03783.94] Que ejecutar la zona de a.
+[03783.94 --> 03785.94] Voy a escribir acá.
+[03785.94 --> 03787.94] A va a poner el cdc.
+[03787.94 --> 03790.94] A que se haces ejecuto la zona de a.
+[03790.94 --> 03792.94] Y después va a ser un vd.
+[03792.94 --> 03794.94] Y.
+[03794.94 --> 03796.94] Si se haces ejecuto la zona de a.
+[03797.94 --> 03799.94] Podría empezar los zona de a.
+[03799.94 --> 03801.94] Porque era a.
+[03801.94 --> 03802.94] V.
+[03802.94 --> 03803.94] Perfecto.
+[03803.94 --> 03805.94] Cuando se el vd.
+[03805.94 --> 03806.94] Y.
+[03806.94 --> 03808.94] Vamos a hacer acá en la pantalla.
+[03808.94 --> 03810.94] Vamos a ir al vd.
+[03810.94 --> 03812.94] Lise en vdx1.
+[03812.94 --> 03814.94] Así que es vdgl.
+[03814.94 --> 03816.94] Igreera más 1.
+[03816.94 --> 03818.94] ¿Cuánto vale igreera?
+[03818.94 --> 03820.94] Vale, menos 2.
+[03820.94 --> 03824.94] Y eso más 1, me queda menos 1.
+[03824.94 --> 03826.94] Y qué es lo que dice?
+[03826.94 --> 03829.94] Sí, menos le igual a 0.
+[03829.94 --> 03834.94] Es porque había alguien que estaba en la cola de esperando.
+[03834.94 --> 03839.94] Hace un signal, llamarlo y que reviva.
+[03839.94 --> 03840.94] ¿Qué significa reviva?
+[03840.94 --> 03844.94] Que sí, la donde quedó trabajado y donde quedó trabajado en el wait.
+[03844.94 --> 03845.94] Bueno.
+[03845.94 --> 03849.94] Si sí, que yo al lado hacía una flechita.
+[03849.94 --> 03852.94] Porque revive, eso bueno.
+[03852.94 --> 03854.94] Pero no empieza a ver.
+[03854.94 --> 03855.94] Comienzo.
+[03855.94 --> 03858.94] ¿Con quién uno va a derronde estuvo trabajado?
+[03858.94 --> 03861.94] Y donde estuvo trabajado en el wait.
+[03861.94 --> 03864.94] Ahí donde lo tenemos marcado en la pantalla principal.
+[03864.94 --> 03867.94] ¿Cuál es la próxima introducción de cua de esa?
+[03867.94 --> 03871.28] Esta.
+[03871.28 --> 03873.28] ¿Y qué hace esa?
+[03873.28 --> 03875.28] Nada, es el fin de la función.
+[03875.28 --> 03880.28] O sea que seguiría con qué cosa con la zona de vez.
+[03880.28 --> 03883.28] Entonces acá, sé que cuo te la son de vez.
+[03883.28 --> 03888.23] ¿Se ejecutó el asóname?
+[03888.23 --> 03889.23] Sí.
+[03889.23 --> 03893.23] Porque continuó y ejecutó esta zona en verde.
+[03893.23 --> 03896.48] ¿Cuál le has acabado?
+[03896.48 --> 03897.48] Hace un bebé de X.
+[03897.48 --> 03898.48] Cada perfecto.
+[03898.48 --> 03900.48] ¿Cuánto valía a X?
+[03900.48 --> 03904.48] Y bueno, X va a leserro.
+[03904.48 --> 03907.34] Y que lo tengo que hacer.
+[03907.34 --> 03909.34] Está haciendo un bebé.
+[03909.34 --> 03910.34] Te voy a ejecutar esto.
+[03910.34 --> 03916.13] Hace X que va a leserro les sumo alguno.
+[03916.13 --> 03918.13] ¿Cuánto queda a X?
+[03918.13 --> 03919.13] En uno.
+[03919.13 --> 03920.13] En menores igual a 0.
+[03920.13 --> 03921.13] ¿No?
+[03921.13 --> 03922.13] ¿Qué significa?
+[03922.13 --> 03924.13] Te voy a que sea algo un signal.
+[03924.13 --> 03925.13] ¿No?
+[03925.13 --> 03926.13] Solo tener que poner uno.
+[03926.13 --> 03928.86] ¿Qué bueno?
+[03928.86 --> 03929.86] Sí.
+[03929.86 --> 03931.86] Y ahora qué pasa.
+[03931.86 --> 03932.86] Y...
+[03932.86 --> 03933.86] Nada.
+[03933.86 --> 03934.86] Termino.
+[03934.86 --> 03936.86] Se han terminado el asón o no.
+[03936.86 --> 03939.86] Si al palmino, asón o no.
+[03939.86 --> 03942.86] ¿Qué tiene que pasar?
+[03942.86 --> 03945.86] Y el vez un 2 está y bloqueado.
+[03945.86 --> 03949.86] Porque recuerden que le acas sacamos a nuestra zona.
+[03949.86 --> 03955.23] Entonces, la cola de Y está en su 2.
+[03955.23 --> 03958.23] Y hasta que hay el o de pierde.
+[03958.23 --> 03963.23] Y cuando le va a despertar alguien y cuando nada veriría y que en de todos estos
+[03963.23 --> 03965.23] procesos de C.B. de I.D.
+[03965.23 --> 03966.23] El proceso A.
+[03966.23 --> 03970.23] Entonces, cuando ven a otro A va a despertar el proceso B.D.
+[03970.23 --> 03974.23] Bueno, vamos a su Palar que viene a su 2.
+[03974.23 --> 03978.58] Y ahora me le venía a su 1 y a su 2.
+[03978.58 --> 03979.58] Bueno, perfecto.
+[03979.58 --> 03981.58] ¿Qué hacía a su 2?
+[03981.58 --> 03984.58] ¡A su 2 hace P.D.D.
+[03984.58 --> 03986.58] Quanto vale a X.
+[03986.58 --> 03987.58] Uno.
+[03987.58 --> 03993.82] Entonces, hacemos el P.D.D.X, que se está aquí está acá.
+[03993.82 --> 03995.82] A X, que vale uno, le arregó uno.
+[03995.82 --> 03997.82] Quanto qué era 0.
+[03997.82 --> 04000.82] Acá sea 8 no, porque 0 no es menor que 0.
+[04000.82 --> 04002.82] Entonces, el continuo.
+[04002.82 --> 04003.82] Sí?
+[04003.82 --> 04005.82] En que es el l.b.a.
+[04005.82 --> 04008.82] ¿Continúa? ¿Qué hace después?
+[04008.82 --> 04011.82] ¡Aga la soma! ¡Aga la soma! ¡Aga la soma!
+[04011.82 --> 04014.82] Bien!
+[04014.82 --> 04021.31] Si ejecuta la soma, ¡A!
+[04021.31 --> 04024.31] Bueno, quiero dejarlo.
+[04024.31 --> 04028.78] Esto, me encanta.
+[04028.78 --> 04030.78] Si ejecuta la soma, ¡A!
+[04030.78 --> 04035.63] Sí, volvamos.
+[04035.63 --> 04039.04] Empecemos con el azubros de nuevo.
+[04039.04 --> 04045.04] A surdos ejecuta pedequis, que valía uno, le resta uno, que no encero.
+[04045.04 --> 04046.04] No hace guay.
+[04046.04 --> 04048.04] Ejecuta la soma, ¡Aga!
+[04048.04 --> 04050.04] Y una vez que ejecutó la soma, ¡Aga!
+[04050.04 --> 04052.04] ¡Vá a ser un medirida!
+[04052.04 --> 04055.04] ¿Qué pasa cuando se el vea digriera?
+[04055.04 --> 04057.04] A la ser el 3 de igrega,
+[04057.04 --> 04067.67] lo que nos va a marcar, es el menos uno, que valiga ahí griga,
+[04067.67 --> 04070.67] le suma uno.
+[04070.67 --> 04072.67] Y se toque, ¿taca?
+[04072.67 --> 04076.67] Entonces, sí, valiga menos uno, más uno,
+[04076.67 --> 04077.67] da 0.
+[04077.67 --> 04079.67] 0, me no es igual a la seros.
+[04079.67 --> 04081.67] Sí, ¿qué te va a hacer?
+[04081.67 --> 04083.67] Un sí, ¿qué significa?
+[04083.67 --> 04086.67] Había alguien en el se más fuera y griga,
+[04086.67 --> 04090.67] que estaba en colado, sí, despertado y traelo.
+[04090.67 --> 04091.67] Perfecto.
+[04091.67 --> 04094.67] Entonces, acá, como bien le dije,
+[04094.67 --> 04097.67] se le suma uno y que le cero.
+[04097.67 --> 04101.67] Bien, y se trae a quienes estaba bloqueado,
+[04101.67 --> 04103.67] que le van a lo de sum dos.
+[04103.67 --> 04107.67] Se ve a piealtar y aparece por el sum dos.
+[04107.67 --> 04110.67] Pero la ves un dos aparece, no, desde el comienzo,
+[04110.67 --> 04117.78] sino desde el momento, desde el momento,
+[04117.78 --> 04122.78] que continúa, sí, no debía quedado bloqueado.
+[04122.78 --> 04124.78] Sí, se anotamos en la cola de,
+[04124.78 --> 04126.78] no le suma uno.
+[04126.78 --> 04130.78] Bien, se anotaba, se la cola de ese más fuera y se hace
+[04130.78 --> 04135.45] fueron ejecutando los setagados.
+[04135.45 --> 04138.45] Él estaba atrabado en el wait del PDX,
+[04138.45 --> 04140.45] porque había quedado en el wait,
+[04140.45 --> 04143.45] el sign al lo despertó y ejecuta la próxima
+[04143.45 --> 04144.45] instrucción del wait.
+[04144.45 --> 04146.45] ¿Cuál es la próxima instrucción del wait?
+[04146.45 --> 04147.45] La ya necesita.
+[04147.45 --> 04149.45] ¿Y qué hace la ya necesita?
+[04149.45 --> 04151.45] Nada, es el fin de la función,
+[04151.45 --> 04153.45] por lo tanto hace que ejecuta,
+[04153.45 --> 04155.45] y que ejecuta la zona v,
+[04155.45 --> 04157.45] es la que continúa,
+[04157.45 --> 04158.45] acá,
+[04158.45 --> 04160.45] y de par eso hace V de X,
+[04160.45 --> 04163.45] el equivales 0,
+[04163.45 --> 04164.45] sí,
+[04164.45 --> 04166.45] el equivales 0,
+[04166.45 --> 04169.45] le sumo uno, el equivales 1,
+[04169.45 --> 04173.45] y uno, no es menos igual a 0 y continúa.
+[04173.45 --> 04179.72] Bien, continúa que es el fin del proceso v.
+[04179.72 --> 04181.72] Bueno, entonces,
+[04181.72 --> 04183.72] lo que estoy diciendo haciendo fue,
+[04184.72 --> 04186.72] claro,
+[04186.72 --> 04188.72] entonces,
+[04188.72 --> 04192.72] ¿cлонas el potentially de slick,
+[04192.72 --> 04194.72] como queSinging de ellos,
+[04194.72 --> 04211.66] cuando están enero del redillante y de la
+[04211.66 --> 04213.66] en la realidad eso no pasa.
+[04213.66 --> 04217.46] Supongamos un momento en la realidad en que vino a beguna,
+[04217.46 --> 04219.46] ve dos a uno a dos.
+[04219.46 --> 04220.46] Perfecto.
+[04220.46 --> 04223.66] Sin nuestro programa está bien hecho,
+[04223.66 --> 04228.66] debería hacer de que las letras en verde,
+[04228.66 --> 04233.30] que yo acá le puse a IBE y abajo lo llamé Ceta A, Ceta B,
+[04233.30 --> 04238.66] se ejecute A, después B, después B, después B, después B.
+[04239.66 --> 04242.66] Comenzamos con los valores iniciales de las semiforos.
+[04242.66 --> 04246.66] Esto es valor inicial.
+[04246.66 --> 04249.66] Bien, ve I, valor inicial.
+[04249.66 --> 04254.66] El valor inicial de la X será uno, el valor inicial de I, era 0.
+[04254.66 --> 04258.66] Y empezamos a ejecutar cada uno de estos procesos,
+[04258.66 --> 04264.66] en el orden de enque vienen hasta que termine o se bloquean.
+[04264.66 --> 04267.66] El ves uno se ejecutó y se bloqueó.
+[04267.66 --> 04270.66] El ves dos se ejecutó y se bloqueó.
+[04270.66 --> 04275.66] Que daron en colados en una cola asociada al,
+[04278.66 --> 04280.66] al se más fuera y grega.
+[04280.66 --> 04282.66] Después vino a uno,
+[04282.66 --> 04285.66] bien que puedo ejecutarse,
+[04285.66 --> 04287.66] sí, y continuar,
+[04287.66 --> 04289.66] continuar y ejecuto completo.
+[04289.66 --> 04292.66] Por lo tanto, se ejecutó la zona a perfecto.
+[04292.66 --> 04298.66] El despertar al primer B y le dice que continúa y termine.
+[04298.66 --> 04302.66] Ejecutando la zona B en el medio.
+[04302.66 --> 04306.66] Cuando ejecuta el B de X, es equivalente de nuevo uno.
+[04306.66 --> 04313.66] Eso permite que venga a cualquier otro A, sí, que es nuestro A2.
+[04313.66 --> 04316.66] Porque el B2 estaba bloqueado,
+[04316.66 --> 04320.66] o sea que este termino, este termino, este termino.
+[04320.66 --> 04324.66] Este termino, este tablo que hago, este se lo llevó por eso entre el A2.
+[04324.66 --> 04330.66] Que ejecuta todo completo y ejecuta la zona.
+[04330.66 --> 04335.66] Y por último, el B de y grígula que hace A2,
+[04335.66 --> 04338.66] de espiata al B2 que estaba bloqueado.
+[04338.66 --> 04341.66] Por eso es que en la cola ahora no quedó absolutamente nadie.
+[04341.66 --> 04345.66] Y eso hizo de que se ejecutara la zona B.
+[04345.66 --> 04350.66] Entonces, lo que estamos viendo,
+[04350.66 --> 04354.66] el acabajo que quedó zona a una vez, zona a zona B,
+[04354.66 --> 04359.04] que era lo que nosotros queríamos a B a B.
+[04359.04 --> 04364.04] Y esto es el seguimiento sin para ver si lo que ustedes hicieron consemar
+[04364.04 --> 04366.04] fueron funcionados.
+[04366.04 --> 04372.04] Bueno, esto es sin tener en cuenta el cuantum.
+[04372.04 --> 04376.04] O sea, vieron que hoy estoy hablando mucho del cuantum que se cuarta
+[04376.04 --> 04379.04] y cuantum en un determinado lugar interrumpo.
+[04379.04 --> 04382.04] Bueno, este seguimiento es así,
+[04382.04 --> 04387.04] al lo grande como para ver si la sin colonización que tenemos
+[04387.04 --> 04389.04] funciona.
+[04389.04 --> 04395.86] Bien.
+[04395.86 --> 04399.86] El A1 cuando ejecuta el B de y grígula,
+[04399.86 --> 04404.86] sí, lo que hace es despertar porque valía menos 2,
+[04404.86 --> 04407.86] a ejecutar el B de grígula,
+[04407.86 --> 04411.86] fíjense a la pantalla, le suma 1 y si el valor es menor igual a 0,
+[04411.86 --> 04415.86] que es menos 1, hace un signal y el signal,
+[04415.86 --> 04418.86] dice, signal sobre el semáforo 1.
+[04418.86 --> 04421.86] Lo que hace es despertar al primero que estaba encolado.
+[04421.86 --> 04425.86] Entonces, lo saca de bloqueados y lo pone en listo
+[04425.86 --> 04427.86] para que vuelas ejecutarse.
+[04427.86 --> 04435.96] Bueno, vamos a empezar a responder.
+[04435.96 --> 04439.96] Aouthing, bueno, esa fue la la 3 de pregunta.
+[04439.96 --> 04444.61] Preguntaba a esquiera la parte de abajo.
+[04444.61 --> 04448.61] Esto que está acabado es la cola del semáforo y también
+[04448.61 --> 04450.61] ha viva una cola del semáforo X,
+[04450.61 --> 04453.61] pero nunca encolamos a nadie en el semáforo de X.
+[04453.61 --> 04455.61] En este modo de litro que sí nos recién.
+[04455.61 --> 04460.61] Si ustedes piensan algo un poco más complejo,
+[04460.61 --> 04465.61] puede ser de que también tengan que usar la cola del semáforo X.
+[04465.61 --> 04471.61] Eso es pasaría, por ejemplo, cuando empieza por ejemplo a uno a dos
+[04471.61 --> 04474.61] y después viene a los veones a dos.
+[04474.61 --> 04476.61] El lado va a quedar bloqueado.
+[04476.61 --> 04484.48] Cuando ve dos hace signal, pero ve dos,
+[04484.48 --> 04488.48] el ve dos, nunca hizo signal,
+[04488.48 --> 04493.48] que hace signal son los a dos y otra vez,
+[04493.48 --> 04496.48] y trae al ve dos por eso,
+[04496.48 --> 04501.48] que se que con acá cuando se pasa de menos uno a 0,
+[04501.48 --> 04504.48] que es cuando se ejecuta el ve,
+[04504.48 --> 04506.48] 0 es menor y igual a 0.
+[04506.48 --> 04509.48] Por lo tanto hace signal y lo que hace despertada
+[04509.48 --> 04512.48] que aquí está, el ve uno se hace fue,
+[04512.48 --> 04514.48] ya más está más en la cola.
+[04514.48 --> 04515.48] Se desperta el ve dos,
+[04515.48 --> 04521.16] ok?
+[04521.16 --> 04523.16] Algo, otra consulta,
+[04523.16 --> 04528.32] con esto,
+[04528.32 --> 04531.32] estamos por cerrado todo el tema de semáforo X.
+[04531.32 --> 04532.32] Ok?
+[04532.32 --> 04535.32] Ya tienen los seguimientos,
+[04535.32 --> 04537.32] hay que sentarse,
+[04537.32 --> 04540.32] pueden hacer paso a paso y seguir.
+[04540.32 --> 04541.32] Bien,
+[04541.32 --> 04546.32] vamos a poner una fecha de consultas
+[04546.32 --> 04550.32] para que vengan y, bueno,
+[04550.32 --> 04552.32] hacemos el oreso,
+[04552.32 --> 04553.32] mejor en chupo,
+[04553.32 --> 04554.32] que vengan,
+[04554.32 --> 04555.32] virtualmente,
+[04555.32 --> 04559.32] y hacemos consultas general de todos los ejercicios.
+[04559.32 --> 04564.32] El seguimiento no tiene más que,
+[04564.32 --> 04567.32] no se consideran más cosas que estas.
+[04567.32 --> 04568.32] Sí,
+[04568.32 --> 04571.32] lo que sí, uno tiene que pensar es que,
+[04571.32 --> 04573.32] si tengo muchos ve de X,
+[04573.32 --> 04575.32] sigo ejecutando todos los ve,
+[04575.32 --> 04576.32] sí,
+[04576.32 --> 04578.32] hasta que termine el proceso,
+[04578.32 --> 04580.32] porque no lo puedo dejar en el medio.
+[04580.32 --> 04581.32] Así que,
+[04581.32 --> 04583.32] dependiendo de cómo sea el seguimiento,
+[04583.32 --> 04587.32] puede ser que tengan la posibilidad de despertar a dos procesos.
+[04587.32 --> 04589.32] Lo que hacen es,
+[04589.32 --> 04591.32] lo anotan en un lugarcito diciendo,
+[04591.32 --> 04594.32] se despertó en el proceso a y el proceso de,
+[04594.32 --> 04595.32] sí,
+[04595.32 --> 04601.32] y yo sigo con el áprimero hasta que termine y se llegue algo.
+[04601.32 --> 04603.32] Y después sigo con el tema sale adelante.
+[04603.32 --> 04604.32] Ok?
+[04604.32 --> 04607.32] Es la único que puede llegar a tener problemas,
+[04607.32 --> 04609.32] pero,
+[04609.32 --> 04612.32] si logran hacer un seguimiento,
+[04612.32 --> 04614.32] está mucho mejor que yo.
+[04614.32 --> 04620.32] Así que normalmente los seguimientos son así muy sencillos.
+[04620.32 --> 04623.32] No debería ser muy complicado.
+[04623.32 --> 04626.32] Tenga en cuenta,
+[04626.32 --> 04630.24] tengan en cuenta que,
+[04630.24 --> 04631.24] la secresía,
+[04631.24 --> 04632.24] la práctica no,
+[04632.24 --> 04634.24] no tiene hacer complejos.
+[04634.24 --> 04639.68] Y nada,
+[04639.68 --> 04642.68] no tiene nada más para agregar esto.
+[04642.68 --> 04651.59] Algunos la consulta,
+[04651.59 --> 04653.59] si no hay más consulta,
+[04653.59 --> 04658.59] no consulta paso a resolver el ejercicio 12
+[04658.59 --> 04664.59] de procesador que le había dejado para que he blotensar.
+[04664.59 --> 04670.59] Y yo voy a resolver el modelo de,
+[04670.59 --> 04672.59] bloqueado por el arma.
+[04672.59 --> 04674.59] Sí, mi bea alarmas.
+[04674.59 --> 04678.59] En un determinado momento se van a bloquear esperando que suena el alarma.
+[04678.59 --> 04689.28] Bien,
+[04689.28 --> 04717.36] voy borrando esto.
+[04717.36 --> 04719.36] Bueno,
+[04719.36 --> 04726.62] todos acuerdan el tema de,
+[04726.62 --> 04727.62] de,
+[04727.62 --> 04728.62] el ejercicio,
+[04728.62 --> 04729.62] por las dudas,
+[04729.62 --> 04754.79] le vamos a buscar.
+[04754.79 --> 04755.79] Bueno,
+[04755.79 --> 04757.79] el ejercicio que vamos a estar solviendo es este.
+[04757.79 --> 04773.51] Bueno,
+[04773.51 --> 04774.51] no hay más consultas,
+[04774.51 --> 04779.73] continuamos.
+[04779.73 --> 04780.73] Bueno,
+[04780.73 --> 04781.73] vamos a la,
+[04781.73 --> 04784.75] a la pizarra.
+[04784.75 --> 04786.75] Eh,
+[04786.75 --> 04787.75] bien,
+[04787.75 --> 04788.75] lo que dice es
+[04788.75 --> 04789.75] el,
+[04789.75 --> 04790.75] el,
+[04790.75 --> 04792.75] el,
+[04792.75 --> 04793.75] el,
+[04793.75 --> 04797.75] viene a parl Rangers de varios sucursales que están conectados en forma directa a la central policial,
+[04797.75 --> 04798.75] frente al caso de robots,
+[04798.75 --> 04802.75] genera un proceso que activa una lámala en la central policial.
+[04802.75 --> 04804.75] Bueno,
+[04804.75 --> 04808.75] el regenera un proceso que activa de la lámala,
+[04808.75 --> 04810.75] uno lo puede pensar en,
+[04810.75 --> 04811.75] mirad,
+[04811.75 --> 04814.75] cada vez que yo tengo que generar un proceso,
+[04814.75 --> 04816.75] el,
+[04816.75 --> 04821.75] se está cada mucho tiempo,
+[04821.75 --> 04828.15] que en el lugar en la tabla de bloque de control de procesos puede ser que no tenga
+[04828.15 --> 04835.19] lugar yo para crear un proceso. Si, sucede que la tabla de bloque con la procesos tiene
+[04835.19 --> 04842.39] una cantidad limitada de procesos que puede estar ejecutándose al mismo tiempo, que es el tamaño
+[04842.39 --> 04850.23] que se le reserva, 10, 20, 100,000,000 y 100,000, 100,000, 100 tiene un número infinito. Que puede
+[04850.23 --> 04855.39] llegar a pasar de que en un determinado momento se quiere crear un proceso y no hay más lugar
+[04855.39 --> 04856.51] en esa tabla.
+[04856.51 --> 04865.03] Lo sistema operativos a todos les trabajan con una zona gris en la cual puede estar al
+[04865.03 --> 04872.07] ocano y extendiendo la tabla para permitir entre comillas un mayor número de
+[04872.07 --> 04880.43] procesos. Pero nosotros trabajamos como una tabla fija, así que es la implementación
+[04880.43 --> 04886.11] más en sí ya que tenemos. Entonces, vamos a llegar un momento de cual no hay forma de que
+[04886.11 --> 04891.71] entre un proceso más y en el caso de que tenga que generar un proceso de la nada para
+[04891.71 --> 04897.95] que atienda la alarma, no va a haber lugar, no se va a generar, no va a funcionar y se va a
+[04897.95 --> 04904.91] haber todo este sistema. La zona de la cual yo no haría en tomas a no pasar un proceso de
+[04904.91 --> 04911.31] comenzar al listo cuando no suena la alarma, sino tener dando vueltas en el sistema, un
+[04911.31 --> 04918.39] bloqueado en el cual estés esperando un proceso bloqueado que está esperando de que suena
+[04918.39 --> 04923.95] el alarma. Entonces, pasaríamos a tener una cosa de este estilo.
+[04923.95 --> 04948.32] Tengo el ejecutando y tengo un bloqueado para el alarma. Bien, ahora bien, tengo un listo de
+[04948.32 --> 04964.65] otra prioridad que sube ejecutando y cuando están alarma vuelve entrar ahí. Ahora bien, voy a tener
+[04964.65 --> 04978.17] un listo de que vamos a llamar que le hay que saltar listas de interactivos, por supuesto como
+[04978.17 --> 04983.37] todo el proceso que es interactivo que tenemos que tener un bloqueado por cansolla.
+[04983.37 --> 04993.35] Bien, entonces vamos a tener un bloqueado con solas, vamos a salir de ejecutando, bailando que
+[04993.35 --> 05000.39] va a solas de que va a solas, bailar listo interactivo y del listo interactivo va a subir,
+[05001.31 --> 05010.32] va a soltar más ahí, va a soluir ejecutando. Ahora bien, no es interactivos,
+[05013.52 --> 05022.76] van a bajar de ejecutando, puede bajar porque si un interactivo que normalmente se va porque
+[05022.76 --> 05029.92] a su entrada salida a solar, no se va a trabajar en lo que la usual, pero puede ser de que se le
+[05029.92 --> 05040.46] vaya, entonces lo vamos a generar un cuantum, bien, y vamos a generar un listo medio,
+[05040.46 --> 05047.86] que no solo ha listos vachos, porque ahora vamos a leer un poquito más el texto pero
+[05047.86 --> 05053.90] va a ver un listo vachos, pero esto el listo es medio, yo soy los interactivos, que no son
+[05053.90 --> 05060.54] tan interactivos, sino que usan un poquito más de cárculo, entonces los que sube va a bajar,
+[05061.54 --> 05068.38] sí, y van a subir, no es la lista para intentar de que se siene tanto esto, porque le dice un poco
+[05068.38 --> 05077.06] chico, sí, van a subir de los listos cuando no hacen ninguna troplocencia al listo interactivo,
+[05077.06 --> 05082.82] entonces los del listos medio van a subir, son los listos interactivos que están un poco
+[05082.82 --> 05089.46] castigado porque se pasaron de la línea, y la lista sin interactivos van a bajar, cuando se
+[05089.46 --> 05098.66] pasan de su cuerpo, sí, va a bajar al listo medio, y después tenemos los listos vachos,
+[05098.66 --> 05104.34] que es algo en listos vachos, los listos vachos, que son los de abajo de todo, son aquellos que
+[05104.34 --> 05110.90] trabajan con el disco rigido y con las cinta, no trabajan mi con el arma, mi con la consola,
+[05111.46 --> 05121.98] entonces esos van a para bajar, no mucho con el disco, lo que lo dijo, y un lo que hago cinta,
+[05124.51 --> 05136.87] sí, y estos son el último lejón del carro, a donde se lo va a bajar, a los del listo medio que se
+[05136.87 --> 05141.83] pasaron también de este cuantun nuevo que les vimos para que suban, entonces ya,
+[05142.03 --> 05147.89] no es un interactivo que usan poco de este pego, vos a todo el tiempo se pego,
+[05147.89 --> 05154.39] así que para mí te voy a tratar como un vacho, como uno que, tiene la peor,
+[05155.87 --> 05163.35] en piroridad, y por supuesto para aparecer en las listos listos cinta, que son las que
+[05163.35 --> 05169.15] utiliza en los vachos, acá vamos a hacer un poquito de mejor, vamos a hablar de un
+[05169.15 --> 05176.15] un poquito más de prioridad a los que vuelven de la cinta, porque por eso todos los de la cinta
+[05176.15 --> 05184.15] tarda mucho, grabar en una cinta un bloque tarda como 10 veces más que lo de un disco.
+[05184.15 --> 05190.15] Entonces, ¿qué vamos a hacer? Bueno, hay esos en particular, luego ya subir un poquito en estos medios.
+[05190.15 --> 05195.15] ¿Sí? Y las de las discos, luego ya trabajas más de abajo, total, cuando le toque de nuevo,
+[05195.15 --> 05200.15] puede mejorar. Esa es de una opción y la otra opción sería, mira, a los listos cinta,
+[05200.15 --> 05206.15] los métodos, como si fuera el listo interactivo, va a subir y se van a pasar y van a ir bajando.
+[05206.15 --> 05214.15] Y las delistas, la de, que son patch de disco, al sea lo que lo que lo que lo dijo,
+[05214.15 --> 05218.15] pero lo que son lo que lo que lo dijo, lo voy a dejar en que vas a la listo.
+[05218.15 --> 05223.15] Me convence más esta última opción, así que vamos a hacer lo siguiente, vamos a hacer así.
+[05225.15 --> 05244.52] ¿Déstas, favor, logramos tener, no es, pero, de gran maestado de procesos.
+[05244.52 --> 05253.52] Es bastante sencillo, fue, no se ha fue trabajado y pensado sobre lo que pedía el texto.
+[05253.52 --> 05256.52] Veamos el texto, dice.
+[05256.52 --> 05261.52] Visigen a lo mismo de mi introsión de procedero que permita, una vez que generándose proceso,
+[05261.52 --> 05265.52] de la arma tenga prioridad sobre el resto de las tareas.
+[05265.52 --> 05270.52] Cuando vos, en casa, lo que ha dado de la arma, cuando vos le siempre le explodí a fijarte que en
+[05270.52 --> 05273.52] listos de alta, de alarma no entra nadie.
+[05273.52 --> 05275.52] Ahora tenemos que ver cómo hacemos la comenzar, no?
+[05275.52 --> 05276.52] Todavía nos falta eso.
+[05276.52 --> 05282.52] Y después de eso, digamos, recordar que pueden generarse distintas alarmas de distintas
+[05282.52 --> 05287.52] cursas al espacio. Si vienen bien alarmas, van a estar todos ahí en la zona de alarmas,
+[05287.52 --> 05292.52] no sé qué se van a despertar, me ella que lo ha sido un desdesario.
+[05292.52 --> 05295.52] Y después de ese dibujo, le diera más de todo el proceso específico,
+[05295.52 --> 05298.52] claramente la forma de mi introsión de la cola. Bueno, ahora lo vamos a decir
+[05298.52 --> 05301.52] como a mi instra mala cor.
+[05301.52 --> 05309.52] Pero, acá, se han vuelto a empezar, dando un tiempo atestado, que está terminado.
+[05309.52 --> 05312.52] Y podemos estar dando, en la comenzar.
+[05312.52 --> 05315.52] Pero en la comenzar, tenemos que pensar un poco.
+[05315.52 --> 05319.52] En el de la comenzar, dijimos que vamos a estar poniendo procesos,
+[05319.52 --> 05325.52] que puede ser interactivos o puede ser en bach o puede ser,
+[05325.52 --> 05328.52] en interactivos bach o alarma.
+[05328.52 --> 05329.52] Bien.
+[05329.52 --> 05332.52] Si yo de la comenzar, lo pongo como si fueran alarmas,
+[05332.52 --> 05335.52] quizás le estoy dando mucha prioridad.
+[05335.52 --> 05339.52] Y si entras muchos procesos todo el tiempo,
+[05339.52 --> 05344.52] cuando venga una alarma realmente no va a subir,
+[05344.52 --> 05346.52] en media, también te ejecutando.
+[05346.52 --> 05348.52] Voy a tener que esperar lo que está en colado,
+[05348.52 --> 05352.52] se le listo de alta. Así que no lo voy a poner en el primer globito.
+[05352.52 --> 05355.52] Deja comenzar, lo voy a hacer que vayan al segundo.
+[05355.52 --> 05358.52] Si vamos a hacer, va a comenzar.
+[05358.52 --> 05398.66] Hola a todos.
+[05398.66 --> 05402.14] He vuelto.
+[05402.14 --> 05409.14] Es que tengo que volver a configurar todo.
+[05409.14 --> 05413.83] Se corta la energía.
+[05413.83 --> 05463.08] Así que, si hacemos, bueno,
+[05463.08 --> 05471.39] estamos perfecto.
+[05471.39 --> 05485.44] Ahí voy a compartir de nuevo a la pantalla.
+[05485.44 --> 05486.44] Bien.
+[05486.44 --> 05500.92] Pues necesitamos.
+[05500.92 --> 05503.92] Ya que no hubiera una cosa.
+[05508.38 --> 05525.10] Bueno, estamos resolviendo el ejercicio 12.
+[05525.10 --> 05531.10] Hasta acá, espero que me haces seguido.
+[05531.10 --> 05534.10] Tiene alguna consulta.
+[05534.10 --> 05539.10] Estamos rebondiando el ejercicio.
+[05539.10 --> 05543.10] Y estamos en el tema de...
+[05544.10 --> 05546.10] Como...
+[05546.10 --> 05549.10] Hace del ingreso de los procesos.
+[05549.10 --> 05552.10] Entonces, como habíamos estado hablando,
+[05552.10 --> 05556.10] lo gran es separar los que son bloqueados de la agra con listo de alarma,
+[05556.10 --> 05562.10] que tenga muchísima prioridad a cosas que se funcionan rápidamente manejados.
+[05562.10 --> 05563.10] Bien.
+[05563.10 --> 05567.10] Y estamos viendo cómo hacíamos para ingresar los procesos.
+[05567.10 --> 05571.10] Los procesos cuando ingresan, no realmente uno,
+[05571.10 --> 05575.10] es muy confiado con... con su voz.
+[05575.10 --> 05577.10] Entonces, yo no lo sé que tratas de hacer.
+[05577.10 --> 05579.10] Es decir, la primera.
+[05579.10 --> 05581.10] Temos a poner en...
+[05581.10 --> 05584.10] Como que vosotros son un proceso interactivo.
+[05584.10 --> 05586.10] Y a partir de ahí,
+[05586.10 --> 05590.10] te vamos a empezar a castigar si te pasas de lo que es interactivo,
+[05590.10 --> 05592.10] porque realmente no hay dosos.
+[05592.10 --> 05594.10] Entonces, te vamos a ver a dar al listo de media.
+[05594.10 --> 05596.10] Y si seguís insistiendo de...
+[05596.10 --> 05599.10] querer usar el procesador mucho más tiempo,
+[05599.10 --> 05603.10] que vamos a poder bloqueado en el listo de baja prioridad,
+[05603.10 --> 05606.10] que también puede ser listo de bach.
+[05606.10 --> 05607.10] Bien.
+[05607.10 --> 05611.10] Entonces, con eso lo que vamos a estar haciendo es que...
+[05611.10 --> 05614.10] El aco mensal, que nos da definiamos,
+[05614.10 --> 05616.10] entonces, lo da comenzar.
+[05616.10 --> 05619.10] Vamos a continuar y vamos a estar...
+[05619.10 --> 05624.10] haciendo que ingresan listos.
+[05624.10 --> 05627.10] Que sería aninteractivo.
+[05627.10 --> 05629.10] Vamos a conseguirla como si fue no un interactivo.
+[05629.10 --> 05631.10] Y a partir de ahí que decide,
+[05631.10 --> 05633.10] a segunda vez,
+[05633.10 --> 05634.10] mejor dicho,
+[05634.10 --> 05636.10] su propia...
+[05636.10 --> 05640.10] Víamos su propia contactura,
+[05640.10 --> 05642.10] o su propio código,
+[05642.10 --> 05651.10] lo va a ir elevando hacia lo que sería interactivos o bach.
+[05651.10 --> 05654.10] Y en el caso de que sea justo,
+[05654.10 --> 05660.10] el proceso que ingrese sea uno de los procesos que vaya a tener una alarma,
+[05660.10 --> 05662.10] lo vamos a hacer es que,
+[05662.10 --> 05664.10] entre la ejecución como cualquier otra,
+[05664.10 --> 05666.10] va a ejecutar un tiempo
+[05666.10 --> 05668.10] y va a quedar bloqueado para el arma.
+[05668.10 --> 05670.10] Entonces, mientras tengo lo que va para el arma,
+[05670.10 --> 05673.10] va a estar esperando de que yo no hay una alarma.
+[05673.10 --> 05675.10] Va a vivir todo el tiempo ahí,
+[05675.10 --> 05677.10] porque esperemos que nunca suena en el arma,
+[05677.10 --> 05678.10] como nuestras ocultales,
+[05678.10 --> 05681.10] entonces, bueno, va a quedarse en bloqueado para el arma.
+[05681.10 --> 05683.10] Cuando suena una alarma,
+[05683.10 --> 05685.10] va a salir de bloqueado para el arma,
+[05685.10 --> 05686.10] va a ir al listo de alta prioridad,
+[05686.10 --> 05689.10] que va a hacer tomado en forma directa.
+[05689.10 --> 05694.10] A cada vez donde después tenemos que escribir y redondiar toda esta idea,
+[05694.10 --> 05698.10] todo lo que estamos describiendo ahora,
+[05698.10 --> 05700.10] tenemos que...
+[05700.10 --> 05702.10] plasmarlo.
+[05702.10 --> 05704.10] También hay que ver,
+[05704.10 --> 05707.10] sí, hay decir que pueda ver diferentes tipos de alarmas.
+[05707.10 --> 05708.10] Entonces quizás,
+[05708.10 --> 05712.10] las alarmas adentro tengan que tener prioridades.
+[05712.10 --> 05713.10] Sí,
+[05713.10 --> 05715.10] entonces el listo de alarmas,
+[05715.10 --> 05720.10] yo le estaría asignando una política de prioridad,
+[05720.10 --> 05721.10] internas,
+[05721.10 --> 05722.10] sí,
+[05722.10 --> 05725.10] que adentro de esos basa ordenado
+[05725.10 --> 05726.10] por prioridad de las alarmas.
+[05726.10 --> 05730.10] Y que su mala que tenga mayor prioridad,
+[05730.10 --> 05733.10] no haría un desalojo de alarmas,
+[05733.10 --> 05734.10] porque también,
+[05734.10 --> 05736.10] bien, una alarma de mayor prioridad,
+[05736.10 --> 05739.10] pero no por eso voy a dejar de atenderlo alarmas que tengo.
+[05739.10 --> 05740.10] No sea,
+[05740.10 --> 05742.10] quizás, hay una alarma de mayor prioridad,
+[05742.10 --> 05743.10] bueno, sí,
+[05743.10 --> 05744.10] bueno,
+[05744.10 --> 05746.10] esas son decisiones que usted esté tomado
+[05746.10 --> 05748.10] y justificarla.
+[05748.10 --> 05751.10] Yo decidio que la alarma para mí es una alarma
+[05751.10 --> 05753.10] y la voy a terminar de atender,
+[05753.10 --> 05754.10] por lo tanto,
+[05754.10 --> 05756.10] no voy a tener un desalojo de alarmas.
+[05756.10 --> 05757.10] Así que,
+[05757.10 --> 05762.10] el listo de que interactiva
+[05762.10 --> 05765.10] no tiene el desalojo de una alarma,
+[05765.10 --> 05767.10] pero así todos los otros,
+[05767.10 --> 05768.10] yo subo por interactivo,
+[05768.10 --> 05770.10] pero bajo el listo de media,
+[05770.10 --> 05771.10] subo por el listo de media,
+[05771.10 --> 05776.10] y bajo el listo de baja prioridad o de patch.
+[05776.10 --> 05777.10] Entonces,
+[05777.10 --> 05781.10] digamos,
+[05781.10 --> 05783.10] a las alarmas yo las trató
+[05783.10 --> 05785.10] como que son todas importantes,
+[05785.10 --> 05788.10] y no tengo esa discriminación de tipos de alarmas.
+[05788.10 --> 05791.10] Lo único que puedo hacer es darle una prioridad
+[05791.10 --> 05794.10] cuando estén el listo de alarmas,
+[05794.10 --> 05795.10] que, bueno,
+[05795.10 --> 05797.10] se le da prioridad alguno.
+[05797.10 --> 05798.10] Ahora bien,
+[05798.10 --> 05799.10] con esto,
+[05799.10 --> 05801.10] que hace este de un dibujito
+[05801.10 --> 05803.10] para el paseo,
+[05803.10 --> 05805.10] para cómo el ejercicio está correcto,
+[05805.10 --> 05807.10] faltaría escribir
+[05807.10 --> 05809.10] que implementaría en cada uno de los listos
+[05809.10 --> 05813.10] y cómo funciona un proceso alarma,
+[05813.10 --> 05816.10] un proceso interactivo y un proceso bach,
+[05816.10 --> 05818.10] con que describan eso
+[05818.10 --> 05820.10] el comportamiento como vive
+[05820.10 --> 05822.10] cada uno de esos tres procesos
+[05822.10 --> 05824.10] en todo este diorama estaría perfecto
+[05824.10 --> 05829.10] en el resultado del ejercicio.
+[05829.10 --> 05832.10] Ahora bien,
+[05832.10 --> 05835.10] les voy a dar una pequeña vuelta de tuerca,
+[05835.10 --> 05837.10] más que es lo que ustedes deberían usar
+[05837.10 --> 05840.10] si pensaron en el otro modelo,
+[05840.10 --> 05843.10] en el de a comenzar al listo.
+[05843.10 --> 05845.10] Bien,
+[05845.10 --> 05846.10] veamos un tema,
+[05846.10 --> 05849.10] fíjense que de todos los que
+[05849.10 --> 05851.10] son bloqueados y listos y de la
+[05851.10 --> 05854.10] comenzar y a terminar,
+[05854.10 --> 05858.10] siempre siempre sale una flecha.
+[05858.10 --> 05859.10] ¿Sí?
+[05859.10 --> 05863.10] Se le una única transición.
+[05863.10 --> 05865.10] No sale en dos transiciones,
+[05865.10 --> 05866.10] de ninguno de ellos,
+[05866.10 --> 05867.10] de lo único que sale muchas transiciones
+[05867.10 --> 05869.10] son del ejecutando.
+[05869.10 --> 05874.10] Pero después todas las demás no salen
+[05874.10 --> 05876.10] más de una.
+[05876.10 --> 05877.10] ¿Sí?
+[05877.10 --> 05878.10] Porque,
+[05878.10 --> 05880.10] normalmente,
+[05880.10 --> 05883.10] ustedes más adelante van a ver
+[05883.10 --> 05885.10] lo que se llama la automata.
+[05885.10 --> 05886.10] Sí.
+[05886.10 --> 05889.10] Y los automatas se dibujan en Estados.
+[05889.10 --> 05891.10] Los automatas de Estados
+[05891.10 --> 05893.10] finitos así se llaman.
+[05893.10 --> 05895.10] Si le impara,
+[05895.10 --> 05897.10] por ejemplo,
+[05897.10 --> 05900.10] reconocer el patrones en un idioma,
+[05900.10 --> 05902.10] y reconocerletras,
+[05902.10 --> 05905.10] están asociados
+[05905.10 --> 05908.10] a una gramática de un tipo
+[05908.10 --> 05910.10] que es la más básica que tiene
+[05910.10 --> 05912.10] cualquiera.
+[05912.10 --> 05915.10] Y esa gramática se representa
+[05915.10 --> 05918.10] con estos automatas.
+[05918.10 --> 05919.10] No se automatas,
+[05919.10 --> 05922.10] finitos.
+[05922.10 --> 05926.28] son lo que se se van de determinísticos, que significa que son determinísticos.
+[05926.28 --> 05931.94] Esos automatas cuando uno está en un estado sale a otro estado de una única forma.
+[05931.94 --> 05935.04] Bueno, esto trata de hacer una automata.
+[05935.04 --> 05937.44] Bien, este grafio, este grafo.
+[05937.44 --> 05943.96] Y los automatas tienen esa característica de cada uno de los Estados sale una única flecha.
+[05943.96 --> 05947.40] Si en el caso de que salga más de una flecha,
+[05947.40 --> 05951.40] tiene que ser perfectamente diferencial.
+[05951.86 --> 05959.60] Bien, acá es donde empieza un poco el tema de poner más flechas saliendo de un estado.
+[05959.60 --> 05962.10] Que en principio estaría prohibida.
+[05962.10 --> 05965.84] Pero si está bien jutificado, la sebritaría.
+[05965.84 --> 05969.64] Porque tiene que estar bien jutificado, porque tiene que ser determinístico.
+[05969.64 --> 05971.72] ¿Qué significa ser determinístico?
+[05971.72 --> 05973.14] Yo estoy en una posición.
+[05973.14 --> 05975.62] Bien, tal cosa, y yo sé que hacer.
+[05975.62 --> 05980.76] Sí, es lo único que genera algo determinístico.
+[05980.84 --> 05982.62] Y siempre lo que voy a hacer es lo mismo.
+[05982.62 --> 05986.26] Bien, entonces, supongamos, yo estoy sentado acá.
+[05986.26 --> 05988.96] Se corta la luz, que tengo que hacer, me quedo sentado.
+[05988.96 --> 05989.46] Listo.
+[05989.46 --> 05990.66] Y siempre lo que salió mismo.
+[05990.66 --> 05991.76] Bien.
+[05991.76 --> 05996.26] Entonces, lo mismo pasaría acá.
+[05996.26 --> 06000.56] A menos que, yo dije, la mía, se corta la luz.
+[06000.56 --> 06001.86] Sí.
+[06001.86 --> 06005.26] Y no hay nadie más en casa.
+[06005.26 --> 06005.96] Me levanto.
+[06005.96 --> 06007.86] Si hay, me quedo sentado.
+[06007.86 --> 06009.66] Si hay, hay más en casa.
+[06009.76 --> 06011.56] Sí.
+[06011.56 --> 06013.86] Me voy con reunirme con ellos.
+[06013.86 --> 06020.66] Entonces, fíjense que el estado de que yo estoy sentado.
+[06020.66 --> 06022.36] Y he sentado.
+[06022.36 --> 06023.96] Y no una opción que salió.
+[06023.96 --> 06028.16] Si solo, molado otra cosa.
+[06028.16 --> 06034.66] Y sí, al acompañado.
+[06034.66 --> 06036.46] Si solo, me voy para un lado.
+[06036.46 --> 06038.96] Si estoy acompañado, me voy para otro.
+[06038.96 --> 06042.96] Pero viganse que yo no puedo tomar las dos lechitas.
+[06042.96 --> 06045.76] Porque si estoy, solo, no estoy acompañado.
+[06045.76 --> 06047.56] Y si estoy acompañado, no estoy solo.
+[06047.56 --> 06049.16] Entonces, es una otra.
+[06049.16 --> 06051.46] Por lo tanto sigue siendo determinístico.
+[06051.46 --> 06054.16] Y es lo único que nos permita hacer esto.
+[06054.16 --> 06056.16] Yo tengo que poner flechitas.
+[06056.16 --> 06057.76] Y van a salir más flechitas.
+[06057.76 --> 06061.16] De un estado, tiene que ser determinístico.
+[06061.16 --> 06066.16] Supongamos que ahora me voy a plantear un poquito el otro caso
+[06066.36 --> 06071.96] de que en acomenzar se genera un proceso común o un proceso alarma.
+[06071.96 --> 06076.56] De acomenzar salrían dos lechitas.
+[06076.56 --> 06080.36] Eso sería un poco raro extraño.
+[06080.36 --> 06084.46] Bueno, no, porque yo voy a salir una flechita que sea alarma.
+[06084.46 --> 06087.46] Y otra flechita que sea no alarma.
+[06087.46 --> 06089.76] Si tiene que ser todo el otro.
+[06089.76 --> 06091.76] Y entonces tiene que ser determinístico.
+[06091.76 --> 06096.36] Y si podemos tres lechitas, tiene que ser totalmente determinístico.
+[06096.36 --> 06102.76] Yo puedo de saber a qué lechita o ir con la información que tengo en ese momento.
+[06102.76 --> 06111.36] Sí, eso es lo que termina de generar un sistema determinístico.
+[06111.36 --> 06114.96] Y un sistema operativo es determinístico.
+[06114.96 --> 06117.16] Bien.
+[06117.16 --> 06120.96] La mejor dicho, toda la planificación del sistema operativo es determinístico.
+[06121.16 --> 06126.56] Ahora, ¿por qué estoy introduciendo este tema?
+[06126.56 --> 06132.96] Bueno, este tema lo que estoy introduciendo porque normalmente las alarmas
+[06132.96 --> 06135.96] tienen a grabar información.
+[06135.96 --> 06138.76] Tienen a registrar información.
+[06138.76 --> 06139.56] Bien.
+[06139.56 --> 06143.36] Y si tienen a registrar información,
+[06143.36 --> 06144.56] para reddom.
+[06144.56 --> 06146.56] ¿Edad dónde la grabo?
+[06146.56 --> 06149.16] ¿Adió bien en el bico?
+[06149.16 --> 06152.96] Entonces, si la alarma fue a grabar en disco,
+[06152.96 --> 06154.76] ¿qué le va a pasar a la alarma?
+[06154.76 --> 06156.96] Va a ir alictos de Miguel.
+[06156.96 --> 06158.56] ¿Y va a tener prioridad?
+[06158.56 --> 06159.56] No.
+[06159.56 --> 06161.76] No va a tener más prioridad.
+[06161.76 --> 06165.56] O pequeño problema, yo necesito que sigas.
+[06165.56 --> 06168.16] Si es de alarma que sigas siendo tipo alarma,
+[06168.16 --> 06171.56] porque tienen que tener la mayor prioridad posible
+[06171.56 --> 06173.96] a atender a todo dejar grabado de extender.
+[06173.96 --> 06176.16] Acer la actualización que necesite.
+[06176.16 --> 06179.36] Entonces, acá, un mal a ver una flichita nueva.
+[06179.36 --> 06181.36] No voy a hacer el rojo.
+[06181.36 --> 06185.96] ¿Qué va a ir delictos de bloqueado por el disco?
+[06185.96 --> 06188.56] Aristos al alarma.
+[06188.56 --> 06193.76] Y estas son las funcionales y esto es alarma.
+[06193.76 --> 06197.36] Y si no, esa alarma vale por el otro.
+[06197.36 --> 06200.76] El nuevo es un...
+[06200.76 --> 06202.96] Esto es alarma?
+[06202.96 --> 06204.16] No.
+[06204.16 --> 06205.36] Al alarma.
+[06205.36 --> 06209.88] Bien, que es todo el otro.
+[06209.88 --> 06211.48] Se ve ahí.
+[06211.48 --> 06217.28] Entonces, sí, lo que llegó bloqueado por disco.
+[06217.28 --> 06218.88] Era una alarma.
+[06218.88 --> 06221.48] Cuando venga la introducción de teclado,
+[06221.48 --> 06222.88] digo para el...
+[06222.88 --> 06224.48] de fin entrar a salida.
+[06224.48 --> 06227.68] Cuando venga la introducción por fin entrar a salida,
+[06227.68 --> 06230.08] de disco,
+[06230.08 --> 06235.68] yo sé que lo que está ahí es el tipo alarma o tipo
+[06235.68 --> 06237.48] de un alarma interactivo.
+[06237.48 --> 06238.48] Bien.
+[06238.48 --> 06240.48] Entonces, si soy tipo alarma,
+[06240.48 --> 06242.68] te mando al listo de alta.
+[06242.68 --> 06247.08] Si no soy alarma, te mando al listo del medio.
+[06247.08 --> 06252.88] Y así de simple, se logra a hacer que esto sigue haciendo determinístico.
+[06252.88 --> 06255.48] Entonces, en el caso de que ustedes necesiten
+[06255.48 --> 06260.68] hacer una programación un poco más fina.
+[06260.68 --> 06264.08] Y necesiten tener esta división
+[06264.08 --> 06267.28] de que salga de un estado a otros.
+[06267.28 --> 06268.28] Sí.
+[06268.28 --> 06270.08] Más de una flechita,
+[06270.08 --> 06273.48] tienen que ser totalmente determinístico.
+[06273.48 --> 06274.68] Bien.
+[06274.68 --> 06279.08] Eso se logra de la forma que lo acabo de mostrar.
+[06279.08 --> 06284.28] Siempre se pone los que son de tipo A y los No A.
+[06284.28 --> 06285.88] Bien.
+[06285.88 --> 06289.88] Y así con eso hacen que esto sigue haciendo determinístico.
+[06289.88 --> 06293.88] Esta opción también es una opción más específica.
+[06293.88 --> 06298.28] Lo que habíamos determinado primero.
+[06298.28 --> 06304.48] Y lo que tiene que pasar es una clasificación.
+[06304.48 --> 06305.88] Tiene que haber una clasificación.
+[06305.88 --> 06310.88] Por lo tanto, dentro de mitad de lo que de control de procesos,
+[06310.88 --> 06315.08] la TBSP, veo que tener una columna que diga alarma.
+[06315.08 --> 06315.58] Sí.
+[06315.58 --> 06316.08] Al alarma.
+[06316.08 --> 06317.08] No.
+[06317.08 --> 06317.58] Sí.
+[06317.58 --> 06318.58] Sí.
+[06318.58 --> 06319.08] Sí.
+[06319.08 --> 06319.58] Es una alarma.
+[06319.58 --> 06321.38] Si es no, no es alarma.
+[06321.38 --> 06323.58] Y como le voy a clasificar a eso.
+[06323.58 --> 06326.38] Bien, cuando vos vas a sabloqueado alarma,
+[06326.38 --> 06330.18] automáticamente yo te pongo un tilde en esa columna.
+[06330.18 --> 06331.98] Entonces, vos o su una alarma.
+[06331.98 --> 06333.98] Si nunca llegas, aún no quedó alarma,
+[06333.98 --> 06337.18] vas a quedar con el tilde de procesos común.
+[06337.18 --> 06337.98] Bien.
+[06337.98 --> 06341.78] Entonces, ahí termino de explicar con paras horas,
+[06341.78 --> 06346.98] cómo funciona esta clasificación alarma, no alarma.
+[06346.98 --> 06349.38] Normalmente vos o su su su no alarma,
+[06349.38 --> 06351.58] hasta que vas a bloqueado alarma,
+[06351.58 --> 06354.38] que en esa posición el sistema, yo como,
+[06354.38 --> 06356.18] que estoy programando el sistema,
+[06356.18 --> 06360.38] te voy a tilde, diciendo que eso salarma.
+[06360.38 --> 06362.78] OK?
+[06362.78 --> 06365.98] Bueno, a esto les falta escribirle todo lo que he estado,
+[06365.98 --> 06367.58] o sea, antes de corte.
+[06367.58 --> 06373.45] Y ahora.
+[06373.45 --> 06374.05] No.
+[06374.05 --> 06377.45] El bloqueado, cuando claro, para que vuelvo,
+[06377.45 --> 06379.25] puedo reconocer de que sea alarma,
+[06379.25 --> 06381.05] primero, digo, vas a poner la alarma.
+[06381.05 --> 06386.45] Si no lo vas a tratar como un proceso general,
+[06386.45 --> 06390.65] bien, lo vas a tratar trabajando como un proceso simple.
+[06390.65 --> 06393.05] A menos que quieras, desde el principio,
+[06393.05 --> 06396.85] separarlos que vos podes imaginar de los que son de alarma,
+[06396.85 --> 06399.85] puedes sacar otra frecita de comenzar diciendo.
+[06399.85 --> 06404.05] Los alarma van a lear y los no alarma van a leir.
+[06404.05 --> 06410.65] Pero tendré que tener una forma de calificarlo en a comenzar.
+[06410.65 --> 06413.45] Mi forma de calificar cuál es alarma y cuál es no,
+[06413.45 --> 06416.45] es cuando pasan por bloqueado por el alarma.
+[06416.45 --> 06418.45] Sí.
+[06418.45 --> 06423.45] ¿Por qué tiene, a sea, una flichita a Lí?
+[06423.45 --> 06426.65] No tiene que tener prioridad a las alarmas.
+[06426.65 --> 06428.45] Sí, las alarmas tienen prioridad.
+[06428.45 --> 06432.45] Pero yo detecto que un proceso estipual alarma,
+[06432.45 --> 06434.25] cuando hace un bloqueado por el alarma.
+[06434.25 --> 06437.05] Si no, para mí, todos los procesos son iguales.
+[06437.05 --> 06439.85] Y vamos en atrás, cuando es como un proceso,
+[06439.85 --> 06443.25] y cuando te toca, vas a bloqueado por el alarma,
+[06443.25 --> 06445.65] a partir de ahí siempre vas a listo el alarma.
+[06445.65 --> 06450.25] Y yo te clasifico como tipo alarma en esa posición.
+[06452.65 --> 06456.85] Esto que significa, yo puedo tener esa ejecutado desde,
+[06456.85 --> 06461.85] antes, bueno, desde apenas, se creó el universo.
+[06461.85 --> 06465.25] Tengo puedo tener creado las procesos que son el alarma.
+[06465.45 --> 06468.45] Y con eso me ahorro el problema que le comentaba la inicia,
+[06468.45 --> 06471.65] de que la tabla de lo que control de procesos
+[06471.65 --> 06473.45] tiene un tamaño determinado.
+[06473.45 --> 06474.05] Sí.
+[06474.05 --> 06481.65] Y en el caso de que esa tabla esté llena y vengo en alarma,
+[06481.65 --> 06483.65] no puedo crear el proceso de alarma.
+[06483.65 --> 06486.45] No puedo tener la alarma, sé que sea todo el problema.
+[06486.45 --> 06487.65] Seca todo el sistema.
+[06487.65 --> 06491.25] En cambio, sí, eso sé que se ha tenido creado el proceso,
+[06491.25 --> 06494.65] y en su memoria social, tiene todas las cosas asociadas.
+[06494.65 --> 06499.65] Cuando va a bloquear alarma, dice, ahora yo vos te voy a tratar como una alarma.
+[06499.65 --> 06504.05] Y a partir de ahora, empieza a agirar como si fuera un tipo alarma.
+[06504.05 --> 06507.45] Antes de que va a agas un bloquear alarma, eso es un proceso común y corriente.
+[06507.45 --> 06512.85] Así que te comienen o comportarte entrando en discontrando en cinta,
+[06512.85 --> 06515.05] porque no vas a funcionar como alarma.
+[06515.05 --> 06528.40] Bien?
+[06528.40 --> 06531.60] Bueno, especificar el proceso.
+[06531.60 --> 06534.40] Lo que va a tener que estar diciendo es esto.
+[06534.40 --> 06545.48] Tengo que contando así en texto, plano y simple, escribir esto en la resolución de
+[06545.48 --> 06546.48] la ejercicio.
+[06546.48 --> 06551.00] Bueno, es decir, bueno, mis alarmas van a trabajar de esta forma.
+[06551.00 --> 06553.60] Vamos a ver un bloqueado para alarma que se queda en bloqueada.
+[06553.60 --> 06556.60] Ahí va a ver un listo de alarma.
+[06556.60 --> 06561.72] El listo de alarma va a estar implementado prioridades, porque ahí diferentes prioridades
+[06561.92 --> 06563.52] de alarma.
+[06563.52 --> 06569.12] La alarma se va a detectar cuando se bloquea por alarma, sino es un proceso común y corriente.
+[06569.12 --> 06573.92] Los procesos cuando a entran, entran en...
+[06573.92 --> 06574.92] Sí, es eso.
+[06574.92 --> 06581.32] Esplicar lo que vos estás pensando porque el dibujito así solo haute es mucho no le va a decir.
+[06581.32 --> 06585.72] Si yo no le explico, no le queda nada.
+[06585.72 --> 06586.92] Bien?
+[06586.92 --> 06589.92] Y así es como usted, lo van escribiendo.
+[06589.92 --> 06598.92] Y van a tener que comentar que porque están calificando, que las y ficando los procesos van a tener una columna, donde va a llevar esto.
+[06598.92 --> 06605.92] Si es alarma, bueno, bien, y en esa tille va a tener un tille de lo que tiene de alarma y los que no.
+[06605.92 --> 06608.30] Bien?
+[06608.30 --> 06620.97] Hay que ver otra consulta?
+[06620.97 --> 06627.37] Bueno, si no hay una ninguna otra consulta, tenemos dos opciones.
+[06627.37 --> 06629.37] Nos queda en medio ahora.
+[06629.37 --> 06636.37] Podemos ver el tema de streps o podemos ver el tema de el trabajo práctico.
+[06636.37 --> 06646.37] Si quieren, normalmente lo que yo soy bien ser era para la época de pasco que viene la semana larga.
+[06646.37 --> 06654.37] Era un fin de semana larga, le daba para que trabajen en el trabajo práctico, para que pueda adelantar como van a...
+[06654.37 --> 06658.37] Los que trabajan teniendo tiempo para estar en su casa y todas las demás.
+[06658.37 --> 06664.37] Ahora como estamos en 40 en la escindistinto, dado que estamos todo el tiempo en casa.
+[06664.37 --> 06669.37] Escepto que algunos ustedes están trabajando y movilizando seis.
+[06669.37 --> 06681.37] Así que bueno, si quieren lo que puedo hacer es mostrar la instalación de esto y mientras tanto ir hablando de la pizarra,
+[06681.37 --> 06685.37] algunos temas de streps como para que se remose ese tema.
+[06685.37 --> 06688.37] Yo creo que eso sería lo más óptimo.
+[06688.37 --> 06692.37] Así que no voy a dejar de insectar la pantalla.
+[06692.37 --> 06702.37] Voy a pasar a abrir el tema de la máquina virtual que habíamos creado la clase pasado.
+[06702.37 --> 06709.37] Y espero que haya lo que ha hecho la imagen del hizo, ya lo ha hecho.
+[06715.11 --> 06720.11] Sí, ahí tenemos el punto. Así que vamos a comenzar con eso.
+[06720.11 --> 06725.11] Así que vamos a ver el tema del trabajo práctico en el del tempo.
+[06725.11 --> 06728.11] Mientras, si está la que normalmente eso lleva un poquito de tiempo,
+[06728.11 --> 06735.11] vamos a estar trabajando con las tres en la pizarra, que no necesito usar los máquinas.
+[06735.11 --> 06743.55] Voy a comenzar con la ejecución de el virtual box.
+[06743.55 --> 06747.55] Entonces, vamos a cerrar, nos grabamos, animizamos,
+[06747.55 --> 06756.62] vamos un mensaje.
+[06756.62 --> 06771.14] No, sí, en cualquier de los dos es indistintalúnicos que el de ese cendicuatro o bits o con poco más.
+[06771.14 --> 06778.58] Y quizás tenga un pequeño problemista con los drivers, pero bueno, se resolverá en el momento.
+[06778.58 --> 06787.50] Ok, no lo tengo. Bueno, vamos a subir todos los box.
+[06787.50 --> 06816.48] Bueno, espero que hayse vea.
+[06816.48 --> 06820.62] Tengo mi máquina.
+[06820.62 --> 06823.62] Esta es la creamos la que la sepasada.
+[06823.62 --> 06824.62] Bien.
+[06824.62 --> 06830.62] A esta máquina le tengo que estar agregando el hizo que la crea sepasada no lo tenía.
+[06830.62 --> 06835.62] Y que está ahora grabado. Vamos a la parte de configuración.
+[06835.62 --> 06842.62] Y tenemos que asalmase namiento al aire.
+[06843.62 --> 06844.62] Bien.
+[06844.62 --> 06848.62] En donde dice el símbolo del...
+[06848.62 --> 06855.62] Por lo más del cd, ahí vamos a poner la imagen y sabers.
+[06855.62 --> 06866.52] Se le echadar y el endado tengo el hizo.
+[06866.52 --> 06868.52] No, pero.
+[06868.52 --> 06872.52] A partir de este momento, se le voy a aceptar.
+[06872.52 --> 06882.52] Esta puesto el cd en el cd, en el cd, en la máquina virtual.
+[06882.52 --> 06887.52] Si yo le doy unicio como el disco estaba así o,
+[06887.52 --> 06890.52] está totalmente nuevo.
+[06890.52 --> 06894.52] No va a butiar de ahí y va a butiar del cd.
+[06894.52 --> 06897.52] Así que le vamos a iniciar.
+[06897.52 --> 06901.52] Si no, pueden ustedes configurar eso.
+[06902.52 --> 06904.52] En...
+[06904.52 --> 06906.52] Creo que no.
+[06906.52 --> 06913.02] Al nacenamiento general, no.
+[06913.02 --> 06919.37] No.
+[06919.37 --> 06921.37] Al nacenamiento, no.
+[06921.37 --> 06932.78] Tenía un lugar donde les decían el orden en que tenía acá.
+[06932.78 --> 06934.78] Esitema.
+[06934.78 --> 06937.78] Tienen el orden del de bueteo.
+[06937.78 --> 06942.78] Víen que se que está al disquet después el disco.
+[06943.78 --> 06946.78] Y esta la opción de eh, butiar por real.
+[06946.78 --> 06951.78] En el caso de que ustedes tengan un butero por red.
+[06951.78 --> 06957.78] Se puede estar tirando eso y puede estar utilizando dentro de su red.
+[06957.78 --> 06960.78] Usted nos grativo.
+[06960.78 --> 06965.78] Que no necesito un disco en la máquina.
+[06965.78 --> 06968.78] Así que eso puede hacer lo que se llama,
+[06968.78 --> 06972.78] que es el disco en el disco.
+[06972.78 --> 06976.78] Bueno, acá es el tapo para que ustedes adopto.
+[06976.78 --> 06979.78] Pompico y vamos a dar la iniciat.
+[06979.78 --> 07016.29] Bueno, como le decía, me imagina no es muy rapía y se acaba de caer.
+[07016.29 --> 07022.46] Eh, así que bueno eh,
+[07022.46 --> 07030.78] eh, eh, eh, eh, eh, eh, eh, eh, eh,
+[07030.78 --> 07035.78] me escuchan, sí, estoy saliendo por, eh, celular.
+[07036.78 --> 07038.78] Bien, lo que voy a hacer es eh, eh,
+[07038.78 --> 07040.78] eh vamos a pasar a,
+[07040.78 --> 07043.78] hasta que buete de todo de nuevo, eh,
+[07043.78 --> 07046.78] eh, vamos a pasar a trabajar con,
+[07046.78 --> 07048.78] a parte de straight, así que,
+[07048.78 --> 07050.78] que, que vayan a, a resecar que,
+[07050.78 --> 07056.78] y ahí, eh, eh, eh, eh, eh, eh, eh,
+[07056.78 --> 07059.78] eh, eh, eh, eh, eh, eh,
+[07059.78 --> 07066.68] eh, eh, eh, eh, eh, eh, eh, eh, como llamar a de straight.
+[07066.68 --> 07071.02] se ve a bien ahí
+[07071.02 --> 07079.03] eh
+[07079.03 --> 07081.31] bueno vamos a ver
+[07081.31 --> 07084.21] confinó en el cinescuchan
+[07084.21 --> 07090.05] porque al salir con el audio del teléfono quizás me escuchan más lejos
+[07090.05 --> 07093.76] eh
+[07093.76 --> 07105.55] lo que quería comentarle del tema de threads
+[07105.55 --> 07110.59] bueno como viene vimos la vez pasado los threads
+[07110.59 --> 07113.77] eh tienen
+[07113.77 --> 07115.43] una parte de viva
+[07115.43 --> 07116.93] o mejor dicho es
+[07116.93 --> 07118.45] la parte de viva
+[07118.45 --> 07121.29] de el sistema operativo
+[07121.29 --> 07126.66] de perdón del proceso
+[07126.66 --> 07128.80] esa parte de viva del proceso
+[07128.80 --> 07130.98] está compuesta por
+[07130.98 --> 07134.96] los registros
+[07134.96 --> 07137.99] y
+[07137.99 --> 07143.70] por lo que llamamos extract
+[07143.70 --> 07159.73] eso es lo que se reconoce que tiene un thread
+[07159.73 --> 07163.19] el
+[07163.19 --> 07166.36] el thread
+[07166.36 --> 07168.96] si yo lo dibujo
+[07168.96 --> 07171.48] tengo el proceso
+[07171.48 --> 07175.05] y tengo un thread
+[07175.05 --> 07178.65] esto es el proceso
+[07178.65 --> 07186.65] y esto que está dentro es el thread
+[07186.65 --> 07190.85] normalmente cuando uno tiene un sistema operativo
+[07190.85 --> 07193.05] este operativo hace un
+[07193.05 --> 07197.04] scheduling
+[07197.04 --> 07202.60] el scheduling que es toda la parte de la planificación de poros esos
+[07202.60 --> 07204.72] es lo que trabaja
+[07204.72 --> 07207.76] con
+[07207.76 --> 07214.10] la asignación de el recurso CPU
+[07214.18 --> 07219.50] el scheduling deja de tener un solo nivel
+[07219.50 --> 07221.94] cuando trampiza trabajar con threads
+[07221.94 --> 07223.82] muchos sistemas operativos
+[07223.82 --> 07225.94] implementaron a los threads
+[07225.94 --> 07228.42] como un scheduling más
+[07228.42 --> 07231.14] otro nivel de scheduling
+[07231.14 --> 07232.26] si
+[07232.26 --> 07234.74] teniendo así dos niveles de scheduling
+[07234.74 --> 07236.22] un nivel de scheduling
+[07236.22 --> 07241.14] o de administración de procesos y una nivel de administración de
+[07241.14 --> 07243.02] threads
+[07243.02 --> 07244.74] que significa eso
+[07244.74 --> 07247.62] que yo dentro de un proceso no sólo tengo un thread
+[07247.62 --> 07250.46] puedo tener más de un thread
+[07250.46 --> 07254.10] y eso es el que yo lo tengo que compartir el tiempo
+[07254.10 --> 07255.82] pensemos así
+[07255.82 --> 07257.82] este es el tiempo
+[07257.82 --> 07262.22] que yo le doy una rafa de tiempo a un proceso
+[07262.22 --> 07262.86] bien
+[07262.86 --> 07266.22] esto lo tengo que dividir
+[07266.22 --> 07269.70] en los 3 que yo tengo
+[07269.70 --> 07275.23] entonces esto se forma un scheduling
+[07275.23 --> 07278.75] si ese tiempo yo depende como yo divido al tiempo
+[07278.75 --> 07282.23] es lo que voy a tener
+[07282.23 --> 07288.67] como administración de threads
+[07288.67 --> 07292.56] si yo he decido
+[07292.56 --> 07294.28] si yo he decido
+[07294.28 --> 07297.92] que el tiempo total se le deun solo thread
+[07297.92 --> 07301.24] y que la próxima vez que le toque la rafa de le doy a la otro
+[07301.24 --> 07302.84] es una opción
+[07302.84 --> 07304.08] no muy un buen
+[07304.08 --> 07305.96] pero es una opción
+[07305.96 --> 07308.56] porque es una administración de tiempo
+[07308.56 --> 07316.20] esto que está pensado acá
+[07316.20 --> 07319.92] es cuando yo tengo un proceso
+[07319.92 --> 07323.35] reconocido
+[07323.35 --> 07326.69] por el caramel
+[07326.69 --> 07329.57] pero el thread
+[07329.57 --> 07332.03] no
+[07332.03 --> 07333.87] o sea si el proceso es
+[07333.87 --> 07337.03] reconocido por el caramel
+[07337.03 --> 07338.83] sí
+[07338.83 --> 07341.51] y el 3 no
+[07341.51 --> 07344.11] el tiempo se le asigna el proceso
+[07344.11 --> 07349.92] y eso tiene que ser dividido entre los threads que tiene a dentro
+[07349.92 --> 07352.08] y la otra opción
+[07352.08 --> 07356.00] es que cada thread tenga un delta de tiempo
+[07356.00 --> 07357.84] asignado
+[07357.84 --> 07360.20] por el caramel
+[07360.20 --> 07361.40] o sea que
+[07361.40 --> 07365.77] el caramel reconoce el asred
+[07365.77 --> 07368.93] si el caramel reconoce el asred
+[07368.93 --> 07374.13] es como una administración simple se en silla de procesos
+[07374.13 --> 07377.45] la implementación que utilizó
+[07377.45 --> 07379.85] el inustolver
+[07379.93 --> 07381.13] es
+[07381.13 --> 07382.77] algo similar a esta
+[07382.77 --> 07383.81] dijo
+[07383.81 --> 07387.13] el caramel lo tiene que reconocer el thread
+[07387.13 --> 07389.49] no voy a hacer dos esqué de un lingo
+[07389.49 --> 07392.17] porque eso recargar
+[07392.17 --> 07394.57] digamos
+[07394.57 --> 07396.65] el algoritmo de esa elección
+[07396.65 --> 07399.17] de mi sistema operativo
+[07399.17 --> 07401.61] y lo que hizo fue
+[07401.61 --> 07403.05] pensar al o3
+[07403.05 --> 07406.53] como si fuera un proceso
+[07406.53 --> 07409.53] cada 3 es un proceso
+[07409.53 --> 07413.83] nosotros fíjimos que los procesos
+[07413.83 --> 07416.31] tenían
+[07416.31 --> 07420.21] asociado
+[07420.21 --> 07425.41] memoria
+[07425.41 --> 07430.71] si un proceso tiene asociado a memoria
+[07430.71 --> 07432.47] dos procesos
+[07432.47 --> 07436.11] pueden tener asociado a la misma memoria
+[07436.11 --> 07438.35] y estaríamos en el modelo de este
+[07438.35 --> 07440.03] como que
+[07440.03 --> 07441.75] la memoria
+[07441.75 --> 07445.39] mantiene a los dos procesos a dentro
+[07445.39 --> 07447.35] cada proceso con un 3
+[07447.35 --> 07449.07] por lo tanto lo que se lo
+[07449.07 --> 07450.91] va a hacer
+[07450.91 --> 07452.35] desde otro punto de vista
+[07452.35 --> 07458.83] estén en dos 3 dentro de un proceso
+[07458.83 --> 07463.30] ahora eso
+[07463.30 --> 07466.51] está bien implementado
+[07466.51 --> 07467.31] sí
+[07467.31 --> 07470.15] nadie dijo que un
+[07470.15 --> 07471.35] thread
+[07471.35 --> 07472.67] tiene que ser
+[07472.67 --> 07475.07] solo registro si está
+[07475.07 --> 07477.55] y que no puede tener
+[07477.55 --> 07478.67] una memoria asociada
+[07478.67 --> 07481.07] porque realmente tiene una memoria asociada
+[07481.07 --> 07483.79] la más que la memoria se la piensa
+[07483.79 --> 07488.39] como que está asociada
+[07488.39 --> 07490.71] un proceso
+[07490.71 --> 07491.99] bien pensó
+[07491.99 --> 07494.03] no tiene mucho
+[07494.03 --> 07507.40] mucho problema
+[07507.40 --> 07513.88] estoy tratando de activar el
+[07513.88 --> 07528.35] el mit
+[07528.35 --> 07532.27] a ver si me deja
+[07532.27 --> 07533.95] si alguien me da lo que
+[07533.95 --> 07536.07] y si alguien tiene la opción de dormir lo que
+[07536.07 --> 07537.27] para entrar
+[07537.27 --> 07538.83] si no
+[07538.83 --> 07544.54] me quedaría fuera
+[07544.54 --> 07546.30] a ver si
+[07546.50 --> 07564.08] sur que en alguno
+[07564.08 --> 07565.60] bueno
+[07565.60 --> 07591.06] me quedó ahí
+[07591.06 --> 07592.50] bueno no me dejaba volver a
+[07592.50 --> 07593.62] al mit
+[07593.62 --> 07595.02] con la computadora
+[07595.02 --> 07596.66] bueno lo que vamos a hacer
+[07596.66 --> 07598.62] si les parece es
+[07598.62 --> 07602.66] redondiar el tema sí por
+[07602.66 --> 07605.30] por acá
+[07605.30 --> 07607.90] y cerramos
+[07607.90 --> 07610.54] y dejó para la instalación para la
+[07610.54 --> 07611.30] próxima
+[07611.30 --> 07613.10] para la próxima clase
+[07613.10 --> 07613.82] bueno
+[07613.82 --> 07615.02] entonces
+[07615.02 --> 07617.18] los reddigimos que
+[07617.18 --> 07618.14] tienen que tener una
+[07618.14 --> 07618.98] en el que de vin ha
+[07618.98 --> 07621.18] separado del proceso o
+[07621.18 --> 07623.42] pueden tener
+[07623.42 --> 07625.26] una implementación
+[07625.26 --> 07626.46] que utilice el esquema de
+[07626.46 --> 07627.66] el proceso
+[07627.66 --> 07629.98] haciendo que cada proceso
+[07629.98 --> 07631.74] o que cada la strele sea un proceso
+[07631.74 --> 07632.58] y que
+[07632.58 --> 07634.06] esos procesos
+[07634.06 --> 07635.74] compartan la memoria
+[07635.74 --> 07638.86] esa la implementación que hizo
+[07638.86 --> 07639.90] Linux
+[07639.90 --> 07644.14] y es la que estaba o implementado
+[07644.14 --> 07645.86] entonces
+[07645.86 --> 07648.14] si yo voy a la implementación
+[07648.14 --> 07649.00] de dos es que de
+[07649.00 --> 07649.54] Linux
+[07649.54 --> 07651.34] complico mucho el algoritmo de
+[07651.34 --> 07651.94] selección
+[07651.94 --> 07653.38] es más voy a tardar más tiempo
+[07653.38 --> 07655.38] está en esta seleccionando
+[07655.38 --> 07656.74] porque yo no solo tengo que
+[07656.74 --> 07658.14] seleccionar el proceso
+[07658.14 --> 07659.58] sino que después tengo que seleccionar
+[07659.58 --> 07661.18] el proceso que está dentro
+[07661.18 --> 07662.18] es implementación de
+[07662.18 --> 07664.38] doble nivel lo hizo
+[07664.38 --> 07665.70] o le implementó
+[07665.70 --> 07666.34] solar
+[07666.34 --> 07668.94] que era un sistema operativo
+[07668.94 --> 07670.06] para las máquinas
+[07670.06 --> 07670.82] san
+[07670.82 --> 07673.02] y era propietario
+[07673.02 --> 07675.02] que era un derivado de Linux
+[07675.02 --> 07675.98] va de Linux
+[07675.98 --> 07677.98] para los no de Linux
+[07677.98 --> 07679.02] y bueno
+[07679.02 --> 07682.06] es implementar un 3 a ese nivel
+[07682.06 --> 07684.06] voy a borrar
+[07684.06 --> 07686.46] y así sigo explicando
+[07686.46 --> 07692.35] esa vía
+[07692.35 --> 07693.31] el proceso
+[07693.31 --> 07694.55] o sea teniendo dos
+[07694.55 --> 07695.07] no sé qué de
+[07695.07 --> 07696.03] Linux
+[07696.03 --> 07696.83] lo que
+[07696.83 --> 07697.95] implementó
+[07697.95 --> 07699.39] la gente de
+[07699.39 --> 07700.35] de san
+[07700.35 --> 07702.99] fue lo de el llamaban
+[07702.99 --> 07704.91] el
+[07704.91 --> 07706.47] doble p
+[07706.47 --> 07707.35] la y wait
+[07707.35 --> 07707.99] por lo que
+[07707.99 --> 07708.71] o sea proceso
+[07708.71 --> 07709.83] lluvianos
+[07709.83 --> 07710.67] que era una
+[07710.67 --> 07712.79] el doble p
+[07712.79 --> 07714.59] básicamente lo que tenía era
+[07714.59 --> 07716.51] asociado
+[07716.51 --> 07718.55] en el cantidad de
+[07718.55 --> 07719.43] threads
+[07719.43 --> 07721.75] a nivel de usuario
+[07721.75 --> 07726.08] si estos son threads
+[07726.08 --> 07729.40] usuario
+[07729.40 --> 07731.08] y tenía threads
+[07731.08 --> 07732.24] reconocidos por el
+[07732.24 --> 07736.08] carne
+[07736.08 --> 07736.96] bien
+[07736.96 --> 07737.72] estos son
+[07737.72 --> 07740.04] threads
+[07740.04 --> 07742.64] de carne
+[07742.64 --> 07744.20] y lo que hacía
+[07744.20 --> 07746.60] el sistema operativo
+[07746.60 --> 07747.40] era
+[07747.40 --> 07748.24] hacer un esquero
+[07748.24 --> 07748.96] insobre
+[07748.96 --> 07753.29] estos
+[07753.29 --> 07754.57] quedadamente
+[07754.57 --> 07757.57] sería el nivel de procesos
+[07757.57 --> 07758.41] y adentro
+[07758.41 --> 07759.81] este el doble p
+[07759.81 --> 07761.21] que es el laguil proces
+[07761.21 --> 07763.81] lo que hacía era distribuir
+[07763.81 --> 07766.37] el segundo nivel de esquero
+[07766.37 --> 07767.25] entonces
+[07767.25 --> 07768.45] estos
+[07768.45 --> 07769.81] eran los threads
+[07769.81 --> 07771.05] que nosotros teníamos
+[07771.05 --> 07773.61] entonces encuentran los dos niveles
+[07773.61 --> 07775.93] y este nivel de el doble p
+[07775.93 --> 07778.61] lo que tenía de interesante era
+[07778.61 --> 07781.81] que yo le podía estar asignando
+[07781.81 --> 07784.57] más de un thread de carne
+[07784.57 --> 07786.17] si
+[07786.17 --> 07787.17] y
+[07787.17 --> 07788.81] el doble p podía decir
+[07788.81 --> 07790.61] este thread de carne
+[07790.61 --> 07791.77] está asociado con este
+[07791.77 --> 07793.45] thread de usuario
+[07793.45 --> 07794.81] entonces
+[07794.81 --> 07796.73] podía estar
+[07796.73 --> 07797.85] haciendo
+[07797.85 --> 07799.77] por ejemplo si yo tenía esta
+[07799.77 --> 07804.81] esta forma de
+[07804.81 --> 07806.61] de asociación
+[07806.61 --> 07806.93] lo que
+[07806.93 --> 07808.33] estaríamos
+[07808.33 --> 07809.85] teniendo los residentes
+[07809.85 --> 07811.05] este thread
+[07811.05 --> 07811.57] de
+[07811.57 --> 07813.73] de usuario de este proceso
+[07813.73 --> 07815.13] e
+[07815.13 --> 07815.57] lo que
+[07815.57 --> 07817.29] estaría haciendo es
+[07817.29 --> 07818.17] tener asociado un
+[07818.17 --> 07819.25] thread de el
+[07819.25 --> 07819.81] carne
+[07819.81 --> 07820.61] y trabajar
+[07820.61 --> 07821.69] si o si con ese
+[07821.69 --> 07823.21] thread
+[07823.21 --> 07824.89] y estos dos procesos
+[07824.89 --> 07825.69] compartir el
+[07825.69 --> 07826.49] thread de carne
+[07826.49 --> 07827.29] por lo tanto
+[07827.29 --> 07828.73] cuando le toque el tiempo
+[07828.73 --> 07828.97] a este
+[07828.97 --> 07830.97] thread
+[07830.97 --> 07832.17] y ese tiempo
+[07832.17 --> 07833.29] lo iba a estar dividiendo
+[07833.29 --> 07834.29] como habíamos visto
+[07834.29 --> 07836.29] en un principio
+[07836.29 --> 07837.49] y va a darle un tiempo
+[07837.49 --> 07840.29] a uno y un tiempo a otro
+[07840.29 --> 07841.29] ahora como hago yo
+[07841.29 --> 07842.45] para implementar esa
+[07842.45 --> 07843.09] división
+[07843.09 --> 07844.01] debido a que el
+[07844.01 --> 07844.73] carne no me está
+[07844.73 --> 07845.29] ayudando
+[07845.29 --> 07846.13] porque esto está
+[07846.13 --> 07847.89] a nivel de usuario
+[07847.89 --> 07848.21] bueno
+[07848.21 --> 07850.77] eso es lo que
+[07850.77 --> 07852.73] se conoce
+[07852.73 --> 07853.89] la implementación
+[07853.89 --> 07855.41] de una
+[07855.41 --> 07858.77] librería
+[07858.77 --> 07860.69] es una librería
+[07860.69 --> 07862.25] de threads
+[07862.25 --> 07862.93] que
+[07862.93 --> 07864.93] lo que va a hacer es
+[07864.93 --> 07866.09] permitir crear esos
+[07866.09 --> 07868.53] threads
+[07868.53 --> 07869.73] y asociarlos
+[07869.73 --> 07873.55] o no a un thread de carne
+[07873.55 --> 07874.51] esa librería
+[07874.51 --> 07875.39] tenía que ser
+[07875.39 --> 07878.27] y lo suficientemente inteligente
+[07878.27 --> 07880.31] como para repartir su tiempo
+[07880.31 --> 07881.99] entre un thread y otro
+[07881.99 --> 07883.43] y que cuando se corte
+[07883.43 --> 07886.87] el tiempo que le dio al proceso
+[07886.87 --> 07887.35] tendría de hacer
+[07887.35 --> 07890.39] capaz de
+[07890.39 --> 07891.43] volver
+[07891.43 --> 07893.19] cuando le vuelve a tocar el proceso
+[07893.19 --> 07894.75] y elegir al otro
+[07894.75 --> 07895.95] un thread
+[07895.95 --> 07896.59] o sea
+[07896.59 --> 07899.87] tenemos un pequeño problema
+[07899.87 --> 07901.19] que si
+[07901.19 --> 07902.47] yo dejo como
+[07902.47 --> 07905.47] teníamos los procesos actualmente
+[07905.47 --> 07906.67] cuando se cortaba
+[07906.67 --> 07909.67] el tiempo del proceso
+[07909.67 --> 07911.99] sucedía de que
+[07911.99 --> 07912.87] se le guardaba
+[07912.87 --> 07915.39] todo el entorno de ese proceso
+[07915.39 --> 07916.67] y cuando volvió
+[07916.67 --> 07917.55] se dejaba correr
+[07917.55 --> 07918.19] el mismo
+[07918.19 --> 07920.31] desde donde se había cortado
+[07920.31 --> 07921.27] ahora si
+[07921.27 --> 07922.39] eso
+[07922.39 --> 07923.31] el corte ocurre
+[07923.31 --> 07925.19] cuando este estativo
+[07925.19 --> 07926.03] cuando vuelva
+[07926.03 --> 07926.75] ese estrés
+[07926.75 --> 07928.67] va volver a ser activo
+[07928.67 --> 07929.99] y va a ser el único que corre
+[07929.99 --> 07932.43] y ninguna vez va a correr el otro
+[07932.43 --> 07934.71] bueno, a eso donde
+[07934.71 --> 07936.51] la librería a nivel de usuario
+[07936.51 --> 07939.51] tienen que ser lo suficientemente inteligente
+[07939.51 --> 07941.51] para hacer que corra
+[07941.51 --> 07943.55] un rató uno y un ratólo
+[07943.55 --> 07944.55] bien
+[07944.55 --> 07946.59] eso se logra con esa librería
+[07946.59 --> 07949.27] y la implementación de esa librería
+[07949.27 --> 07951.11] no es nada trivial
+[07951.11 --> 07952.71] más que
+[07952.71 --> 07954.11] tiene que permitir
+[07954.11 --> 07955.15] esa librería
+[07955.15 --> 07957.31] trabajar con
+[07957.31 --> 07959.31] el tema de la exclusión muta
+[07959.31 --> 07960.55] dado que
+[07960.55 --> 07961.75] los dos procesos
+[07961.75 --> 07962.47] los dos threads
+[07962.47 --> 07963.67] compartan memoria
+[07963.67 --> 07964.79] y a compartir memoria
+[07964.79 --> 07967.19] tienen que estar trabajando
+[07967.19 --> 07968.51] sin cronizado
+[07968.51 --> 07970.15] y si van a una zona crítica
+[07970.15 --> 07971.79] tienen que tener la posibilidad
+[07971.79 --> 07973.47] de decir no
+[07973.47 --> 07975.07] no entreta la zona crítica
+[07975.07 --> 07977.07] o si siempre te toca la zona crítica
+[07977.07 --> 07978.07] bien
+[07978.07 --> 07978.87] entonces
+[07978.87 --> 07983.07] eso es lo que tenemos que tener en cuenta
+[07983.07 --> 07985.67] la librería
+[07985.67 --> 07986.87] es
+[07986.87 --> 07988.87] bastante difícil de implementar
+[07988.87 --> 07990.27] razón por la cual
+[07990.27 --> 07993.07] Linux trabaja con una librería
+[07993.07 --> 07994.07] también arriba
+[07994.07 --> 07994.59] porque
+[07994.59 --> 07996.99] los
+[07996.99 --> 08000.27] los threads tienen que estar comunicándose
+[08000.27 --> 08001.27] bien
+[08001.27 --> 08002.33] y si yo quiero que un
+[08002.33 --> 08003.43] thread
+[08003.43 --> 08006.43] le impida el acceso a otro thread
+[08006.43 --> 08007.27] no podamos usar los
+[08007.27 --> 08007.67] de más
+[08007.67 --> 08008.67] por qué el se más
+[08008.67 --> 08009.43] fuera
+[08009.43 --> 08011.43] es a nivel de
+[08011.43 --> 08012.91] proceso
+[08012.91 --> 08013.67] entonces cuando yo
+[08013.67 --> 08014.55] pongo
+[08014.55 --> 08015.71] un wait
+[08015.71 --> 08017.31] pongo el wait a todo el proceso
+[08017.31 --> 08018.71] y no el thread
+[08018.71 --> 08020.71] entonces esa librería
+[08020.71 --> 08022.59] tienen que permitir hacer
+[08022.59 --> 08025.27] esa sincronización entre el thread
+[08025.27 --> 08027.03] la librería que
+[08027.03 --> 08029.63] tomó Linux para trabajar con esto
+[08029.63 --> 08030.03] se llama
+[08030.03 --> 08036.57] pithread
+[08036.57 --> 08038.41] y pithread
+[08038.41 --> 08041.41] se implementa
+[08041.41 --> 08043.53] sobre lo que Linux dijo
+[08043.53 --> 08045.53] sobre procesos
+[08045.53 --> 08048.33] o sea que
+[08048.33 --> 08050.21] la librería pithread
+[08050.21 --> 08052.89] tiene que trabajar con procesos
+[08052.89 --> 08056.33] que comparten la misma memoria
+[08056.33 --> 08058.17] entonces
+[08058.17 --> 08061.13] la implementación de pithread
+[08061.13 --> 08062.33] se puede hacer en distintos
+[08062.33 --> 08063.37] sistemas operativos
+[08063.37 --> 08064.41] pithread se llama
+[08064.41 --> 08065.05] pithread
+[08065.05 --> 08067.57] pothread
+[08067.57 --> 08068.65] pothread
+[08068.65 --> 08069.81] y
+[08069.81 --> 08071.25] pithread
+[08071.25 --> 08072.45] y pothread
+[08072.45 --> 08073.57] es una norma
+[08073.57 --> 08075.61] que si un sistema operativo
+[08075.61 --> 08077.41] cumple con esa norma
+[08077.41 --> 08079.17] se dice que es un sistema que respeta
+[08079.17 --> 08080.73] en una posibilidad de hacer
+[08080.73 --> 08083.73] y permite hacer determinadas cosas
+[08083.73 --> 08086.73] si todos los sistemas lograran
+[08086.73 --> 08088.45] hacer que sean
+[08088.45 --> 08089.57] tipo posics
+[08089.57 --> 08092.21] se podría estar haciendo un programa
+[08092.21 --> 08095.01] y ejecutarlo en cualquier plataforma
+[08095.01 --> 08096.77] se hace en Windows o Linux
+[08096.77 --> 08097.65] o en Mac
+[08097.65 --> 08098.61] si todos
+[08098.61 --> 08101.17] trabajarían con posics
+[08101.17 --> 08102.45] eh
+[08102.45 --> 08105.40] así que bueno
+[08105.40 --> 08107.16] lo que quiero que le quede
+[08107.16 --> 08110.20] en claro es que la parte de los threads
+[08110.20 --> 08111.56] tenemos a tipo de thread
+[08111.56 --> 08113.60] thread que se reconoce en por el carmel
+[08113.60 --> 08116.00] y se hace es ir al Esquede de la Inde Carmel
+[08116.00 --> 08118.40] y thread que se reconoce en por el usuario
+[08118.40 --> 08121.48] y se hace un Esquede de la Inde thread de usuario
+[08121.48 --> 08122.20] bien
+[08122.20 --> 08126.04] el Esquede de la Inde de la Inde de usuario
+[08126.04 --> 08130.24] es bastante complejo y se lo logran mediante una librería
+[08130.24 --> 08134.24] y que tiene que tener implementado no solo
+[08134.24 --> 08135.56] el Esquede de la Inde de Sozre
+[08135.56 --> 08138.32] sino también tiene que dar implementado las
+[08138.32 --> 08142.12] No, no sería el tema afornacional, lo que se serían,
+[08142.12 --> 08144.28] varias le de condición,
+[08146.28 --> 08149.08] digamos, exclusión mutua,
+[08150.36 --> 08155.68] que las variables de condición vienen a ser los semaforos, pero para friends.
+[08157.04 --> 08161.88] Que cuando un ser invoca una llamada,
+[08161.88 --> 08166.40] así que tenemos perativo, a nivel de proceso, bloquear todo el proceso.
+[08166.40 --> 08173.52] Entonces, lo que tienen que hacer es trabajar con llamadas a funciones de la librería de Fred,
+[08173.52 --> 08175.28] para synchronizarse entre ellos.
+[08176.80 --> 08181.32] También hay algo muy interesante sobre la librería de Fred,
+[08181.32 --> 08189.36] es que como maneja el espacio o lo que les falta por ejecutar,
+[08189.36 --> 08190.00] ¿Sí?
+[08190.00 --> 08194.60] Como distribuye el tiempo que se les inaltro en el proceso entre los Fred.
+[08194.84 --> 08200.80] Y algo muy interesante es que pasa cuando se le termina el cuanto en el proceso,
+[08200.80 --> 08204.00] y quedó apuntando uno de los friends,
+[08204.00 --> 08212.52] eso puede pasar cuando vuelve, sí, es el 3% y nunca más acceden al esquédulo de la 3%.
+[08212.52 --> 08213.96] Bueno, esas son consultas,
+[08213.96 --> 08218.36] preguntas que después lo vamos a ir viendo en la parte de los ejercicios,
+[08218.36 --> 08221.52] cuando surjan sus preguntas.
+[08221.72 --> 08230.44] Bueno, lamentablemente hoy fue una clase bastante complicada,
+[08230.44 --> 08233.64] así que lo que voy a hacer voy a sacar esto.
+[08233.64 --> 08238.32] Por hoy no vamos a seguir los dejo acá,
+[08238.32 --> 08245.07] vamos a cambiar la pantalla,
+[08245.07 --> 08253.80] así que bueno,
+[08253.80 --> 08258.64] vamos a ver los teman de los chat,
+[08258.64 --> 08260.88] bien, bien, bueno, el edud de peso,
+[08260.88 --> 08267.88] las lagues proces, sí, es algo que se implementan en solaris o sí,
+[08267.88 --> 08273.88] sin momento, en solaris para trabajar con los 3 de la nivel de usuarios, sí.
+[08273.88 --> 08277.68] El estudo de la investigación de prioridades de los 3,
+[08277.68 --> 08279.68] sí, no solamente en los 3 de prioridades,
+[08279.68 --> 08283.48] sino a compartir el tiempo del procesador entre estrets,
+[08283.48 --> 08287.08] o sea, si los 3 son reconocidos por el sistema operativo,
+[08287.08 --> 08290.88] el sistema operativo le hacía una cada 3, un delta de tiempo.
+[08290.88 --> 08293.48] Si no son reconocidos por el sistema operativo,
+[08293.48 --> 08296.88] el sistema operativo lo que hace es la cina cada proceso,
+[08296.88 --> 08298.48] un delta de tiempo.
+[08298.48 --> 08302.28] Y adentro la librería tiene que separar ese delta de tiempo,
+[08302.28 --> 08305.28] que le dio el proceso entre sus 3,
+[08305.28 --> 08308.08] y hacer que todos los 3 trabajen.
+[08308.08 --> 08309.68] Adentro de esos 3, como anadigio,
+[08309.68 --> 08314.88] la librería tiene que darle el soporte para trabajar y bloquearse,
+[08314.88 --> 08319.28] y tener una región crítica y manejar todo eso.
+[08319.28 --> 08323.88] A nivel de procesos, sabimos que están los semáforos,
+[08323.88 --> 08326.08] a nivel de procesos y así son los semáforos.
+[08326.08 --> 08328.88] Pero a nivel de 3, si yo llamo a una,
+[08328.88 --> 08335.53] a una existen col de semáforos, bloquea todo el proceso.
+[08335.53 --> 08342.13] El caso particular de Linux, lo que dijimos es que utiliza para no crear otro
+[08342.13 --> 08346.13] es que el nivel de 3 utiliza el es que el problema de procesos.
+[08346.13 --> 08348.13] Y que es lo que hizo.
+[08348.13 --> 08354.13] Todos los procesos que comparten la memoria son 3,
+[08354.13 --> 08361.13] así que si ustedes ven un proceso y apunta a una estructura de memoria,
+[08361.13 --> 08363.13] que es igual a otro proceso,
+[08363.13 --> 08366.13] también apunta esa misma estructura,
+[08366.13 --> 08377.99] y todo son 3 de ese son 3 que comparten la memoria.
+[08377.99 --> 08380.99] Bueno, joven, no tengo nada más.
+[08380.99 --> 08382.99] Voy a ver cómo jalucionar el tema esto,
+[08382.99 --> 08386.99] para que no creer el virtual box,
+[08386.99 --> 08388.99] es realmente la primera vez que me pasa,
+[08388.99 --> 08393.99] pero con esto de las 40 en estuve instalando software,
+[08393.99 --> 08399.99] que no era muy santo que llevamos
+[08399.99 --> 08401.99] para completar determinadas cosas.
+[08401.99 --> 08405.99] Y bueno, a partir de ahí puede ser que ven en la toda este problema.
+[08405.99 --> 08409.99] Así que bueno, nos mandaremos en contacto.
+[08409.99 --> 08413.99] La próxima te la hace, es el lunes,
+[08413.99 --> 08418.99] sobre el Linux,
+[08418.99 --> 08420.99] la instalación de Linux, bueno,
+[08420.99 --> 08423.99] es a partir de ahí de donde los DG
+[08423.99 --> 08426.99] es un siguiente, siguiente, estuve llegar al final.
+[08426.99 --> 08430.99] Así que por favor intenten instalarlo
+[08430.99 --> 08432.99] y el lunes cualquier cosa en el consulta,
+[08432.99 --> 08436.99] voy a tratar de tener esto funcionando para el lunes
+[08436.99 --> 08438.99] y si no funcionan esta máquina,
+[08438.99 --> 08439.99] trotere buscar otra,
+[08439.99 --> 08444.99] así que veo que solucion le voy a dar.
+[08444.99 --> 08447.99] No, no tengo más,
+[08447.99 --> 08453.99] no vemos el lunes a las 6,4,
+[08453.99 --> 08459.35] como si no es empezaba.
+[08459.35 --> 08461.35] Bueno, vinda y feliz de pa' qua.
