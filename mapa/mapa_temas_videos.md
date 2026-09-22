@@ -4,7 +4,7 @@
 >
 > Regla de uso: no completar silenciosamente con conocimiento general ni con PDFs. Los PDFs se relacionan solo cuando la clase/transcripcion los menciona o cuando ya este verificado el tema en video.
 >
-> Contexto general de la boveda y Drive historico: [[contexto_fuentes_caso]].
+> Contexto general de la boveda y Drive historico: contexto_fuentes_caso.
 
 ## Fuente
 

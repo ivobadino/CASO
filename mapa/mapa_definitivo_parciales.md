@@ -1,6 +1,6 @@
 # Mapa definitivo de temas por parcial
 
-> Fuente base: [[contexto_fuentes_caso]] y [[mapa_temas_videos]].
+> Fuente base: contexto_fuentes_caso y mapa_temas_videos.
 >
 > Criterio: este mapa consolida lo que aparece repetidamente en videos transcritos, practicas locales, PDFs/presentaciones y carpetas historicas de parciales del Drive. Cuando un tema aparece en algunos anios dentro de otro parcial, queda marcado como zona de solapamiento.
 >
@@ -536,7 +536,7 @@ Fuentes principales:
 
 ### Fuentes principales para estudiar Primer Parcial
 
-- [[mapa_temas_videos]]
+- mapa_temas_videos
 - `transcripciones/clase01.txt`
 - `transcripciones/clase02.txt`
 - `transcripciones/clase03.txt`
@@ -561,7 +561,7 @@ Fuentes principales:
 
 ### Fuentes principales para estudiar Segundo Parcial
 
-- [[contexto_fuentes_caso]]
+- contexto_fuentes_caso
 - `transcripciones/clase08.txt`
 - `transcripciones/clase27.txt`
 - `pdfs/practicas/Practicas-3-U.pdf`

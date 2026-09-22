@@ -1,3 +1,12 @@
+# 1-0-Administración del procesador
+
+Decide qué proceso usa la CPU, cuándo y durante cuánto tiempo.
+
+Empezar por [[Administración del procesador/2-0-Concepto de proceso|Concepto de proceso]]. Relacionar con memoria y periféricos. Volver a [[CASO]].
+
+Base y temas para seguir: Procesador en el mapa local (mapa/mapa_definitivo_parciales#2. Administracion del Procesador).
+
+## Apuntes previos
 
 La administracion del procesdor es la parte del sistema operativo que decide que proceso usa la CPU, cuando la usa y por cuanto tiempo.
 
@@ -21,33 +30,33 @@ Una respuesta de parcial podría ser:
 
 ---
 TEMAS:
-- [[Concepto de proceso]].
-- [[Programa vs proceso]].
-- Carga de un programa en memoria.
-- Recursos asociados a un proceso.
-- Bloque de Control de Proceso:
+- [[Administración del procesador/2-0-Concepto de proceso|Concepto de proceso]].
+- [[Administración del procesador/2-0-Concepto de proceso|Programa vs proceso]].
+- [[Administración del procesador/3-0-Carga de un programa en memoria|Carga de un programa en memoria]].
+- [[Administración del procesador/4-0-Recursos asociados a un proceso|Recursos asociados a un proceso]].
+- [[Administración del procesador/5-0-Bloque de Control de Proceso|Bloque de Control de Proceso]]:
   - BCP / PCB;
   - informacion del proceso;
   - registros;
   - estado;
   - recursos asociados.
-- Estados de proceso:
+- [[Administración del procesador/6-0-Estados de proceso|Estados de proceso]]:
   - comenzar / nuevo;
   - listo;
   - ejecutando;
   - bloqueado / espera;
   - terminado.
-- Diagrama de transicion de estados.
-- Eventos que provocan transiciones.
-- Interrupciones y rutinas de atencion.
-- Planificador de procesos.
-- Cola de listos.
-- Colas de bloqueados por recurso.
-- Cambio de contexto.
-- Idle / proceso ocioso.
-- Multiprogramacion.
-- Simultaneidad y paralelismo.
-- Administraciones de procesador:
+- [[Administración del procesador/6-6-Diagrama de transición de estados|Diagrama de transicion de estados]].
+- [[Administración del procesador/6-7-Eventos que provocan transiciones|Eventos que provocan transiciones]].
+- [[Administración del procesador/7-0-Interrupciones y rutinas de atención|Interrupciones y rutinas de atencion]].
+- [[Administración del procesador/8-0-Planificador de procesos|Planificador de procesos]].
+- [[Administración del procesador/8-1-Cola de listos|Cola de listos]].
+- [[Administración del procesador/8-2-Colas de bloqueados por recurso|Colas de bloqueados por recurso]].
+- [[Administración del procesador/9-0-Cambio de contexto|Cambio de contexto]].
+- [[Administración del procesador/10-0-Idle - proceso ocioso|Idle / proceso ocioso]].
+- [[Administración del procesador/11-0-Multiprogramación|Multiprogramacion]].
+- [[Administración del procesador/12-0-Simultaneidad y paralelismo|Simultaneidad y paralelismo]].
+- [[Administración del procesador/13-0-Políticas de planificación del procesador|Administraciones de procesador]]:
   - FIFO / FCFS;
   - Round Robin;
   - quantum;
@@ -56,7 +65,7 @@ TEMAS:
   - multicolas;
   - prioridades;
   - procesos interactivos vs batch.
-- Ejercicios de cronograma:
+- [[Administración del procesador/14-0-Ejercicios de cronograma|Ejercicios de cronograma]]:
   - CPU;
   - E/S;
   - disco/cinta;

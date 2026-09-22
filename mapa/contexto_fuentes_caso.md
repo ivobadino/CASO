@@ -2,7 +2,9 @@
 
 Esta nota funciona como indice vivo de la boveda para estudiar CASO. La idea es que, de ahora en mas, cualquier explicacion, desarrollo de tema, resumen, mapa conceptual o guia de estudio salga primero de estas fuentes locales y del Drive de la materia.
 
-Mapa consolidado por evaluacion: [[mapa_definitivo_parciales]].
+Mapa consolidado por evaluacion: mapa_definitivo_parciales.
+
+Mapa basado solo en presentaciones de profesores: mapa_temas_presentaciones.
 
 ## Regla de trabajo
 
@@ -452,15 +454,40 @@ Carpetas locales:
 - `pdfs/presentaciones/`
 - `pdfs/practicas/`
 - `pdfs/drive_historico/`
+- `src/pdfs/presentaciones/`
 
 Uso sugerido:
 
 - Antes de responder sobre arquitectura, revisar `pdfs/arquitecturas/`.
 - Antes de responder sobre sistemas operativos, revisar `pdfs/sitemas operativos/` y las presentaciones.
+- Para estudiar exclusivamente desde material de profesores en diapositivas, revisar `src/pdfs/presentaciones/` y el mapa `mapa/mapa_temas_presentaciones.md`.
 - Antes de responder sobre temas distribuidos, revisar `pdfs/SO distribuidos/`.
 - Antes de resolver ejercicios practicos, revisar `pdfs/practicas/`.
 - Usar `pdfs/drive_historico/` como carpeta destino para archivos descargados/exportados desde el Drive historico.
 - Si hay solapamiento entre local y Drive, priorizar el material local ya descargado y complementar con Drive.
+
+#### Presentaciones de profesores
+
+Fuentes locales:
+
+- `src/pdfs/presentaciones/intro SO.pdf`
+- `src/pdfs/presentaciones/admin del procesador.pdf`
+- `src/pdfs/presentaciones/threads.pdf`
+- `src/pdfs/presentaciones/semaforos.pdf`
+- `src/pdfs/presentaciones/admin de memoria.pdf`
+- `src/pdfs/presentaciones/admin de la info.pdf`
+- `src/pdfs/presentaciones/arquitecturas01.pdf`
+- `src/pdfs/presentaciones/arquitecturas02.pdf`
+- `src/pdfs/presentaciones/arquitecturas03.pdf`
+
+Mapa especifico:
+
+- `mapa/mapa_temas_presentaciones.md`
+
+Notas de uso:
+
+- Este bloque sirve cuando se quiera estudiar solo desde diapositivas dadas por profesores, sin mezclar videos, practicas, capitulos ni Drive historico.
+- Temas cubiertos: introduccion a sistemas operativos, arquitectura/paralelismo, administracion del procesador, threads, semaforos, administracion de memoria y administracion de la informacion/file system.
 
 #### Practicas locales agregadas
 
